@@ -1,6 +1,6 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Swansea_City_AFC_-_2023.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
     "name1": "Swansea City",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
     "name2": "Luton Town",
@@ -30,7 +30,7 @@
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Rio_Ave_FC.svg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1701px-Rio_Ave_FC.svg.png",
     "name1": "Rio Ave",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
     "name2": "Nacional da Madeira",
@@ -42,7 +42,7 @@
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/SC_Farense_logo.png/130px-SC_Farense_logo.png",
     "name1": "Farense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/VitoriaSC-1924.png/640px-VitoriaSC-1924.png",
     "name2": "Vitoria Guimaraes",
     "champ": "Portugal. Première Ligue",
     "heure": "15H30",
