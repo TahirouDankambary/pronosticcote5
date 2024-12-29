@@ -1,82 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png",
-    "name1": "Vancouver Canucks",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/af/Logo_du_Kraken_de_Seattle.png",
-    "name2": "Seattle Kraken",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "21H00",
-    "date": "28/12/2024",
-    "pro": "Total: (+4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_Bruins_Boston.svg/1200px-Logo_Bruins_Boston.svg.png",
-    "name1": "Bruins de Boston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_des_Blue_Jackets_de_Columbus_2007.svg/1200px-Logo_des_Blue_Jackets_de_Columbus_2007.svg.png",
-    "name2": "Blue Jackets de Columbus",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_Swansea_City_AFC_-_2023.svg",
+    "name1": "Swansea City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
+    "name2": "Luton Town",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
     "date": "29/12/2024",
-    "pro": "Total: (+5)"
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/0/07/Carolina_Hurricanes_Logo.svg/2560px-Carolina_Hurricanes_Logo.svg.png",
-    "name1": "Carolina Hurricanes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/1200px-New_Jersey_Devils_logo.svg.png",
-    "name2": "New Jersey",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
+    "name1": "Derby County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/uk/0/05/Leeds_United_Logo.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Championship",
+    "heure": "17H45",
+    "date": "29/12/2024",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
+    "name1": "Middlesbrough",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name2": "Burnley",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
     "date": "29/12/2024",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_des_Jets_de_Winnipeg.svg/1200px-Logo_des_Jets_de_Winnipeg.svg.png",
-    "name1": "Jets de Winnipeg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Ottawa_Senators_2020-2021_logo.svg/1200px-Ottawa_Senators_2020-2021_logo.svg.png",
-    "name2": "Ottawa Senators",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Rio_Ave_FC.svg",
+    "name1": "Rio Ave",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
+    "name2": "Nacional da Madeira",
+    "champ": "Portugal. Première Ligue",
+    "heure": "15H30",
     "date": "29/12/2024",
-    "pro": "Total: (+5)"
+    "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7JX8asA0MhY2kyr9EEtfMJzQzdAils6VIOQ&s",
-    "name1": "Lightning de Tampa Bay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/New_York_Rangers_Logo.svg/1200px-New_York_Rangers_Logo.svg.png",
-    "name2": "Rangers de New York",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/SC_Farense_logo.png/130px-SC_Farense_logo.png",
+    "name1": "Farense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Portugal. Première Ligue",
+    "heure": "15H30",
     "date": "29/12/2024",
-    "pro": "Total: (+5)"
+    "pro": "Total: (+1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/3a/Logo_des_Maple_Leafs_de_Toronto_2016.png",
-    "name1": "Maple Leafs de Toronto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Washington_Capitals.svg/2560px-Washington_Capitals.svg.png",
-    "name2": "Washington Capitals",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44fiOqP15ya6t8LVcER6bYdVCO_pOnbGJqg&s",
+    "name1": "Birmingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/Blackpool_FC_logo.svg/1200px-Blackpool_FC_logo.svg.png",
+    "name2": "Blackpool",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "15H00",
     "date": "29/12/2024",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_des_Islanders_de_New_York_2017.png/800px-Logo_des_Islanders_de_New_York_2017.png",
-    "name1": "Islanders de New York",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Pittsburgh_Penguins_logo_%282016%29.svg/1200px-Pittsburgh_Penguins_logo_%282016%29.svg.png",
-    "name2": "Pittsburgh Penguins",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "00H30",
-    "date": "29/12/2024",
-    "pro": "Total: (+5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_des_Sharks_San_Jos%C3%A9_2007.svg/1200px-Logo_des_Sharks_San_Jos%C3%A9_2007.svg.png",
-    "name1": "Sharks de San José",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Calgary_Flames_logo.svg/1200px-Calgary_Flames_logo.svg.png",
-    "name2": "Calgary Flames",
-    "champ": "Hockey sur glace. LNH",
-    "heure": "03H00",
-    "date": "29/12/2024",
-    "pro": "2X"
+    "pro": "12"
   }
 ]
