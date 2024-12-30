@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
-    "name1": "Swansea City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name2": "Luton Town",
-    "champ": "Angleterre. Championship",
-    "heure": "15H00",
-    "date": "29/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
+    "name1": "Ak Bars Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Severstal_Tcherepovets.png",
+    "name2": "Severstal",
+    "champ": "Hockey. Ligue Continentale",
+    "heure": "14H00",
+    "date": "30/12/2024",
+    "pro": "Total: (+4.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name1": "Derby County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/uk/0/05/Leeds_United_Logo.png",
-    "name2": "Leeds United",
-    "champ": "Angleterre. Championship",
-    "heure": "17H45",
-    "date": "29/12/2024",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/HC_Fribourg-Gott%C3%A9ron_logo.svg/1200px-HC_Fribourg-Gott%C3%A9ron_logo.svg.png",
+    "name1": "Fribourg-Gottéron",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/HC_Davos_logo.svg/1200px-HC_Davos_logo.svg.png",
+    "name2": "Davos",
+    "champ": "Hockey. Coupe Spengler",
+    "heure": "19H15",
+    "date": "30/12/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name2": "Burnley",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "29/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
+    "name1": "Slovaquie U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_Of_Kazakhstan.svg/1200px-Flag_Of_Kazakhstan.svg.png",
+    "name2": "Kazakhstan U20",
+    "champ": "Hockey. Championnat du Monde U20",
+    "heure": "18H00",
+    "date": "30/12/2024",
+    "pro": "Total: (+7.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1701px-Rio_Ave_FC.svg.png",
-    "name1": "Rio Ave",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
-    "name2": "Nacional da Madeira",
-    "champ": "Portugal. Première Ligue",
-    "heure": "15H30",
-    "date": "29/12/2024",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-225px-Flag_of_Germany.svg.png",
+    "name1": "Allemagne U20",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png",
+    "name2": "Lettonie U20",
+    "champ": "Hockey. Championnat du Monde U20",
+    "heure": "20H30",
+    "date": "30/12/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/SC_Farense_logo.png/130px-SC_Farense_logo.png",
-    "name1": "Farense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/VitoriaSC-1924.png/640px-VitoriaSC-1924.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal. Première Ligue",
-    "heure": "15H30",
-    "date": "29/12/2024",
-    "pro": "Total: (+1.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44fiOqP15ya6t8LVcER6bYdVCO_pOnbGJqg&s",
-    "name1": "Birmingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/Blackpool_FC_logo.svg/1200px-Blackpool_FC_logo.svg.png",
-    "name2": "Blackpool",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "15H00",
-    "date": "29/12/2024",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ABC_FC_-_RN.svg/1200px-ABC_FC_-_RN.svg.png",
+    "name1": "ABC",
+    "photo2": "https://i.pinimg.com/736x/a1/67/7d/a1677dec11f77087014765ee4185135f.jpg",
+    "name2": "Auto EC",
+    "champ": "Football. Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "30/12/2024",
+    "pro": "V1"
   }
 ]
