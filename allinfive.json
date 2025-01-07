@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Ak Bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fi/9/98/Avangard_Omsk_logo.png",
-    "name2": "Avangard Omsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name1": "Kunlun Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Amur_Khabarovsk_Logo.png",
+    "name2": "Amour Khabarovsk",
     "champ": "Hockey. Ligue continentale",
     "heure": "14H00",
-    "date": "06/01/2025",
-    "pro": "Total: (+4)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name1": "Neftekhimik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Sibir_Novossibirsk_2014.png",
-    "name2": "Sibir Novosibirsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "06/01/2025",
+    "date": "07/01/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WiCaNCYEij9Q2y50-SIDHafErUImi3vSeg&s",
-    "name1": "Severstal Tcherepovets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
-    "name2": "Spartak Moscou",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name1": "Lokomotiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/800px-HC_Vityaz_Logo.svg.png",
+    "name2": "Vityaz",
     "champ": "Hockey. Ligue continentale",
     "heure": "14H00",
-    "date": "06/01/2025",
-    "pro": "Total: (+4)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/8/89/Logo_Power_Volley_Milano.png",
-    "name1": "Power Volley Milano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name2": "Monza",
-    "champ": "Volleyball. Italie Superlega",
-    "heure": "16H00",
-    "date": "06/01/2025",
+    "date": "07/01/2025",
     "pro": "V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Modena_Volley_logo.jpg",
-    "name1": "Modène",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXplMcb1KM6ZbctlXmMMo4IuVEH4ovRgF5w&s",
-    "name2": "Trentino",
-    "champ": "Volleyball. Italie Superlega",
-    "heure": "17H30",
-    "date": "06/01/2025",
-    "pro": "V2"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
-    "name1": "Gil Vicente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
-    "name2": "Rio Ave",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "06/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/OHK_Dinamo.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H00",
+    "date": "07/01/2025",
+    "pro": "Total: (+4.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSKA_Moscow_logo.svg/2038px-CSKA_Moscow_logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H10",
+    "date": "07/01/2025",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/1200px-Wycombe_Wanderers_FC_logo.svg.png",
+    "name1": "Wycombe Wanderers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/1200px-Huddersfield_Town_AFC_crest.svg.png",
+    "name2": "Huddersfield Town",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "07/01/2025",
     "pro": "12"
   }
 ]
