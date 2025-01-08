@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
-    "name1": "Kunlun Red Star",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Amur_Khabarovsk_Logo.png",
-    "name2": "Amour Khabarovsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "07/01/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Asteras_Tripolis_FC_logo.svg/2048px-Asteras_Tripolis_FC_logo.svg.png",
+    "name1": "Asteras Tripolis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/70/Panionios_FC.png",
+    "name2": "Panionios",
+    "champ": "Coupe de Grèce",
+    "heure": "16H00",
+    "date": "08/01/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name1": "Lokomotiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0a/HC_Vityaz_Logo.svg/800px-HC_Vityaz_Logo.svg.png",
-    "name2": "Vityaz",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "07/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Atromitos.png/320px-Atromitos.png",
+    "name2": "Atromitos",
+    "champ": "Coupe de Grèce",
+    "heure": "18H30",
+    "date": "08/01/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
-    "name1": "Sotchi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/OHK_Dinamo.png",
-    "name2": "Dynamo Moscou",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "07/01/2025",
-    "pro": "Total: (+4.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
-    "name1": "Dinamo Minsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSKA_Moscow_logo.svg/2038px-CSKA_Moscow_logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H10",
-    "date": "07/01/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/1200px-Wycombe_Wanderers_FC_logo.svg.png",
-    "name1": "Wycombe Wanderers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/1200px-Huddersfield_Town_AFC_crest.svg.png",
-    "name2": "Huddersfield Town",
-    "champ": "Angleterre. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1200px-S.C._Braga_logo.svg.png",
+    "name2": "Braga",
+    "champ": "Portugal. Coupe de la Ligue",
     "heure": "19H45",
-    "date": "07/01/2025",
+    "date": "08/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+    "name2": "Royale Union",
+    "champ": "Coupe de Belgique",
+    "heure": "19H45",
+    "date": "08/01/2025",
     "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Trabzonspor_Amblem.svg/1200px-Trabzonspor_Amblem.svg.png",
+    "name1": "Trabzonspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Alanyaspor_logo.svg/1200px-Alanyaspor_logo.svg.png",
+    "name2": "Alanyaspor",
+    "champ": "Coupe de Turquie",
+    "heure": "15H00",
+    "date": "08/01/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
