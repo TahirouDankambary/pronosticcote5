@@ -1,52 +1,72 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Asteras_Tripolis_FC_logo.svg/2048px-Asteras_Tripolis_FC_logo.svg.png",
-    "name1": "Asteras Tripolis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/70/Panionios_FC.png",
-    "name2": "Panionios",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Panachaiki_2022_Logo.png/150px-Panachaiki_2022_Logo.png",
+    "name1": "Panachaiki",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/OFI_FC_Logo_2020.png/185px-OFI_FC_Logo_2020.png",
+    "name2": "OFICrete",
     "champ": "Coupe de Grèce",
-    "heure": "16H00",
-    "date": "08/01/2025",
+    "heure": "15H00",
+    "date": "09/01/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Atromitos.png/320px-Atromitos.png",
-    "name2": "Atromitos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/92/PAOK_FC_logo.svg",
+    "name1": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
+    "name2": "AEK Athènes",
     "champ": "Coupe de Grèce",
-    "heure": "18H30",
-    "date": "08/01/2025",
-    "pro": "V1"
+    "heure": "17H30",
+    "date": "09/01/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1200px-S.C._Braga_logo.svg.png",
-    "name2": "Braga",
-    "champ": "Portugal. Coupe de la Ligue",
-    "heure": "19H45",
-    "date": "08/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name1": "Royal Antwerp",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
-    "name2": "Royale Union",
-    "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "08/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
+    "name1": "Avtomobilist",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/Logo_Admiral_Vladivostok_2019.png/427px-Logo_Admiral_Vladivostok_2019.png",
+    "name2": "Admiral Vladivostok",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H00",
+    "date": "09/01/2025",
     "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Trabzonspor_Amblem.svg/1200px-Trabzonspor_Amblem.svg.png",
-    "name1": "Trabzonspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Alanyaspor_logo.svg/1200px-Alanyaspor_logo.svg.png",
-    "name2": "Alanyaspor",
-    "champ": "Coupe de Turquie",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
+    "name1": "Lada Togliatti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/HK_Barys_2022.png/1200px-HK_Barys_2022.png",
+    "name2": "Barys",
+    "champ": "Hockey. Ligue continentale",
     "heure": "15H00",
-    "date": "08/01/2025",
+    "date": "09/01/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Amur_Khabarovsk_Logo.png",
+    "name2": "Amour Khabarovsk",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "09/01/2025",
+    "pro": "Total: (+4)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/AlNassr_logo.png/800px-AlNassr_logo.png",
+    "name1": "Al Nassr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Al-Okhdood_Club.svg/1200px-Al-Okhdood_Club.svg.png",
+    "name2": "Al-Okhdood",
+    "champ": "Arabie Saoudite",
+    "heure": "17H00",
+    "date": "09/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Al-Riyadh_SC.svg/1200px-Al-Riyadh_SC.svg.png",
+    "name1": "Al-Riyadh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Al-Khaleej_FC_Logo.svg/1200px-Al-Khaleej_FC_Logo.svg.png",
+    "name2": "Al-Khaleej",
+    "champ": "Arabie Saoudite",
+    "heure": "15H00",
+    "date": "09/01/2025",
     "pro": "Total: (+1.5)"
   }
 ]
