@@ -1,72 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Panachaiki_2022_Logo.png/150px-Panachaiki_2022_Logo.png",
-    "name1": "Panachaiki",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/OFI_FC_Logo_2020.png/185px-OFI_FC_Logo_2020.png",
-    "name2": "OFICrete",
-    "champ": "Coupe de Grèce",
-    "heure": "15H00",
-    "date": "09/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
-    "name1": "PAOK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
-    "name2": "AEK Athènes",
-    "champ": "Coupe de Grèce",
-    "heure": "17H30",
-    "date": "09/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
-    "name1": "Avtomobilist",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/Logo_Admiral_Vladivostok_2019.png/427px-Logo_Admiral_Vladivostok_2019.png",
-    "name2": "Admiral Vladivostok",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "09/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Hamilton_Academical_FC_logo.svg/1200px-Hamilton_Academical_FC_logo.svg.png",
+    "name1": "Hamilton Academical",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Partick_Thistle_FC_logo.svg/1200px-Partick_Thistle_FC_logo.svg.png",
+    "name2": "Partick Thistle",
+    "champ": "Écosse. Championship",
+    "heure": "19H45",
+    "date": "10/01/2025",
     "pro": "12"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
-    "name1": "Lada Togliatti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/HK_Barys_2022.png/1200px-HK_Barys_2022.png",
-    "name2": "Barys",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
+    "name1": "Neftekhimik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Salavat_Yulaev_Ufa_logo.svg/800px-Salavat_Yulaev_Ufa_logo.svg.png",
+    "name2": "Salavat Ioulaïev",
     "champ": "Hockey. Ligue continentale",
-    "heure": "15H00",
-    "date": "09/01/2025",
+    "heure": "18H00",
+    "date": "10/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Sibir_Novossibirsk_2014.png",
+    "name2": "Sibir Novosibirsk",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H10",
+    "date": "10/01/2025",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
-    "name1": "Sotchi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Amur_Khabarovsk_Logo.png",
-    "name2": "Amour Khabarovsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name1": "Kunlun Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSKA_Moscow_logo.svg/2038px-CSKA_Moscow_logo.svg.png",
+    "name2": "CSKA Moscou",
     "champ": "Hockey. Ligue continentale",
     "heure": "16H30",
-    "date": "09/01/2025",
+    "date": "10/01/2025",
     "pro": "Total: (+4)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/AlNassr_logo.png/800px-AlNassr_logo.png",
-    "name1": "Al Nassr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Al-Okhdood_Club.svg/1200px-Al-Okhdood_Club.svg.png",
-    "name2": "Al-Okhdood",
-    "champ": "Arabie Saoudite",
-    "heure": "17H00",
-    "date": "09/01/2025",
-    "pro": "V1"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name1": "Lokomotiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
+    "name2": "Spartak Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "10/01/2025",
+    "pro": "Total: (+3)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Al-Riyadh_SC.svg/1200px-Al-Riyadh_SC.svg.png",
-    "name1": "Al-Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Al-Khaleej_FC_Logo.svg/1200px-Al-Khaleej_FC_Logo.svg.png",
-    "name2": "Al-Khaleej",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Al-Ettifaq_%28logo%29.png",
+    "name1": "Ettifaq Dammam",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lt/5/51/Al-Kholood_Club_emblema.png",
+    "name2": "Al Kholood",
     "champ": "Arabie Saoudite",
-    "heure": "15H00",
-    "date": "09/01/2025",
+    "heure": "14H40",
+    "date": "10/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/e/ed/20230907211620%21Al-Raed.png",
+    "name1": "Al-Raed",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/57/Damac_FC_logo.png",
+    "name2": "Damac",
+    "champ": "Arabie Saoudite",
+    "heure": "15H05",
+    "date": "10/01/2025",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name1": "Al-Ahli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Logo_Al_Shabab_FC_Riyad.png",
+    "name2": "Al Shabab Riyadh",
+    "champ": "Arabie Saoudite",
+    "heure": "17H00",
+    "date": "10/01/2025",
+    "pro": "Total: (+2)"
   }
 ]
