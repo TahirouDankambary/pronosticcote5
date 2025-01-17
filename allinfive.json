@@ -1,82 +1,82 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Al-Ittihad_Club_%28Jeddah%29_logo.svg/1200px-Al-Ittihad_Club_%28Jeddah%29_logo.svg.png",
-    "name1": "Ittihad FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Al_Raed_FC.svg/1200px-Al_Raed_FC.svg.png",
-    "name2": "Al-Raed",
-    "champ": "Arabie Saoudite",
-    "heure": "17H00",
-    "date": "16/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/AKM_Toula.png/1200px-AKM_Toula.png",
+    "name1": "AKM Tula Oblast",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/98/HC_Metallurg_Magnitogorsk.png",
+    "name2": "Magnitka Magnitogorsk",
+    "champ": "Hockey. Russie. VHL",
+    "heure": "16H00",
+    "date": "17/01/2025",
+    "pro": "Total: (+3.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Shrewsbury_Town_F.C._logo.svg/1200px-Shrewsbury_Town_F.C._logo.svg.png",
-    "name1": "Shrewsbury Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "20H00",
-    "date": "16/01/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
+    "name1": "Bars Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/48/Logo_Olimpia_Milano_-_2016.svg",
+    "name2": "Olimpiya",
+    "champ": "Hockey. Russie. VHL",
+    "heure": "16H00",
+    "date": "17/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
-    "name1": "Lada Togliatti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Torpedo_Nijni_Novgorod_2018.png/159px-Torpedo_Nijni_Novgorod_2018.png",
-    "name2": "Torpedo Nijni",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "15H00",
-    "date": "16/01/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Lausitzer_Fuechse_Logo_2008.svg/1200px-Lausitzer_Fuechse_Logo_2008.svg.png",
+    "name1": "Lausitzer Füchse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/0/08/EV_Regensburg_logo.svg/1200px-EV_Regensburg_logo.svg.png",
+    "name2": "EV Regensburg",
+    "champ": "Hockey. Allemagne 2",
+    "heure": "18H30",
+    "date": "17/01/2025",
+    "pro": "Total: (+3.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP0-uSK2gegbqbFkL0YH_jbeOGZINEUTTBjA&s",
-    "name1": "SKA Saint-Pétersbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Severstal_Tcherepovets.png",
-    "name2": "Severstal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/54/Krefeld_Pinguine_2020.png",
+    "name1": "Pinguine de Krefeld",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTif0J28FTclz7CgMjZU2xIDm_E8JxKTqXIXA&s",
+    "name2": "ESV Kaufbeuren",
+    "champ": "Hockey. Allemagne 2",
+    "heure": "18H30",
+    "date": "17/01/2025",
+    "pro": "Equipe gagne: V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9c/Salavat_Yulaev_Ufa_logo.svg",
+    "name1": "Salavat Ioulaiev",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
+    "name2": "Avtomobilist",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H00",
+    "date": "17/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/49/OHK_Dinamo.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name2": "Sotchi",
     "champ": "Hockey. Ligue continentale",
     "heure": "16H30",
-    "date": "16/01/2025",
+    "date": "17/01/2025",
+    "pro": "Equipe gagne: V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
+    "name1": "Neftekhimik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Traktor_Tcheliabinsk_2020.png",
+    "name2": "Traktor Tcheliabinsk",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "17/01/2025",
     "pro": "12"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name2": "Royal Antwerp",
-    "champ": "Couped de Belgique",
-    "heure": "19H45",
-    "date": "16/01/2025",
-    "pro": "Total: (+1.5)"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H30",
-    "date": "16/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
-    "name2": "Southampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "16/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RkWz9liJJHvzxabnmgzW0JLh59PiI0CTVw&s",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H30",
-    "date": "16/01/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
+    "name1": "Spartak Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name2": "Kunlun Red Star",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "17/01/2025",
+    "pro": "12"
   }
 ]
