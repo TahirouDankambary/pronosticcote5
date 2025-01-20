@@ -1,82 +1,72 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name2": "Brighton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "name2": "Wolverhampton",
     "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "19/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLeh-CelZw81q84aFBU6u5XReYYjWyUN0LA&s",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "19/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
-    "name1": "Ipswich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name2": "Man City",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "19/01/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
-    "name1": "Union Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
-    "name2": "Mayence",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "19/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
-    "name1": "Werder Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
-    "name2": "Augsbourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "19/01/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
-    "name2": "Las Palmas",
-    "champ": "Espagne. laLiga",
-    "heure": "15H15",
-    "date": "19/01/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
-    "name1": "Valencia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
-    "name2": "Real Sociedad",
-    "champ": "Espagne. laLiga",
     "heure": "20H00",
-    "date": "19/01/2025",
-    "pro": "Total: (+1)"
+    "date": "20/01/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_Empoli_FC_-_2022.svg/1200px-Logo_Empoli_FC_-_2022.svg.png",
-    "name2": "Empoli",
-    "champ": "Italie. Série A",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "20/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7c/Logo_Dundee_FC_-_2008.svg/1200px-Logo_Dundee_FC_-_2008.svg.png",
+    "name1": "Dundee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/07/Logo_Dundee_United_FC_-_2022.svg",
+    "name2": "Dundee United",
+    "champ": "Ecosse. FA Cup",
+    "heure": "20H00",
+    "date": "20/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1665px-ES_Troyes_AC.svg.png",
+    "name1": "Troyes AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/1200px-Logo_FC_Annecy_-_2022.svg.png",
+    "name2": "Annecy",
+    "champ": "France. Ligue 2",
     "heure": "19H45",
-    "date": "19/01/2025",
-    "pro": "V1"
+    "date": "20/01/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/CD_Mirand%C3%A9s_%28logo%29.svg/1695px-CD_Mirand%C3%A9s_%28logo%29.svg.png",
+    "name1": "Mirandes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
+    "name2": "Málaga",
+    "champ": "Espagne. D2",
+    "heure": "19H30",
+    "date": "20/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Al_Fayha_FC_logo.png",
+    "name1": "Al Feiha",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Al-Kholood_Club.svg/1200px-Al-Kholood_Club.svg.png",
+    "name2": "Al Kholood",
+    "champ": "Arabie Saoudite",
+    "heure": "15H10",
+    "date": "20/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Al-Ettifaq_FC_logo.svg/1200px-Al-Ettifaq_FC_logo.svg.png",
+    "name1": "Ettifaq Dammam",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name2": "Al-Ahli Jeddah",
+    "champ": "Arabie Saoudite",
+    "heure": "17H00",
+    "date": "20/01/2025",
+    "pro": "12"
   }
 ]
