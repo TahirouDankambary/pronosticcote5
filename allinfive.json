@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name1": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
-    "name2": "Holstein",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name1": "Augsbourg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaxrD_IYIHieUnuHs0bHEvv0llH-hgGclIg&s",
+    "name2": "Heidenheim",
     "champ": "Allemgane. Bundesliga",
-    "heure": "19H30",
-    "date": "24/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1200px-Logo_Torino_FC_2024.svg.png",
-    "name1": "Torino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name2": "Cagliari Calcio",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "24/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
-    "name1": "Las Palmas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "24/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/1200px-AJAuxerreLogo.svg.png",
-    "name1": "Auxerre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/AS_Saint-Etienne-logo_2022.svg/1200px-AS_Saint-Etienne-logo_2022.svg.png",
-    "name2": "AS Saint-Etienne",
-    "champ": "France. Ligue 1",
-    "heure": "19H45",
-    "date": "24/01/2025",
+    "heure": "14H30",
+    "date": "25/01/2025",
     "pro": "12"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
-    "name1": "Sheffield United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/1200px-Hull_City_AFC_logo.svg.png",
-    "name2": "Hull City",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "24/01/2025",
-    "pro": "Total: (+1.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7ICY_4Uno-KUhxdka1nKobZQfNNZ39wZ1Q&s",
+    "name2": "Werder Bremen",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "14H30",
+    "date": "25/01/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68bowN3xWtlK2HnrUyiK7-r9jn64SEjJebg&s",
-    "name1": "Samsunspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg/1200px-Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg.png",
-    "name2": "Gazisehir",
-    "champ": "Turquie. Süper Lig",
-    "heure": "17H00",
-    "date": "24/01/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/800px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "14H30",
+    "date": "25/01/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "name1": "Leipzig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "14H30",
+    "date": "25/01/2025",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/640px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "14H30",
+    "date": "25/01/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
+    "name1": "Borussia Mönchengladbach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1200px-VfL_Bochum_logo.svg.png",
+    "name2": "VfL Bochum",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "17H30",
+    "date": "25/01/2025",
+    "pro": "12"
   }
 ]
