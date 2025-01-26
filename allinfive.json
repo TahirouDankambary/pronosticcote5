@@ -1,62 +1,72 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
-    "name1": "Augsbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQaxrD_IYIHieUnuHs0bHEvv0llH-hgGclIg&s",
-    "name2": "Heidenheim",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7ICY_4Uno-KUhxdka1nKobZQfNNZ39wZ1Q&s",
-    "name2": "Werder Bremen",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/800px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "26/01/2025",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
-    "name2": "Leverkusen",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2025",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/640px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2025",
-    "pro": "V2"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/800px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "26/01/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
-    "name1": "Borussia Mönchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1200px-VfL_Bochum_logo.svg.png",
-    "name2": "VfL Bochum",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name2": "Man United",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "26/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/800px-Logo_TSG_Hoffenheim.svg.png",
+    "name1": "Hoffenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/800px-Eintracht_Frankfurt_crest.svg.png",
+    "name2": "Frankfurt",
     "champ": "Allemgane. Bundesliga",
-    "heure": "17H30",
-    "date": "25/01/2025",
-    "pro": "12"
+    "heure": "14H30",
+    "date": "26/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
+    "name1": "St.Pauli",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
+    "name2": "Union Berlin",
+    "champ": "Allemgane. Bundesliga",
+    "heure": "16H30",
+    "date": "26/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
+    "name1": "Udinese Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name2": "Roma",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "26/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq27rbmgKkKG5LDETKr0j7mLZNjHOidPgdg&s",
+    "name1": "Lecce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "26/01/2025",
+    "pro": "V2"
   }
 ]
