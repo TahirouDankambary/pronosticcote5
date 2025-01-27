@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "26/01/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/800px-West_Ham_United_FC_logo.svg.png",
-    "name2": "West Ham",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "26/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
+    "name2": "Celta Vigo",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "27/01/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name2": "Man United",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "26/01/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Venezia_FC_logo.png/1200px-Venezia_FC_logo.png",
+    "name1": "Venise FC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name2": "Hellas Verona",
+    "champ": "Italie. Série A",
+    "heure": "17H30",
+    "date": "27/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name2": "Monza",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "27/01/2025",
+    "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/800px-Logo_TSG_Hoffenheim.svg.png",
-    "name1": "Hoffenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/800px-Eintracht_Frankfurt_crest.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "14H30",
-    "date": "26/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AVS_Futebol_SAD_logo.png",
+    "name1": "Aves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
+    "name2": "Gil Vicente",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "27/01/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
-    "name1": "St.Pauli",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMiJGvgfq2fF_128W0P2rD3Rj_6z20ZZL0zA&s",
-    "name2": "Union Berlin",
-    "champ": "Allemgane. Bundesliga",
-    "heure": "16H30",
-    "date": "26/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
-    "name1": "Udinese Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name2": "Roma",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "26/01/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq27rbmgKkKG5LDETKr0j7mLZNjHOidPgdg&s",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Kasimpasa_%28logo%29.svg/1200px-Kasimpasa_%28logo%29.svg.png",
+    "name1": "Kasimpasa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/0/08/Hatayspor.png?20250113180204",
+    "name2": "Hatayspor",
+    "champ": "Turquie. Super Lig",
     "heure": "17H00",
-    "date": "26/01/2025",
-    "pro": "V2"
+    "date": "27/01/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "27/01/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
