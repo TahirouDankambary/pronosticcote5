@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name2": "Hoffenheim",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
-    "name2": "Viktoria Plzen",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "30/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "31/01/2025",
     "pro": "Total: (+1.5)"
   },
   {
-   "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/1748px-SC_Braga_%28logo%29.svg.png",
-    "name1": "Braga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
-    "name2": "Lazio",
-    "champ": "Ligue Europa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Rigas_FS_Logo.png",
-    "name2": "Rigas Futbola Skola",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/19/Maccabi_Tel-Aviv.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
-    "name2": "Porto",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Total: (+2)"
+    "date": "31/01/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
-    "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahçe",
-    "champ": "Ligue Europa",
-    "heure": "20H00",
-    "date": "30/01/2025",
+   "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1200px-Logo_Parma.svg.png",
+    "name1": "Parma",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfDiluslNWg2EjhPUAnPiYX5VJ-eHbk9P9A&s",
+    "name2": "Lecce",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "31/01/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/1200px-Montpellier_HSC_logo.svg.png",
+    "name1": "Montpellier",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1200px-Logo_RC_Lens.svg.png",
+    "name2": "RC Lens",
+    "champ": "France. Ligue 1",
+    "heure": "19H45",
+    "date": "31/01/2025",
     "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
+    "name1": "Lada Togliatti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
+    "name2": "Ak Bars Kazan",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "15H00",
+    "date": "31/01/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name1": "Kunlun Red Star",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name2": "Sotchi",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "31/01/2025",
+    "pro": "12"
   }
 ]
