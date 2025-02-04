@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1024px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
-    "name2": "Las Palmas",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "03/02/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "03/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-   "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Salavat_Ioula%C3%AFev_Oufa.png",
-    "name1": "Salavat Ioulaïev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/0/0e/HC_Metallurg_Magnitogorsk_Logo.svg/1280px-HC_Metallurg_Magnitogorsk_Logo.svg.png",
-    "name2": "Metallourg",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "03/02/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDuBahnaHxeWC2Be5Yj9hDpHNdmOWL6_QQw&s",
+    "name1": "Zénith",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbJs0Sq_VlbBPZQUkgqGX_afL_Nxfukt1SQ&s",
+    "name2": "CSKA Moscou",
+    "champ": "Russie. Coupe RPL",
+    "heure": "16H30",
+    "date": "04/02/2025",
     "pro": "12"
   },
-    {
-     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Al_Ain_FC_logo.png/1200px-Al_Ain_FC_logo.png",
-    "name1": "Al Ain",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Al-Rayyan_Sports_Club.png/640px-Al-Rayyan_Sports_Club.png",
-    "name2": "AlRayyan",
-    "champ": "AFC. League Elite",
-    "heure": "14H00",
-    "date": "03/02/2025",
-    "pro": "1X"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
+    "name2": "Augsbourg",
+    "champ": "Coupe d'Allemagne",
+    "heure": "19H45",
+    "date": "04/02/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+   "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name1": "Atlético Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H30",
+    "date": "04/02/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/1200px-Al_Sadd_SC_logo.svg.png",
-    "name1": "Al Sadd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name2": "Al-Ahli",
-    "champ": "AFC. League Elite",
-    "heure": "16H00",
-    "date": "03/02/2025",
+     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/1200px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
+    "champ": "Coupe d'Italie",
+    "heure": "20H00",
+    "date": "04/02/2025",
     "pro": "Total: (+2)"
   },
-  {
-   "photo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Esteghlal_FC_Official_Logo.png",
-    "name1": "Esteghlal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
-    "name2": "Al-Shorta",
-    "champ": "AFC. League Elite",
-    "heure": "16H00",
-    "date": "03/02/2025",
-    "pro": "Total: (+1.5)"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/640px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille OSC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Logo_USL_Dunkerque.svg/1200px-Logo_USL_Dunkerque.svg.png",
+    "name2": "USL Dunkerque",
+    "champ": "Coupe de France",
+    "heure": "18H00",
+    "date": "04/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
-    "name1": "Al Nassr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Al_Wasl_Duba%C3%AF_%28logo%29.svg/640px-Al_Wasl_Duba%C3%AF_%28logo%29.svg.png",
-    "name2": "Al Wasl",
-    "champ": "AFC. League Elite",
+   "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1665px-ES_Troyes_AC.svg.png",
+    "name1": "Troyes AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/1200px-Logo_Stade_Brestois.svg.png",
+    "name2": "Stade Brestois",
+    "champ": "Coupe de France",
     "heure": "18H00",
-    "date": "03/02/2025",
-    "pro": "V1"
+    "date": "04/02/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
