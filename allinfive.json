@@ -1,82 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H30",
-    "date": "06/02/2025",
-    "pro": "Total 1: (+0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lctoayJUKcQbm8NakCaDwcYszsetV7IgOA&s",
+    "name2": "Real Valladolid",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "07/02/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/800px-Valenciacf.svg.png",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H30",
-    "date": "06/02/2025",
-    "pro": "Total 2: (+1.5)"
-  },
-  {
-   "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name2": "Inter Milan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/464px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name2": "Juventus",
     "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "06/02/2025",
+    "date": "07/02/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/800px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name1": "Nantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/1200px-Logo_Stade_Brestois.svg.png",
+    "name2": "Stade Brestois",
+    "champ": "France. Ligue 1",
+    "heure": "18H00",
+    "date": "07/02/2025",
     "pro": "Total: (+1.5)"
   },
     {
-     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/FC_Bourgoin-Jallieu_logo.svg/1200px-FC_Bourgoin-Jallieu_logo.svg.png",
-    "name1": "Bourgoin Jallieu",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
-    "name2": "Stade de Reims",
-    "champ": "Coupe de France",
-    "heure": "20H00",
-    "date": "06/02/2025",
-    "pro": "Total: (+2)"
+     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/800px-Logo_FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
+    "name2": "Sporting",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "07/02/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ Alkmaar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhZTI0Jw0a-ENnMGRc8M57R2brpEFb66RFw&s",
-    "name2": "Quick Boys",
-    "champ": "Coupe de Pays-Bas",
-    "heure": "19H00",
-    "date": "06/02/2025",
-    "pro": "Total 1: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Albacete_balompie.svg/1200px-Albacete_balompie.svg.png",
+    "name1": "Albacete Balompie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Real_Zaragoza_logo.svg/1200px-Real_Zaragoza_logo.svg.png",
+    "name2": "Real Zaragoza",
+    "champ": "Espagne. D2",
+    "heure": "19H30",
+    "date": "07/02/2025",
+    "pro": "Total: (+1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
-    "name1": "Rio Ave",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/bf/Sporting-clube-de-sao-joao-de-ver.png",
-    "name2": "Sao Joao de Ver",
-    "champ": "Coupe de Portugal",
-    "heure": "20H45",
-    "date": "06/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Salavat_Ioula%C3%AFev_Oufa.png",
-    "name1": "Salavat Ioulaïev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name2": "Neftekhimik",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "06/02/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
-    "name1": "Lada Togliatti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fi/9/98/Avangard_Omsk_logo.png",
-    "name2": "Avangard Omsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "15H00",
-    "date": "06/02/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS68bowN3xWtlK2HnrUyiK7-r9jn64SEjJebg&s",
+    "name1": "Samsunspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/tr/0/08/Hatayspor.png?20250113180204",
+    "name2": "Hatayspor",
+    "champ": "Turquie. Süper Lig",
+    "heure": "17H00",
+    "date": "07/02/2025",
     "pro": "12"
   }
 ]
