@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-150px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "10/02/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "name1": "Stade Brestois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name2": "PSG",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "11/02/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/800px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "11/02/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1200px-Doncaster_Rovers_F.C._logo.svg.png",
-    "name1": "Doncaster Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H45",
-    "date": "10/02/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://stock.wikimini.org/w/images/f/f8/Futebol_Clube_de_Arouca_%28FC_Arouca%29_-_Logo.png",
-    "name1": "Arouca",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYgl47_J8_Ps8X26dzBdmn13RYvwZB7FoVRQ&s",
-    "name2": "Rio Ave",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "10/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
-    "name1": "CSKA Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScbnWL9vZIkhkufYaZk8VL6EtBsIOiQh0gjA&s",
-    "name2": "Krasnodar",
-    "champ": "Russie. Coupe RPL",
-    "heure": "16H30",
-    "date": "10/02/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
+    "name1": "Sporting",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "11/02/2025",
     "pro": "Total: (+2)"
   },
     {
-   "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/0/0a/FC_Atromitos.svg/1200px-FC_Atromitos.svg.png",
-    "name1": "Atromitos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bd/G_S_Kallithea_official_logo.png",
-    "name2": "Kallithea",
-    "champ": "Grèce. Superligue",
-    "heure": "16H00",
-    "date": "10/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "11/02/2025",
     "pro": "Total: (+1.5)"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f8/PAS_Lamia_1964_logo.png",
-    "name1": "PAS LAmia 1964",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/PAE_Levadiakos%28neu%29.svg/1200px-PAE_Levadiakos%28neu%29.svg.png",
-    "name2": "Levadiakos",
-    "champ": "Grèce. Superligue",
-    "heure": "16H00",
-    "date": "10/02/2025",
-    "pro": "Total: (+1)"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpwYZQz5gFDI7jmSh3LaVzQTxuQsOAV_f0Q&s",
+    "name1": "Coventry City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/1200px-Queens_Park_Rangers_crest.svg.png",
+    "name2": "Queens Park Rangers",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "11/02/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/1/13/Bodrum_Belediyesi_Bodrumspor.png",
-    "name1": "Bodrum Belediyesi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/G%C3%B6ztepe_logo.svg/1200px-G%C3%B6ztepe_logo.svg.png",
-    "name2": "Goztepe",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "10/02/2025",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
+    "name1": "Derby County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1200px-Oxford_United_FC_logo.svg.png",
+    "name2": "Oxford United",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "11/02/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
