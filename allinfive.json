@@ -1,62 +1,42 @@
 [
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
-    "name1": "Stade Brestois",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
+ {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atalanta",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "11/02/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "12/02/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/800px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name1": "AS Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "11/02/2025",
+    "date": "12/02/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfYh2XIJ78HmjlYelzpCTyV7Lm9UWSIhYobw&s",
-    "name1": "Sporting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Celtic_FC.svg/1200px-Logo_Celtic_FC.svg.png",
+    "name1": "Celtic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
+    "name2": "Bayern Munich",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "11/02/2025",
-    "pro": "Total: (+2)"
+    "date": "12/02/2025",
+    "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "name2": "PSV",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/361px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "11/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpwYZQz5gFDI7jmSh3LaVzQTxuQsOAV_f0Q&s",
-    "name1": "Coventry City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/1200px-Queens_Park_Rangers_crest.svg.png",
-    "name2": "Queens Park Rangers",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name1": "Derby County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1200px-Oxford_United_FC_logo.svg.png",
-    "name2": "Oxford United",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/02/2025",
-    "pro": "Total: (+1.5)"
+    "date": "12/02/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
