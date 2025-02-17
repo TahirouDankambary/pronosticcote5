@@ -1,82 +1,83 @@
+
 [
-{
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/HK_Barys_2022.png/1200px-HK_Barys_2022.png",
-    "name1": "Barys",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/98/HC_Metallurg_Magnitogorsk.png",
-    "name2": "Metallourg",
-    "champ": "Hockey. Ligue Continenetale",
-    "heure": "14H30",
-    "date": "17/02/2025",
-    "pro": "12"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Vityaz_Chekhov_Logo.svg/1200px-Vityaz_Chekhov_Logo.svg.png",
-    "name1": "Vityaz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
-    "name2": "Dinamo Minsk",
-    "champ": "Hockey. Ligue Continenetale",
-    "heure": "16H00",
-    "date": "16/02/2025",
-    "pro": "12"
-  },
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "UEFA",
+    "heure": "17H45",
+    "date": "18/02/2025",
+    "pro": "Total: (+2)"
+  },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbzRg0zY6k5Udsj0foDjTwXWEppHNv_OoL0w&s",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
-    "name2": "Rayo Vallecano",
-    "champ": "Espagne. LaLiga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name2": "Club Bruges",
+    "champ": "UEFA",
     "heure": "20H00",
-    "date": "17/02/2025",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "date": "18/02/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
+    "name2": "Celtic",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "18/02/2025",
+    "pro": "V1"
   },
     {
-     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Venezia_FC_crest.svg/1200px-Venezia_FC_crest.svg.png",
-    "name2": "Venise FC",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/1200px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name2": "AS Monaco",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "18/02/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Shrewsbury_Town_F.C._logo.svg/1200px-Shrewsbury_Town_F.C._logo.svg.png",
+    "name1": "Shrewsbury Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/1200px-Huddersfield_Town_AFC_crest.svg.png",
+    "name2": "Huddersfield Town",
+    "champ": "Angleterre. Ligue 1",
     "heure": "19H45",
-    "date": "17/02/2025",
+    "date": "18/02/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYx2ICg3fw-WApdLtJMwpMc1EjSE23BqG-XQ&s",
-    "name1": "Gil Vicente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name2": "Famalicao",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "17/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1200px-Logo_Stevenage_FC_2019.svg.png",
+    "name1": "Stevenage",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Burton_Albion_FC_logo.svg/1200px-Burton_Albion_FC_logo.svg.png",
+    "name2": "Burton Albion",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "18/02/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Mansfield_Town_FC.svg/1200px-Mansfield_Town_FC.svg.png",
+    "name1": "Mansfield Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Lincoln_City_FC_2024.svg/1200px-Logo_Lincoln_City_FC_2024.svg.png",
+    "name2": "Lincoln City",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "18/02/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
+    "name1": "Wrexham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1200px-Leyton_Orient_F.C._logo.svg.png",
+    "name2": "Leyton Orient",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "18/02/2025",
     "pro": "Total: (+1)"
-  },
-  {
-     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Caykur_Rizespor_%28logo%29.svg/1200px-Caykur_Rizespor_%28logo%29.svg.png",
-    "name1": "Caykur Rizespor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg/1200px-Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg.png",
-    "name2": "Galatasaray",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "17/02/2025",
-    "pro": "Total 2: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1200px-Logo_Randers_FC_2023.svg.png",
-    "name1": "Randers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name2": "Copenhague",
-    "champ": "Danemark. Superliga",
-    "heure": "18H00",
-    "date": "17/02/2025",
-    "pro": "Total: (+1.5)"
-  },
- {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Zag%C5%82%C4%99bie_Lubin_crest.svg/1200px-Zag%C5%82%C4%99bie_Lubin_crest.svg.png",
-    "name1": "Zaglebie Lubin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Lechia_Gda%C5%84sk_%28logo%29.svg/1200px-Lechia_Gda%C5%84sk_%28logo%29.svg.png",
-    "name2": "Lechia Gdansk",
-    "champ": "Championnat de Pologne",
-    "heure": "18H00",
-    "date": "17/02/2025",
-    "pro": "Total: (+1.5)"
   }
 ]
