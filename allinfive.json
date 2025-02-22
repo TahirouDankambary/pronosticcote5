@@ -1,72 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvI4favX28CwwfV8X0dbTiCxUX_B1TTWgO7Q&s",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name2": "Brentford",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/800px-Logo_West_Ham_United_2016.svg.png",
+    "name2": "West Ham",
     "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "21/02/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "heure": "15H00",
+    "date": "22/02/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "21/02/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/1200px-Ipswich_Town.svg.png",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "22/02/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/1200px-RC_Celta_de_Vigo_logo.svg.png",
-    "name1": "Celta Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "21/02/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/1200px-Logo_Stade_Rennais_FC.svg.png",
-    "name1": "Stade Rennais",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
-    "name2": "Stade de Reims",
-    "champ": "France. Ligue 1",
-    "heure": "19H45",
-    "date": "21/02/2025",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "name2": "Brighton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "22/02/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/1/13/Bodrum_Belediyesi_Bodrumspor.png",
-    "name1": "Bodrum Belediyesi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fe/Hatayspor_crest.png",
-    "name2": "Hatayspor",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "21/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "22/02/2025",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVIycWOSqPoyZDQETM2sci075PvrO7WTF2dw&s",
-    "name1": "Eyupspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/800px-BesiktasJK-Logo.svg.png",
-    "name2": "Besiktas",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "21/02/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Angleterre. Premier League",
+    "heure": "17H30",
+    "date": "22/02/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Ak bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/HC_Neftekhimik_Nizhnekamsk_logo.svg/1200px-HC_Neftekhimik_Nizhnekamsk_logo.svg.png",
-    "name2": "Neftekhimik",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "16H00",
-    "date": "21/02/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcfRXzSmONPtb-eJkd0BRo5oBYzuRmB71iw&s",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png",
+    "name2": "Union Berlin",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "22/02/2025",
+    "pro": "Total 1: (+1.5)"
   }
 ]
