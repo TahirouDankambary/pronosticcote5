@@ -1,82 +1,73 @@
+
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Nottingham_Forest_logo.svg/800px-Nottingham_Forest_logo.svg.png",
-    "name2": "Nottingham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "23/02/2025",
-    "pro": "Total: (+2)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "23/02/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name2": "Heidenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "23/02/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1200px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "23/02/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name1": "Hoffenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "18H30",
-    "date": "23/02/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/1200px-Girona_FC_Logo.svg.png",
-    "name2": "Gérone",
-    "champ": "Espagne. laLiga",
-    "heure": "15H15",
-    "date": "23/02/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1200px-Getafe_logo.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. laLiga",
-    "heure": "17H30",
-    "date": "23/02/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/1200px-Club_Deportivo_Legan%C3%A9s_logo.svg.png",
-    "name2": "Leganés",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/1200px-Sevilla_FC_logo.svg.png",
+    "name1": "Séville",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUM7Zjen1qBxgHJfsLJg7FAAVuEDZneNj_Q&s",
+    "name2": "Majorque",
     "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "23/02/2025",
+    "date": "24/02/2025",
     "pro": "Total: (+1.5)"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/AS_Roma_logo_%282013%29.svg/1200px-AS_Roma_logo_%282013%29.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/AC_Monza_logo_%282021%29.svg/1200px-AC_Monza_logo_%282021%29.svg.png",
+    "name2": "Monza",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "24/02/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Al_Okhdood_logo.png/130px-Al_Okhdood_logo.png",
+    "name1": "Al-Okhdood",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/4/42/Al-fateh-big.png",
+    "name2": "Al-Fateh",
+    "champ": "Arabie saoudite",
+    "heure": "14H15",
+    "date": "25/02/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Damac_FC_Logo.svg/1200px-Damac_FC_Logo.svg.png",
+    "name1": "Damac",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJZVC2rZ22lfqmGMSJ0iX9vw6S9MjQPaf4w&s",
+    "name2": "Al Orobah",
+    "champ": "Arabie saoudite",
+    "heure": "15H50",
+    "date": "24/02/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
+    "name1": "Avtomobilist",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Vityaz_Chekhov_Logo.svg/1200px-Vityaz_Chekhov_Logo.svg.png",
+    "name2": "Vityaz",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H00",
+    "date": "24/02/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/HC_Metallurg_Magnitogorsk.png/255px-HC_Metallurg_Magnitogorsk.png",
+    "name1": "Metallourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Severstal_Tcherepovets.png",
+    "name2": "Severstal",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "14H00",
+    "date": "24/02/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/75/HK_Sotchi_2024.png",
+    "name1": "Sotchi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name2": "Kunlun Red Star",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "24/02/2025",
+    "pro": "12"
   }
 ]
