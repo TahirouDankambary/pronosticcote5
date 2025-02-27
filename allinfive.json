@@ -1,72 +1,72 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Everton_FC_2024.svg/1200px-Logo_Everton_FC_2024.svg.png",
-    "name2": "Everton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/800px-West_Ham_United_FC_logo.svg.png",
+    "name1": "West Ham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name2": "Leicester",
     "champ": "Angleterre. Premier League",
-    "heure": "19H30",
-    "date": "26/02/2025",
+    "heure": "20H00",
+    "date": "27/02/2025",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Nottingham_Forest_logo.svg/800px-Nottingham_Forest_logo.svg.png",
-    "name1": "Nottingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H30",
-    "date": "26/02/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "27/02/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heracles_Almelo_logo.svg/1200px-Heracles_Almelo_logo.svg.png",
+    "name1": "Heracles Almelo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name2": "AZ Alkmaar",
+    "champ": "Pays-Bbas. Eredivisie",
+    "heure": "19H00",
+    "date": "27/02/2025",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name2": "Man City",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H30",
-    "date": "26/02/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WiCaNCYEij9Q2y50-SIDHafErUImi3vSeg&s",
+    "name1": "Severstal Tcherepovets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Torpedo_Nijni_Novgorod_2018.png/159px-Torpedo_Nijni_Novgorod_2018.png",
+    "name2": "Torpedo Nijni",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H00",
+    "date": "27/02/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name2": "Newcastle",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H15",
-    "date": "26/02/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
+    "name2": "Spartak Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H10",
+    "date": "27/02/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name2": "Wolfsbourg",
-    "champ": "Coupe d'Allemagne",
-    "heure": "19H45",
-    "date": "26/02/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/SKA_Saint-P%C3%A9tersbourg.png",
+    "name1": "SKA SAint-Petersbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/OHK_Dinamo.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "27/02/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "Coupe du Roi",
-    "heure": "20H30",
-    "date": "26/02/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
-    "name1": "Juventus",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
-    "name2": "Empoli",
-    "champ": "Coupe d'Italie",
-    "heure": "20H00",
-    "date": "26/02/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/73/HC_CSKA_Moscou_2012.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f0/HC_Kunlun_Red_Star_logo.png",
+    "name2": "Kunlun Red Star",
+    "champ": "Hockey. Ligue continentale",
+    "heure": "16H30",
+    "date": "27/02/2025",
+    "pro": "12"
   }
 ]
