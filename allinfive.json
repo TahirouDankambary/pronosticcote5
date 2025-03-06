@@ -1,72 +1,63 @@
+
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/1200px-AZ_Alkmaar.svg.png",
+    "name1": "AZ Alkmaar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "05/03/2025",
+    "date": "06/03/2025",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Bayer 04",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "05/03/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name2": "Man United",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "06/03/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/2072px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "05/03/2025",
-    "pro": "Total 2: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name2": "Rangers",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "06/03/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "05/03/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Shabab_Al_Ahli_logo.svg/1200px-Shabab_Al_Ahli_logo.svg.png",
-    "name1": "Shabab Al-Ahli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
-    "name2": "Al Sharjah",
-    "champ": "LDC. AFC 2",
-    "heure": "16H00",
-    "date": "05/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1613px-Fcsb-logo.svg.png",
+    "name1": "FCSB",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNCsyM1rsT0jVlkmdB8NSv-KYnEDZ1sJyGQ&s",
+    "name2": "Lyon",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "06/03/2025",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
-    "name1": "Dinamo Minsk",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPInCq6cifyk1bG8uEwUSPvDw6nrn4oyUD5Q&s",
-    "name2": "Lada Togliatti",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "16H10",
-    "date": "05/03/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpVyQBw0MCC8AfdPZNbH5cmmMNpBQHFUH5w&s",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1200px-Logo_Eintracht_Francfort.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "06/03/2025",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
-    "name1": "Ak Bars Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
-    "name2": "Avtomobilist",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "16H30",
-    "date": "05/03/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/800px-Olympiacos_FC_crest.svg.png",
+    "name2": "Olympiacos",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "06/03/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
