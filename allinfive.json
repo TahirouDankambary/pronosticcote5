@@ -1,103 +1,83 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/2153px-Logo_LOSC_Lille_2018.svg.png",
-    "name1": "Lille",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcfRXzSmONPtb-eJkd0BRo5oBYzuRmB71iw&s",
-    "name2": "Dortmund",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1200px-Logo_Eintracht_Francfort.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpVyQBw0MCC8AfdPZNbH5cmmMNpBQHFUH5w&s",
+    "name2": "Ajax",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "12/03/2025",
+    "date": "13/03/2025",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name2": "PSV",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "12/03/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RkWz9liJJHvzxabnmgzW0JLh59PiI0CTVw&s",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/AS_Roma_logo_%282013%29.svg/1200px-AS_Roma_logo_%282013%29.svg.png",
+    "name2": "Roma",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "13/03/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
-    "name2": "Club Bruges",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "12/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/1200px-S.S._Lazio_badge.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
+    "name2": "Viktoria Plzen",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "13/03/2025",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
-    "name1": "Atlético de Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/640px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Olympiacos_FC_logo.svg/1200px-Olympiacos_FC_logo.svg.png",
+    "name1": "Olympiacos Piraeus",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name2": "Bodo-Glimt",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "13/03/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNCsyM1rsT0jVlkmdB8NSv-KYnEDZ1sJyGQ&s",
+    "name1": "Lyon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAoWvYYtkhFjbVg9XmjPpvOPSXSR6qlJK6g&s",
+    "name2": "FCSB",
+    "champ": "Ligue Europa",
     "heure": "20H00",
-    "date": "12/03/2025",
-    "pro": "Equipe 2 va se qualifier"
+    "date": "13/03/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png",
-    "name2": "Millwall",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "12/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1200px-Portsmouth_FC_logo.svg.png",
-    "name1": "Portsmouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/1200px-Plymouth_Argyle_F.C._logo.svg.png",
-    "name2": "Plymouth Argyle",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "12/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z2Rt7f_ULew4adrVF4Z-mTBBSEi3bpav_Q&s",
-    "name1": "Watford",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "12/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/1200px-Hull_City_AFC_logo.svg.png",
-    "name1": "Hull City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1200px-Oxford_United_FC_logo.svg.png",
-    "name2": "Oxford United",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "12/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Stoke_City_FC_new_crest.svg/1200px-Stoke_City_FC_new_crest.svg.png",
-    "name1": "Stoke City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1200px-Blackburn_Rovers.svg.png",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+    "name2": "Real Sociedad",
+    "champ": "Ligue Europa",
     "heure": "20H00",
-    "date": "12/03/2025",
+    "date": "13/03/2025",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/FC_Rostov_logo.svg/1200px-FC_Rostov_logo.svg.png",
-    "name1": "Rostov",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQezlcZmJyDQhDzVK1j-7sISL7Jda6s-jlQiw&s",
-    "name2": "Zénith",
-    "champ": "Coupe de Russie",
-    "heure": "15H15",
-    "date": "12/03/2025",
-    "pro": "Total: (+1.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "13/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name2": "AZ Alkmaar",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "13/03/2025",
+    "pro": "Total: (+2)"
   }
 ]
