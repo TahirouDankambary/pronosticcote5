@@ -1,83 +1,92 @@
-
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/FC_Dordrecht.png/150px-FC_Dordrecht.png",
-    "name1": "Dordrecht",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfhrX7KfQZtwvLYAidWtI8gwD9gvIZBtuLg&s",
-    "name2": "VVV-Venlo",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "14/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/1200px-Villarreal_CF_logo-en.svg.png",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "15/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+{
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/1200px-Girona_FC_Logo.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "name2": "Valencia",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "15/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/800px-Logo_Nottingham_Forest_FC.svg.png",
+    "name2": "Nottingham",
+    "champ": "Angleterre. Premier Ligue",
+    "heure": "15H00",
+    "date": "15/03/2025",
+    "pro": "Total: (+2)"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
+    "champ": "Angleterre. Premier Ligue",
+    "heure": "15H00",
+    "date": "15/03/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm-kLArh6MCQltneEGyoWIPWWhYDwGHnGTQ&s",
-    "name1": "Eindhoven",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8tPKxglM9_f_sIjK4z02zx5CHXI-1KvTMw&s",
-    "name2": "Excelsior",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "14/03/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSddhpqELF_NS3nvynhxxL6L3ie0mDjTELo2A&s",
-    "name1": "Emmen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/640px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht ll",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "14/03/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "name2": "Wolverhampton",
+    "champ": "Angleterre. Premier Ligue",
+    "heure": "15H00",
+    "date": "15/03/2025",
     "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/1200px-FC_St._Pauli_logo_%282018%29.svg.png",
-    "name1": "St.Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name2": "Hoffenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "14/03/2025",
-    "pro": "Total: (+1.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/1200px-UD_Las_Palmas_logo.svg.png",
-    "name1": "Las Palmas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name2": "Deportivo Alavés",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "14/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/US_Lecce_crest.svg/1200px-US_Lecce_crest.svg.png",
-    "name2": "Lecce",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "14/03/2025",
-    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1644px-Logo_OGC_Nice_2013.svg.png",
-    "name1": "Nice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/1200px-AJAuxerreLogo.svg.png",
-    "name2": "Auxerre",
-    "champ": "France. Ligue 1",
-    "heure": "19H45",
-    "date": "14/03/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Premier Ligue",
+    "heure": "15H00",
+    "date": "15/03/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJcCjonm8GV7n-562n133thSfThRPR-a6Lw&s",
-    "name1": "Galatasaray",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqPPyng_8Jxnc1vErI3AF9WOsXfOjcSsGug&s",
-    "name2": "Antalyaspor",
-    "champ": "Turquie. Super Lig",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier Ligue",
     "heure": "17H30",
-    "date": "14/03/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "15/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name1": "Augsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name2": "Wolfsburg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "15/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
+    "name2": "Monchengladbach",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "15/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
