@@ -1,93 +1,73 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/CD_Castell%C3%B3n_-_Logo.svg/1200px-CD_Castell%C3%B3n_-_Logo.svg.png",
-    "name1": "Castellon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Deportivo_La_Coruna.svg/1200px-Deportivo_La_Coruna.svg.png",
-    "name2": "Deportivo de La Coruna",
-    "champ": "Espagne. D2",
-    "heure": "19H30",
-    "date": "17/03/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Rotherham_United_FC.svg/1200px-Rotherham_United_FC.svg.png",
+    "name1": "Rotherham United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/1200px-Wycombe_Wanderers_FC_logo.svg.png",
+    "name2": "Wycombe Wanderers",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H45",
+    "date": "18/03/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
-    "name1": "Arsenal Tula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FCChayka2020.png",
-    "name2": "Tchaïka Prestch",
-    "champ": "Russie. 1ère Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Boldklubben93logo.png/250px-Boldklubben93logo.png",
+    "name1": "B93 Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fa/Ish%C3%B8j_IF_logo.png",
+    "name2": "Ishoj",
+    "champ": "Matchs amicaux des clubs",
     "heure": "17H00",
-    "date": "17/03/2025",
-    "pro": "Total: (+1.5)"
+    "date": "18/03/2025",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Calcio_Lecco_1912_%28logo%29.svg/1200px-Calcio_Lecco_1912_%28logo%29.svg.png",
-    "name1": "Calcio Lecco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/LR_Vicenza_Virtus_%28logo%29.svg/1200px-LR_Vicenza_Virtus_%28logo%29.svg.png",
-    "name2": "Vicenza Calcio",
-    "champ": "Italie. Série C",
-    "heure": "19H30",
-    "date": "17/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/07/NJS-logo-2014.png",
+    "name1": "Nurmijarven Jalkapalloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/38/Kapaz_PFK_logo.png",
+    "name2": "KaPa",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "18/03/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Gateshead_FC.svg/1200px-Gateshead_FC.svg.png",
+    "name1": "Gateshead",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Braintree_Town_FC_crest.svg/1200px-Braintree_Town_FC_crest.svg.png",
+    "name2": "Braintree Town",
+    "champ": "Angleterre. National League",
+    "heure": "19H45",
+    "date": "18/03/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/FC_Halifax_Town_crest.svg/1200px-FC_Halifax_Town_crest.svg.png",
+    "name1": "Halifax Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Dagenham_and_Redbridge_FC_crest.svg/1200px-Dagenham_and_Redbridge_FC_crest.svg.png",
+    "name2": "Dagenham & Redbridge",
+    "champ": "Angleterre. National League",
+    "heure": "19H45",
+    "date": "18/03/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Calcio_Padoue_%28logo%29.svg/1200px-Calcio_Padoue_%28logo%29.svg.png",
-    "name1": "Calcio Padova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/archive/3/3e/20140525164725%21Pergocremastemma.png",
-    "name2": "Pergocrema 1932",
-    "champ": "Italie. Série C",
-    "heure": "19H30",
-    "date": "17/03/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/0/0a/AC_Trento_1921.png",
-    "name1": "Trento",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmuIHDcIPCwviS2vaa2XuPdPpKjEOAFLWj3g&s",
-    "name2": "ASD Alcione",
-    "champ": "Italie. Série C",
-    "heure": "19H30",
-    "date": "17/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Rochdale_AFC_crest.svg/1200px-Rochdale_AFC_crest.svg.png",
+    "name1": "Rochdale",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Boston_United_FC_logo.svg/1200px-Boston_United_FC_logo.svg.png",
+    "name2": "Boston United",
+    "champ": "Angleterre. National League",
+    "heure": "19H45",
+    "date": "18/03/2025",
     "pro": "12"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SPAL_Ferrara.svg/1200px-SPAL_Ferrara.svg.png",
-    "name1": "SPAL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Ternana_Calcio_crest.svg/1200px-Ternana_Calcio_crest.svg.png",
-    "name2": "Ternana Calcio",
-    "champ": "Italie. Série C",
-    "heure": "19H30",
-    "date": "17/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Virtus_Entella_%28logo%29.svg/1200px-Virtus_Entella_%28logo%29.svg.png",
-    "name1": "Virtus Entella",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMzg_ezWtA2Lb1BBtgPueUIuyn3rbxvHvrg&s",
-    "name2": "US Sestri Levante",
-    "champ": "Italie. Série C",
-    "heure": "19H30",
-    "date": "17/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/31/OtksjqMm-bqFiSdJl.png",
-    "name1": "Real Cundinamarca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/865px-Boca_Juniors_logo18.svg.png",
-    "name2": "Boca Juniors",
-    "champ": "Colombie. Torneo Aguila",
-    "heure": "20H00",
-    "date": "17/03/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Real_Santander.png",
-    "name1": "Real Santander",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/65/Leones_FC_logo.png",
-    "name2": "Leones",
-    "champ": "Colombie. Torneo Aguila",
-    "heure": "20H30",
-    "date": "17/03/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5c/AFC_Dunstable_logo.png",
+    "name1": "AFC Dunstable",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Kings_Langley_FC_logo.png/220px-Kings_Langley_FC_logo.png",
+    "name2": "Kings Langley",
+    "champ": "Angleterre. Southern Première Ligue",
+    "heure": "19H45",
+    "date": "18/03/2025",
+    "pro": "Total: (+2)"
   }
 ]
