@@ -1,103 +1,84 @@
 
 [
+
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png",
-    "name1": "Arménie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png",
-    "name2": "Géorgie",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "20/03/2025",
-    "pro": "Total 1: (+0.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
-    "name1": "Turquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/2560px-Flag_of_Hungary.svg.png",
-    "name2": "Hongrie",
-    "champ": "Ligue des Nations",
-    "heure": "17H00",
-    "date": "20/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/2560px-Flag_of_Andorra.svg.png",
+    "name1": "Andore",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/2560px-Flag_of_Latvia.svg.png",
+    "name2": "Lettonie",
+    "champ": "Qualif Mondial 2026",
+    "heure": "19H45",
+    "date": "21/03/2025",
+    "pro": "Total: (+1)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/2560px-Flag_of_Malta.svg.png",
+    "name1": "Malte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2560px-Flag_of_Finland.svg.png",
+    "name2": "Finlande",
+    "champ": "Qualif Mondial 2026",
+    "heure": "19H45",
+    "date": "21/03/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png",
-    "name1": "Autriche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png",
-    "name2": "Serbie",
-    "champ": "Ligue des Nations",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png",
+    "name1": "Pologne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
+    "name2": "Lituanie",
+    "champ": "Qualif Mondial 2026",
     "heure": "19H45",
-    "date": "20/03/2025",
+    "date": "21/03/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/langfr-225px-Flag_of_Romania.svg.png",
+    "name1": "Roumanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "name2": "Bosnie-Herzégovine",
+    "champ": "Qualif Mondial 2026",
+    "heure": "19H45",
+    "date": "21/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/640px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name1": "DR Congo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/800px-Flag_of_South_Sudan.svg.png",
+    "name2": "Soudan du Sud",
+    "champ": "Qualif Mondial 2026",
+    "heure": "16H00",
+    "date": "21/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
+    "name1": "Rwanda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Nigeria_%28state%29.svg/2560px-Flag_of_Nigeria_%28state%29.svg.png",
+    "name2": "Nigeria",
+    "champ": "Qualif Mondial 2026",
+    "heure": "16H00",
+    "date": "21/03/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png",
-    "name1": "Bulgarie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-225px-Flag_of_Ireland.svg.png",
-    "name2": "Irlande",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5R-YGcGpbpPom74jZwem4THtSMXKKQ---Jw&s",
-    "name1": "Grèce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-225px-Flag_of_Scotland.svg.png",
-    "name2": "Écosse",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2000px-Flag_of_Denmark.svg.png",
-    "name1": "Danemark",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png",
-    "name2": "Portugal",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langfr-225px-Flag_of_Italy.svg.png",
-    "name1": "Italie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/2560px-Flag_of_Germany.svg.png",
-    "name2": "Allemagne",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaCs1bN_z8xT0Jhpt8x2-E-6n911mGtoZ69w&s",
-    "name1": "Kosovo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2560px-Flag_of_Iceland.svg.png",
-    "name2": "Islande",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-225px-Flag_of_South_Africa.svg.png",
+    "name1": "Afrique du Sud",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png",
+    "name2": "Lesotho",
+    "champ": "Qualif Mondial 2026",
+    "heure": "16H00",
+    "date": "21/03/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png",
-    "name1": "Pays-Bas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
-    "name2": "Espagne",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
-    "name1": "Slovaquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name2": "Slovénie",
-    "champ": "Ligue des Nations",
-    "heure": "19H45",
-    "date": "20/03/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/2560px-Flag_of_Burundi.svg.png",
+    "name1": "Burundi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "name2": "Côte d'ivoire",
+    "champ": "Qualif Mondial 2026",
+    "heure": "19H00",
+    "date": "21/03/2025",
+    "pro": "Total: (+2)"
   }
 ]
