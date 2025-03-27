@@ -1,93 +1,75 @@
 
 [
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/La%C3%A7i_Club_Logo.svg/1200px-La%C3%A7i_Club_Logo.svg.png",
-    "name1": "KF Laci",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Elbasani_AF_Logo.svg/1200px-Elbasani_AF_Logo.svg.png",
-    "name2": "AF Elbasani",
-    "champ": "Albanie. Super League",
-    "heure": "14H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+1.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Tirana_Club_Logo.svg/1200px-Tirana_Club_Logo.svg.png",
-    "name1": "KF Tirana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Bylis_Club_Logo.svg/1200px-Bylis_Club_Logo.svg.png",
-    "name2": "KS Bylis Ballsh",
-    "champ": "Albanie. Super League",
-    "heure": "17H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jersey_white.svg/1280px-Jersey_white.svg.png",
-    "name1": "FC Sankt Pauli ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Jersey_red.svg/1200px-Jersey_red.svg.png",
-    "name2": "TSV Havelse",
-    "champ": "Allemagne. Regionalliga Nord",
-    "heure": "18H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrTJfjbiSUSShzxlvUDwgsSvOYqw7aAXwEQ&s",
-    "name1": "Willand Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f8/Shaftesbury_F.C._badge.png",
-    "name2": "Shaftesbury Town",
-    "champ": "Angleterre. Southern Première Ligue",
-    "heure": "19H30",
-    "date": "26/03/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1b/Aylesbury_United_FC.png",
-    "name1": "Aylesbury United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/62/Leighton_Town_F.C._logo.png",
-    "name2": "Leighton Town",
-    "champ": "Angleterre. Southern Première Ligue",
-    "heure": "19H45",
-    "date": "26/03/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AD_Berazategui_logo.png/1200px-AD_Berazategui_logo.png",
-    "name1": "Asociacion Deportiva Berazategui",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Club_ituzaingo_logo.png",
-    "name2": "Club Atletico Ituzaingo",
-    "champ": "Argentine. Primera C",
-    "heure": "18H35",
-    "date": "26/03/2025",
-    "pro": "Total: (+1)"
-  },
+
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/CA_Aldosivi_%28logo%29.svg/1200px-CA_Aldosivi_%28logo%29.svg.png",
-    "name1": "CA Aldosiv ill",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Logo_Estudiantes_LP_2024.svg/467px-Logo_Estudiantes_LP_2024.svg.png",
-    "name2": "Estudiantes ll",
-    "champ": "Argentine. Ligue réserve",
+    "name1": "CA Aldsivi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzX8GZ65HNZ3-EToBQs82aJBrGmL-n-cGoRA&s",
+    "name2": "Union de Santa Fe",
+    "champ": "Argentine. Primera Division",
+    "heure": "18H30",
+    "date": "27/03/2025",
+    "pro": "Total: (+1)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/59/Dinamo_Tirana_2010.png",
+    "name1": "Dinamo Tirana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Partizani_Tirana_Club_Logo.svg/1200px-Partizani_Tirana_Club_Logo.svg.png",
+    "name2": "FK Partizani Tirana",
+    "champ": "Albanie. Super League",
+    "heure": "16H00",
+    "date": "27/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO25Esch3yIc97VbFBvHn3yGshlaqXrHJwA&s",
+    "name1": "Teuta Durres",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB_Logo.svg/1200px-Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB_Logo.svg.png",
+    "name2": "KF Skenderbeu Korce",
+    "champ": "Albanie. Super League",
+    "heure": "16H00",
+    "date": "27/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Egnatia_Club_Logo.svg/800px-Egnatia_Club_Logo.svg.png",
+    "name1": "Egnatia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Vllaznia_Shkod%C3%ABr_Club_Logo.svg/2048px-Vllaznia_Shkod%C3%ABr_Club_Logo.svg.png",
+    "name2": "Vllaznia",
+    "champ": "Albanie. Super League",
+    "heure": "19H00",
+    "date": "27/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_S%C3%A3o_Paulo_FC_2022.svg/1200px-Logo_S%C3%A3o_Paulo_FC_2022.svg.png",
+    "name1": "Sao Paulo(Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/3B_da_Amaz%C3%B4nia.png/250px-3B_da_Amaz%C3%B4nia.png",
+    "name2": "3B da Amazonia",
+    "champ": "Chanpionnat. Brésil. Femmes",
     "heure": "18H00",
-    "date": "26/03/2025",
+    "date": "27/03/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Sport_Recife.svg/1200px-Logo_Sport_Recife.svg.png",
+    "name1": "Sport Recife",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RealBras%C3%ADliaFC.png/130px-RealBras%C3%ADliaFC.png",
+    "name2": "Real Brasilia",
+    "champ": "Chanpionnat. Brésil. Femmes",
+    "heure": "18H00",
+    "date": "27/03/2025",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/1200px-CA_Banfield_%282014%29.svg.png",
-    "name1": "Club Atlético Banfield ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/865px-Boca_Juniors_logo18.svg.png",
-    "name2": "Boca juniors ll",
-    "champ": "Argentine. Ligue réserve",
-    "heure": "18H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/800px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
-    "name1": "Club Atlético Huracan ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_CA_Union.svg/1200px-Logo_CA_Union.svg.png",
-    "name2": "Club Atlético Union de Santa Fe ll",
-    "champ": "Argentine. Ligue réserve",
-    "heure": "18H00",
-    "date": "26/03/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/1200px-Sport_Club_Corinthians_Paulista_crest.svg.png",
+    "name1": "Corinthians Paulista",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_EC_Juventude.svg/1200px-Logo_EC_Juventude.svg.png",
+    "name2": "Esporte Clube Juventude",
+    "champ": "Chanpionnat. Brésil. Femmes",
+    "heure": "19H00",
+    "date": "27/03/2025",
+    "pro": "Total: (+2.5)"
   }
 ]
