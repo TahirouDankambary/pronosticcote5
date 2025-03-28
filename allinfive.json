@@ -1,75 +1,84 @@
 
 [
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/1432px-FC_Metz_2021_Logo.svg.png",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Logo_ESTAC.jpg/1200px-Logo_ESTAC.jpg",
+    "name2": "Troyes AC",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fa/Logo_Pau_FC_-_2022.svg",
+    "name1": "Pau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/1200px-Logo_FC_Annecy_-_2022.svg.png",
+    "name2": "Annecy",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_Red_Star_FC_2014.svg/langfr-250px-Logo_Red_Star_FC_2014.svg.png",
+    "name1": "Red Star Saint-Ouen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/langfr-250px-Logo_Rodez_AF_2017.svg.png",
+    "name2": "Rodez Aveyron",
+    "champ": "France. Ligue 2",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Total 1: (+0.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9qVOmslCfirtstEu0CcBfZf3jSRqs4Tx-w&s",
+    "name1": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
+    "name2": "De Graafschap",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
 
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/CA_Aldosivi_%28logo%29.svg/1200px-CA_Aldosivi_%28logo%29.svg.png",
-    "name1": "CA Aldsivi",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzX8GZ65HNZ3-EToBQs82aJBrGmL-n-cGoRA&s",
-    "name2": "Union de Santa Fe",
-    "champ": "Argentine. Primera Division",
-    "heure": "18H30",
-    "date": "27/03/2025",
-    "pro": "Total: (+1)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/59/Dinamo_Tirana_2010.png",
-    "name1": "Dinamo Tirana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Partizani_Tirana_Club_Logo.svg/1200px-Partizani_Tirana_Club_Logo.svg.png",
-    "name2": "FK Partizani Tirana",
-    "champ": "Albanie. Super League",
-    "heure": "16H00",
-    "date": "27/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO25Esch3yIc97VbFBvHn3yGshlaqXrHJwA&s",
-    "name1": "Teuta Durres",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB_Logo.svg/1200px-Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB_Logo.svg.png",
-    "name2": "KF Skenderbeu Korce",
-    "champ": "Albanie. Super League",
-    "heure": "16H00",
-    "date": "27/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Egnatia_Club_Logo.svg/800px-Egnatia_Club_Logo.svg.png",
-    "name1": "Egnatia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Vllaznia_Shkod%C3%ABr_Club_Logo.svg/2048px-Vllaznia_Shkod%C3%ABr_Club_Logo.svg.png",
-    "name2": "Vllaznia",
-    "champ": "Albanie. Super League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_MVV_Maastricht.svg/1200px-Logo_MVV_Maastricht.svg.png",
+    "name1": "MVV Maastricht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Pays-Bas. Ereste Divisie",
     "heure": "19H00",
-    "date": "27/03/2025",
-    "pro": "Total: (+1.5)"
-  },
-
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_S%C3%A3o_Paulo_FC_2022.svg/1200px-Logo_S%C3%A3o_Paulo_FC_2022.svg.png",
-    "name1": "Sao Paulo(Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/3B_da_Amaz%C3%B4nia.png/250px-3B_da_Amaz%C3%B4nia.png",
-    "name2": "3B da Amazonia",
-    "champ": "Chanpionnat. Brésil. Femmes",
-    "heure": "18H00",
-    "date": "27/03/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "28/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Sport_Recife.svg/1200px-Logo_Sport_Recife.svg.png",
-    "name1": "Sport Recife",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/RealBras%C3%ADliaFC.png/130px-RealBras%C3%ADliaFC.png",
-    "name2": "Real Brasilia",
-    "champ": "Chanpionnat. Brésil. Femmes",
-    "heure": "18H00",
-    "date": "27/03/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/1200px-Sport_Club_Corinthians_Paulista_crest.svg.png",
-    "name1": "Corinthians Paulista",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_EC_Juventude.svg/1200px-Logo_EC_Juventude.svg.png",
-    "name2": "Esporte Clube Juventude",
-    "champ": "Chanpionnat. Brésil. Femmes",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxzoeiAAJbuVoVAaJ3Q0Qcyqwu2Rg1c3_HA&s",
+    "name1": "SC Telstar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SBV_Vitesse_%28logo%29.svg/1200px-SBV_Vitesse_%28logo%29.svg.png",
+    "name2": "Vitesse",
+    "champ": "Pays-Bas. Ereste Divisie",
     "heure": "19H00",
-    "date": "27/03/2025",
-    "pro": "Total: (+2.5)"
+    "date": "28/03/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3hJtOgc1NpzZFdDWDvjQcfAHsXi24rFCRAQ&s",
+    "name1": "Eindhoven",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Helmond_Sport_logo.svg/1200px-Helmond_Sport_logo.svg.png",
+    "name2": "Helmond Sport",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
+    "name1": "Excelsior",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht ll",
+    "champ": "Pays-Bas. Ereste Divisie",
+    "heure": "19H00",
+    "date": "28/03/2025",
+    "pro": "V1"
   }
 ]
