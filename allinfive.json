@@ -1,82 +1,93 @@
-[
+
+ [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
-    "name1": "Blackburn Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/Logo_Sheffield_Wednesday_2016.svg/1200px-Logo_Sheffield_Wednesday_2016.svg.png",
-    "name2": "Sheffield Wednesday",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1200px-Logo_Oxford_United_2018.svg.png",
+    "name1": "Oxford United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name2": "Queens Park Rangers",
     "champ": "Angleterre. Championship",
     "heure": "18H45",
-    "date": "08/04/2025",
+    "date": "09/04/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "name2": "West Bromwich",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Swansea_City_AFC_-_1998.svg/1200px-Logo_Swansea_City_AFC_-_1998.svg.png",
+    "name1": "Swansea City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Plymouth_Argyle_1982.svg/1200px-Logo_Plymouth_Argyle_1982.svg.png",
+    "name2": "Plymouth Argyle",
     "champ": "Angleterre. Championship",
     "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_Norwich_City_FC_-_2022.svg/1200px-Logo_Norwich_City_FC_-_2022.svg.png",
-    "name1": "Norwich City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7FNo6gdWVHDAmRYVWh74VMdntxUAAbrwsNw&s",
-    "name2": "Sunderland",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
+    "date": "09/04/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/47/Preston_North_End_FC.png/180px-Preston_North_End_FC.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/800px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name2": "Cardiff City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Stoke_City_FC_2024.svg/1200px-Logo_Stoke_City_FC_2024.svg.png",
-    "name1": "Stoke City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_Luton_Town_2009_FC.svg/1200px-Logo_Luton_Town_2009_FC.svg.png",
-    "name2": "Luton Town",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z2Rt7f_ULew4adrVF4Z-mTBBSEi3bpav_Q&s",
-    "name1": "Watford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/1200px-Hull_City_AFC_logo.svg.png",
-    "name2": "Hull City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds United",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpwYZQz5gFDI7jmSh3LaVzQTxuQsOAV_f0Q&s",
+    "name1": "Coventry City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvFZggyajI5Qin1MeYhXcewDZlFLglN3Fag&s",
+    "name2": "Portsmouth",
     "champ": "Angleterre. Championship",
     "heure": "19H00",
-    "date": "08/04/2025",
-    "pro": "Total 2: (+1)"
+    "date": "09/04/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/14/Hilal_Alsahil_SC.png",
-    "name1": "Al-Hilal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Al_Ahly_FC_logo.png/1200px-Al_Ahly_FC_logo.png",
-    "name2": "Al Ahly le Caire",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Orlando_Pirates_FC_logo.svg/1200px-Orlando_Pirates_FC_logo.svg.png",
+    "name1": "Orlando Pirates",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/d/da/20210124213741%21Logo_MCAlger.png",
+    "name2": "MC Alger",
     "champ": "CAF Ligue des Champions",
+    "heure": "16H00",
+    "date": "09/04/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Zamalek.png/250px-Logo_Zamalek.png",
+    "name1": "Zamalek",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Stellenbosch_FC_logo.png/130px-Stellenbosch_FC_logo.png",
+    "name2": "Stellenbosch",
+    "champ": "Coupe de la Confédération",
+    "heure": "16H00",
+    "date": "09/04/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RS_Berkane.png/1200px-RS_Berkane.png",
+    "name1": "Renaissance Sportive de Berkane",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/ASEC_Mimosas_logo.png/250px-ASEC_Mimosas_logo.png",
+    "name2": "ASEC Mimosas",
+    "champ": "Coupe de la Confédération",
     "heure": "19H00",
-    "date": "08/04/2025",
+    "date": "09/04/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/75/FutebolClubeTirsense.png",
+    "name1": "Tirsense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "Coupe de Portugal",
+    "heure": "19H45",
+    "date": "09/04/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logo_CA_Rosario_Central_2024.svg/1200px-Logo_CA_Rosario_Central_2024.svg.png",
+    "name1": "Rosario Central",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_del_Club_Atl%C3%A9tico_Los_Andes.svg",
+    "name2": "Club Atlético Los Andes",
+    "champ": "Coupe d'Argentine",
+    "heure": "19H00",
+    "date": "09/04/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/800px-Fredrikstad_FK_%28logo%29.svg.png",
+    "name1": "Fredrikstad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
+    "name2": "Valerenga",
+    "champ": "Championnat de Norvège",
+    "heure": "17H00",
+    "date": "09/04/2025",
     "pro": "12"
   }
 ]
