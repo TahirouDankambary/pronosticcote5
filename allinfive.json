@@ -1,93 +1,73 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1200px-Logo_Oxford_United_2018.svg.png",
-    "name1": "Oxford United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name2": "Queens Park Rangers",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "09/04/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
+    "name2": "Lazio",
+    "champ": "Ligue Europa",
+    "heure": "16H45",
+    "date": "10/04/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Swansea_City_AFC_-_1998.svg/1200px-Logo_Swansea_City_AFC_-_1998.svg.png",
-    "name1": "Swansea City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Plymouth_Argyle_1982.svg/1200px-Logo_Plymouth_Argyle_1982.svg.png",
-    "name2": "Plymouth Argyle",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "09/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/1200px-Logo_Rangers_FC_-_2020.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1200px-Club_Athletic_Bilbao_logo.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "10/04/2025",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpwYZQz5gFDI7jmSh3LaVzQTxuQsOAV_f0Q&s",
-    "name1": "Coventry City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvFZggyajI5Qin1MeYhXcewDZlFLglN3Fag&s",
-    "name2": "Portsmouth",
-    "champ": "Angleterre. Championship",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Ligue Europa",
     "heure": "19H00",
-    "date": "09/04/2025",
+    "date": "10/04/2025",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Orlando_Pirates_FC_logo.svg/1200px-Orlando_Pirates_FC_logo.svg.png",
-    "name1": "Orlando Pirates",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/d/da/20210124213741%21Logo_MCAlger.png",
-    "name2": "MC Alger",
-    "champ": "CAF Ligue des Champions",
-    "heure": "16H00",
-    "date": "09/04/2025",
-    "pro": "12"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FMUGpzuApmrkvEaav_80WLJoAY8E5-l5mg&s",
+    "name1": "Legia Varsovie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/2048px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
+    "champ": "Ligue Conférence",
+    "heure": "16H45",
+    "date": "10/04/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Zamalek.png/250px-Logo_Zamalek.png",
-    "name1": "Zamalek",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Stellenbosch_FC_logo.png/130px-Stellenbosch_FC_logo.png",
-    "name2": "Stellenbosch",
-    "champ": "Coupe de la Confédération",
-    "heure": "16H00",
-    "date": "09/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/RS_Berkane.png/1200px-RS_Berkane.png",
-    "name1": "Renaissance Sportive de Berkane",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/ASEC_Mimosas_logo.png/250px-ASEC_Mimosas_logo.png",
-    "name2": "ASEC Mimosas",
-    "champ": "Coupe de la Confédération",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Real Betis",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8gB4fUbyrKQz8IG0m7LxaoYu2HzFt1RY1A&s",
+    "name2": "Jagiellonia Bialystok",
+    "champ": "Ligue Conférence",
     "heure": "19H00",
-    "date": "09/04/2025",
-    "pro": "V1"
+    "date": "10/04/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/75/FutebolClubeTirsense.png",
-    "name1": "Tirsense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name2": "Benfica",
-    "champ": "Coupe de Portugal",
-    "heure": "19H45",
-    "date": "09/04/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logo_CA_Rosario_Central_2024.svg/1200px-Logo_CA_Rosario_Central_2024.svg.png",
-    "name1": "Rosario Central",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/20/Escudo_del_Club_Atl%C3%A9tico_Los_Andes.svg",
-    "name2": "Club Atlético Los Andes",
-    "champ": "Coupe d'Argentine",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
+    "name1": "Djurgardens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/1200px-SK_Rapid_Wien_Logo.svg.png",
+    "name2": "Rapid Vienne",
+    "champ": "Ligue Conférence",
     "heure": "19H00",
-    "date": "09/04/2025",
+    "date": "10/04/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/800px-Fredrikstad_FK_%28logo%29.svg.png",
-    "name1": "Fredrikstad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name2": "Valerenga",
-    "champ": "Championnat de Norvège",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1200px-Logo_Viking_FK.svg.png",
+    "name1": "Viking",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Kristiansund_BK_logo.svg/1200px-Kristiansund_BK_logo.svg.png",
+    "name2": "Kristiansund BK",
+    "champ": "Norvège. Eliteserien",
     "heure": "17H00",
-    "date": "09/04/2025",
-    "pro": "12"
+    "date": "10/04/2025",
+    "pro": "V1"
   }
 ]
