@@ -1,83 +1,64 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxuEos54jvBwD0tfN7YElYcQLF7x7KhCPeA&s",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name2": "Leicester City",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Russie. Première Ligue",
     "heure": "14H00",
-    "date": "12/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "13/04/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/800px-Logo_Nottingham_Forest_FC.svg.png",
-    "name1": "Nottingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
-    "name2": "Everton",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "12/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/FC_Khimki_Logo.svg/1200px-FC_Khimki_Logo.svg.png",
+    "name1": "Khimki",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/PFC_Krylia_Sovetov_Samara.svg/1200px-PFC_Krylia_Sovetov_Samara.svg.png",
+    "name2": "Krylia Sovetov",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H30",
+    "date": "13/04/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name2": "Aston Villa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+    "name1": "Wolverhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
     "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "12/04/2025",
+    "heure": "13H00",
+    "date": "13/04/2025",
+    "pro": "Total: (+2)"
+  },
+
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlG9dalePYAfOXDjiKOKn98X26Ey1B2PWXfg&s",
+    "name1": "Frankfurt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
+    "name2": "Heidenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "15H30",
+    "date": "13/04/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmjIufLk2XiIwD78DRTZCrTmItvnfY9_JbA&s",
+    "name2": "Real Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "14H15",
+    "date": "13/04/2025",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Real Betis",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
     "heure": "16H30",
-    "date": "12/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdYuHI87Os5qSKd8YApxOyA3K4ycwR9FoNQ&s",
-    "name1": "Borussia Monchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/800px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "12/04/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
-    "name1": "Holstein Kiel",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
-    "name2": "St.Pauli",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "12/04/2025",
+    "date": "13/04/2025",
     "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name1": "Hoffenheim",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
-    "name2": "Mayence",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "12/04/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AgTf1GLhWCLeIk-aztt5G9nyUNRYC1V-4A&s",
-    "name2": "Dortmund",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "12/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
