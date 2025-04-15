@@ -1,83 +1,73 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
-    "name1": "Bournemouth",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
-    "name2": "Fulham",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name1": "Aston Villa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hAFA9ka52v0FghokY2tU9-fTZdTIEc1NTg&s",
+    "name2": "PSG",
+    "champ": "UEFA",
     "heure": "19H00",
-    "date": "14/04/2025",
-    "pro": "Total: (+2)"
+    "date": "15/04/2025",
+    "pro": "2X"
   },  
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Logo_Sporting_Club_Bastia_2024.svg/1200px-Logo_Sporting_Club_Bastia_2024.svg.png",
-    "name1": "Bastia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Stade_Lavallois_logo.svg/1200px-Stade_Lavallois_logo.svg.png",
-    "name2": "Stade Lavallois",
-    "champ": "France. Ligue 2",
-    "heure": "18H45",
-    "date": "14/04/2025",
-    "pro": "Total: (+1.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "15/04/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Ajax_Amsterdam_Logo.svg/2048px-Ajax_Amsterdam_Logo.svg.png",
-    "name1": "Ajax ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/4/41/Vitesse_Arnheim.svg/800px-Vitesse_Arnheim.svg.png",
-    "name2": "Vitesse",
-    "champ": "Pays-Bas. Ereste Divisie",
-    "heure": "18H00",
-    "date": "14/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "Alkmaar ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Logo_FC_Volendam_2024.svg/1200px-Logo_FC_Volendam_2024.svg.png",
-    "name2": "Volendam",
-    "champ": "Pays-Bas. Ereste Divisie",
-    "heure": "18H00",
-    "date": "14/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD2QCkVDGSd2V6qv4hyR5PigZd0kcY32pmQ&s",
-    "name1": "PSV ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_MVV_Maastricht.svg/1200px-Logo_MVV_Maastricht.svg.png",
-    "name2": "MVV Maastricht",
-    "champ": "Pays-Bas. Ereste Divisie",
-    "heure": "18H00",
-    "date": "14/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Aldosivi_logo.svg/1200px-Aldosivi_logo.svg.png",
-    "name1": "CAA Aldosivi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/1200px-Escudo_de_Racing_Club_%282014%29.svg.png",
-    "name2": "Racing Club de Avellaneda",
-    "champ": "Argentine. Primera Division",
-    "heure": "18H30",
-    "date": "14/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/39/Arsenal_F%C3%BAtbol_Club_logo.png",
-    "name1": "Arsenal de Sarandi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_CA_Patronato_%282023%29.png/1200px-Logo_of_CA_Patronato_%282023%29.png",
-    "name2": "Club Atlético Patronato",
-    "champ": "Argentine. Primera Division",
-    "heure": "17H00",
-    "date": "14/04/2025",
-    "pro": "Total: (-2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1200px-Logo_S%C3%B8nderjyskE.svg.png",
-    "name1": "Sonderjyske",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0dI0Ba1F5xU3MPEdgehJq47-JvAsGZcE2g&s",
-    "name2": "Vejle",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "14/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name1": "Lokomotiv Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrboSuS4p9ua2Ta5YK9mqK2ZwvTy0ZF9s3bg&s",
+    "name2": "Akhmat",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "15/04/2025",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
+    "name1": "Al Sharjah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1200px-Logo_Al-Taawoun_FC.svg.png",
+    "name2": "Al-Taawon",
+    "champ": "Ligue des Champions AFC",
+    "heure": "16H00",
+    "date": "15/04/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_Salford_City_FC.svg/1200px-Logo_Salford_City_FC.svg.png",
+    "name1": "Salford City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogdKVwYsFuhAUA-GDD0gXkVB-O13m0lzHoQ&s",
+    "name2": "Doncaster Rovers",
+    "champ": "Angleterre. Ligue 2",
+    "heure": "18H45",
+    "date": "15/04/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_de_Club_Atl%C3%A9tico_Estudiantes_%28Tucum%C3%A1n%29.png",
+    "name1": "Club Atlético Estudiantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TalleresRE.svg/1200px-TalleresRE.svg.png",
+    "name2": "Talleres Remedios de Escalada",
+    "champ": "Argentine. Ligue de Reserve",
+    "heure": "14H00",
+    "date": "15/04/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/28/PuertoNuevo.png",
+    "name1": "Puerto Nuevo ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Leandro_N._Alem.png",
+    "name2": "Leandro N. Alem ll",
+    "champ": "Argentine. Ligue de Reserve",
+    "heure": "14H00",
+    "date": "15/04/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
