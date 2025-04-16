@@ -1,73 +1,83 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
-    "name1": "Aston Villa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8hAFA9ka52v0FghokY2tU9-fTZdTIEc1NTg&s",
-    "name2": "PSG",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
     "champ": "UEFA",
     "heure": "19H00",
-    "date": "15/04/2025",
-    "pro": "2X"
+    "date": "16/04/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
     "champ": "UEFA",
     "heure": "19H00",
-    "date": "15/04/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name1": "Lokomotiv Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrboSuS4p9ua2Ta5YK9mqK2ZwvTy0ZF9s3bg&s",
-    "name2": "Akhmat",
-    "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "15/04/2025",
+    "date": "16/04/2025",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
-    "name1": "Al Sharjah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1200px-Logo_Al-Taawoun_FC.svg.png",
-    "name2": "Al-Taawon",
-    "champ": "Ligue des Champions AFC",
-    "heure": "16H00",
-    "date": "15/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_Salford_City_FC.svg/1200px-Logo_Salford_City_FC.svg.png",
-    "name1": "Salford City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogdKVwYsFuhAUA-GDD0gXkVB-O13m0lzHoQ&s",
-    "name2": "Doncaster Rovers",
-    "champ": "Angleterre. Ligue 2",
-    "heure": "18H45",
-    "date": "15/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Escudo_de_Club_Atl%C3%A9tico_Estudiantes_%28Tucum%C3%A1n%29.png",
-    "name1": "Club Atlético Estudiantes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TalleresRE.svg/1200px-TalleresRE.svg.png",
-    "name2": "Talleres Remedios de Escalada",
-    "champ": "Argentine. Ligue de Reserve",
-    "heure": "14H00",
-    "date": "15/04/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "18H30",
+    "date": "16/04/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/28/PuertoNuevo.png",
-    "name1": "Puerto Nuevo ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Leandro_N._Alem.png",
-    "name2": "Leandro N. Alem ll",
-    "champ": "Argentine. Ligue de Reserve",
-    "heure": "14H00",
-    "date": "15/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
+    "name1": "Zénith",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
+    "name2": "Rostov",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "16/04/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/1200px-Dynamo_Moscow_logo.svg.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "17H30",
+    "date": "16/04/2025",
+    "pro": "Total 2: (+0.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Silkeborg_IF.svg/1200px-Logo_Silkeborg_IF.svg.png",
+    "name1": "Silkeborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aalborg_Boldspilklub_%28logo%29.svg/1200px-Aalborg_Boldspilklub_%28logo%29.svg.png",
+    "name2": "Aab Fodbold",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "16/04/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/aa/LogoAguilasPereira.png",
+    "name1": "Aguilas Doradas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/27/Escudo_del_Uni%C3%B3n_Magdalena_F%C3%BAtbol_Club.png",
+    "name2": "Union Magdalena",
+    "champ": "Colombie. Categorie Primera A",
+    "heure": "19H00",
+    "date": "16/04/2025",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FC_Karbach_Logo.png/220px-FC_Karbach_Logo.png",
+    "name1": "FC Karbach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e8/FV_Engers.png",
+    "name2": "Engers",
+    "champ": "Oberliga. Rheinland-Pfalz",
+    "heure": "17H00",
+    "date": "16/04/2025",
+    "pro": "Total: (+2)"
   }
 ]
