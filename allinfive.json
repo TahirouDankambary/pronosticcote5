@@ -1,83 +1,63 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
-    "name1": "Ipswich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/1200px-Logo_Nottingham_Forest_FC.svg.png",
+    "name2": "Nottingham",
     "champ": "Angleterre. Premier League",
-    "heure": "13H00",
-    "date": "20/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "heure": "19H00",
+    "date": "21/04/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "13H00",
-    "date": "20/04/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-150px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "13H00",
-    "date": "20/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1024px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name2": "Real Betis",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "21/04/2025",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H30",
-    "date": "20/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "name1": "West Bromwich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
+    "name2": "Derby County",
+    "champ": "Angleterre. Championship",
+    "heure": "14H00",
+    "date": "21/04/2025",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
-    "name1": "Augsbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlG9dalePYAfOXDjiKOKn98X26Ey1B2PWXfg&s",
-    "name2": "Frankfurt",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "20/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/800px-Logo_Cardiff_City_FC_2015.svg.png",
+    "name1": "Cardiff City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1200px-Logo_Oxford_United_2018.svg.png",
+    "name2": "Oxford United",
+    "champ": "Angleterre. Championship",
+    "heure": "14H00",
+    "date": "21/04/2025",
     "pro": "Total 2: (+0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
-    "name1": "St.Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
-    "name2": "Leverkusen",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "20/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
-    "name1": "Villarreal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
-    "name2": "Real Sociedad",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "20/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name1": "Queens Park",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
+    "name2": "Swansea City",
+    "champ": "Angleterre. Championship",
+    "heure": "14H00",
+    "date": "21/04/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "20/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Stoke_City_FC_2024.svg/1200px-Logo_Stoke_City_FC_2024.svg.png",
+    "name2": "Stoke City",
+    "champ": "Angleterre. Championship",
+    "heure": "14H00",
+    "date": "21/04/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
