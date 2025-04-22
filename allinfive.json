@@ -1,63 +1,83 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/1200px-Logo_Nottingham_Forest_FC.svg.png",
-    "name2": "Nottingham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
     "champ": "Angleterre. Premier League",
     "heure": "19H00",
-    "date": "21/04/2025",
-    "pro": "Total: (+2)"
+    "date": "22/04/2025",
+    "pro": "Total: (+2.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1024px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Real Betis",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
+    "name2": "Espagnol",
     "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "21/04/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "name1": "West Bromwich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
-    "name2": "Derby County",
-    "champ": "Angleterre. Championship",
-    "heure": "14H00",
-    "date": "21/04/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/800px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name1": "Cardiff City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1200px-Logo_Oxford_United_2018.svg.png",
-    "name2": "Oxford United",
-    "champ": "Angleterre. Championship",
-    "heure": "14H00",
-    "date": "21/04/2025",
-    "pro": "Total 2: (+0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name1": "Queens Park",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
-    "heure": "14H00",
-    "date": "21/04/2025",
+    "heure": "17H00",
+    "date": "22/04/2025",
     "pro": "Total: (+1.5)"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H30",
+    "date": "22/04/2025",
+    "pro": "V1"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/800px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Stoke_City_FC_2024.svg/1200px-Logo_Stoke_City_FC_2024.svg.png",
-    "name2": "Stoke City",
-    "champ": "Angleterre. Championship",
-    "heure": "14H00",
-    "date": "21/04/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/FC-Nantes-blason-rvb.png/1200px-FC-Nantes-blason-rvb.png",
+    "name1": "Nantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/2048px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "22/04/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
+    "name1": "Konyaspor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJcCjonm8GV7n-562n133thSfThRPR-a6Lw&s",
+    "name2": "Galatasaray",
+    "champ": "Coupe de Turquie",
+    "heure": "17H30",
+    "date": "22/04/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
+    "name1": "Rio Ave",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/1200px-Logo_Sporting_CP_2001.svg.png",
+    "name2": "Sporting",
+    "champ": "Coupe de Portugal",
+    "heure": "19H45",
+    "date": "22/04/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4b-fFztpmJwHtpdv7hLTrEZGc-YTDyWjcaA&s",
+    "name1": "FCV Dender EH",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
+    "name2": "R.Charleroi",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H30",
+    "date": "22/04/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Standard_de_Li%C3%A8ge_2019.svg/langfr-250px-Logo_Standard_de_Li%C3%A8ge_2019.svg.png",
+    "name1": "Standard Liege",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1200px-Logo_OH_Leuven_2024.svg.png",
+    "name2": "Oud-Heverlee Louvain",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H30",
+    "date": "22/04/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
