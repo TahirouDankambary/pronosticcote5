@@ -1,83 +1,83 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
-    "name2": "Empoli",
-    "champ": "Coupe d'Italie",
-    "heure": "19H00",
-    "date": "24/04/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
+    "name2": "Heidenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "18H30",
+    "date": "25/04/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1024px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "24/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H30",
+    "date": "25/04/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ Alkmaar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8mrWlGQsjiZPEX7JqYhmplOni1r0bPw9Vw&s",
-    "name2": "NAC Breda",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1644px-Logo_OGC_Nice_2013.svg.png",
+    "name2": "Nice",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "25/04/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht",
     "champ": "Pays-Bas. Eredivisie",
     "heure": "16H45",
-    "date": "24/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "25/04/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UJ7uK0ruUFDH6q3bLoLJ_YFkmGiEUMeZpg&s",
-    "name1": "Twente",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD2QCkVDGSd2V6qv4hyR5PigZd0kcY32pmQ&s",
-    "name2": "PSV Eindhoven",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQM67aFYJFYIfyExoyriVEJzHVDkIXUHwCA&s",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PEC_Zwolle_%28logo%29.svg/1200px-PEC_Zwolle_%28logo%29.svg.png",
+    "name2": "PEC Zwolle",
     "champ": "Pays-Bas. Eredivisie",
     "heure": "19H00",
-    "date": "24/04/2025",
-    "pro": "V2"
+    "date": "25/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
-    "name1": "Djurgardens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/5/57/%C3%96sters_IF.svg/1625px-%C3%96sters_IF.svg.png",
-    "name2": "Osters",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "24/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/langfr-250px-Logo_GAIS_2023.svg.png",
-    "name1": "GAIS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/1200px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name2": "Brommapojkarna",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "24/04/2025",
-    "pro": "Total 2: (+0.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/IFK_Norrk%C3%B6ping_%28logo%29.svg/1200px-IFK_Norrk%C3%B6ping_%28logo%29.svg.png",
-    "name1": "IFK Norrköping",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/G%C3%B6teborg_vapen.svg/1691px-G%C3%B6teborg_vapen.svg.png",
-    "name2": "Goteborg",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "24/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg/1200px-Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg.png",
+    "name1": "FCO Beerschot",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/KV_Kortrijk_%28logo-2016%29.svg/710px-KV_Kortrijk_%28logo-2016%29.svg.png",
+    "name2": "Kortrijk",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H45",
+    "date": "25/04/2025",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/IFK_V%C3%A4rnamo_%28logo%29.svg/1200px-IFK_V%C3%A4rnamo_%28logo%29.svg.png",
-    "name1": "IFK Varnamo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/AIK_Solna.svg/1200px-AIK_Solna.svg.png",
-    "name2": "AIK Fotboll",
-    "champ": "Suède. Allsvenskan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3eMzFy90IWleEzGFMricLrzlBhdBrqkuUg&s",
+    "name1": "Randers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
+    "name2": "Brondby",
+    "champ": "Danemark. Superliga",
     "heure": "17H00",
-    "date": "24/04/2025",
-    "pro": "Total: (+1.5)"
+    "date": "25/04/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOweAB5XloH6Jsvugb63Md6Mo9LeRBa6iWGA&s",
+    "name1": "Cremonese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Logo_Mantova_1911_2024.svg/1200px-Logo_Mantova_1911_2024.svg.png",
+    "name2": "Mantova",
+    "champ": "Italie. Série B",
+    "heure": "16H00",
+    "date": "25/04/2025",
+    "pro": "Total: (+2)"
   }
 ]
