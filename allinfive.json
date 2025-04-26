@@ -1,83 +1,63 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Stuttgart",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
-    "name2": "Heidenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "18H30",
-    "date": "25/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
-    "name1": "Dynamo Makhachkala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name2": "Krasnodar",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "25/04/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "name2": "Fulham",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "26/04/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1644px-Logo_OGC_Nice_2013.svg.png",
-    "name2": "Nice",
-    "champ": "France. Ligue 1",
-    "heure": "18H45",
-    "date": "25/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "26/04/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
-    "name1": "Waalwijk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "16H45",
-    "date": "25/04/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQM67aFYJFYIfyExoyriVEJzHVDkIXUHwCA&s",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PEC_Zwolle_%28logo%29.svg/1200px-PEC_Zwolle_%28logo%29.svg.png",
-    "name2": "PEC Zwolle",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "25/04/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg/1200px-Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg.png",
-    "name1": "FCO Beerschot",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/KV_Kortrijk_%28logo-2016%29.svg/710px-KV_Kortrijk_%28logo-2016%29.svg.png",
-    "name2": "Kortrijk",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "18H45",
-    "date": "25/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/640px-SC_Freiburg_%28logo%29.svg.png",
+    "name2": "Fribourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "26/04/2025",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3eMzFy90IWleEzGFMricLrzlBhdBrqkuUg&s",
-    "name1": "Randers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name2": "Brondby",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "25/04/2025",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
+    "name1": "Holstein",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/800px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "name2": "Mönchengladbach",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "26/04/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOweAB5XloH6Jsvugb63Md6Mo9LeRBa6iWGA&s",
-    "name1": "Cremonese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Logo_Mantova_1911_2024.svg/1200px-Logo_Mantova_1911_2024.svg.png",
-    "name2": "Mantova",
-    "champ": "Italie. Série B",
-    "heure": "16H00",
-    "date": "25/04/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "26/04/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/800px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "name1": "Hoffenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "26/04/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
