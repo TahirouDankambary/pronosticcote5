@@ -1,83 +1,83 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/800px-Logo_FC_Barcelone.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/800px-Logo_Manchester_United_FC.svg.png",
+    "name2": "Man United",
+    "champ": "Ligue Europa",
     "heure": "19H00",
-    "date": "30/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "01/05/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name1": "Lokomotiv Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
-    "name2": "Rostov",
-    "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "30/04/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
-    "name1": "Zénith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/800px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "17H30",
-    "date": "30/04/2025",
-    "pro": "total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Mansfield_Town_FC.svg/1200px-Mansfield_Town_FC.svg.png",
-    "name1": "Mansfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Peterborough_United_2008.svg/1200px-Logo_Peterborough_United_2008.svg.png",
-    "name2": "Peterborough",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "30/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name2": "Bodo-Glimt",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "01/05/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/vi/e/ef/Billericay_Town_F.C._Logo.png",
-    "name1": "Billericay Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Dover_Athletic_FC_crest.svg/1200px-Dover_Athletic_FC_crest.svg.png",
-    "name2": "Dover Athletic",
-    "champ": "Angleterre. Ligue de L'Ishmiam",
-    "heure": "18H45",
-    "date": "30/04/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Dartford_FC.svg/1200px-Dartford_FC.svg.png",
-    "name1": "Dartford",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMaKUYp37YI5kCnrVcMSQDHkxjUUwA0HpK2w&s",
-    "name2": "Cray Valley Paper Mills",
-    "champ": "Angleterre. Ligue de L'Ishmiam",
-    "heure": "18H45",
-    "date": "30/04/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/77/Berkhamsted_F.C._logo.png",
-    "name1": "Berkhamsted",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Hadley_FC_crest.svg/1200px-Hadley_FC_crest.svg.png",
-    "name2": "Hadley",
-    "champ": "Angleterre. Southern",
-    "heure": "18H45",
-    "date": "30/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Real Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Ligue Conférence",
+    "heure": "19H00",
+    "date": "01/05/2025",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/89/Bishop%27s_Cleeve_logo.png",
-    "name1": "Bishop's Cleeve",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/13/Malvern_Town_FC_logo.png",
-    "name2": "Malvern Town",
-    "champ": "Angleterre. Southern",
-    "heure": "18H45",
-    "date": "30/04/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
+    "name1": "Djurgardens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/2048px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
+    "champ": "Ligue Conférence",
+    "heure": "19H00",
+    "date": "01/05/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/1200px-Logo_Nottingham_Forest_FC.svg.png",
+    "name1": "Nottingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "18H30",
+    "date": "01/05/2025",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/US_Citt%C3%A0_di_Palermo_Logo.svg/1200px-US_Citt%C3%A0_di_Palermo_Logo.svg.png",
+    "name1": "Città Di Palermo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/FC_S%C3%BCdtirol_%28logo%29.svg/langfr-250px-FC_S%C3%BCdtirol_%28logo%29.svg.png",
+    "name2": "Sudtirol",
+    "champ": "Italie. Série B",
+    "heure": "13H00",
+    "date": "01/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Cosenza_Calcio.svg/1200px-Logo_Cosenza_Calcio.svg.png",
+    "name1": "Cosenza Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Logo_SSC_Bari_-_2018.svg/langfr-250px-Logo_SSC_Bari_-_2018.svg.png",
+    "name2": "Bari",
+    "champ": "Italie. Série B",
+    "heure": "13H00",
+    "date": "01/05/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PliTrqOaY433mE2PAIw8d_Q5gck15AcCyQ&s",
+    "name1": "Pisa 1909",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Frosinone_Calcio_2011.svg/1200px-Logo_Frosinone_Calcio_2011.svg.png",
+    "name2": "Frosinone Calcio",
+    "champ": "Italie. Série B",
+    "heure": "13H00",
+    "date": "01/05/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
