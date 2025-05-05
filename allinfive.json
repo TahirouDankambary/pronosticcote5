@@ -1,82 +1,83 @@
+
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/1845px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "13H00",
-    "date": "04/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1024px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "05/05/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/PFC_Krylia_Sovetov_Samara.svg/1200px-PFC_Krylia_Sovetov_Samara.svg.png",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/800px-Dynamo_Moscow_logo.svg.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Russie. Première Ligue",
     "heure": "15H30",
-    "date": "04/05/2025",
+    "date": "05/05/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_FC_Augsburg_2024.svg/1200px-Logo_FC_Augsburg_2024.svg.png",
-    "name1": "Augsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
-    "name2": "Holstein Kiel",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "13H30",
-    "date": "04/05/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
+    "name1": "Rio Ave",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65yeD47U6a-EZntGA3B5IQCEDBwKCMAWLKQ&s",
+    "name2": "Estrela da Amadora",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H30",
+    "date": "05/05/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/610px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Bayer",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "15H30",
-    "date": "04/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/CD_Aves_%28logo%29.svg/640px-CD_Aves_%28logo%29.svg.png",
+    "name1": "Aves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Boavista_F.C._%28logo%29.svg/1200px-Boavista_F.C._%28logo%29.svg.png",
+    "name2": "Boavista Porto",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H15",
+    "date": "05/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Kas%C4%B1mpa%C5%9Fa_SK.svg/langfr-250px-Logo_Kas%C4%B1mpa%C5%9Fa_SK.svg.png",
+    "name1": "Kasimpasa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Trabzonspor_2022.svg/langfr-250px-Logo_Trabzonspor_2022.svg.png",
+    "name2": "Trabzonspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "05/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kallitheafc_official_logo.png",
+    "name1": "Kallithea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Logo_Panetolik%C3%B3s_FC.svg/langfr-250px-Logo_Panetolik%C3%B3s_FC.svg.png",
+    "name2": "Panetolikos",
+    "champ": "Grèce. Superligue Ellada",
+    "heure": "15H00",
+    "date": "05/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Panserraikos_FC.svg/langfr-250px-Logo_Panserraikos_FC.svg.png",
+    "name1": "Panserraikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Volos_F.C._logo.png/250px-Volos_F.C._logo.png",
+    "name2": "Volos NFC",
+    "champ": "Grèce. Superligue Ellada",
+    "heure": "15H00",
+    "date": "05/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Logo_PAS_Lam%C3%ADa.svg/1200px-Logo_PAS_Lam%C3%ADa.svg.png",
+    "name1": "PAS Lamia 1964",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SWbxgXMN7M4wjJDm5vgDWLBTFYt2yzEuIA&s",
+    "name2": "Levadiakos",
+    "champ": "Grèce. Superligue Ellada",
+    "heure": "17H00",
+    "date": "05/05/2025",
     "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "04/05/2025",
-    "pro": "Total 2: (+0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWcj-2c6ItX0u6MRWohWoLB60xjqkDB-RAA&s",
-    "name2": "Celta Vigo",
-    "champ": "Espagne. LaLiga",
-    "heure": "12H00",
-    "date": "04/05/2025",
-    "pro": "1X ET TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY1xt4YDlktoFld2bLkIMLrNNt0oj0dPuCg&s",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name2": "Leganés",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "04/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "04/05/2025",
-    "pro": "Total: (+1.5)"
   }
 ]
