@@ -1,83 +1,93 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
-    "name2": "Arsenal",
-    "champ": "UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/800px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Ligue Europa",
     "heure": "19H00",
-    "date": "07/05/2025",
+    "date": "08/05/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Silkeborg_IF.svg/1200px-Logo_Silkeborg_IF.svg.png",
-    "name1": "Silkeborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5W-_xOhNShWJTsCe0jgD1kOIEF6TuswwYg&s",
-    "name2": "Brondby",
-    "champ": "Coupe du Danemark",
-    "heure": "16H30",
-    "date": "07/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_Manchester_United.svg/2021px-Logo_Manchester_United.svg.png",
+    "name1": "Man United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9RkWz9liJJHvzxabnmgzW0JLh59PiI0CTVw&s",
+    "name2": "Athletic Bilbao",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "08/05/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4S-6_1BOwhAZLnEXq7YC0wGmX__BNmB68A&s",
-    "name1": "Al-Raed",
-    "photo2": "https://a0.anyrgb.com/pngimg/904/296/yasser-alqahtani-alduhail-sc-esteghlal-fc-alhilal-fc-riyadh-saudi-arabia-pallone-badge-emblem-football.png",
-    "name2": "Al-Hilal Riyadh",
-    "champ": "Arabie saoudite",
-    "heure": "16H15",
-    "date": "07/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name2": "Real Betis",
+    "champ": "Ligue Conférence",
+    "heure": "19H00",
+    "date": "08/05/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
+    "name2": "Djurgardens",
+    "champ": "Ligue Conférence",
+    "heure": "19H00",
+    "date": "08/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kYfwgVBXGyx4ugtyGg-lmcqNKWfmwm264A&s",
+    "name2": "Sheffield",
+    "champ": "Angleterre. Championship",
+    "heure": "19H00",
+    "date": "08/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/2048px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/langfr-250px-Logo_Viborg_FF.svg.png",
+    "name2": "Viborg",
+    "champ": "Coupe du Danemark",
+    "heure": "17H00",
+    "date": "08/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Escudo-Centro-Espa%C3%B1ol.png/250px-Escudo-Centro-Espa%C3%B1ol.png",
+    "name1": "CRS Espanol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Sportivo_Barracas.jpg",
+    "name2": "Sportivo Barracas",
+    "champ": "Championnat d'Argentine",
+    "heure": "14H00",
+    "date": "08/05/2025",
     "pro": "V2 Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name1": "Al-Ahli Jeddah",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2QD-k8eJtCkuddvtvHS3cNWItVb-vnTk_g&s",
-    "name2": "Al-Taawon",
-    "champ": "Arabie saoudite",
-    "heure": "16H25",
-    "date": "07/05/2025",
-    "pro": "V1"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/AlNassr_logo.png/960px-AlNassr_logo.png",
-    "name1": "Al Nassr",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsYgNSMru2Om7B7jkldecWay83f5LCf3DLeg&s",
-    "name2": "Ittihad FC",
-    "champ": "Arabie saoudite",
-    "heure": "18H00",
-    "date": "07/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3KKATsFTt_rpjj_HmD3BrrwK57bqq7vv8Q&s",
-    "name1": "Deportivo Armenio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Argentino_de_Merlo.png",
-    "name2": "Argentine de Merlo",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/70/Club_leandro_alem_logo.png",
+    "name1": "Leandro N.Alem",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Dep_paraguayo.png/250px-Dep_paraguayo.png",
+    "name2": "Deportivo Paraguayo",
     "champ": "Championnat d'Argentine",
-    "heure": "13H00",
-    "date": "07/05/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "15H00",
+    "date": "08/05/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/58/Lupo_Martini_Wolfsburg.png",
-    "name1": "Lupo Martini Wolfsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/82/Wappen_Vorsfelde_alt.png",
-    "name2": "Vorsfelde",
-    "champ": "Allemagne. Oberliga",
-    "heure": "16H30",
-    "date": "07/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_del_Sacachispas_F%C3%BAtbol_Club.svg",
-    "name1": "Sacachispas ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Midland_escudo.png/250px-Midland_escudo.png",
-    "name2": "Ferrocarril Midland",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_Oficial_y_Escudo_del_Club_Deportivo_Espanol.svg/455px-Logotipo_Oficial_y_Escudo_del_Club_Deportivo_Espanol.svg.png",
+    "name1": "Deportivo Espanol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Club_lamadrid_logo.png",
+    "name2": "General Lamadrid",
     "champ": "Championnat d'Argentine",
-    "heure": "13H00",
-    "date": "07/05/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "16H00",
+    "date": "08/05/2025",
+    "pro": "Total: (+2)"
   }
 ]
