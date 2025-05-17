@@ -1,103 +1,83 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/800px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "18H30",
-    "date": "16/05/2025",
-    "pro": "Total 2: (+0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
+    "name1": "Augsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name2": "Union Berlin",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "12"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/2048px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_Manchester_United.svg/1200px-Logo_Manchester_United.svg.png",
-    "name2": "Man United",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H15",
-    "date": "16/05/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
-    "name1": "Rio Ave",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYx2ICg3fw-WApdLtJMwpMc1EjSE23BqG-XQ&s",
-    "name2": "Gil Vicente",
-    "champ": "Portugal. Première Ligue",
-    "heure": "18H00",
-    "date": "16/05/2025",
-    "pro": "Total: (+1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/FC_Famalic%C3%A3o_logo.png/250px-FC_Famalic%C3%A3o_logo.png",
-    "name1": "Famalicao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Casa_Pia_AC_2017.svg/1200px-Logo_Casa_Pia_AC_2017.svg.png",
-    "name2": "Casa Pia",
-    "champ": "Portugal. Première Ligue",
-    "heure": "18H00",
-    "date": "16/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/800px-FC_St._Pauli_%28logo%29.svg.png",
+    "name1": "St.Pauli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
+    "name2": "VfL Bochum",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfwJi6hSGkEwdSoXpFoORJ-YG3PBYA-psCQ&s",
-    "name1": "Oud-Heverlee Louvain",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/KVC-Westerlo.png/250px-KVC-Westerlo.png",
-    "name2": "K.V.C.Westerlo",
-    "champ": "Belqique. Jupiler Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "Total 2: (+1)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
+    "name1": "Heidenheim",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-b-PD57W7zYkgUCUniJrNMQ7XLiL5AIuGA&s",
+    "name2": "Werder Bremen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "name1": "Hoffenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern Munich",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/640px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name2": "Atalanta",
+    "champ": "Italie. Série A",
     "heure": "18H45",
-    "date": "16/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg/1200px-FC_Nordsj%C3%A6lland_%28logo%29.svg.png",
-    "name1": "Nordsjaelland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1200px-AGF_Aarhus_%28logo%29.svg.png",
-    "name2": "AGF Aarhus",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "16/05/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0vx2cEvTSg6hq3IAqb9M71WAMMPzA6CkBA&s",
-    "name1": "Levante",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Albacete_balompie.svg/1200px-Albacete_balompie.svg.png",
-    "name2": "Albacete Balompie",
-    "champ": "Espagne. D2",
-    "heure": "18H30",
-    "date": "16/05/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/SC_Cambuur_logo.png/250px-SC_Cambuur_logo.png",
-    "name1": "Cambur",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/1200px-FC_Den_Bosch_logo.svg.png",
-    "name2": "Den Bosch",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "16/05/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "17/05/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZs0U42owbt3rv8JVu1oVXC-ssBElWum0Nw&s",
-    "name2": "Sarpsborg 08",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "16/05/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Viking_FK_logo_2020.svg/1200px-Viking_FK_logo_2020.svg.png",
-    "name1": "Viking",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Sandefjord_Fotball.svg/langfr-250px-Logo_Sandefjord_Fotball.svg.png",
-    "name2": "Sandefjord",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "16/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-250px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/Logo_Stade_de_Reims_-_2020.svg/1200px-Logo_Stade_de_Reims_-_2020.svg.png",
+    "name2": "Stade de Reims",
+    "champ": "France. Ligue 1",
+    "heure": "19H00",
+    "date": "17/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
