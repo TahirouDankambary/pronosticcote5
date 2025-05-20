@@ -1,103 +1,93 @@
 
   [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxuEos54jvBwD0tfN7YElYcQLF7x7KhCPeA&s",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
+    "name2": "Wolverhampton",
     "champ": "Angleterre. Premier League",
     "heure": "19H00",
-    "date": "19/05/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "20/05/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name1": "Lokomotiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "19/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name2": "Bournemouth",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "20/05/2025",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/York_City_FC.svg/1200px-York_City_FC.svg.png",
+    "name1": "York City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oldham_Athletic_AFC_%28emblem%29.svg/1200px-Oldham_Athletic_AFC_%28emblem%29.svg.png",
+    "name2": "Oldham Athletic",
+    "champ": "Angleterre. National",
+    "heure": "18H45",
+    "date": "20/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/2048px-FC_Den_Bosch_logo.svg.png",
+    "name1": "Den Bosch",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxzoeiAAJbuVoVAaJ3Q0Qcyqwu2Rg1c3_HA&s",
+    "name2": "SC Telstar",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "20/05/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVkWUznCvhVaXzImbnTwE1W2GLx71gsECYA&s",
+    "name1": "Atletico Camioneros",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Club_atlas_arg_logo.png/120px-Club_atlas_arg_logo.png",
+    "name2": "CA Atlas",
+    "champ": "Argentine. Primera C",
+    "heure": "18H30",
+    "date": "20/05/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/82/Argentinos_de_rosario.png",
+    "name1": "Club Atletico Argentino Rosario",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/67/Escudo_Club_Luj%C3%A1n.png",
+    "name2": "Club Luján",
+    "champ": "Argentine. Primera C",
+    "heure": "18H30",
+    "date": "20/05/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/1200px-C%C3%B3rdoba_CF_logo.svg.png",
-    "name1": "Cordoba",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
-    "name2": "Mirandes",
-    "champ": "Espagne. D2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cambacerees.png/150px-Cambacerees.png",
+    "name1": "Club Defensores de Cambaceres",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Escudolugano1.png",
+    "name2": "CA Lugano",
+    "champ": "Argentine. Primera C",
     "heure": "18H30",
-    "date": "19/05/2025",
+    "date": "20/05/2025",
     "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5W-_xOhNShWJTsCe0jgD1kOIEF6TuswwYg&s",
-    "name1": "Brondby",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FRv9YOvKo3NKMWVwltW069gsVDrNLQ4BTA&s",
-    "name2": "Midtjylland",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Widzew_Lodz_%28logo%29.svg/1200px-Widzew_Lodz_%28logo%29.svg.png",
-    "name1": "Widzew Lodz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Puszcza_Niepolomice_Herb_Full.svg/1200px-Puszcza_Niepolomice_Herb_Full.svg.png",
-    "name2": "MKS Puszcza Niepolomice",
-    "champ": "Championnat de Pologne",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Degerfors_IF_logo.svg/1200px-Degerfors_IF_logo.svg.png",
-    "name1": "Degerfors",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-gIcGxCFqetBDUxE3AYB0SR_90dB9tebUw&s",
-    "name2": "Goteborg",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "19/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Yupanqui_club_logo.png",
+    "name1": "CSD Yupanqui",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/17/Canuelas_fc_logo.png",
+    "name2": "Canuelas",
+    "champ": "Argentine. Primera C",
+    "heure": "18H30",
+    "date": "20/05/2025",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1200px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
-    "name1": "Mjallby AIF",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/1200px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name2": "Brommapojkarna",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Logo_IK_Sirius_2018.svg/1200px-Logo_IK_Sirius_2018.svg.png",
-    "name1": "Sirius",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/IFK_Norrk%C3%B6ping_%28logo%29.svg/1200px-IFK_Norrk%C3%B6ping_%28logo%29.svg.png",
-    "name2": "IFK Norrkoping",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "Total: (+2)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/1200px-IF_Elfsborg_%28logo%29.svg.png",
-    "name1": "Elfsborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaYVGagGLyORC7NzuykbmKkHjM7iM9igZ6g&s",
-    "name2": "Djurgardens",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H10",
-    "date": "19/05/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name2": "Drogheda United",
-    "champ": "Irlande. D1",
-    "heure": "18H45",
-    "date": "19/05/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Escudo-Centro-Espa%C3%B1ol.png",
+    "name1": "CSR Espanol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Escudo-Central-.Ballester.png",
+    "name2": "Central Ballester",
+    "champ": "Argentine. Primera C",
+    "heure": "18H30",
+    "date": "20/05/2025",
+    "pro": "12"
   }
 ]
