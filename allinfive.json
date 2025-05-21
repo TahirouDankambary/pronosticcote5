@@ -1,93 +1,63 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
+    "name2": "Man United",
+    "champ": "Ligue Europa",
     "heure": "19H00",
-    "date": "20/05/2025",
+    "date": "21/05/2025",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
-    "name2": "Bournemouth",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "20/05/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/York_City_FC.svg/1200px-York_City_FC.svg.png",
-    "name1": "York City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oldham_Athletic_AFC_%28emblem%29.svg/1200px-Oldham_Athletic_AFC_%28emblem%29.svg.png",
-    "name2": "Oldham Athletic",
-    "champ": "Angleterre. National",
-    "heure": "18H45",
-    "date": "20/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/2048px-FC_Den_Bosch_logo.svg.png",
-    "name1": "Den Bosch",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxzoeiAAJbuVoVAaJ3Q0Qcyqwu2Rg1c3_HA&s",
-    "name2": "SC Telstar",
-    "champ": "Pays-Bas. Eerste Divisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/1200px-FC_Metz_2021_Logo.svg.png",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
+    "name2": "Stade de Reims",
+    "champ": "France. Qualification",
     "heure": "18H00",
-    "date": "20/05/2025",
-    "pro": "Total: (+2)"
+    "date": "21/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyVkWUznCvhVaXzImbnTwE1W2GLx71gsECYA&s",
-    "name1": "Atletico Camioneros",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Club_atlas_arg_logo.png/120px-Club_atlas_arg_logo.png",
-    "name2": "CA Atlas",
-    "champ": "Argentine. Primera C",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/US_Catanzaro_%28logo%29.svg/1200px-US_Catanzaro_%28logo%29.svg.png",
+    "name1": "Catanzaro 1929",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Spezia_Calcio_-_2023.svg/1200px-Logo_Spezia_Calcio_-_2023.svg.png",
+    "name2": "Spezia",
+    "champ": "Italie. Série B",
     "heure": "18H30",
-    "date": "20/05/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/82/Argentinos_de_rosario.png",
-    "name1": "Club Atletico Argentino Rosario",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/67/Escudo_Club_Luj%C3%A1n.png",
-    "name2": "Club Luján",
-    "champ": "Argentine. Primera C",
-    "heure": "18H30",
-    "date": "20/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cambacerees.png/150px-Cambacerees.png",
-    "name1": "Club Defensores de Cambaceres",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Escudolugano1.png",
-    "name2": "CA Lugano",
-    "champ": "Argentine. Primera C",
-    "heure": "18H30",
-    "date": "20/05/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Yupanqui_club_logo.png",
-    "name1": "CSD Yupanqui",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/17/Canuelas_fc_logo.png",
-    "name2": "Canuelas",
-    "champ": "Argentine. Primera C",
-    "heure": "18H30",
-    "date": "20/05/2025",
+    "date": "21/05/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Escudo-Centro-Espa%C3%B1ol.png",
-    "name1": "CSR Espanol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Escudo-Central-.Ballester.png",
-    "name2": "Central Ballester",
-    "champ": "Argentine. Primera C",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_SS_Juve_Stabia_2024.svg/1200px-Logo_SS_Juve_Stabia_2024.svg.png",
+    "name1": "Juve Stabia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png",
+    "name2": "Cremonese",
+    "champ": "Italie. Série B",
     "heure": "18H30",
-    "date": "20/05/2025",
+    "date": "21/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/FC_Dordrecht.png/250px-FC_Dordrecht.png",
+    "name1": "Dordrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/1200px-Logo_Willem_II_Tilburg_-_2022.svg.png",
+    "name2": "Willem ll",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "16H45",
+    "date": "21/05/2025",
     "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lillestr%C3%B8m_SK_logo.svg/250px-Lillestr%C3%B8m_SK_logo.svg.png",
+    "name1": "Lillestrom",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/800px-Fredrikstad_FK_%28logo%29.svg.png",
+    "name2": "Fredrikstad",
+    "champ": "Norvège. NM Cup",
+    "heure": "17H00",
+    "date": "21/05/2025",
+    "pro": "Total 2: (+0.5)"
   }
 ]
