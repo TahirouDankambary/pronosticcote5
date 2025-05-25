@@ -1,83 +1,103 @@
 
   [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name2": "Real Sociedad",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H13",
-    "date": "24/05/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "name2": "Leicester City",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/1200px-Club_Deportivo_Legan%C3%A9s_logo.svg.png",
-    "name1": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
-    "name2": "Real Valladolid",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "24/05/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
-    "name2": "Las Palmas",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "24/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name1": "Deportivo Alavés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "24/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
-    "name1": "Rayo Vallecano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
-    "name2": "Majorque",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "24/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/1200px-Bologna_F.C._1909_logo.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "24/05/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
-    "name1": "Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/AC_Monza_logo_%282021%29.svg/250px-AC_Monza_logo_%282021%29.svg.png",
-    "name2": "Monza",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "24/05/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Akron_Togliatti.png",
-    "name1": "Akron Tolyatti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name2": "Lokomotiv",
-    "champ": "Russie. Première Ligue",
-    "heure": "13H30",
-    "date": "24/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+    "name1": "Wolverhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
     "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
+    "name1": "Man United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name2": "Aston Villa",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Nottingham_Forest_logo.svg/1200px-Nottingham_Forest_logo.svg.png",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
+    "name2": "Everton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/langfr-250px-Logo_Arsenal_FC_2002.svg.png",
+    "name2": "Arsenal",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "25/05/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
