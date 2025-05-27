@@ -1,103 +1,93 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Logo_Hatayspor.svg/800px-Logo_Hatayspor.svg.png",
-    "name1": "Hatayspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "26/05/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/1200px-Eintracht_Braunschweig_%28logo%29.svg.png",
+    "name1": "Eintracht Brunswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/1._FC_Saarbr%C3%BCcken.svg/1200px-1._FC_Saarbr%C3%BCcken.svg.png",
+    "name2": "1.Fc Sarrebruck",
+    "champ": "Allemagne. Qualif",
+    "heure": "18H30",
+    "date": "27/05/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/1200px-LASK-Logo_2023.svg.png",
-    "name1": "LASK Linz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_TSV_Hartberg_2010.svg/langfr-250px-Logo_TSV_Hartberg_2010.svg.png",
-    "name2": "Hartberg",
-    "champ": "Autriche. Bundesliga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/2560px-Flag_of_Jamaica.svg.png",
+    "name1": "Jamaïque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1280px-Flag_of_Trinidad_and_Tobago.svg.png",
+    "name2": "Trinité-et-Tobago",
+    "champ": "Matchs amicaux",
+    "heure": "18H00",
+    "date": "27/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Wydad_Athletic_Club_logo_%281940%29.svg/787px-Wydad_Athletic_Club_logo_%281940%29.svg.png",
+    "name1": "Wydad Athletic Club",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY1xt4YDlktoFld2bLkIMLrNNt0oj0dPuCg&s",
+    "name2": "Séville",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "19H00",
+    "date": "27/05/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1200px-Sandvikens_IF_logo.svg.png",
+    "name1": "Sandvikens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/GIF_Sundsvall_%28logo%29.svg/langfr-250px-GIF_Sundsvall_%28logo%29.svg.png",
+    "name2": "Sundsvall",
+    "champ": "Suède. Superettan",
     "heure": "17H00",
-    "date": "26/05/2025",
-    "pro": "1X"
+    "date": "27/05/2025",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSY3JA9lQkC1ntw4UAjAiRyE8_T0gydyRVeA&s",
-    "name1": "Al Feiha",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
-    "name2": "Al Shabab Riyadh",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Trelleborgs_FF_%28logo%29.svg/1200px-Trelleborgs_FF_%28logo%29.svg.png",
+    "name1": "Trelleborgs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1200px-Helsingborgs_IF_%28logo%29.svg.png",
+    "name2": "Helsingborgs",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "27/05/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Puch_logo.svg/1200px-Puch_logo.svg.png",
+    "name1": "Puch",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Salzburger_AK_1914_logo.svg/1205px-Salzburger_AK_1914_logo.svg.png",
+    "name2": "Salzburger AK",
+    "champ": "Autriche. Landesliga",
+    "heure": "17H00",
+    "date": "27/05/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/c5/HooGee_logo.png",
+    "name1": "Hoo Gee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/55/SexyP%C3%B6xyt.png",
+    "name2": "Sexy Poxyt",
+    "champ": "Finlande. D3",
+    "heure": "16H05",
+    "date": "27/05/2025",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Al-Orobah_Logo.svg/1200px-Al-Orobah_Logo.svg.png",
-    "name1": "Al Orobah Al Jawf",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Al_Taawoun_FC_Logo.svg/1200px-Al_Taawoun_FC_Logo.svg.png",
-    "name2": "Al-Taawon",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Al-Fateh_SC.svg/1200px-Logo_Al-Fateh_SC.svg.png",
-    "name1": "Al-Fateh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Logo_Al-Nassr.png/500px-Logo_Al-Nassr.png",
-    "name2": "Al Nassr",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/22/20220829123150%21Al-Hilal-Logo.png/120px-Al-Hilal-Logo.png",
-    "name1": "Al-Hilal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Al-Qadsiah_FC.svg/1200px-Logo_Al-Qadsiah_FC.svg.png",
-    "name2": "Al-Qadisiyah",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Al-Khaleej_FC_Logo.svg/1200px-Al-Khaleej_FC_Logo.svg.png",
-    "name1": "Al-Khaleej",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmXLwTWFu-oc42LyZkIdWollsiijrAhxEbQ&s",
-    "name2": "Al-Okhdood",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Al_Raed_FC.svg/1200px-Al_Raed_FC.svg.png",
-    "name1": "Al-Raed",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Al-Kholood_Club_logo.svg/1200px-Al-Kholood_Club_logo.svg.png",
-    "name2": "Al Kholood",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Logo_Al-Riyadh_FC.svg/1200px-Logo_Al-Riyadh_FC.svg.png",
-    "name1": "Al-Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name2": "Al-Ahli Jeddah",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fi/9/97/Ponnistajat.jpg",
+    "name1": "Ponnistajat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
+    "name2": "Gnistan Ogeli",
+    "champ": "Finlande. D3",
+    "heure": "16H15",
+    "date": "27/05/2025",
     "pro": "V2 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Logo_Al-Ettifaq_FC_2023.svg/1200px-Logo_Al-Ettifaq_FC_2023.svg.png",
-    "name1": "Ettifaq Dammam",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Logo_Al-Wehda_FC.svg/1200px-Logo_Al-Wehda_FC.svg.png",
-    "name2": "Al-Wehda Club",
-    "champ": "Arabie Saoudite",
-    "heure": "18H00",
-    "date": "26/05/2025",
+    "photo1": "https://tmssl.akamaized.net//images/wappen/big/85721.png?lm=1652124058",
+    "name1": "Sayana Haskovo",
+    "photo2": "https://media.bgclubs.eu/images/logos/10813.png",
+    "name2": "Marica Milevo",
+    "champ": "Bulgarie. V AFG",
+    "heure": "15H30",
+    "date": "27/05/2025",
     "pro": "Total: (+2)"
   }
 ]
