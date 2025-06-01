@@ -1,93 +1,83 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "31/05/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/FC_Rostov_logo.svg/1200px-FC_Rostov_logo.svg.png",
+    "name1": "Rostov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "01/06/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/2560px-Flag_of_Jamaica.svg.png",
-    "name1": "Jamaïque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png",
-    "name2": "Nigeria",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "16H00",
-    "date": "31/05/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhK_H44Gpr0P60JnQxh260fLJ5rQAc4bhgQ&s",
-    "name1": "Pari Nizhny",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
-    "name2": "Sochi",
-    "champ": "Russie. Qualification",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mirassol_FC_logo.png/960px-Mirassol_FC_logo.png",
+    "name1": "Mirassol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYSBXUQrRy72vWYHz1ZekkibvdZ0L7EbX4Q&s",
+    "name2": "Sport Club de Recife",
+    "champ": "Brésil. Série A",
     "heure": "14H00",
-    "date": "31/05/2025",
+    "date": "01/06/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrboSuS4p9ua2Ta5YK9mqK2ZwvTy0ZF9s3bg&s",
-    "name1": "Akhmat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/FC_Ural_Yekaterinburg_%28logo%29.svg/1200px-FC_Ural_Yekaterinburg_%28logo%29.svg.png",
-    "name2": "Oural",
-    "champ": "Russie. Qualification",
-    "heure": "16H30",
-    "date": "31/05/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
-    "name2": "Konyaspor",
-    "champ": "Turquie. Süper Lig",
-    "heure": "13H00",
-    "date": "31/05/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/St._Louis_City_SC_II.png/250px-St._Louis_City_SC_II.png",
-    "name1": "St.Louis City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/San_Jose_Earthquakes_%282014-%29.svg/langfr-250px-San_Jose_Earthquakes_%282014-%29.svg.png",
-    "name2": "Earthquakes de San José",
-    "champ": "États-Unis. MLS",
-    "heure": "18H30",
-    "date": "31/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/250px-Nashville_SC_logo%2C_2020.svg.png",
-    "name1": "Nashville",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTXSPqQZyUIjbuelJTAh2mqKsgG20Nzlf4w&s",
-    "name2": "New York City",
-    "champ": "États-Unis. MLS",
-    "heure": "20H30",
-    "date": "31/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_EC_Juventude.svg/1200px-Logo_EC_Juventude.svg.png",
+    "name1": "Esporte Clube Juventude",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/1200px-Gremio_logo.svg.png",
+    "name2": "Grêmio Porto Alegrense",
+    "champ": "Brésil. Série A",
+    "heure": "19H00",
+    "date": "01/06/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Caykur_Rizespor_logo.svg/1200px-Caykur_Rizespor_logo.svg.png",
-    "name1": "Caykur Rizespor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Logo_Hatayspor.svg/langfr-250px-Logo_Hatayspor.svg.png",
-    "name2": "Hatayspor",
-    "champ": "Turquie. Süper Lig",
-    "heure": "13H00",
-    "date": "31/05/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Alanyaspor_logo.svg/1200px-Alanyaspor_logo.svg.png",
-    "name1": "Alanyaspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Sivasspor_logo.svg/1200px-Sivasspor_logo.svg.png",
-    "name2": "Sivasspor",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsQDdJCWlibWSqgbS2SrVD9OZJ5nxUkpk7A&s",
+    "name1": "Bodrum Belediyesi Bodrumspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg/langfr-250px-Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg.png",
+    "name2": "Besiktas",
     "champ": "Turquie. Süper Lig",
     "heure": "16H00",
-    "date": "31/05/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "01/06/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name1": "Samsunspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Kayserispor.svg/langfr-250px-Logo_Kayserispor.svg.png",
+    "name2": "Kayserispor",
+    "champ": "Turquie. Süper Lig",
+    "heure": "16H00",
+    "date": "01/06/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
+    "name1": "Rapid Vienne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PGDZPDomj2rnRaUPAHz5zxVHKV3QPN10Bg&s",
+    "name2": "LASK Linz",
+    "champ": "Autriche. Bundesliga",
+    "heure": "15H00",
+    "date": "01/06/2025",
+    "pro": "Total 2: (+0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/F.C._Pa%C3%A7os_de_Ferreira_%28logo%29.svg/1200px-F.C._Pa%C3%A7os_de_Ferreira_%28logo%29.svg.png",
+    "name1": "Pacos de Ferreira",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/CF-Belenenses.png/1200px-CF-Belenenses.png",
+    "name2": "Os Belenenses",
+    "champ": "Portugal. Qualification",
+    "heure": "14H30",
+    "date": "01/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/F%C3%BAtbol_Club_Cartagena_%28logo%29.svg/1200px-F%C3%BAtbol_Club_Cartagena_%28logo%29.svg.png",
+    "name1": "Cartagena",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
+    "name2": "Mirandes",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "01/06/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
