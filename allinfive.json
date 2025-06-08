@@ -1,103 +1,93 @@
 
-  [
+  [ 
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png",
-    "name1": "Malte",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
-    "name2": "Lituanie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "07/06/2025",
-    "pro": "Total: (+1.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png",
-    "name1": "Autriche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/langfr-250px-Flag_of_Romania.svg.png",
-    "name2": "Roumanie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "07/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
-    "name1": "Albanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png",
-    "name2": "Serbie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "07/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/langfr-250px-Flag_of_Finland.svg.png",
-    "name1": "Finlande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-250px-Flag_of_the_Netherlands.svg.png",
-    "name2": "Pays-Bas",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "07/06/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png",
-    "name1": "Lettonie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png",
-    "name2": "Azerbaïdjan",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "13H00",
-    "date": "07/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "name1": "Danemark",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/2560px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
-    "name2": "Irlande du Nord",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "17H00",
-    "date": "07/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/langfr-250px-Flag_of_Greece.svg.png",
-    "name1": "Grèce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
-    "name2": "Slovaquie",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "18H45",
-    "date": "07/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png",
-    "name1": "Canada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
-    "name2": "Ukraine",
-    "champ": "Matchs amicaux. Équipes nationales",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
+    "name1": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
+    "name2": "Espagne",
+    "champ": "Ligue des Nations",
     "heure": "19H00",
-    "date": "07/06/2025",
+    "date": "08/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/2560px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name1": "DR Congo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png",
+    "name2": "Madagascar",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "15H00",
+    "date": "08/06/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
-    "name1": "États-Unis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png",
-    "name2": "Turquie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png",
+    "name1": "Géorgie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
+    "name2": "Cape Vert",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "19H30",
-    "date": "07/06/2025",
+    "heure": "16H00",
+    "date": "08/06/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/Racing_de_Santander_%28logo%29.svg/1200px-Racing_de_Santander_%28logo%29.svg.png",
+    "name1": "Racing de Santander",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CD_Mirand%C3%A9s_logo.svg/1200px-CD_Mirand%C3%A9s_logo.svg.png",
+    "name2": "Mirandes",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "08/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/UE_Porreres.png/250px-UE_Porreres.png",
+    "name1": "UE Porreres",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6a/SE_Penya_Independent.png",
+    "name2": "Penya Independent",
+    "champ": "Espagne. D3",
+    "heure": "15H00",
+    "date": "08/06/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Girona ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/CF_Badalona.png/190px-CF_Badalona.png",
+    "name2": "Badalona ll",
+    "champ": "Espagne. D3",
+    "heure": "15H30",
+    "date": "08/06/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Real_Sporting_de_Gijon.svg/1200px-Real_Sporting_de_Gijon.svg.png",
+    "name1": "Sporting de Gijon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/27/CD_Lealtad.png",
+    "name2": "Lealtad",
+    "champ": "Espagne. D3",
+    "heure": "16H00",
+    "date": "08/06/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fc/AD_Llerenense.png",
+    "name1": "AD Llerenense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_CD_Badajoz.svg/1200px-Logo_CD_Badajoz.svg.png",
+    "name2": "Badajoz",
+    "champ": "Espagne. D3",
+    "heure": "17H00",
+    "date": "08/06/2025",
     "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
-    "name1": "Mexique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1200px-Flag_of_Switzerland.svg.png",
-    "name2": "Suisse",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "20H00",
-    "date": "07/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c4/Club_Portugalete_%28logo%29.svg/1200px-Club_Portugalete_%28logo%29.svg.png",
+    "name1": "Club Portugalete",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/87/SD_Beasain.png",
+    "name2": "Beasain",
+    "champ": "Espagne. D3",
+    "heure": "17H00",
+    "date": "08/06/2025",
     "pro": "Total: (+1.5)"
   }
 ]
