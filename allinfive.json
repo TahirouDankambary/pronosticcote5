@@ -1,102 +1,103 @@
+
   [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxARssRjGY3GOTGTUf1_Cvux7OtgMk2PUQA&s",
-    "name1": "Dab Przybyszow",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt5YgcaaJMazWIOuu4wbSjPRFSDoJWHGqtwQ&s",
-    "name2": "Victoria Szczaniec",
-    "champ": "Championnat de Pologne. IV League",
-    "heure": "16H00",
-    "date": "11/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+    "name1": "Angola",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/2560px-Flag_of_Madagascar.svg.png",
+    "name2": "Madagascar",
+    "champ": "Coupe COSAFA",
+    "heure": "13H00",
+    "date": "13/06/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name1": "Real Oviedo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/1200px-UD_Almeria_logo.svg.png",
-    "name2": "UD Almeria",
-    "champ": "Espagne. D2",
-    "heure": "19H00",
-    "date": "11/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
+    "name1": "Afrique du Sud",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png",
+    "name2": "Archipel des Comores",
+    "champ": "Coupe COSAFA",
+    "heure": "16H00",
+    "date": "13/06/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/FK_Maladetchna_Logo.png",
+    "name1": "Maladzechna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/FC_Dynamo_Brest_%28logo%29.svg/1200px-FC_Dynamo_Brest_%28logo%29.svg.png",
+    "name2": "Dinamo Brest",
+    "champ": "Bélarus. Ligue Supérieure",
+    "heure": "16H00",
+    "date": "13/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/97/FC_Gomel_logo.png",
+    "name1": "Gomel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/FC_Arsenal_Dzerzhinsk.png/250px-FC_Arsenal_Dzerzhinsk.png",
+    "name2": "Arsenal Dzerzhinsk",
+    "champ": "Bélarus. Ligue Supérieure",
+    "heure": "17H55",
+    "date": "13/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Internacional_F.C._de_Palmira.png/250px-Internacional_F.C._de_Palmira.png",
-    "name1": "Internacional Palmaria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Jaguares_de_C%C3%B3rdoba.png/250px-Jaguares_de_C%C3%B3rdoba.png",
-    "name2": "Jaguares de Cordoba",
-    "champ": "Colombie. Torneo Aguila",
-    "heure": "19H00",
-    "date": "11/06/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_ASO_Chlef_2024.svg/1200px-Logo_ASO_Chlef_2024.svg.png",
-    "name1": "ASO Chlef",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7a/Logo_JS_Saoura_2020.svg/1200px-Logo_JS_Saoura_2020.svg.png",
-    "name2": "JS Saoura",
-    "champ": "Algérie. Ligue 1",
-    "heure": "16H00",
-    "date": "11/06/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Derry_City_FC_%282010%29.png",
+    "name1": "Derry City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/20/Badge_of_Galway_United_FC_%282013%29.png",
+    "name2": "Galway",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "13/06/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Olympique_d%27Akbou_logo.png/1200px-Olympique_d%27Akbou_logo.png",
-    "name1": "Olympique Akbou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/US_Biskra_logo.png/960px-US_Biskra_logo.png",
-    "name2": "Biskra",
-    "champ": "Algérie. Ligue 1",
-    "heure": "16H00",
-    "date": "11/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/25/MC_Oran_%28logo%29.svg",
-    "name1": "Oran",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa4twDVqjKYf5xCRjqJ68i1LGVlQZRjwFBw&s",
-    "name2": "El Bayadh",
-    "champ": "Algérie. Ligue 1",
-    "heure": "16H00",
-    "date": "11/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://i.pinimg.com/736x/02/bb/35/02bb359f390a5722af80fe8d06bfe838.jpg",
-    "name1": "Saint Michael Lavanttal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Masi_Torello-Stemma.svg/1603px-Masi_Torello-Stemma.svg.png",
-    "name2": "TSU Matrei",
-    "champ": "Autriche. 2. Landesliga",
-    "heure": "16H00",
-    "date": "11/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Clube_Atl%C3%A9tico_Mineiro_crest.svg/1200px-Clube_Atl%C3%A9tico_Mineiro_crest.svg.png",
-    "name1": "Atletico Mineiro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Paysandu_Sport_Club_logo.svg/1200px-Paysandu_Sport_Club_logo.svg.png",
-    "name2": "Paysandu",
-    "champ": "Coupe de Brésil. Femmes",
-    "heure": "18H00",
-    "date": "11/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/9/9a/Escudo_Atl%C3%A9tico_Piauiense.png",
-    "name1": "Atletico Piauiense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/A%C3%A7%C3%A3o_SAFC_logo.webp/277px-A%C3%A7%C3%A3o_SAFC_logo.webp.png",
-    "name2": "Sociedade Acao",
-    "champ": "Coupe de Brésil. Femmes",
-    "heure": "18H00",
-    "date": "11/06/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ed/AD_Vasco_da_Gama_%28logo%29.png",
-    "name1": "CR Vasco da Gama",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/c/ce/Minas_Bras%C3%ADlia_T%C3%AAnis_Clube.jpg",
-    "name2": "Minas Icesp",
-    "champ": "Coupe de Brésil. Femmes",
-    "heure": "18H00",
-    "date": "11/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cork-City-Football-Club-Crest.png",
+    "name1": "Cork City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Bohemians_FC.svg/1200px-Bohemians_FC.svg.png",
+    "name2": "Bohemian",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "13/06/2025",
     "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/St_Patricks_Athletic_FC.svg/1200px-St_Patricks_Athletic_FC.svg.png",
+    "name1": "St Patrick's Athletic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
+    "name2": "Drogheda United",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "13/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name1": "Shelbourne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name2": "Shamrock Rovers",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "13/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeLVfnyxEWSLRP0w-7mpebXfeye-D0y7mx1g&s",
+    "name1": "Örebro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1200px-Sandvikens_IF_logo.svg.png",
+    "name2": "Sandvikens",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "13/06/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SV_Donau_%28logo%29.svg/1557px-SV_Donau_%28logo%29.svg.png",
+    "name1": "Donau",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_h6dmmqSjYJ80ZGNHqNt-QjZjTX0WTIpew&s",
+    "name2": "Red Star Penzing",
+    "champ": "Autriche. Landesliga",
+    "heure": "16H00",
+    "date": "13/06/2025",
+    "pro": "1X"
   }
 ]
