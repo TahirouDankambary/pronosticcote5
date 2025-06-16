@@ -1,103 +1,103 @@
 
   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
-    "name2": "Atlético de Madrid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zDTzMjxT1Kdx3mp3HSmTj-rLUIDEkbpOrw&s",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Logo_Los_Angeles_FC_2021.svg/1200px-Logo_Los_Angeles_FC_2021.svg.png",
+    "name2": "Los Angeles",
     "champ": "Coupe du monde des Clubs",
     "heure": "19H00",
-    "date": "15/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "16/06/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
-    "name1": "Angleterre U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name2": "Slovénie U21",
-    "champ": "Championnat d'Europe U21",
-    "heure": "16H00",
-    "date": "15/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
+    "name1": "Drogheda United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name2": "Shamrock Rovers",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "16/06/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/langfr-250px-Flag_of_Finland.svg.png",
-    "name1": "Finlande U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png",
-    "name2": "Ukraine U21",
-    "champ": "Championnat d'Europe U21",
-    "heure": "16H00",
-    "date": "15/06/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4lQ_4zsRYv5ctABpAAcIKDzK4WhUpwjd0A&s",
+    "name1": "St Patrick's Athletic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name2": "Shelbourne",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "16/06/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
-    "name1": "Pays-Bas U21",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "name2": "Danemark U21",
-    "champ": "Championnat d'Europe U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5f/US_Biskra_logo.png",
+    "name1": "Biskra",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1f/USMK_logo.png",
+    "name2": "USM Khenchela",
+    "champ": "Algérie. Ligue 1",
     "heure": "19H00",
-    "date": "15/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png",
-    "name1": "République Tchèque U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
-    "name2": "Allemagne U21",
-    "champ": "Championnat d'Europe U21",
-    "heure": "19H00",
-    "date": "15/06/2025",
+    "date": "16/06/2025",
     "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
-    "name1": "Mirandes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name2": "Real Oviedo",
-    "champ": "Espagne. D2",
-    "heure": "17H00",
-    "date": "15/06/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://i0.wp.com/www.cfcanvidalet.com/wp-content/uploads/2018/07/Escudo_cuadrado_full.png?fit=640%2C640&ssl=1",
-    "name1": "Can Vidalet",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3cLtKfDxKpz297D4uces9GbEIePFrKL0T6w&s",
-    "name2": "Atletic Sant Just",
-    "champ": "Espagne. Regional League",
-    "heure": "16H00",
-    "date": "15/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/CF_Ciudad_de_Murcia_%28logo%29.svg/2048px-CF_Ciudad_de_Murcia_%28logo%29.svg.png",
-    "name1": "Ciudad de Murcia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Yeclano_Deportivo_%28logo%29.png/250px-Yeclano_Deportivo_%28logo%29.png",
-    "name2": "Yeclano Deportivo",
-    "champ": "Espagne. Regional League",
-    "heure": "17H00",
-    "date": "15/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://footballlogosandkits.com/images_esc3/ESPA/EXTREMADURA/escudos/ESC_C.P.%20MONTEHERMOSO.png",
-    "name1": "CP Montehermoso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Ciudad_de_Plasencia_CF.png/250px-Ciudad_de_Plasencia_CF.png",
-    "name2": "Ciudad Plasencia",
-    "champ": "Espagne. Regional League",
-    "heure": "18H00",
-    "date": "15/06/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
-    "name1": "Sampdoria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
-    "name2": "Salernitana",
-    "champ": "Italie. Série B",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Escudo_de_aguirre.png",
+    "name1": "Coronel Aguirre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c5/9_julio_rafaela_logo.png",
+    "name2": "CA 9 de Julio Rafaela",
+    "champ": "Argentine. Copa Santa Fe",
     "heure": "18H30",
-    "date": "15/06/2025",
+    "date": "16/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjCUFrtOnXxFWUlSs82YmfwXyg8EcTWkMdA&s",
+    "name1": "Vélez Sarsfield",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhNNysye_AUMg3PfIn54jNiEtgLcaROL019g&s",
+    "name2": "Belgrano",
+    "champ": "Argentine. Ligue de réserve",
+    "heure": "18H00",
+    "date": "16/06/2025",
     "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Escudo_del_C_A_River_Plate.svg/1200px-Escudo_del_C_A_River_Plate.svg.png",
+    "name1": "River Plate",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkz0_EUI-1zF5vU8zHYwv_QY_8hah-XbP9A&s",
+    "name2": "San Lorenzo",
+    "champ": "Argentine. Ligue de réserve",
+    "heure": "20H00",
+    "date": "16/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://acdn-us.mitiendanube.com/stores/001/690/504/themes/common/logo-2133287992-1622825640-982904f058e6a049ddea77eddf33dbc71622825640.png?0",
+    "name1": "Deportivo Armenio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Villa_sancarlos_logo.png/2048px-Villa_sancarlos_logo.png",
+    "name2": "Villa San Carlos",
+    "champ": "Argentine. Primera B",
+    "heure": "15H00",
+    "date": "16/06/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_del_Sacachispas_F%C3%BAtbol_Club.svg/1200px-Logo_del_Sacachispas_F%C3%BAtbol_Club.svg.png",
+    "name1": "Sacachispas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Escudo_del_Club_Deportivo_Merlo.svg/1200px-Escudo_del_Club_Deportivo_Merlo.svg.png",
+    "name2": "Deportivo Merlo",
+    "champ": "Argentine. Primera B",
+    "heure": "18H30",
+    "date": "16/06/2025",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vikingur.svg/1200px-Vikingur.svg.png",
+    "name1": "Vikingur Reykjavik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/KR_Reykjavik_%28logo%29.svg/1200px-KR_Reykjavik_%28logo%29.svg.png",
+    "name2": "KR Reykjavik",
+    "champ": "Islande. Urvalsdeild",
+    "heure": "19H15",
+    "date": "16/06/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
