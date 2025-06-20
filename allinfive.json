@@ -1,103 +1,103 @@
 
-  [
+   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/1200px-Palmeiras_logo.svg.png",
-    "name1": "Sociedade esportiva Palmeiras",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/cb/Alahly_crest.png/250px-Alahly_crest.png",
-    "name2": "Al Ahly le Caire",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_Iz3WzbJ3l-85H1wp1wrXsNlktnOBXS2mw&s",
+    "name1": "Flamengo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
     "champ": "Coupe du monde des Clubs",
-    "heure": "16H00",
-    "date": "19/06/2025",
+    "heure": "18H00",
+    "date": "20/06/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Inter_Miami_CF_%28logo%29.svg/langfr-250px-Inter_Miami_CF_%28logo%29.svg.png",
-    "name1": "Inter Miami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/langfr-250px-Logo_FC_Porto.svg.png",
-    "name2": "Porto",
-    "champ": "Coupe du monde des Clubs",
-    "heure": "19H00",
-    "date": "19/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "name1": "Danemark U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/langfr-250px-Flag_of_Romania.svg.png",
-    "name2": "Roumanie U19",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+    "name1": "Pays-Bas U19",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+    "name2": "Angleterre U19",
     "champ": "Championnat d'Europe U19",
     "heure": "17H00",
-    "date": "19/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "20/06/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png",
+    "name1": "Norvège U19",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
+    "name2": "Allemagne U19",
+    "champ": "Championnat d'Europe U19",
+    "heure": "17H00",
+    "date": "20/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Escudo_del_Deportes_Tolima.svg/1200px-Escudo_del_Deportes_Tolima.svg.png",
-    "name1": "Deportes Tolima",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Escudo_de_Atl%C3%A9tico_Junior.png",
-    "name2": "Junior de Barranquilla",
-    "champ": "Colombie. Categoria Primera A",
-    "heure": "21H00",
-    "date": "19/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/MFK_Chrudim_logo.svg/1200px-MFK_Chrudim_logo.svg.png",
+    "name1": "Chrudim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/FK_Jablonec_logo.png/1200px-FK_Jablonec_logo.png",
+    "name2": "Jablonec",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "13H30",
+    "date": "20/06/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNd846R6Njzy9bejCqXPT7JRkDVM4VRNwecA&s",
+    "name1": "FC Tatran Presov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/MFK_Tatran_Liptovsky_Mikulas.png/250px-MFK_Tatran_Liptovsky_Mikulas.png",
+    "name2": "Tatran Liptovsky Mikulas",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "20/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1280px-Flag_of_Montenegro.svg.png",
-    "name1": "Monténégro U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
-    "name2": "Espagne U19",
-    "champ": "Championnat d'Europe U19",
-    "heure": "17H00",
-    "date": "19/06/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1200px-FC_Inter_Turku_%28logo%29.svg.png",
-    "name1": "Inter Turku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/KTP-Basket_logo.png/250px-KTP-Basket_logo.png",
-    "name2": "KTP Kotka",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "15H00",
-    "date": "19/06/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/ND_Primorje.png/250px-ND_Primorje.png",
-    "name1": "ND Primorje",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Scm-logo.png/250px-Scm-logo.png",
-    "name2": "Arges Pitesti",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/1200px-Odense_Boldklub.svg.png",
+    "name1": "Odense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Esbjerg_forenede_Boldklubber_logo.png/250px-Esbjerg_forenede_Boldklubber_logo.png",
+    "name2": "Esbjerg fB",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "19/06/2025",
-    "pro": "Total: (+2)"
+    "date": "20/06/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/f/f4/%C3%8DB_Vestmannaeyja_Logo.svg/1200px-%C3%8DB_Vestmannaeyja_Logo.svg.png",
-    "name1": "Vestmannaeyja",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0uHMWNwROdMiyj1kx4uqqKeARtb6cUivKg&s",
-    "name2": "Valur",
-    "champ": "Coupe d'Islande",
-    "heure": "17H30",
-    "date": "19/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Mlada_Boleslav_logo.svg/1200px-Mlada_Boleslav_logo.svg.png",
+    "name1": "Mladá Boleslav",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/72/FC_Sellier_%26_Bellot_Vla%C5%A1im.png",
+    "name2": "Sellier Bellot Vlasim",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H45",
+    "date": "20/06/2025",
+    "pro": "12"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lt/1/1c/Ungmennaf%C3%A9lagi%C3%B0_Afturelding.png",
-    "name1": "Ungmennafélagið Afturelding",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c0/Knattspyrnuf%C3%A9lagi%C3%B0_Fram.png",
-    "name2": "Knattspyrnufélagið Fram",
-    "champ": "Coupe d'Islande",
-    "heure": "20H00",
-    "date": "19/06/2025",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Allied_Forces_Baltic_Approaches_Shield.svg/640px-Allied_Forces_Baltic_Approaches_Shield.svg.png",
+    "name1": "Ringsted",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/HB_Koge_logo.svg/1200px-HB_Koge_logo.svg.png",
+    "name2": "HB Koge",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "20/06/2025",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Al-Qassim_FC_Logo.png/250px-Al-Qassim_FC_Logo.png",
-    "name1": "Al-Qasim",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNcvdrEOGiJcga5qoZue3KGtsj-F1k0gDBaA&s",
-    "name2": "Diyala",
-    "champ": "Championnat d'Irak",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_ES_S%C3%A9tifienne_2021.svg/1200px-Logo_ES_S%C3%A9tifienne_2021.svg.png",
+    "name1": "ES Sétif",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5f/US_Biskra_logo.png",
+    "name2": "Biskra",
+    "champ": "Algérie. Ligue 1",
     "heure": "16H00",
-    "date": "19/06/2025",
+    "date": "20/06/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/USM_Khenchela_logo.png/250px-USM_Khenchela_logo.png",
+    "name1": "USM Khenchela",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa4twDVqjKYf5xCRjqJ68i1LGVlQZRjwFBw&s",
+    "name2": "El Bayadh",
+    "champ": "Algérie. Ligue 1",
+    "heure": "16H00",
+    "date": "20/06/2025",
     "pro": "12"
   }
 ]
