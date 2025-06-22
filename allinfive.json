@@ -1,102 +1,103 @@
-[
+
+   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mamelodi_Sundowns_F.C.svg/1200px-Mamelodi_Sundowns_F.C.svg.png",
-    "name1": "Mamelodi Sundowns",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/800px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_Wydad_AC_2022.svg/1200px-Logo_Wydad_AC_2022.svg.png",
+    "name2": "Wydad Athletic Club",
     "champ": "Coupe du monde des Clubs",
     "heure": "16H00",
-    "date": "21/06/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "22/06/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY_n8H24ZERpostZ1u-e73MN696ZbTsD_i0g&s",
-    "name2": "Urawa Red Diamonds",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ssnToMZFgYip9_SSQr6eOL6vQFn-qkKZeQ&s",
+    "name2": "Pachuca",
     "champ": "Coupe du monde des Clubs",
     "heure": "19H00",
-    "date": "21/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "22/06/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
-    "name1": "Portugal U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
-    "name2": "Pays-Bas U21",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
+    "name1": "Danemark U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+    "name2": "France U21",
     "champ": "Championnat d'Europe U21",
     "heure": "16H00",
-    "date": "21/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "22/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
-    "name1": "Espagne U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
-    "name2": "Angleterre U21",
-    "champ": "Championnat d'Europe U21",
-    "heure": "19H00",
-    "date": "21/06/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7esk5vADYLghmnU51-fmFYqwS3KUSMe6_bg&s",
+    "name1": "Salernitana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/1200px-U.C._Sampdoria_logo.svg.png",
+    "name2": "Sampdoria",
+    "champ": "Italie. Série B",
+    "heure": "18H30",
+    "date": "22/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
-    "name1": "Bodo Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
-    "name2": "Brann",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Kristiansund_BK_logo.png/640px-Kristiansund_BK_logo.png",
+    "name1": "Kristiansund BK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
     "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "21/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "heure": "15H00",
+    "date": "22/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name1": "Real Oviedo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/CD_Mirand%C3%A9s_%28logo%29.svg/1200px-CD_Mirand%C3%A9s_%28logo%29.svg.png",
-    "name2": "Mirandes",
-    "champ": "Espagne. D2",
-    "heure": "19H00",
-    "date": "21/06/2025",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/KFUM-Kameratene_logo.svg/1200px-KFUM-Kameratene_logo.svg.png",
+    "name1": "KFUM-Kameratene",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Str%C3%B8msgodset_IF_%28logo%29.svg/1200px-Str%C3%B8msgodset_IF_%28logo%29.svg.png",
+    "name2": "Stromsgodset",
+    "champ": "Norvège. Eliteserien",
+    "heure": "15H00",
+    "date": "22/06/2025",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1mQyZy69Vz_MVGJhxYR49CTZRomihSAocA&s",
-    "name1": "Atletic Sant Just",
-    "photo2": "https://i0.wp.com/www.cfcanvidalet.com/wp-content/uploads/2018/07/Escudo_50Aniversario.png?fit=640%2C563&ssl=1",
-    "name2": "Can Vidalet",
-    "champ": "Espagne. Regional League",
-    "heure": "15H15",
-    "date": "21/06/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Sandefjord_Fotball.svg/1200px-Logo_Sandefjord_Fotball.svg.png",
+    "name1": "Sandefjord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/0/06/FK_Haugesund_logo.svg/1200px-FK_Haugesund_logo.svg.png",
+    "name2": "Haugesund",
+    "champ": "Norvège. Eliteserien",
+    "heure": "15H00",
+    "date": "22/06/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Yeclano_Deportivo_%28logo%29.png",
-    "name1": "Yeclano Deportivo ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/14/CF_Ciudad_de_Murcia.png",
-    "name2": "Ciudad de Murcia",
-    "champ": "Espagne. Regional League",
-    "heure": "17H00",
-    "date": "21/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ranheim_IL_logo.svg/1200px-Ranheim_IL_logo.svg.png",
-    "name1": "Ranheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lillestr%C3%B8m_SK_logo.svg/1200px-Lillestr%C3%B8m_SK_logo.svg.png",
-    "name2": "Lillestrom",
-    "champ": "Norvège. Adeccoligaen",
-    "heure": "14H00",
-    "date": "21/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Sarpsborg_08_2023.svg/1200px-Logo_Sarpsborg_08_2023.svg.png",
+    "name1": "Sarpsborg 08",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Bryne_FK_%28logo%29.svg/1200px-Bryne_FK_%28logo%29.svg.png",
+    "name2": "Bryne",
+    "champ": "Norvège. Eliteserien",
+    "heure": "15H00",
+    "date": "22/06/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Raufoss_IL_logo.svg/1200px-Raufoss_IL_logo.svg.png",
-    "name1": "Raufoss",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_9Vak4SPNBvKdDptGZIVhx2jkbv7CBulYQ&s",
-    "name2": "Hodd",
-    "champ": "Norvège. Adeccoligaen",
-    "heure": "14H00",
-    "date": "21/06/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
+    "name1": "Allemagne U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Italy_%28Pantone%2C_2006%29.svg/250px-Flag_of_Italy_%28Pantone%2C_2006%29.svg.png",
+    "name2": "Italie U21",
+    "champ": "Championnat d'Europe U21",
+    "heure": "19H00",
+    "date": "22/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
+    "name1": "HamKam",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33viWM1Xw7u6kEKhD_vPUucwiMV39l3R6Bg&s",
+    "name2": "Tromso",
+    "champ": "Norvège. Eliteserien",
+    "heure": "15H00",
+    "date": "22/06/2025",
+    "pro": "Total: (+2)"
   }
 ]
