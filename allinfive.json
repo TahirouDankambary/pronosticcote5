@@ -1,103 +1,103 @@
 
    [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/800px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_Wydad_AC_2022.svg/1200px-Logo_Wydad_AC_2022.svg.png",
-    "name2": "Wydad Athletic Club",
-    "champ": "Coupe du monde des Clubs",
-    "heure": "16H00",
-    "date": "22/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ssnToMZFgYip9_SSQr6eOL6vQFn-qkKZeQ&s",
-    "name2": "Pachuca",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/1200px-Atletico_Madrid_Logo_2024.svg.png",
+    "name1": "Atlético de Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/1200px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name2": "Botafogo de Futebol",
     "champ": "Coupe du monde des Clubs",
     "heure": "19H00",
-    "date": "22/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "23/06/2025",
+    "pro": "1X"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Seattle_Sounders_logo.svg/1200px-Seattle_Sounders_logo.svg.png",
+    "name1": "Sounders de Seattle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "Coupe du monde des Clubs",
+    "heure": "19H00",
+    "date": "23/06/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMD7mUigrxGB7pF8MTxdTQGr2qwLLjUlFj9Q&s",
-    "name1": "Danemark U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
-    "name2": "France U21",
-    "champ": "Championnat d'Europe U21",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name1": "CFR Cluj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+    "name2": "Slovan Bratislava",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "22/06/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "23/06/2025",
+    "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7esk5vADYLghmnU51-fmFYqwS3KUSMe6_bg&s",
-    "name1": "Salernitana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/1200px-U.C._Sampdoria_logo.svg.png",
-    "name2": "Sampdoria",
-    "champ": "Italie. Série B",
-    "heure": "18H30",
-    "date": "22/06/2025",
+    "photo1": "https://i.namu.wiki/i/-R7ycOLWz9DAFzl9n-mR7X5pw81iVzkCbMzr3oEoylROXGSqaftkUa4h5_NoVqQ7ZGcShm7mR2qTjLFtjjMiwQ.webp",
+    "name1": "Hadiya Hossana",
+    "photo2": "https://cdn.footystats.org/img/teams/ethiopia-arba-minch-city-fc.png",
+    "name2": "Arba Minch",
+    "champ": "Championnat d'Éthiopie",
+    "heure": "15H00",
+    "date": "23/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Kristiansund_BK_logo.png/640px-Kristiansund_BK_logo.png",
-    "name1": "Kristiansund BK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
-    "name2": "Rosenborg",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "22/06/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/4/4f/Bray_Wanderers_F.C._crest.png?20241130145618",
+    "name1": "Bray Wanderers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_College_Dublin_logo.svg/1200px-University_College_Dublin_logo.svg.png",
+    "name2": "University College Dublin",
+    "champ": "Irlande. D1",
+    "heure": "18H45",
+    "date": "23/06/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/KFUM-Kameratene_logo.svg/1200px-KFUM-Kameratene_logo.svg.png",
-    "name1": "KFUM-Kameratene",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Str%C3%B8msgodset_IF_%28logo%29.svg/1200px-Str%C3%B8msgodset_IF_%28logo%29.svg.png",
-    "name2": "Stromsgodset",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "22/06/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Cobh_Ramblers_FC_logo.svg/1200px-Cobh_Ramblers_FC_logo.svg.png",
+    "name1": "Cobh Ramblers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Kerry_FC_Crest.png/170px-Kerry_FC_Crest.png",
+    "name2": "Kerry FC",
+    "champ": "Irlande. D1",
+    "heure": "18H45",
+    "date": "23/06/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Sandefjord_Fotball.svg/1200px-Logo_Sandefjord_Fotball.svg.png",
-    "name1": "Sandefjord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/0/06/FK_Haugesund_logo.svg/1200px-FK_Haugesund_logo.svg.png",
-    "name2": "Haugesund",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "22/06/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Sarpsborg_08_2023.svg/1200px-Logo_Sarpsborg_08_2023.svg.png",
-    "name1": "Sarpsborg 08",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Bryne_FK_%28logo%29.svg/1200px-Bryne_FK_%28logo%29.svg.png",
-    "name2": "Bryne",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "22/06/2025",
+    "photo1": "https://flagsireland.com/cdn/shop/files/LONGFORD_TOWN_FC.png?v=1721393781",
+    "name1": "Longford Town",
+    "photo2": "https://i.pinimg.com/736x/88/27/c3/8827c3c39d309da584c62f64767445d0.jpg",
+    "name2": "Athlone Town",
+    "champ": "Irlande. D1",
+    "heure": "18H45",
+    "date": "23/06/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
-    "name1": "Allemagne U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Italy_%28Pantone%2C_2006%29.svg/250px-Flag_of_Italy_%28Pantone%2C_2006%29.svg.png",
-    "name2": "Italie U21",
-    "champ": "Championnat d'Europe U21",
-    "heure": "19H00",
-    "date": "22/06/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Treaty_United_F.C._logo.png/250px-Treaty_United_F.C._logo.png",
+    "name1": "Treaty United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/ae/WEXFORD-FC-CREST.png",
+    "name2": "Wexford Youths",
+    "champ": "Irlande. D1",
+    "heure": "18H45",
+    "date": "23/06/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
-    "name1": "HamKam",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33viWM1Xw7u6kEKhD_vPUucwiMV39l3R6Bg&s",
-    "name2": "Tromso",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "22/06/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Finn_Harps_FC_logo.svg/1200px-Finn_Harps_FC_logo.svg.png",
+    "name1": "Finn Harps",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Dundalk_FC.svg/1200px-Dundalk_FC.svg.png",
+    "name2": "Dundalk",
+    "champ": "Irlande. D1",
+    "heure": "18H45",
+    "date": "23/06/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Valur_Reykjavik_%28logo%29.svg/1200px-Valur_Reykjavik_%28logo%29.svg.png",
+    "name1": "Valur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/KR_Reykjavik_%28logo%29.svg/1200px-KR_Reykjavik_%28logo%29.svg.png",
+    "name2": "KR Reykjavik",
+    "champ": "Islande. Urvalsdeild",
+    "heure": "19H15",
+    "date": "23/06/2025",
+    "pro": "1X"
   }
 ]
