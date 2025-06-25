@@ -1,103 +1,103 @@
 
-[
+   [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Ulsan_Hyundai_FC.svg/1200px-Ulsan_Hyundai_FC.svg.png",
+    "name2": "Ulsan Hyundai",
     "champ": "Coupe du monde des Clubs",
     "heure": "19H00",
-    "date": "24/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "25/06/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/IFK_Varnamo_logo.svg/1200px-IFK_Varnamo_logo.svg.png",
-    "name1": "IFK Varnamo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ny_Stor_Version_B_93_Logo_20080701_Transparent_Baggrund.png",
-    "name2": "B93 Copenhague",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "12H00",
-    "date": "24/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Mamelodi_Sundowns_%28logo%29.svg/1200px-Mamelodi_Sundowns_%28logo%29.svg.png",
+    "name1": "Mamelodi Sundowns",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/1200px-FFC_crest.svg.png",
+    "name2": "Fluminense",
+    "champ": "Coupe du monde des Clubs",
+    "heure": "19H00",
+    "date": "25/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
-    "name1": "Dynamo Makhachkala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FC_Ufa_logo.svg/1200px-FC_Ufa_logo.svg.png",
-    "name2": "Oufa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+    "name1": "Angleterre U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-250px-Flag_of_the_Netherlands.svg.png",
+    "name2": "Pays-Bas U21",
+    "champ": "Championnat d'Europe U21",
+    "heure": "16H00",
+    "date": "25/06/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
+    "name1": "Allemagne U21",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png",
+    "name2": "France U21",
+    "champ": "Championnat d'Europe U21",
+    "heure": "19H00",
+    "date": "25/06/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dynamo%C4%8Cesk%C3%A9Bud%C4%9Bjovice.svg/1200px-Dynamo%C4%8Cesk%C3%A9Bud%C4%9Bjovice.svg.png",
+    "name2": "Dynamo Ceske Budejovice",
     "champ": "Matchs amicaux des clubs",
-    "heure": "13H00",
-    "date": "24/06/2025",
+    "heure": "14H30",
+    "date": "25/06/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_1._FC_Slov%C3%A1cko.svg/1200px-Logo_1._FC_Slov%C3%A1cko.svg.png",
+    "name1": "1.Slovacko",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/FC_Banik_Ostrava_logo.svg/1200px-FC_Banik_Ostrava_logo.svg.png",
+    "name2": "Banik Ostrava ll",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H30",
+    "date": "25/06/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Dukla_Prague_%28logo%29.svg/1200px-Dukla_Prague_%28logo%29.svg.png",
+    "name1": "Dukla Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Slezsk%C3%BD_fotbalov%C3%BD_club_Opava.svg/1200px-Slezsk%C3%BD_fotbalov%C3%BD_club_Opava.svg.png",
+    "name2": "SFC Opava",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "25/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/MFK_Karvina.svg/1200px-MFK_Karvina.svg.png",
+    "name1": "Karviná",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/1._SK_Prost%C4%9Bjov.svg/1200px-1._SK_Prost%C4%9Bjov.svg.png",
+    "name2": "Prostejov",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "25/06/2025",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bayern_M%C3%BCnchen_Logo_%281924-1954%29.svg/2048px-Bayern_M%C3%BCnchen_Logo_%281924-1954%29.svg.png",
-    "name1": "Bayern ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/1200px-Logo_WSG_Tirol.svg.png",
-    "name2": "WSG Tirol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/4/4b/Pogon_Szczecin_%28Hist%29.svg/1200px-Pogon_Szczecin_%28Hist%29.svg.png",
+    "name1": "Pogon Szczecin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/GKS_Katowice_crest.svg/1200px-GKS_Katowice_crest.svg.png",
+    "name2": "Katowice",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "24/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "25/06/2025",
+    "pro": "1X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/MFK_Ruzomberok_logo.svg/1200px-MFK_Ruzomberok_logo.svg.png",
-    "name1": "Ruzomberok",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/MFK_Tatran_Liptovsky_Mikulas.png/250px-MFK_Tatran_Liptovsky_Mikulas.png",
-    "name2": "Tatran Liptovsky Mikulas",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/langfr-250px-Sk_sigma.svg.png",
+    "name1": "Sigma Olomouc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/1/19/Fc_vion_Zlat%C3%A9_Moravce.svg/250px-Fc_vion_Zlat%C3%A9_Moravce.svg.png",
+    "name2": "Vion Zlate Moravce",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "24/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FK_Rabotni%C4%8Dki_%28logo%29.svg/1200px-FK_Rabotni%C4%8Dki_%28logo%29.svg.png",
-    "name1": "Rabotnicki Skopje",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Partizani_Tirana_Club_Logo.svg/1200px-Partizani_Tirana_Club_Logo.svg.png",
-    "name2": "FK Partizani Tirana",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "24/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/1200px-FC_Rapid_Bucuresti_logo.svg.png",
-    "name1": "Rapid Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/4/46/Vardar_Skopje-Logo.png",
-    "name2": "Vardar",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "24/06/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Red_Star_Belgrade_crest.svg/1200px-Red_Star_Belgrade_crest.svg.png",
-    "name1": "Crvena Zvezda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Sutjeska.png/150px-Sutjeska.png",
-    "name2": "Sutjeska Niksic",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "24/06/2025",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/39/Queens_Park_FC_crest.png",
-    "name1": "Queen's Park",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Annan_Athletic_F.C._Logo.svg/1200px-Annan_Athletic_F.C._Logo.svg.png",
-    "name2": "Annan Athletic",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "24/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMBrjS8gxlDxCdLJMFeQui6yluPaOsxSPIO8g2lXkD-wo0hTIG5UDPTQ1WgPmBbsU3Fk&usqp=CAU",
-    "name1": "Holywell Town",
-    "photo2": "https://ichef.bbci.co.uk/ace/standard/549/cpsprodpb/B8BB/production/_92619274_fcdaaa52-02c5-4e7a-be2f-90b878353664.jpg",
-    "name2": "Prestatyn Town",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "24/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "25/06/2025",
+    "pro": "12"
   }
 ]
