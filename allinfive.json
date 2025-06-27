@@ -1,103 +1,103 @@
 
-[
+  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTecy5U-3NAj9QhSQuQ_X5zZ2KPXIrpKBpY-g&s",
-    "name1": "Wydad Athletic Club",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Al-A%C3%AFn_FC_2024.svg/1200px-Logo_Al-A%C3%AFn_FC_2024.svg.png",
-    "name2": "Al Ain",
-    "champ": "Coupe du monde des Clubs",
-    "heure": "19H00",
-    "date": "26/06/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/IK_Brage_logo.svg/1200px-IK_Brage_logo.svg.png",
+    "name1": "Brage",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1200px-Sandvikens_IF_logo.svg.png",
+    "name2": "Sandvikens",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "27/06/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Juventus_FC_-_logo_black_%28Italy%2C_2017%29.svg/515px-Juventus_FC_-_logo_black_%28Italy%2C_2017%29.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
-    "champ": "Coupe du monde des Clubs",
-    "heure": "19H00",
-    "date": "26/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Varbergs_BoIS_%28logo%29.svg/640px-Varbergs_BoIS_%28logo%29.svg.png",
+    "name1": "Varbergs Bois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Utsiktens_BK_logo.svg/1200px-Utsiktens_BK_logo.svg.png",
+    "name2": "Utsiktens",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "27/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/1200px-Odense_Boldklub.svg.png",
-    "name1": "Odense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/SonderjyskE_logo.svg/1200px-SonderjyskE_logo.svg.png",
-    "name2": "SonderjyskE",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "12H00",
-    "date": "26/06/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Bohemians_FC.svg/1200px-Bohemians_FC.svg.png",
+    "name1": "Bohemian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Sligo_Rovers_FC.svg/1200px-Sligo_Rovers_FC.svg.png",
+    "name2": "Sligo Rovers",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "27/06/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/1200px-Dynamo_Moscow_logo.svg.png",
-    "name1": "Dynamo Moscou",
-    "photo2": "https://static.tildacdn.com/tild3437-6438-4266-a463-363930356237/2DROTS_logo_Store.png",
-    "name2": "2Drots",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "26/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Derry_City_FC_%282010%29.png/120px-Derry_City_FC_%282010%29.png",
+    "name1": "Derry City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
+    "name2": "Drogheda United",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "27/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Cork-City-Football-Club-Crest.png/250px-Cork-City-Football-Club-Crest.png",
+    "name1": "Cork City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/St_Patricks_Athletic_FC.svg/1200px-St_Patricks_Athletic_FC.svg.png",
+    "name2": "St Patrick's Athletic",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "27/06/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name1": "Shamrock Rovers",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/waterford_fc_2017_-_.gif?itok=Nw2jb6mL",
+    "name2": "Waterford",
+    "champ": "Irlande. Première division",
+    "heure": "19H00",
+    "date": "27/06/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name1": "Partizan Belgrade",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/FC_Rodina_Logo.svg/1964px-FC_Rodina_Logo.svg.png",
-    "name2": "Rodina",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
+    "name1": "Gnistan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1200px-FC_Inter_Turku_%28logo%29.svg.png",
+    "name2": "Inter Turku",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "15H00",
+    "date": "27/06/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/1200px-KuPS_logo.svg.png",
+    "name1": "Kuopion Palloseura",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-WJrNn6TmuzuTTg9vSEyJEhSJXXJs-HOCQ&s",
+    "name2": "HJK",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "17H00",
+    "date": "27/06/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduJHhhiKuprJjTsZB1fFsYDg2xfbGcmNdIw&s",
+    "name2": "Amkal",
     "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "26/06/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Moron_Escudo_Actual_2024.png/250px-Moron_Escudo_Actual_2024.png",
-    "name1": "Deportivo Moron ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_del_Club_Atl%C3%A9tico_Los_Andes.svg/1200px-Escudo_del_Club_Atl%C3%A9tico_Los_Andes.svg.png",
-    "name2": "CA Los Andes ll",
-    "champ": "Argentine. Primera B",
-    "heure": "13H00",
-    "date": "26/06/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/EscudoQuilmes2016.png/250px-EscudoQuilmes2016.png",
-    "name1": "Quilmes ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Escudo_del_Club_Almirante_Brown.svg/1200px-Escudo_del_Club_Almirante_Brown.svg.png",
-    "name2": "Almirante Brown ll",
-    "champ": "Argentine. Primera B",
     "heure": "14H00",
-    "date": "26/06/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/C.a._atlanta.png",
-    "name1": "Club Atlético Atlanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/52/Escudo_C.A.S.M.png",
-    "name2": "CA San Miguel",
-    "champ": "Argentine. Primera B",
-    "heure": "15H00",
-    "date": "26/06/2025",
-    "pro": "Total: (+1.5)"
+    "date": "27/06/2025",
+    "pro": "V1 Et TP(2.5) - OUI"
   },
     {
-    "photo1": "https://static.wikia.nocookie.net/logopedia/images/2/29/Chacarita_1934.png/revision/latest?cb=20230430165042",
-    "name1": "Chacarita Juniors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/17/Logo_CADU_Club_Atl%C3%A9tico_Defensores_Unidos_de_Z%C3%A1rate.jpg",
-    "name2": "Defensores Unidos",
-    "champ": "Argentine. Primera B",
-    "heure": "15H00",
-    "date": "26/06/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/20/Badge_of_Galway_United_FC_%282013%29.png",
+    "name1": "Galway",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name2": "Shelbourne",
+    "champ": "Irlande. Première division",
+    "heure": "18H45",
+    "date": "27/06/2025",
     "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Escudo_del_Club_Deportivo_Merlo.svg/1200px-Escudo_del_Club_Deportivo_Merlo.svg.png",
-    "name1": "Club Social y Deportivo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGyBHsoV7zqD1qL4vBt7HyfmgKLwFUBfp6qg&s",
-    "name2": "Talleres Remedios de Escalada",
-    "champ": "Argentine. Primera B",
-    "heure": "16H00",
-    "date": "26/06/2025",
-    "pro": "1X"
   }
 ]
