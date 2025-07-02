@@ -1,103 +1,82 @@
-
    [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQzszP5qNmcvRUOUIDSXE910JGVlAY1WH6A&s",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/langfr-140px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
-    "name2": "Juventus",
-    "champ": "Coupe du monde des clubs",
-    "heure": "19H00",
-    "date": "01/07/2025",
-    "pro": "Total: (+2)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/1200px-KuPS_logo.svg.png",
-    "name1": "Kuopion Palloseura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
-    "name2": "Gnistan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Vaasan_Palloseura_logo.svg/1200px-Vaasan_Palloseura_logo.svg.png",
+    "name1": "Vaasan Palloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/FC_Haka_logo.svg/640px-FC_Haka_logo.svg.png",
+    "name2": "Haka",
     "champ": "Finlance. Veikkausliiga",
     "heure": "15H00",
-    "date": "01/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "02/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
+    "name1": "Ilves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/KTP_Kotka_Logo.png/250px-KTP_Kotka_Logo.png",
+    "name2": "KTP Kotka",
+    "champ": "Finlance. Veikkausliiga",
+    "heure": "15H00",
+    "date": "02/07/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e6/Odense_BK.svg/1200px-Odense_BK.svg.png",
-    "name1": "Odense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ny_Stor_Version_B_93_Logo_20080701_Transparent_Baggrund.png",
-    "name2": "B93 Copenhague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1200px-FC_Inter_Turku_%28logo%29.svg.png",
+    "name1": "Inter Turku",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/IFK_Mariehamnin_logo.svg/langfr-250px-IFK_Mariehamnin_logo.svg.png",
+    "name2": "Mariehamn",
+    "champ": "Finlance. Veikkausliiga",
+    "heure": "15H00",
+    "date": "02/07/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-WJrNn6TmuzuTTg9vSEyJEhSJXXJs-HOCQ&s",
+    "name1": "HJK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/FF_Jaro_logotype.svg/250px-FF_Jaro_logotype.svg.png",
+    "name2": "FF Jaro",
+    "champ": "Finlance. Veikkausliiga",
+    "heure": "15H00",
+    "date": "02/07/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/22/Debreceni_EAC_logo.png",
+    "name1": "DEAC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/7e/FC_Tisza%C3%BAjv%C3%A1ros_logo.png",
+    "name2": "Tiszaujvaros",
     "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "01/07/2025",
+    "heure": "15H00",
+    "date": "02/07/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/FK_%C5%BDelezni%C4%8Dar_Pan%C4%8Devo_logo.png/170px-FK_%C5%BDelezni%C4%8Dar_Pan%C4%8Devo_logo.png",
+    "name1": "Zeleznicar Pancevo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/UTA_Arad_logo.svg/1200px-UTA_Arad_logo.svg.png",
+    "name2": "UTA Arad",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "02/07/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/FC_Zbrojovka_Brno.svg/1200px-FC_Zbrojovka_Brno.svg.png",
+    "name1": "Zbrojovka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Mfk_zemplin_michalovce.png/250px-Mfk_zemplin_michalovce.png",
+    "name2": "Zemplin",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "02/07/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/640px-PFC_Ludogorets_Razgrad.png",
-    "name1": "Ludogorets 1945",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4d/FC_Hradec_Kr%C3%A1lov%C3%A9_logo.png",
-    "name2": "Hradec Kralove",
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/f/fe/WKS_Slask_Wroclaw.svg/1200px-WKS_Slask_Wroclaw.svg.png",
+    "name1": "Slask Wroclaw",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuieGYI0Vk_sns2jKk-NGHwlPIL3SmnySypg&s",
+    "name2": "Chrobry Glogow",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "01/07/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MFK_Dukla_Bansk%C3%A1_Bystrica_%28logo%29.svg/1200px-MFK_Dukla_Bansk%C3%A1_Bystrica_%28logo%29.svg.png",
-    "name2": "Dukla Banska Bystrica",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "01/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/FK_Partizan.svg/1200px-FK_Partizan.svg.png",
-    "name2": "Partizan Belgrade",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "01/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/db/Ancien_logo_FC_Admira-Wacker_Wien.png",
-    "name1": "Admira Wacker",
-    "photo2": "https://assets.sorare.com/club/e57ec4b2-2f62-4b8f-905e-d048693c96af/picture/low_res-79cf8f375c42c409b944a468324e15ff.png",
-    "name2": "FCM Traiskirchen",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "01/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NI6IW4JUuqp3u904UuSor5YeNx_367ByMg&s",
-    "name1": "Grazer Ak",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/FK_Vojvodina_%28logo%29.svg/800px-FK_Vojvodina_%28logo%29.svg.png",
-    "name2": "Vojvodina Novi Sad",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "01/07/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSJns5Ns9RoW8nI3juhUAzR_2w9S4tKTEVQA&s",
-    "name1": "SC Weiz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEirgn_zFQVWb8S1atotpvF4LUMF0YUTOJg&s",
-    "name2": "Kapfenberger",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "01/07/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdfFaobKoiwPTXr2qDQCa-EM5YAZ76VjtyA&s",
-    "name1": "NK Radomlje",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnX8vAPKKFUMjF6zZhd5xdJO7aFnzhIbdOEA&s",
-    "name2": "Dinamo Zagreb",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H15",
-    "date": "01/07/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "02/07/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
