@@ -1,103 +1,103 @@
 
    [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfXBz9cF1nvzQtgmCTN2gUXgq1dW7ioJR9Bw&s",
-    "name2": "Bayern",
-    "champ": "Coupe du monde des clubs",
-    "heure": "16H00",
-    "date": "05/07/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Cliftonville_FC_%28logo%29.svg/1200px-Cliftonville_FC_%28logo%29.svg.png",
+    "name1": "Cliftonville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Derry_City_FC_%282010%29.png/120px-Derry_City_FC_%282010%29.png",
+    "name2": "Derry City",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "12H00",
+    "date": "06/07/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1200px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "Coupe du monde des clubs",
-    "heure": "20H00",
-    "date": "05/07/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Barry_Town_United_FC_%28logo%29.svg/1200px-Barry_Town_United_FC_%28logo%29.svg.png",
-    "name1": "Barry Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Newport_City_F.C._logo.jpg/250px-Newport_City_F.C._logo.jpg",
-    "name2": "Newport City",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_JI2socMlAwx62gQZCqqohQR-8DoyHkPng&s",
+    "name1": "Aubstadt",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyu_HhELrPH6GoS4QcimP8EV2iShI-s6_P0A&s",
+    "name2": "Stuttgarter Kickers",
     "champ": "Matchs amicaux des clubs",
-    "heure": "13H30",
-    "date": "05/07/2025",
-    "pro": "Total: (+2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Connahs_Quay_Nomads_FC_logo.svg/1200px-Connahs_Quay_Nomads_FC_logo.svg.png",
-    "name1": "Connah's Quay Nomads",
-    "photo2": "https://www.king-of-pins.com/wp-content/uploads/2024/09/mold-Alexandra-Fc.jpg",
-    "name2": "Mold Alexandra",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "13H30",
-    "date": "05/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VfL_Osnabrueck_Logo_2021%E2%80%93.svg/1200px-VfL_Osnabrueck_Logo_2021%E2%80%93.svg.png",
-    "name1": "VfL Osnabruck",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
-    "name2": "Viktoria Plzen",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "13H30",
-    "date": "05/07/2025",
+    "heure": "12H00",
+    "date": "06/07/2025",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Margate_FC_crest.svg/1200px-Margate_FC_crest.svg.png",
-    "name1": "Margate",
-    "photo2": "https://www.emblanka.com/wp-content/uploads/2024/01/Tonbridge-Angels-Football-Club-Logo-150x150.jpg",
-    "name2": "Tonbridge Angels",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1200px-AGF_Aarhus_%28logo%29.svg.png",
+    "name1": "AGF Aarhus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/250px-Odense_Boldklub.svg.png",
+    "name2": "Odense",
     "champ": "Matchs amicaux des clubs",
-    "heure": "13H45",
-    "date": "05/07/2025",
+    "heure": "13H00",
+    "date": "06/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/1200px-Logo_Rangers_FC_-_2020.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name2": "Club Bruges",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "13H00",
+    "date": "06/07/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Brechin_City_FC_logo.svg/1200px-Brechin_City_FC_logo.svg.png",
-    "name1": "Brechin City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7c/Logo_Dundee_FC_-_2008.svg/1200px-Logo_Dundee_FC_-_2008.svg.png",
-    "name2": "Dundee",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/SC_Preussen_Muenster_%28logo%29.svg/1200px-SC_Preussen_Muenster_%28logo%29.svg.png",
+    "name1": "Preussen Munster",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SC_Verl_Logo.svg/1200px-SC_Verl_Logo.svg.png",
+    "name2": "Verl",
     "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "05/07/2025",
-    "pro": "V2"
+    "heure": "13H00",
+    "date": "06/07/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Gornik_Zabrze.svg/1200px-Logo_Gornik_Zabrze.svg.png",
-    "name1": "Gornik Zabrze",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Aris_Limassol.svg/1200px-Aris_Limassol.svg.png",
-    "name2": "Aris Limassol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
+    "name1": "Spartak Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/PFC_Krylia_Sovetov_Samara.svg/1200px-PFC_Krylia_Sovetov_Samara.svg.png",
+    "name2": "Krylia Sovetov",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "05/07/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "06/07/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/24/Viktoriya_Mykolaivka_logo.png",
+    "name1": "Viktoriya Sumy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lt/thumb/d/dc/SK_Poltava_emblema.png/250px-SK_Poltava_emblema.png",
+    "name2": "SC Poltava",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "06/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_USL_Dunkerque_2025.svg/1200px-Logo_USL_Dunkerque_2025.svg.png",
+    "name1": "USL Dunkerque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_FC_Versailles_-_2022.svg/1200px-Logo_FC_Versailles_-_2022.svg.png",
+    "name2": "Versailles 78",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "06/07/2025",
+    "pro": "V1"
   },
     {
-    "photo1": "https://toppng.com/uploads/preview/bamber-bridge-fc-vector-logo-115738522189ohkbgbl5t.png",
-    "name1": "Bamber Bridge FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Fleetwood_Town_F.C._logo.svg/1200px-Fleetwood_Town_F.C._logo.svg.png",
-    "name2": "Fleetwood Town",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Epicentrk.svg/2048px-Epicentrk.svg.png",
+    "name1": "Epicentr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fc_podillia_khm.png/250px-Fc_podillia_khm.png",
+    "name2": "Podolye Khmelnitsky",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "05/07/2025",
-    "pro": "Total: (+2.5)"
+    "date": "06/07/2025",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_Schwarz-Wei%C3%9F_Bregenz_2013.svg/1200px-Logo_Schwarz-Wei%C3%9F_Bregenz_2013.svg.png",
-    "name1": "Bregenz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/1200px-Dynamo_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lt/4/4e/Kisv%C3%A1rda_FC_logo.png",
+    "name2": "Kisvarda",
     "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "05/07/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "heure": "15H00",
+    "date": "06/07/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
