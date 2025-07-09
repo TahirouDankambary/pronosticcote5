@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/1200px-FFC_crest.svg.png",
-    "name1": "Fluminense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+    "name2": "Real Madrid",
     "champ": "Coupe du monde des clubs",
     "heure": "19H00",
-    "date": "08/07/2025",
+    "date": "09/07/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/1200px-KuPS_logo.svg.png",
-    "name1": "Kuopion Palloseura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Milsami.png/250px-Milsami.png",
-    "name2": "Milsami",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "15H00",
-    "date": "08/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Noah_Logo_White.png",
-    "name1": "Noah Yerevan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6f/Fk_Buducnost_Logo.png",
-    "name2": "Buducnost Podgorica",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/FK_%C5%BDalgiris_logo.svg/1200px-FK_%C5%BDalgiris_logo.svg.png",
+    "name1": "Zalgiris Vilnius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hamrun_badge_hi_deffb1.png/640px-Hamrun_badge_hi_deffb1.png",
+    "name2": "Hamrun Spartans",
     "champ": "Ligue des champions de l'UEFA",
     "heure": "16H00",
-    "date": "08/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/FC_Levadia_Tallinnin.png/250px-FC_Levadia_Tallinnin.png",
-    "name1": "Levadia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
-    "name2": "Rigas Futbola Skola",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H30",
-    "date": "08/07/2025",
+    "date": "09/07/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
-    "name1": "Olimpija Ljubljana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
-    "name2": "Kairat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/640px-PFC_Ludogorets_Razgrad.png",
+    "name1": "Ludogorets 1945",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dinamo_Minsk_logo.svg/1200px-Dinamo_Minsk_logo.svg.png",
+    "name2": "Dinamo Minsk",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "08/07/2025",
+    "heure": "17H30",
+    "date": "09/07/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
-  {
-    "photo1": "https://toppng.com/uploads/preview/vikingur-vector-logo-11573850704ruwjlun2j6.png",
-    "name1": "Vikingur Gota",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/10/Lincoln_Red_Imps_F.C._Logo.png",
-    "name2": "Lincoln Red Imps",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "08/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/1200px-FC_Drita.svg.png",
-    "name1": "KF Drita",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logo_fcd_grand.svg/1200px-Logo_fcd_grand.svg.png",
-    "name2": "Differdange 03",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "08/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
-    "name1": "The New Saints",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/KF_Shk%C3%ABndija_%28logo%29.svg/langfr-250px-KF_Shk%C3%ABndija_%28logo%29.svg.png",
-    "name2": "Shkendija",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "08/07/2025",
-    "pro": "Total: (+1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1200px-Egnatia_Club_Logo.svg.png",
-    "name1": "Egnatia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/1200px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name2": "Breidablik UBK",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name1": "Shelbourne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Linfield_FC_logo.png/250px-Linfield_FC_logo.png",
+    "name2": "Linfield",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "08/07/2025",
+    "heure": "18H45",
+    "date": "09/07/2025",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/St_Joseph%27s_F.C._logo.png",
-    "name1": "St Joseph's",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Cliftonville_FC_%28logo%29.svg/1200px-Cliftonville_FC_%28logo%29.svg.png",
-    "name2": "Cliftonville",
-    "champ": "Ligue conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "08/07/2025",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_Wolfsberger_AC.svg/1200px-Logo_Wolfsberger_AC.svg.png",
+    "name1": "Wolfsberger AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1200px-S.C._Braga_logo.svg.png",
+    "name2": "Braga",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/01/Zaglebie_Sosnowiec.png",
+    "name1": "Zaglebie Sosnowiec",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/langfr-250px-Sk_sigma.svg.png",
+    "name2": "Sigma ll",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/1200px-LASK-Logo_2023.svg.png",
+    "name1": "LASK Linz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
+    "name2": "Brondby",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Szeged_2011_logo.png/180px-Szeged_2011_logo.png",
+    "name1": "Szeged 2011",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/3d/Tiszak%C3%A9cske_FC_logo.png",
+    "name2": "Tiszakécske",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/FC_Struga_logo.svg/1200px-FC_Struga_logo.svg.png",
+    "name1": "Struga Trim Lum",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/FC_Ballkani.svg/1200px-FC_Ballkani.svg.png",
+    "name2": "Ballkani",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Tatran_Pre%C5%A1ov_%28logo%29.svg/1200px-Tatran_Pre%C5%A1ov_%28logo%29.svg.png",
+    "name1": "FC Tatran Presov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Mfk_snina.png/250px-Mfk_snina.png",
+    "name2": "MFK Snina",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "09/07/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
