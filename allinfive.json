@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a9/Sabah_FC_%28Azerbaijan%29.png",
-    "name1": "Sabah Baku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/d/d4/NK_Celje_Logo.jpeg",
-    "name2": "Celje",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "10/07/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name1": "Utrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Kaizer_Chiefs_logo.svg/1200px-Kaizer_Chiefs_logo.svg.png",
+    "name2": "Kaizer Chiefs",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "11/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/1200px-AEK_Larnaca.svg.png",
-    "name1": "AEK Larnaca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/FK_Partizan.svg/1200px-FK_Partizan.svg.png",
-    "name2": "Partizan Belgrade",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H30",
-    "date": "10/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png",
+    "name1": "KS Wieczysta Krakow",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sandecja-nowy-sacz-herb-klubu-2018.png",
+    "name2": "Sandecja Nowy Sacz",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "11/07/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paksi_FC_%28Logo%29.svg/1200px-Paksi_FC_%28Logo%29.svg.png",
-    "name1": "Paksi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "10/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Radni%C4%8Dki_Ni%C5%A1.svg/800px-Radni%C4%8Dki_Ni%C5%A1.svg.png",
+    "name1": "Radnicki 1923",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/1200px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
+    "name2": "Mladost Lučani",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H30",
+    "date": "11/07/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/FC_Sheriff.svg/1200px-FC_Sheriff.svg.png",
-    "name1": "Sheriff Tiraspol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/FC_Prishtina.svg/1200px-FC_Prishtina.svg.png",
-    "name2": "Prishtina",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "10/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/PFC_Levski_Sofia_%28logo%29.svg/1200px-PFC_Levski_Sofia_%28logo%29.svg.png",
-    "name1": "Levski Sofia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Hapoel_Beer_Sheva_FC.png/250px-Hapoel_Beer_Sheva_FC.png",
-    "name2": "Hapoël Beer-Sheva",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H30",
-    "date": "10/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/1200px-Eintracht_Braunschweig_%28logo%29.svg.png",
+    "name1": "Eintracht Brunswick",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/1200px-Plymouth_Argyle_F.C._logo.svg.png",
+    "name2": "Plymouth Argyle",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "11/07/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1200px-FC_Shakhtar_Donetsk.svg.png",
-    "name1": "Shakhtar Donetsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
-    "name2": "Ilves",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "10/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Spartak_Trnava_%28logo%29.svg/1200px-Spartak_Trnava_%28logo%29.svg.png",
-    "name1": "Spartak Trnava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/1200px-Logo_BK_H%C3%A4cken_2021.svg.png",
-    "name2": "Häcken",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H15",
-    "date": "10/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_Legia_Varsovie.svg/1200px-Logo_Legia_Varsovie.svg.png",
-    "name1": "Legia Varsovie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/FK_Aktobe_%28logo%29.svg/1200px-FK_Aktobe_%28logo%29.svg.png",
-    "name2": "Aktobe",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "10/07/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1b/Atl%C3%A8tic_Club_d%27Escaldes_logo.png",
-    "name1": "Atletic Club d'Escaldes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_F91_Diddeleng_2017.svg/1200px-Logo_F91_Diddeleng_2017.svg.png",
-    "name2": "F91 Dudelange",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "14H00",
-    "date": "10/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/1200px-Logo_WSG_Tirol.svg.png",
+    "name1": "WSG Tirol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/FC_Zlin_logo.png/180px-FC_Zlin_logo.png",
+    "name2": "Zlin",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "11/07/2025",
     "pro": "2X"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3GWvpWUdM2Jw_T6xCT0owpqsOyDfRZx9Fg&s",
-    "name1": "Magpies",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Paide_Linnameeskond_logo.png/250px-Paide_Linnameeskond_logo.png",
-    "name2": "Paide Linnameeskond",
-    "champ": "Ligue Conférence de l'UEFA",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEirgn_zFQVWb8S1atotpvF4LUMF0YUTOJg&s",
+    "name1": "Kapfenberger",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/01/AUT_Rohrbach_an_der_Lafnitz_COA.png",
+    "name2": "Lafnitz",
+    "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "10/07/2025",
-    "pro": "Total: (+1.5)"
+    "date": "11/07/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cracovia_%28football_club%29_logo.svg/1200px-Cracovia_%28football_club%29_logo.svg.png",
+    "name1": "KS Cracovia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/FK_%C5%BDeleziarne_Podbrezov%C3%A1_logo.png",
+    "name2": "Zeleziarne Podbrezova",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "11/07/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/1200px-TSV_1860_M%C3%BCnchen.svg.png",
+    "name1": "1860 Munchen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Slovan_Liberec_%28logo%29.svg/1200px-Slovan_Liberec_%28logo%29.svg.png",
+    "name2": "Slovan Liberec",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "11/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Logo_SV_Ried_2022.svg/1200px-Logo_SV_Ried_2022.svg.png",
+    "name1": "SV Ried",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Diosgyori_VTK_%28logo%29.svg/1200px-Diosgyori_VTK_%28logo%29.svg.png",
+    "name2": "Diosgyori VTK",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "11/07/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/1200px-SV_Sandhausen.svg.png",
+    "name2": "Sandhausen",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "11/07/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
