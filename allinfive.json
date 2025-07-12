@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Kaizer_Chiefs_logo.svg/1200px-Kaizer_Chiefs_logo.svg.png",
-    "name2": "Kaizer Chiefs",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/1200px-Akhmat_Grozny_Logo.svg.png",
+    "name1": "Akhmat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/Krylia_sovetov_logo.svg/1200px-Krylia_sovetov_logo.svg.png",
+    "name2": "Krylia Sovetov",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "11/07/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "12/07/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png",
-    "name1": "KS Wieczysta Krakow",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sandecja-nowy-sacz-herb-klubu-2018.png",
-    "name2": "Sandecja Nowy Sacz",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Hambourg_SV.svg/1200px-Logo_Hambourg_SV.svg.png",
+    "name2": "Hambourg",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "11/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Radni%C4%8Dki_Ni%C5%A1.svg/800px-Radni%C4%8Dki_Ni%C5%A1.svg.png",
-    "name1": "Radnicki 1923",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/1200px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
-    "name2": "Mladost Lučani",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H30",
-    "date": "11/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/1200px-Eintracht_Braunschweig_%28logo%29.svg.png",
-    "name1": "Eintracht Brunswick",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/1200px-Plymouth_Argyle_F.C._logo.svg.png",
-    "name2": "Plymouth Argyle",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/1200px-Logo_WSG_Tirol.svg.png",
-    "name1": "WSG Tirol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/FC_Zlin_logo.png/180px-FC_Zlin_logo.png",
-    "name2": "Zlin",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfEirgn_zFQVWb8S1atotpvF4LUMF0YUTOJg&s",
-    "name1": "Kapfenberger",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/01/AUT_Rohrbach_an_der_Lafnitz_COA.png",
-    "name2": "Lafnitz",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cracovia_%28football_club%29_logo.svg/1200px-Cracovia_%28football_club%29_logo.svg.png",
-    "name1": "KS Cracovia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/FK_%C5%BDeleziarne_Podbrezov%C3%A1_logo.png",
-    "name2": "Zeleziarne Podbrezova",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/TSV_1860_M%C3%BCnchen.svg/1200px-TSV_1860_M%C3%BCnchen.svg.png",
-    "name1": "1860 Munchen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Slovan_Liberec_%28logo%29.svg/1200px-Slovan_Liberec_%28logo%29.svg.png",
-    "name2": "Slovan Liberec",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
+    "date": "12/07/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Logo_SV_Ried_2022.svg/1200px-Logo_SV_Ried_2022.svg.png",
-    "name1": "SV Ried",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Diosgyori_VTK_%28logo%29.svg/1200px-Diosgyori_VTK_%28logo%29.svg.png",
-    "name2": "Diosgyori VTK",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcVBONkvQaM7jjWMZWS0d0kA3lSDdsYsmMfQ&s",
+    "name1": "Banbury United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Oxford_City_FC_crest.svg/1200px-Oxford_City_FC_crest.svg.png",
+    "name2": "Oxford City",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "11/07/2025",
-    "pro": "12"
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SV_Sandhausen.svg/1200px-SV_Sandhausen.svg.png",
-    "name2": "Sandhausen",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Eastleigh_FC_crest.svg/1200px-Eastleigh_FC_crest.svg.png",
+    "name1": "Eastleigh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
+    "name2": "Southampton",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "11/07/2025",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png",
+    "name1": "Watford",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj90g2cyX804carGwZzf20XiKboMIpgoUUgA&s",
+    "name2": "Tournoi de Wimbledon",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Accrington_Stanley_F.C._logo.svg/1200px-Accrington_Stanley_F.C._logo.svg.png",
+    "name1": "Accrington Stanley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1200px-Blackburn_Rovers.svg.png",
+    "name2": "Blackburn Rovers",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/AFC_Fylde_%282014%29.svg/1200px-AFC_Fylde_%282014%29.svg.png",
+    "name1": "Fylde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Blackpool_FC.svg/1200px-Logo_Blackpool_FC.svg.png",
+    "name2": "Blackpool",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1200px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name1": "Banik Ostrava",
+    "photo2": "https://brandlogos.net/wp-content/uploads/2013/11/fk-dukla-banska-bystrica-vector-logo.png",
+    "name2": "Dukla Banska Bystrica",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
     "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/09/Billericay_Town_Football_Club_Badge.png",
+    "name1": "Billericay Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Braintree_Town_FC_crest.svg/1200px-Braintree_Town_FC_crest.svg.png",
+    "name2": "Braintree Town",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Boreham_Wood_F.C._logo.svg/1200px-Boreham_Wood_F.C._logo.svg.png",
+    "name1": "Boreham Wood",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal U21",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "12/07/2025",
+    "pro": "1X"
   }
 ]
