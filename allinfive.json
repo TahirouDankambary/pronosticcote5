@@ -1,103 +1,102 @@
-
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/800px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
-    "champ": "Coupe du monde des Clubs",
-    "heure": "19H00",
-    "date": "13/07/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/FC_Zorya_Luhansk_%28logo%29.svg/1200px-FC_Zorya_Luhansk_%28logo%29.svg.png",
+    "name1": "Zorya",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/FK_Sarajevo_logo.svg/1200px-FK_Sarajevo_logo.svg.png",
+    "name2": "Sarajevo",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H30",
+    "date": "14/07/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
+    "name1": "Konyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Araz-Nax%C3%A7%C4%B1van_PFK_%28logo%29.png/250px-Araz-Nax%C3%A7%C4%B1van_PFK_%28logo%29.png",
+    "name2": "Araz-Naxcivan",
     "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "13/07/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1200px-Logo_Spartak_Moscou_2013.svg.png",
-    "name1": "Spartak Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Spartak_Subotica.svg/1200px-Spartak_Subotica.svg.png",
-    "name2": "Spartak Subotica",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "13/07/2025",
+    "heure": "14H30",
+    "date": "14/07/2025",
     "pro": "V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Bohemians_Praha_1905.svg/1200px-Bohemians_Praha_1905.svg.png",
-    "name1": "Bohemians 1905 Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/MFK_Ruzomberok_%28logo%29.svg/1200px-MFK_Ruzomberok_%28logo%29.svg.png",
-    "name2": "Ruzomberok",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "13/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Stal_Rzesz%C3%B3w_crest.svg/1200px-Stal_Rzesz%C3%B3w_crest.svg.png",
-    "name1": "Stal Rzeszów",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_Rukh_Lviv_%28PYX%29.svg/1200px-Logo_Rukh_Lviv_%28PYX%29.svg.png",
-    "name2": "Rukh Lviv",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "13/07/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/db/Ancien_logo_FC_Admira-Wacker_Wien.png",
-    "name1": "Admira Wacker",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg/1200px-Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg.png",
-    "name2": "Besiktas",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1b/Logo_Puszcza_Niepo%C5%82omice.jpg/250px-Logo_Puszcza_Niepo%C5%82omice.jpg",
+    "name1": "MKS Puszcza Niepolomice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6d/Maccabi_Bnei_Reineh_F.C._logo.png",
+    "name2": "Maccabi Bnei Reineh",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "13/07/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Logo_HNK_Rijeka_2021.svg/1200px-Logo_HNK_Rijeka_2021.svg.png",
-    "name1": "Rijeka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_G%C3%B6ztepe_SK_2023.svg/1200px-Logo_G%C3%B6ztepe_SK_2023.svg.png",
-    "name2": "Goztepe",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "13/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_Wolfsberger_AC.svg/1200px-Logo_Wolfsberger_AC.svg.png",
-    "name1": "Wolfsberger AC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/FC_Karpaty_Lviv.svg/1200px-FC_Karpaty_Lviv.svg.png",
-    "name2": "Karpaty Lviv",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "13/07/2025",
-    "pro": "Total: (+2)"
+    "date": "14/07/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/%C3%9Ajpest_FC_logo.svg/1200px-%C3%9Ajpest_FC_logo.svg.png",
-    "name1": "Újpest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/FC_Kryvbas_Kryvyi_Rih_%282020%29.png/250px-FC_Kryvbas_Kryvyi_Rih_%282020%29.png",
-    "name2": "Kryvbas",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Mladost_Doboj_Kakanj_Logo.png/250px-Mladost_Doboj_Kakanj_Logo.png",
+    "name1": "Mladost DG",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4m0DN3d-bu1a-L1Lq6UWd-TNGuZH0ehitw&s",
+    "name2": "Slaven Belupo",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "13/07/2025",
-    "pro": "1X"
+    "heure": "15H30",
+    "date": "14/07/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Johor_Darul_Ta%27zim_F.C..svg/1200px-Johor_Darul_Ta%27zim_F.C..svg.png",
+    "name1": "Darul Takzim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name2": "Valencia ll",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "17H00",
+    "date": "14/07/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/St_Ives_Town_FC_crest.svg/1200px-St_Ives_Town_FC_crest.svg.png",
+    "name1": "St Ives Town",
+    "photo2": "https://corby-town.pendle-secure.co.uk/image.php?image=%2Fassets%2Fclubs%2FCorby_Town_FC%2FCORBY_BADGE_WHITE_TEXT.png&height=250",
+    "name2": "Corby Town",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H45",
+    "date": "14/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/FC_Breitenrain_Bern_Logo.svg/2560px-FC_Breitenrain_Bern_Logo.svg.png",
+    "name1": "Breitenrain",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGur8DoYE-5a9prddYQ6W_tp-mIK46AqGmog&s",
+    "name2": "Biel-Bienne",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H30",
+    "date": "14/07/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Escudo_del_Club_Deportivo_Riestra.svg/1200px-Escudo_del_Club_Deportivo_Riestra.svg.png",
+    "name1": "Deportivo Riestra",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_CA_Lan%C3%BAs_2025.svg/1200px-Logo_CA_Lan%C3%BAs_2025.svg.png",
+    "name2": "Club Atlético Lanús",
+    "champ": "Argentine. Primera Division",
+    "heure": "19H30",
+    "date": "14/07/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1200px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name2": "Baltika Kaliningrad",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "13/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
+    "name1": "Ilves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Vaasan_Palloseura_logo.svg/1200px-Vaasan_Palloseura_logo.svg.png",
+    "name2": "Vaasan Palloseura",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "15H00",
+    "date": "14/07/2025",
     "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Logo_IK_Sirius_2018.svg/1200px-Logo_IK_Sirius_2018.svg.png",
+    "name1": "Sirius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1200px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name2": "Mjällby AIF",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "14/07/2025",
+    "pro": "2X"
   }
 ]
