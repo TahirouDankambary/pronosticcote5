@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
-    "name1": "Kairat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
-    "name2": "Olimpija Ljubljana",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Dinamo_Minsk_logo.svg/1200px-Dinamo_Minsk_logo.svg.png",
+    "name1": "Dinamo Minsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/640px-PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorets 1945",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "15H00",
-    "date": "15/07/2025",
+    "heure": "18H45",
+    "date": "16/07/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/10/Lincoln_Red_Imps_F.C._Logo.png",
-    "name1": "Lincoln Red Imps",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/V%C3%ADkingur_G%C3%B8ta_logo.svg/1200px-V%C3%ADkingur_G%C3%B8ta_logo.svg.png",
-    "name2": "Vikingur Gota",
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/8/8d/Linfield_FC.svg/1200px-Linfield_FC.svg.png",
+    "name1": "Linfield",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name2": "Shelbourne",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "15H30",
-    "date": "15/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
-    "name1": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Saburtalo_Tbilisi_Logo.png/250px-Saburtalo_Tbilisi_Logo.png",
-    "name2": "Iberia 1999",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "15/07/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Milsami.png/250px-Milsami.png",
-    "name1": "Milsami",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KuPS_logo.svg/1200px-KuPS_logo.svg.png",
-    "name2": "Kuopion Palloseura",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "15/07/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqjKQjS1hFh57RGZ6lyvmKELt15IXW57WUHg&s",
-    "name1": "Rigas Futbola",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/FC_Levadia_Tallinnin.png/250px-FC_Levadia_Tallinnin.png",
-    "name2": "Levadia",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "15/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Hamrun_badge_hi_deffb1.png/640px-Hamrun_badge_hi_deffb1.png",
-    "name1": "Hamrun Spartans",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/FK_%C5%BDalgiris_logo.svg/1200px-FK_%C5%BDalgiris_logo.svg.png",
-    "name2": "VMFD Zalgiris Vilnius",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "15/07/2025",
+    "heure": "18H45",
+    "date": "16/07/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logo_fcd_grand.svg/1200px-Logo_fcd_grand.svg.png",
-    "name1": "Differdange 03",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Drita.svg/1200px-FC_Drita.svg.png",
-    "name2": "KF Drita",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "15/07/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/d/da/FK_Auda_Logo.svg/1200px-FK_Auda_Logo.svg.png",
+    "name1": "Auda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Larne_FC_%28logo%29.svg/2048px-Larne_FC_%28logo%29.svg.png",
+    "name2": "Larne",
+    "champ": "Ligue conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "16/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/1200px-Fredrikstad_FK_%28logo%29.svg.png",
+    "name1": "Fredrikstad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name2": "Bodo-Glimt",
+    "champ": "Norvège. Eliteserien",
+    "heure": "16H00",
+    "date": "16/07/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/KF_Shk%C3%ABndija_%28logo%29.svg/1200px-KF_Shk%C3%ABndija_%28logo%29.svg.png",
-    "name1": "Shkendija",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
-    "name2": "The New Saints",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "15/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_BTS_Rekord_Bielsko-Bia%C5%82a.png",
+    "name1": "Rekord Bielsko-Biala",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102011/pniowek_pawlowice.png?itok=aJHoihwc",
+    "name2": "Pniowek Pawlowice Slaskie",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H30",
+    "date": "16/07/2025",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
-    "name1": "Inter Club d'Escaldes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H30",
-    "date": "15/07/2025",
-    "pro": "V2"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/NK_Osijek.svg/langfr-250px-NK_Osijek.svg.png",
+    "name1": "Osijek",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
+    "name2": "Dynamo Kyiv",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "16/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/B%C3%A9k%C3%A9scsaba_1912_El%C5%91re.svg/1200px-B%C3%A9k%C3%A9scsaba_1912_El%C5%91re.svg.png",
+    "name1": "Bekescsaba 1912 Elore",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Karcagi_SE.svg/1200px-Karcagi_SE.svg.png",
+    "name2": "Karcagi",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "16/07/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Iv%C3%A1ncsa_KSE.svg/1200px-Iv%C3%A1ncsa_KSE.svg.png",
+    "name1": "Ivancsa KSK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/Buda%C3%B6rsi_SC_logo.png",
+    "name2": "Budaorsi SC",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "16/07/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/1200px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name1": "Breidablik UBK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Egnatia_Club_Logo.svg/1200px-Egnatia_Club_Logo.svg.png",
-    "name2": "Egnatia",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "15/07/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Fremad_Amager_%28logo%29.svg/1200px-Fremad_Amager_%28logo%29.svg.png",
+    "name1": "Fremad Amager",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Holb%C3%A6k_B%26I_%28logo%29.svg/2500px-Holb%C3%A6k_B%26I_%28logo%29.svg.png",
+    "name2": "Holbaek",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "16/07/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/FC_Kryvbas_Kryvyi_Rih_%282020%29.png/250px-FC_Kryvbas_Kryvyi_Rih_%282020%29.png",
+    "name1": "Kryvbas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_G%C3%B6ztepe_SK_2023.svg/1200px-Logo_G%C3%B6ztepe_SK_2023.svg.png",
+    "name2": "Goztepe",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "16/07/2025",
+    "pro": "12"
   }
 ]
