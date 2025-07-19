@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Dynamo_Moscow_logo.svg/1200px-Dynamo_Moscow_logo.svg.png",
-    "name1": "Dynamo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1200px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name2": "Baltika Kaliningrad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
+    "name1": "Lokomotiv Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
+    "name2": "Sochi",
     "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "18/07/2025",
+    "heure": "15H00",
+    "date": "19/07/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
-    "name2": "R.Charleroi",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "18/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1200px-Hannover_96_Logo.svg.png",
-    "name1": "Hannover 96",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/SV_Babelsberg_03_-_Logo.svg/1200px-SV_Babelsberg_03_-_Logo.svg.png",
-    "name2": "SV Babelsberg 03",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "18/07/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpYUH1WqcJ2U1Ws6wM9b3MF0EHXpSL1Rl9A&s",
-    "name1": "Zulte Waregem",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/RFC_Li%C3%A8ge_logo.svg/1200px-RFC_Li%C3%A8ge_logo.svg.png",
-    "name2": "Liège",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "18/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Altrincham_FC_crest.svg/1200px-Altrincham_FC_crest.svg.png",
-    "name1": "Altrincham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Radcliffe_FC_crest.svg/1200px-Radcliffe_FC_crest.svg.png",
-    "name2": "Radcliffe",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "18/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/27/Logo_Spartak_Moscou_2013.svg/1200px-Logo_Spartak_Moscou_2013.svg.png",
+    "name1": "Spartak Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
+    "champ": "Russie. Première Ligue",
+    "heure": "17H30",
+    "date": "19/07/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Austria_Wien.svg/1200px-Austria_Wien.svg.png",
-    "name1": "Austria Vienne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/Logo_SV_Horn_2016.svg/langfr-250px-Logo_SV_Horn_2016.svg.png",
-    "name2": "Horn",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "AZ Alkmaar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_NK_Lokomotiva_2013.svg/1200px-Logo_NK_Lokomotiva_2013.svg.png",
+    "name2": "Lokomotiva Zagreb",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H30",
-    "date": "18/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name1": "Udinese Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/NK_Opatija_Logo.svg/250px-NK_Opatija_Logo.svg.png",
-    "name2": "Opatija",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "18/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/SC_Rheindorf_Altach_logo.svg/1200px-SC_Rheindorf_Altach_logo.svg.png",
-    "name1": "Rheindorf Altach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "18/07/2025",
-    "pro": "V2"
+    "date": "19/07/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/2/21/Nart_Cherkessk_FC_logo_2023.png/250px-Nart_Cherkessk_FC_logo_2023.png",
-    "name1": "Nart Cherkessk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/57/FC_Dynamo_Stavropol_logo.png",
-    "name2": "Dynamo Stavropol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/FC_Ingolstadt_04_logo.svg/1200px-FC_Ingolstadt_04_logo.svg.png",
+    "name1": "Ingolstadt 04",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
+    "name2": "Torino",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "18/07/2025",
+    "date": "19/07/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/a/af/Varzim_SC_Logo.svg/1200px-Varzim_SC_Logo.svg.png",
+    "name1": "Varzim SC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx3QKTMFMWEtcZAL50FWdK5o-ppHjeDohBOftFiIjE9rG84OPQZODgmMnLyaUjxrNMWdc&usqp=CAU",
+    "name2": "Aves",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "19/07/2025",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/1200px-AJAuxerreLogo.svg.png",
-    "name1": "Auxerre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/Logo_US_Orl%C3%A9ans_2011.svg/1200px-Logo_US_Orl%C3%A9ans_2011.svg.png",
-    "name2": "Orleans",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SC_Cambuur.svg/1200px-Logo_SC_Cambuur.svg.png",
+    "name1": "Cambuur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_SC_Telstar.svg/1200px-Logo_SC_Telstar.svg.png",
+    "name2": "SC Telstar",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "18/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "heure": "15H00",
+    "date": "19/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/lt/9/93/Wiener_Neustadt_logo.png",
+    "name1": "Wiener Neustadt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Logo_Floridsdorfer_AC.png/250px-Logo_Floridsdorfer_AC.png",
+    "name2": "Floridsdorfer AC",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "19/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_Wolfsberger_AC.svg/1200px-Logo_Wolfsberger_AC.svg.png",
+    "name1": "Wolfsberger AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NKIstra1961_logo.svg/1200px-NKIstra1961_logo.svg.png",
+    "name2": "NK Istra 1961",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "19/07/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_G%C3%B6ztepe_SK_2023.svg/1200px-Logo_G%C3%B6ztepe_SK_2023.svg.png",
+    "name1": "Goztepe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/a6/HNK_Vukovar_1991_logo.png",
+    "name2": "HNK Vukovar",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "19/07/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/SpVgg_Greuther_F%C3%BCrth_2017.svg/1200px-SpVgg_Greuther_F%C3%BCrth_2017.svg.png",
+    "name1": "Greuther Furth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/1200px-Huddersfield_Town_AFC_crest.svg.png",
+    "name2": "Huddersfield Town",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "19/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
