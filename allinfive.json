@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhK_H44Gpr0P60JnQxh260fLJ5rQAc4bhgQ&s",
-    "name1": "Pari Nizhny",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
-    "name2": "Krasnodar",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/FK_Orenbourg_%28logo%29.svg/1200px-FK_Orenbourg_%28logo%29.svg.png",
+    "name1": "Orenbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/PFK_CSKA_Logo.svg/1200px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
     "champ": "Russie. Première Ligue",
-    "heure": "12H30",
-    "date": "20/07/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "14H30",
+    "date": "21/07/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg/langfr-250px-Logo_Z%C3%A9nith_Saint-P%C3%A9tersbourg_2023.svg.png",
-    "name1": "Zénith Saint-Petersbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
-    "name2": "Rostov",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "20/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/627px-Akhmat_Grozny_Logo.svg.png",
-    "name1": "Akhmat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/1200px-FC_Rubin_Kazan_logo.svg.png",
-    "name2": "Rubin Kazan",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "20/07/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d3/Neftekhimik_Nizhnekamsk_logo.png",
-    "name1": "Neftekhimik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/FC_Sokol_Saratov_Logo.svg/1200px-FC_Sokol_Saratov_Logo.svg.png",
-    "name2": "Sokol Saratov",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "20/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/FC_Torpedo_Moscow_Logotype_2023.png",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/be/FK_Tcheliabinsk.png",
-    "name2": "Tcheliabinsk",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "20/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/langfr-250px-Rodina_Moscou_Logo.svg.png",
+    "name1": "Rodina",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwe8_nk4fIGo06wSC40KtkxDWCrhdTq56y0Q&s",
+    "name2": "Tchernomorets Novorossiisk",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H30",
+    "date": "21/07/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1200px-FC_St._Pauli_%28logo%29.svg.png",
-    "name1": "St.Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png",
-    "name2": "Karlsruher",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "20/07/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/IFK_Norrk%C3%B6ping_%28logo%29.svg/1200px-IFK_Norrk%C3%B6ping_%28logo%29.svg.png",
+    "name1": "IFK Norrköping",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/IFK_Varnamo_logo.svg/1200px-IFK_Varnamo_logo.svg.png",
+    "name2": "IFK Varnamo",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "21/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SK_Rapid_1998.svg/1200px-Logo_SK_Rapid_1998.svg.png",
-    "name1": "Rapid Vienne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
-    "name2": "Union Berlin",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "20/07/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_Rodange_91_%28logo%29.svg/1200px-FC_Rodange_91_%28logo%29.svg.png",
-    "name1": "Rodange 91",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Logo_US_Mondorf.svg/800px-Logo_US_Mondorf.svg.png",
-    "name2": "Mondorf-les-Bains",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "20/07/2025",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/IFK_Mariehamnin_logo.svg/langfr-250px-IFK_Mariehamnin_logo.svg.png",
+    "name1": "Mariehamn",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlKP3X6w6qDVg3E73XGDYH2bAn39Gir5YKwQ&s",
+    "name2": "Haka",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "15H00",
+    "date": "21/07/2025",
     "pro": "2X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/0/0b/US_Citt%C3%A0_di_Palermo_Logo.png",
-    "name1": "Città Di Palermo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paradiso-coat_of_arms.svg/1618px-Paradiso-coat_of_arms.svg.png",
-    "name2": "Paradiso",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Landskrona_BoIS.svg/1200px-Landskrona_BoIS.svg.png",
+    "name1": "Landskrona Bois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Trelleborgs_FF_%28logo%29.svg/1200px-Trelleborgs_FF_%28logo%29.svg.png",
+    "name2": "Trelleborgs",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "21/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Utsiktens_BK_logo.svg/1200px-Utsiktens_BK_logo.svg.png",
+    "name1": "Utsiktens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1200px-Helsingborgs_IF_%28logo%29.svg.png",
+    "name2": "Helsingborg",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "21/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Logo_of_FC_Alashkert.png/200px-Logo_of_FC_Alashkert.png",
+    "name1": "Alashkert",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79PQ99SYGNXfQDcC0VxhE0219bElWsGVo_A&s",
+    "name2": "Shirak",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "20/07/2025",
-    "pro": "V1"
+    "heure": "14H00",
+    "date": "21/07/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Kayserispor.svg/1200px-Logo_Kayserispor.svg.png",
+    "name1": "Kayserispor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/16/Logo_Hatayspor.svg/1200px-Logo_Hatayspor.svg.png",
+    "name2": "Hatayspor",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "21/07/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Albacete_balompie.svg/1200px-Albacete_balompie.svg.png",
-    "name1": "Albacete Balompie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Logo_Al-Rayyan_SC_2021.svg/1200px-Logo_Al-Rayyan_SC_2021.svg.png",
-    "name2": "Al Rayyan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_nQpwx9EQTNDmCUJcI_7McujDZeece_0w&s",
+    "name1": "Kocaelispor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg/1200px-Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg.png",
+    "name2": "Fatih Karagumruk",
     "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "20/07/2025",
+    "heure": "15H00",
+    "date": "21/07/2025",
     "pro": "1X"
+  },
+    {
+    "photo1": "https://thumbnail.imgbin.com/11/6/6/imgbin-fc-karpaty-lviv-fc-oleksandriya-fc-mariupol-fc-lviv-football-N8uQybRYsX6iLxvvzPqpZXUU6_t.jpg",
+    "name1": "Karpaty Lviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
+    "name2": "Al Sharjah",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "21/07/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
