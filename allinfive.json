@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
-    "name2": "FC Salzburg",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1200px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name1": "Banik Ostrava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_Legia_Varsovie.svg/1200px-Logo_Legia_Varsovie.svg.png",
+    "name2": "Legia Varsovie",
+    "champ": "Ligue Europa",
     "heure": "17H00",
-    "date": "23/07/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "24/07/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name2": "Qarabag",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H45",
-    "date": "23/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdzoZP5Z00BanTcK7fMLjkUU3p7mftPeGAA&s",
-    "name1": "Zira",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/HNK_Hajduk_Split.svg/640px-HNK_Hajduk_Split.svg.png",
-    "name2": "Hajduk Split",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "15H30",
-    "date": "23/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Silkeborg_IF.svg/1200px-Logo_Silkeborg_IF.svg.png",
-    "name1": "Silkeborg",
-    "photo2": "https://toppng.com/uploads/preview/throttur-reykjavik-vector-logo-11573730722xa6ihu4pza.png",
-    "name2": "Knattspyrnufélag",
-    "champ": "Ligue Conférence de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/FC_Sheriff.svg/1200px-FC_Sheriff.svg.png",
+    "name1": "Sheriff Tiraspol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht",
+    "champ": "Ligue Europa",
     "heure": "17H00",
-    "date": "23/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
-    "name1": "The New Saints",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Logo_fcd_grand.svg/1200px-Logo_fcd_grand.svg.png",
-    "name2": "Differdange 03",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H00",
-    "date": "23/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
-    "name1": "Olimpija Ljubljana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
-    "name2": "Inter Club d'Escaldes",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H00",
-    "date": "23/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lv/6/6f/Fk_Buducnost_Logo.png",
-    "name1": "Buducnost Podgorica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Milsami.png/250px-Milsami.png",
-    "name2": "Milsami",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "19H00",
-    "date": "23/07/2025",
+    "date": "24/07/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Korona_Kielce.png/250px-Korona_Kielce.png",
-    "name1": "Korona Kielce ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b2/Naprz%C3%B3d_J%C4%99drzej%C3%B3w_crest.png",
-    "name2": "Naprzod Jedrzejow",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "23/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/PFC_Levski_Sofia_%28logo%29.svg/1200px-PFC_Levski_Sofia_%28logo%29.svg.png",
+    "name1": "Levski Sofia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/1200px-SC_Braga_%28logo%29.svg.png",
+    "name2": "Braga",
+    "champ": "Ligue Europa",
+    "heure": "17H30",
+    "date": "24/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Hibernian_fc.svg/1200px-Hibernian_fc.svg.png",
+    "name2": "Hibernian",
+    "champ": "Ligue Europa",
+    "heure": "17H30",
+    "date": "24/07/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
+    "name1": "Anderlecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/1200px-Logo_BK_H%C3%A4cken_2021.svg.png",
+    "name2": "Häcken",
+    "champ": "Ligue Europa",
+    "heure": "18H00",
+    "date": "24/07/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg/1200px-Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg.png",
+    "name1": "Besiktas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1200px-FC_Shakhtar_Donetsk.svg.png",
+    "name2": "Shakhtar Donetsk",
+    "champ": "Ligue Europa",
+    "heure": "18H00",
+    "date": "24/07/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/d/d4/NK_Celje_Logo.jpeg",
+    "name1": "Celje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/1200px-AEK_Larnaca.svg.png",
+    "name2": "AEK Larnaca",
+    "champ": "Ligue Europa",
+    "heure": "18H00",
+    "date": "24/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FC_Lugano_logo.svg/2048px-FC_Lugano_logo.svg.png",
+    "name1": "Lugano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name2": "CFR Cluj",
+    "champ": "Ligue Europa",
+    "heure": "18H30",
+    "date": "24/07/2025",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Associazione_Calcio_Pisa_1909_-_2017.svg/1200px-Logo_Associazione_Calcio_Pisa_1909_-_2017.svg.png",
-    "name1": "Pisa 1909",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/AC_Bra_1913_%28logo%29.png/640px-AC_Bra_1913_%28logo%29.png",
-    "name2": "A.C. Bra",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "23/07/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/FC_Astana_Logo.svg/1200px-FC_Astana_Logo.svg.png",
+    "name1": "Astana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/28/Zimbru-Chisinau.png",
+    "name2": "Zimbru Chisinau",
+    "champ": "Ligue Conférence",
+    "heure": "14H00",
+    "date": "24/07/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name1": "Hoffenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/FC_08_Homburg_crest.svg/1200px-FC_08_Homburg_crest.svg.png",
-    "name2": "08 Homburg",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "23/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/47/Paide_Linnameeskond_logo.png",
+    "name1": "Paide Linnameeskond",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITgzEZ5_d0uh12CAFdmJHveMFByqbTFjX2Q&s",
+    "name2": "AIK Fotboll",
+    "champ": "Ligue Conférence",
+    "heure": "15H30",
+    "date": "24/07/2025",
+    "pro": "V2"
   }
 ]
