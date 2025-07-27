@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/1200px-Dynamo_Moscow_logo.svg.png",
-    "name1": "Dynamo Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
-    "name2": "Rostov",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjulZcI1PZ19bNyK_XMGOx55NauG393r1A&s",
+    "name1": "Orenbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
     "champ": "Russie. Première Ligue",
     "heure": "14H30",
-    "date": "26/07/2025",
-    "pro": "Total: (+2)"
+    "date": "27/07/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/FC_Lokomotiv_Moscow_%28logo%29.svg/1200px-FC_Lokomotiv_Moscow_%28logo%29.svg.png",
-    "name2": "Lokomotiv Moscou",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/1200px-FC_Rubin_Kazan_logo.svg.png",
+    "name1": "Rubin Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
+    "name2": "Zénith",
     "champ": "Russie. Première Ligue",
+    "heure": "17H00",
+    "date": "27/07/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1200px-Logo_KRC_Genk_2021.svg.png",
+    "name2": "Genk",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "16H30",
+    "date": "27/07/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/K._Sint-Truidense_V.V._logo.png/250px-K._Sint-Truidense_V.V._logo.png",
+    "name1": "Sint-Truidense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
+    "name2": "KAA La Gantoise",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "17H15",
+    "date": "27/07/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1200px-Rodina_Moscou_Logo.svg.png",
+    "name1": "Rodina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Spartak_Kostroma_Logo.svg/1200px-Spartak_Kostroma_Logo.svg.png",
+    "name2": "Spartak Kostroma",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "15H30",
+    "date": "27/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1200px-Fakel_Voronezh_logo.svg.png",
+    "name1": "Fakel Voronej",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FC_Ufa_logo.svg/1200px-FC_Ufa_logo.svg.png",
+    "name2": "Oufa",
+    "champ": "Russie. 1ère Ligue",
     "heure": "16H00",
-    "date": "26/07/2025",
+    "date": "27/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivbGnz42VdbpKxCcsrqyEHlA7oHwQ-Kgz8A&s",
+    "name1": "Jeunesse Canach",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_arms_walferdange_luxbrg.png",
+    "name2": "Walferdange",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "27/07/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png",
-    "name2": "Akron Tolyatti",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "26/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Lierse_Kempenzonen_%28logo%29.svg/1200px-Lierse_Kempenzonen_%28logo%29.svg.png",
+    "name1": "Lierse SK",
+    "photo2": "https://e7.pngegg.com/pngimages/591/838/png-clipart-k-berchem-sport-k-f-c-dessel-sport-k-patro-eisden-maasmechelen-lommel-sk-ludo-coeckstadion-football-heart-logo-thumbnail.png",
+    "name2": "K Berchem Sport",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "27/07/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name1": "Viktoria Plzen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/FK_Jablonec_logo.png/1200px-FK_Jablonec_logo.png",
-    "name2": "Jablonec",
-    "champ": "Tchéquie. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Logo_Venezia_FC_-_2022.svg/1200px-Logo_Venezia_FC_-_2022.svg.png",
+    "name1": "Venise FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Logo_ASD_Torres_-_2017.svg/1200px-Logo_ASD_Torres_-_2017.svg.png",
+    "name2": "ASD Sassari Torres",
+    "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "26/07/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/40/Hradec-Kralove.png",
-    "name1": "Hradec Kralove",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/MFK_Karvina.svg/1200px-MFK_Karvina.svg.png",
-    "name2": "Karviná",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "15H00",
-    "date": "26/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/FC_Zlin_logo.png/180px-FC_Zlin_logo.png",
-    "name1": "Zlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_1._FC_Slov%C3%A1cko.svg/1200px-Logo_1._FC_Slov%C3%A1cko.svg.png",
-    "name2": "1.Slovacko",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "15H00",
-    "date": "26/07/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/langfr-250px-Sk_sigma.svg.png",
-    "name1": "Sigma Olomouc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Dukla_Prague_%28logo%29.svg/1200px-Dukla_Prague_%28logo%29.svg.png",
-    "name2": "Dukla Prague",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "15H00",
-    "date": "26/07/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Bohemians_Praha_1905.svg/1200px-Bohemians_Praha_1905.svg.png",
-    "name1": "Bohemians 1905",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SK_Slavia_Praha_logo_%281996%E2%80%932022%29.svg/300px-SK_Slavia_Praha_logo_%281996%E2%80%932022%29.svg.png",
-    "name2": "Slavia Prague",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "18H00",
-    "date": "26/07/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "27/07/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c3/Volga_Ulyanovsk_Logo.svg/1978px-Volga_Ulyanovsk_Logo.svg.png",
-    "name1": "Volga Ulyanovsk",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKfJiiVF5P6S3SCqlmlHUKQVUXQ7szz2kig&s",
-    "name2": "KAMAZ",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "14H00",
-    "date": "26/07/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/FC_Sokol_Saratov_Logo.svg/1200px-FC_Sokol_Saratov_Logo.svg.png",
-    "name1": "Sokol Saratov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FCChayka2020.png",
-    "name2": "Tchaïka Pestch",
-    "champ": "Russie. 1ère Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/32/Virtus_logo_nuovo_scontorno_%281%29.png",
+    "name2": "Virtus Verona",
+    "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "26/07/2025",
-    "pro": "1X"
+    "date": "27/07/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
