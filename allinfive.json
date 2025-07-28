@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjulZcI1PZ19bNyK_XMGOx55NauG393r1A&s",
-    "name1": "Orenbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
-    "name2": "Dynamo Makhachkala",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H30",
-    "date": "27/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/GKS_Katowice_crest.svg/1200px-GKS_Katowice_crest.svg.png",
+    "name1": "Katowice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Zag%C5%82%C4%99bie_Lubin_crest.svg/1200px-Zag%C5%82%C4%99bie_Lubin_crest.svg.png",
+    "name2": "Zagtebie Lubin",
+    "champ": "Championnat de Pologne",
+    "heure": "17H00",
+    "date": "28/07/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/1200px-FC_Rubin_Kazan_logo.svg.png",
-    "name1": "Rubin Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
-    "name2": "Zénith",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H00",
-    "date": "27/07/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1200px-Logo_KRC_Genk_2021.svg.png",
-    "name2": "Genk",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "16H30",
-    "date": "27/07/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/K._Sint-Truidense_V.V._logo.png/250px-K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
-    "name2": "KAA La Gantoise",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "17H15",
-    "date": "27/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
+    "name1": "Gnistan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1200px-Logo_HJK_Helsinki_2020.svg.png",
+    "name2": "HJK",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "16H00",
+    "date": "28/07/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1200px-Rodina_Moscou_Logo.svg.png",
-    "name1": "Rodina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Spartak_Kostroma_Logo.svg/1200px-Spartak_Kostroma_Logo.svg.png",
-    "name2": "Spartak Kostroma",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H30",
-    "date": "27/07/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/SonderjyskE_logo.svg/1200px-SonderjyskE_logo.svg.png",
+    "name2": "SonderjyskE",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "28/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1200px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FC_Ufa_logo.svg/1200px-FC_Ufa_logo.svg.png",
-    "name2": "Oufa",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "27/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTivbGnz42VdbpKxCcsrqyEHlA7oHwQ-Kgz8A&s",
-    "name1": "Jeunesse Canach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coat_of_arms_walferdange_luxbrg.png",
-    "name2": "Walferdange",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "27/07/2025",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/1200px-IF_Elfsborg_%28logo%29.svg.png",
+    "name1": "Elfsborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_IFK_G%C3%B6teborg_2020.svg/1200px-Logo_IFK_G%C3%B6teborg_2020.svg.png",
+    "name2": "Goteborg",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "28/07/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Lierse_Kempenzonen_%28logo%29.svg/1200px-Lierse_Kempenzonen_%28logo%29.svg.png",
-    "name1": "Lierse SK",
-    "photo2": "https://e7.pngegg.com/pngimages/591/838/png-clipart-k-berchem-sport-k-f-c-dessel-sport-k-patro-eisden-maasmechelen-lommel-sk-ludo-coeckstadion-football-heart-logo-thumbnail.png",
-    "name2": "K Berchem Sport",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg/1200px-V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg.png",
+    "name1": "Vasteras SK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Trelleborgs_FF_logo.svg/1200px-Trelleborgs_FF_logo.svg.png",
+    "name2": "Trelleborg",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "28/07/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nQQCbsxDyTpWaNLIMFBtDZTzSfaZNMXvPQ&s",
+    "name1": "Helsingborgs",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Varbergs_BoIS_%28logo%29.svg/1200px-Varbergs_BoIS_%28logo%29.svg.png",
+    "name2": "Varbergs Bois",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "28/07/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Gaziantep_FK.svg/1200px-Logo_Gaziantep_FK.svg.png",
+    "name1": "Gazisehir Gaziantep",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Alanyaspor_%28logo%29.svg/1200px-Alanyaspor_%28logo%29.svg.png",
+    "name2": "Alanyaspor",
     "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "27/07/2025",
-    "pro": "Total: (+1.5)"
+    "date": "28/07/2025",
+    "pro": "2X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9b/Logo_Venezia_FC_-_2022.svg/1200px-Logo_Venezia_FC_-_2022.svg.png",
-    "name1": "Venise FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Logo_ASD_Torres_-_2017.svg/1200px-Logo_ASD_Torres_-_2017.svg.png",
-    "name2": "ASD Sassari Torres",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EG9qV-Yp-TtM7-sOVJUwDs86WBqywtTquw&s",
+    "name1": "Panserraikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/FC_Ferizaj.svg/1200px-FC_Ferizaj.svg.png",
+    "name2": "KF Ferizaj",
     "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "27/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
-    "name1": "Hellas Verona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/32/Virtus_logo_nuovo_scontorno_%281%29.png",
-    "name2": "Virtus Verona",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "27/07/2025",
+    "heure": "15H30",
+    "date": "28/07/2025",
     "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/FC_Mondercange_%28logo%29.svg/2031px-FC_Mondercange_%28logo%29.svg.png",
+    "name1": "Mondercange",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/FC_Mamer_32_%28logo%29.svg/640px-FC_Mamer_32_%28logo%29.svg.png",
+    "name2": "Mamer 32",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H00",
+    "date": "28/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/uk/9/99/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A4%D0%9A_%C2%AB%D0%A0%D0%B5%D0%B4%D0%B4%D1%96%D1%82%D1%87_%D0%AE%D0%BD%D0%B0%D0%B9%D1%82%D0%B5%D0%B4%C2%BB.png",
+    "name1": "Redditch United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sutton_Coldfield_Town_FC_crest.svg/1200px-Sutton_Coldfield_Town_FC_crest.svg.png",
+    "name2": "Sutton Coldfield Town",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H45",
+    "date": "28/07/2025",
+    "pro": "1X"
   }
 ]
