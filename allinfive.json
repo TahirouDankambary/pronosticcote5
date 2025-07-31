@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name1": "Qarabag",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name2": "Shelbourne",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/1200px-AEK_Larnaca.svg.png",
+    "name1": "AEK Larnaca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
+    "name2": "Celje",
+    "champ": "Ligue Europa",
+    "heure": "16H30",
+    "date": "31/07/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
-    "name1": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
-    "name2": "Rigas Futbola",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/1200px-Logo_BK_H%C3%A4cken_2021.svg.png",
+    "name1": "Häcken",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
+    "name2": "Anderlecht",
+    "champ": "Ligue Europa",
     "heure": "17H00",
-    "date": "30/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "31/07/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/250px-PFC_Ludogorets_Razgrad.png",
-    "name1": "Ludogorets 1945",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Logo_HNK_Rijeka_2021.svg/1200px-Logo_HNK_Rijeka_2021.svg.png",
-    "name2": "Rijeka",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name1": "CFR Cluj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FC_Lugano_logo.svg/2048px-FC_Lugano_logo.svg.png",
+    "name2": "Lugano",
+    "champ": "Ligue Europa",
     "heure": "17H30",
-    "date": "30/07/2025",
+    "date": "31/07/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name1": "FCSB",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/KF_Shk%C3%ABndija_%28logo%29.svg/langfr-250px-KF_Shk%C3%ABndija_%28logo%29.svg.png",
-    "name2": "Shkendija",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H30",
-    "date": "30/07/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name1": "Utrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/FC_Sheriff.svg/1200px-FC_Sheriff.svg.png",
+    "name2": "Sheriff Tiraspol",
+    "champ": "Ligue Europa",
+    "heure": "18H00",
+    "date": "31/07/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
+    "name1": "Shakhtar Donetsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg/1200px-Logo_Be%C5%9Fikta%C5%9F_JK_%28omnisports%29_2024.svg.png",
+    "name2": "Besiktas",
+    "champ": "Ligue Europa",
+    "heure": "18H00",
+    "date": "31/07/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d6/PFC_Levski_Sofia_%28logo%29.svg/1200px-PFC_Levski_Sofia_%28logo%29.svg.png",
+    "name2": "Levski Sofia",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "31/07/2025",
     "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
-    "name1": "Maccabi Tel Aviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Pafos_FC_badge.png/250px-Pafos_FC_badge.png",
-    "name2": "Pafos",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "30/07/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
-    "name2": "Rangers",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "30/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Noah_Logo_White.png",
-    "name2": "Noah Yerevan",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "30/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/1200px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name1": "Breidablik UBK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/KKS_Lech_Pozna%C5%84_%28logo%29.svg/1200px-KKS_Lech_Pozna%C5%84_%28logo%29.svg.png",
-    "name2": "Lech Poznan",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H30",
-    "date": "30/07/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
-    "name1": "FC Salzburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
-    "name2": "Brann",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H45",
-    "date": "30/07/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Servette_FC.svg/2048px-Servette_FC.svg.png",
-    "name1": "Servette",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name2": "Viktoria Plzen",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/Logo_Legia_Varsovie.svg/1200px-Logo_Legia_Varsovie.svg.png",
+    "name1": "Legia Varsovie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1200px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name2": "Banik Ostrava",
+    "champ": "Ligue Europa",
     "heure": "19H00",
-    "date": "30/07/2025",
+    "date": "31/07/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Spartak_Trnava_%28logo%29.svg/1200px-Spartak_Trnava_%28logo%29.svg.png",
+    "name1": "Spartak Trnava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Hibernian_fc.svg/1200px-Hibernian_fc.svg.png",
+    "name2": "Hibernians",
+    "champ": "Ligue Conférence",
+    "heure": "15H30",
+    "date": "31/07/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Banga_Garzdai_Logo.png/250px-Banga_Garzdai_Logo.png",
+    "name1": "Banga Gargzdai",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
+    "champ": "Ligue Conférence",
+    "heure": "16H00",
+    "date": "31/07/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/52/FC_Dila_Gori_%28Logo%29.png",
+    "name1": "Dila Gori",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Riga_Football_Club.svg/1200px-Riga_Football_Club.svg.png",
+    "name2": "Riga FC",
+    "champ": "Ligue Conférence",
+    "heure": "16H00",
+    "date": "31/07/2025",
     "pro": "12"
   }
 ]
