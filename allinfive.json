@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FC_Zenit_1_star_2015_logo.svg/2560px-FC_Zenit_1_star_2015_logo.svg.png",
-    "name1": "Zénith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-140px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/1200px-FC_Rubin_Kazan_logo.svg.png",
+    "name1": "Rubin Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
+    "name2": "Sochi",
     "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "03/08/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "17H00",
+    "date": "04/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/640px-Dinamo_Makhatchkala_Logo.png",
-    "name1": "Dynamo Makhachkala",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/627px-Akhmat_Grozny_Logo.svg.png",
-    "name2": "Akhmat",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "03/08/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6c/FC_Rotor_Volgograd_logo.png",
+    "name1": "Rotor Volgograd",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FC_Yenisey_Krasnoyarsk_%28logo%29.svg/1200px-FC_Yenisey_Krasnoyarsk_%28logo%29.svg.png",
+    "name2": "Ienisseï Krasnoïarsk",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "17H00",
+    "date": "04/08/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV Eindhoven",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Go_Ahead_Eagles.svg/1200px-Go_Ahead_Eagles.svg.png",
-    "name2": "Go Ahead Eagles",
-    "champ": "Supercoupe des Pays-Bas",
-    "heure": "16H00",
-    "date": "03/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
+    "name1": "Ilves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
+    "name2": "Gnistan",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "15H00",
+    "date": "04/08/2025",
     "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1200px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/FC_Sokol_Saratov_Logo.svg/1200px-FC_Sokol_Saratov_Logo.svg.png",
-    "name2": "Sokol Saratov",
-    "champ": "Russie. 1ère Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1200px-Logo_HJK_Helsinki_2020.svg.png",
+    "name1": "HJK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1200px-FC_Inter_Turku_%28logo%29.svg.png",
+    "name2": "Inter Turku",
+    "champ": "Finlande. Veikkausliiga",
     "heure": "16H00",
-    "date": "03/08/2025",
+    "date": "04/08/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_IFK_G%C3%B6teborg_2020.svg/1200px-Logo_IFK_G%C3%B6teborg_2020.svg.png",
+    "name1": "Goteborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Degerfors_IF_2020.svg/langfr-250px-Logo_Degerfors_IF_2020.svg.png",
+    "name2": "Degerfors",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "04/08/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Ume%C3%A5_FC_%28logo%29.svg/926px-Ume%C3%A5_FC_%28logo%29.svg.png",
+    "name1": "Umea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Falkenbergs_FF_logo.svg/langfr-250px-Falkenbergs_FF_logo.svg.png",
+    "name2": "Falkenbergs",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "04/08/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/1200px-Aberdeen_FC_stars_crest.svg.png",
+    "name2": "Aberdeen FC",
+    "champ": "Écosse. Première Ligue",
+    "heure": "19H00",
+    "date": "04/08/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/Monopoli_SS_1966_%28Since_2014%29.png",
+    "name1": "Monopoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/LOGO_SAMBIASE_1962.jpg/640px-LOGO_SAMBIASE_1962.jpg",
+    "name2": "Sambiase",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "04/08/2025",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/FC_Chernomorets_Novorossiysk_Logo.svg/langfr-250px-FC_Chernomorets_Novorossiysk_Logo.svg.png",
-    "name1": "Tchernomorets Novorossiisk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
-    "name2": "Arsenal Tula",
-    "champ": "Russie. 1ère Ligue",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "03/08/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Grazer_AK_2019.svg/1200px-Logo_Grazer_AK_2019.svg.png",
-    "name1": "Grazer AK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/Austria_Wien.svg/1200px-Austria_Wien.svg.png",
-    "name2": "Austria Wien",
-    "champ": "Autriche. Bundesliga",
-    "heure": "15H00",
-    "date": "03/08/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SK_Rapid_1998.svg/1200px-Logo_SK_Rapid_1998.svg.png",
-    "name1": "Rapid Vienne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_FC_Blau-Wei%C3%9F_Linz_2023.svg/1200px-Logo_FC_Blau-Wei%C3%9F_Linz_2023.svg.png",
-    "name2": "Blau-WeiB Linz",
-    "champ": "Autriche. Bundesliga",
-    "heure": "15H00",
-    "date": "03/08/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PhSwf8gUvm4IlDf1OgvOUVvmw5j89xWtig&s",
-    "name1": "TSU Bramberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_SV_B%C3%BCrmoos.jpg/1993px-Logo_SV_B%C3%BCrmoos.jpg",
-    "name2": "Burmoos",
-    "champ": "Autriche. Landesliga",
-    "heure": "15H00",
-    "date": "03/08/2025",
+    "date": "04/08/2025",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1200px-AGF_Aarhus_%28logo%29.svg.png",
-    "name1": "AGF Aarhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Danemark. Superliga",
-    "heure": "14H00",
-    "date": "03/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name1": "Brondby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/langfr-250px-Logo_Viborg_FF.svg.png",
-    "name2": "Viborg",
-    "champ": "Danemark. Superliga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Latina_Calcio_1932_crest.svg/1200px-Latina_Calcio_1932_crest.svg.png",
+    "name1": "Latina Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/7/71/Aquilacalcio.png",
+    "name2": "L'Aquila Calcio",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "03/08/2025",
-    "pro": "Total: (+2)"
+    "date": "04/08/2025",
+    "pro": "12"
   }
 ]
