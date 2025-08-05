@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/FC_Rubin_Kazan_logo.svg/1200px-FC_Rubin_Kazan_logo.svg.png",
-    "name1": "Rubin Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
-    "name2": "Sochi",
-    "champ": "Russie. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name2": "Copenhague",
+    "champ": "Ligue des champions de l'UEFA",
     "heure": "17H00",
-    "date": "04/08/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "05/08/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6c/FC_Rotor_Volgograd_logo.png",
-    "name1": "Rotor Volgograd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FC_Yenisey_Krasnoyarsk_%28logo%29.svg/1200px-FC_Yenisey_Krasnoyarsk_%28logo%29.svg.png",
-    "name2": "Ienisseï Krasnoïarsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "17H00",
-    "date": "04/08/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/1200px-Dynamo_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/38/Pafos_FC_logo.png",
+    "name2": "Pafos",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "05/08/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
-    "name1": "Ilves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IF_Gnistan_logo.svg/1200px-IF_Gnistan_logo.svg.png",
-    "name2": "Gnistan",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "15H00",
-    "date": "04/08/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1200px-Logo_HJK_Helsinki_2020.svg.png",
-    "name1": "HJK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1200px-FC_Inter_Turku_%28logo%29.svg.png",
-    "name2": "Inter Turku",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "16H00",
-    "date": "04/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_IFK_G%C3%B6teborg_2020.svg/1200px-Logo_IFK_G%C3%B6teborg_2020.svg.png",
-    "name1": "Goteborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Degerfors_IF_2020.svg/langfr-250px-Logo_Degerfors_IF_2020.svg.png",
-    "name2": "Degerfors",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "04/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/Ume%C3%A5_FC_%28logo%29.svg/926px-Ume%C3%A5_FC_%28logo%29.svg.png",
-    "name1": "Umea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Falkenbergs_FF_logo.svg/langfr-250px-Falkenbergs_FF_logo.svg.png",
-    "name2": "Falkenbergs",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "04/08/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Aberdeen_FC_stars_crest.svg/1200px-Aberdeen_FC_stars_crest.svg.png",
-    "name2": "Aberdeen FC",
-    "champ": "Écosse. Première Ligue",
-    "heure": "19H00",
-    "date": "04/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/Monopoli_SS_1966_%28Since_2014%29.png",
-    "name1": "Monopoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/LOGO_SAMBIASE_1962.jpg/640px-LOGO_SAMBIASE_1962.jpg",
-    "name2": "Sambiase",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "04/08/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnndJebcPLRXTxB8ugrb1hTEIrEK9CQ_74gA&s",
+    "name1": "Skendja",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
+    "name2": "Qarabag",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "05/08/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Athletic Bilbao",
-    "champ": "Matchs amicaux des clubs",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
+    "name2": "Viktoria Plzen",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H45",
+    "date": "05/08/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hamrun_badge_hi_deffb1.png",
+    "name1": "Hamrun Spartans",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "05/08/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Mordowia_Saransk_Logo.svg/1200px-Mordowia_Saransk_Logo.svg.png",
+    "name1": "Shumbrat Saransk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/64/414th_Marine_Strike_UAV_Battalion.png",
+    "name2": "Kristall MEZ Borisoglebsk",
+    "champ": "Coupe de Russie",
+    "heure": "17H15",
+    "date": "05/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ASA_Fodbold_logo.png",
+    "name1": "ASA Aarhus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cf/Lyseng_logo.png",
+    "name2": "IF Lyseng",
+    "champ": "Coupe du Danemark",
     "heure": "16H00",
-    "date": "04/08/2025",
-    "pro": "1X"
+    "date": "05/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://images.sports.gracenote.com/images/lib/basic/sport/football/club/logo/300/4115.png",
+    "name1": "Brabrand",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Skive_IK_%28logo%29.svg/1200px-Skive_IK_%28logo%29.svg.png",
+    "name2": "Skive",
+    "champ": "Coupe du Danemark",
+    "heure": "16H00",
+    "date": "05/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Latina_Calcio_1932_crest.svg/1200px-Latina_Calcio_1932_crest.svg.png",
-    "name1": "Latina Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/7/71/Aquilacalcio.png",
-    "name2": "L'Aquila Calcio",
-    "champ": "Matchs amicaux des clubs",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/75/FC_Helsing%C3%B8r_new_logo.png",
+    "name1": "Helsingor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Lyngby_Boldklub_2024.svg/1200px-Logo_Lyngby_Boldklub_2024.svg.png",
+    "name2": "Lyngby",
+    "champ": "Coupe du Danemark",
     "heure": "16H00",
-    "date": "04/08/2025",
-    "pro": "12"
+    "date": "05/08/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052015/fc_skanderborg_denmark.gif?itok=FxsCRh_i",
+    "name1": "Skanderborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/2b/Kjellerup_IF_logo.png",
+    "name2": "Kjellerup",
+    "champ": "Coupe du Danemark",
+    "heure": "16H30",
+    "date": "05/08/2025",
+    "pro": "V2"
   }
 ]
