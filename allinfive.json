@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
-    "name1": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name2": "Copenhague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
+    "name1": "Kairat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+    "name2": "Slovan Bratislava",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "17H00",
-    "date": "05/08/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "15H00",
+    "date": "06/08/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/1200px-Dynamo_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/38/Pafos_FC_logo.png",
-    "name2": "Pafos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/34/FC_Salzburg_logo.png",
+    "name1": "FC Salzburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name2": "Club Bruges",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "05/08/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnndJebcPLRXTxB8ugrb1hTEIrEK9CQ_74gA&s",
-    "name1": "Skendja",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name2": "Qarabag",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "05/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name2": "Viktoria Plzen",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H45",
-    "date": "05/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/de/Hamrun_badge_hi_deffb1.png",
-    "name1": "Hamrun Spartans",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "Ligue Europa de l'UEFA",
     "heure": "17H00",
-    "date": "05/08/2025",
-    "pro": "V2"
+    "date": "06/08/2025",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Mordowia_Saransk_Logo.svg/1200px-Mordowia_Saransk_Logo.svg.png",
-    "name1": "Shumbrat Saransk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/64/414th_Marine_Strike_UAV_Battalion.png",
-    "name2": "Kristall MEZ Borisoglebsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/250px-PFC_Ludogorets_Razgrad.png",
+    "name1": "Ludogorets 1945",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
+    "name2": "Ferencvarosi",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H30",
+    "date": "06/08/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/KKS_Lech_Pozna%C5%84_%28logo%29.svg/1200px-KKS_Lech_Pozna%C5%84_%28logo%29.svg.png",
+    "name1": "Lech Poznan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/1200px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name2": "Crvena Zvezda",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H30",
+    "date": "06/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "06/08/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "06/08/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
+    "name1": "Rigas Futbola Skola",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name2": "Kuopion Palloseura",
+    "champ": "Ligue Europa",
+    "heure": "17H00",
+    "date": "06/08/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/HNK_Rijeka_Hrvatska.png/1200px-HNK_Rijeka_Hrvatska.png",
+    "name1": "Rijeka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name2": "Shelbourne",
+    "champ": "Ligue Europa",
+    "heure": "18H45",
+    "date": "06/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVOBVKkaRMgV4FgJN64Ph4ZLAIFwjxNTxsQ&s",
+    "name1": "PSK Dinskaya",
+    "photo2": "https://sportcdns.live/team/4178234f3b5544a9396cf5e425f086c205ed9c6ab5fed97909b6dfb58a7619a9.webp",
+    "name2": "Drouzhba MayKop",
     "champ": "Coupe de Russie",
-    "heure": "17H15",
-    "date": "05/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ASA_Fodbold_logo.png",
-    "name1": "ASA Aarhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cf/Lyseng_logo.png",
-    "name2": "IF Lyseng",
-    "champ": "Coupe du Danemark",
-    "heure": "16H00",
-    "date": "05/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://images.sports.gracenote.com/images/lib/basic/sport/football/club/logo/300/4115.png",
-    "name1": "Brabrand",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Skive_IK_%28logo%29.svg/1200px-Skive_IK_%28logo%29.svg.png",
-    "name2": "Skive",
-    "champ": "Coupe du Danemark",
-    "heure": "16H00",
-    "date": "05/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "heure": "14H00",
+    "date": "06/08/2025",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/75/FC_Helsing%C3%B8r_new_logo.png",
-    "name1": "Helsingor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Lyngby_Boldklub_2024.svg/1200px-Logo_Lyngby_Boldklub_2024.svg.png",
-    "name2": "Lyngby",
-    "champ": "Coupe du Danemark",
-    "heure": "16H00",
-    "date": "05/08/2025",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052015/fc_skanderborg_denmark.gif?itok=FxsCRh_i",
-    "name1": "Skanderborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/2b/Kjellerup_IF_logo.png",
-    "name2": "Kjellerup",
-    "champ": "Coupe du Danemark",
-    "heure": "16H30",
-    "date": "05/08/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6uba8Kz2MQTcbkZ9hMaOx-ddkLHMSW567w&s",
+    "name1": "Broke Boys",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Wi1Z9zMTY3woSvNmfWwBceVK0V1YBNvoHw&s",
+    "name2": "Orel",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "06/08/2025",
+    "pro": "12"
   }
 ]
