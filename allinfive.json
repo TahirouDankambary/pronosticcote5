@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angletter. FA Community Shield",
-    "heure": "14H00",
-    "date": "10/08/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/GD_Estoril_Praia_logo.svg/1200px-GD_Estoril_Praia_logo.svg.png",
+    "name1": "Estoril",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/1200px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
+    "name2": "Estrela da Amadora",
+    "champ": "Portugal. Première Ligue",
+    "heure": "17H45",
+    "date": "11/08/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/PFC_Sochi_logo.svg/1200px-PFC_Sochi_logo.svg.png",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/1200px-Dynamo_Moscow_logo.svg.png",
-    "name2": "Dynamo Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "10/08/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
-    "name1": "Rostov",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhK_H44Gpr0P60JnQxh260fLJ5rQAc4bhgQ&s",
-    "name2": "Pari Nizhny",
-    "champ": "Russie. Première Ligue",
-    "heure": "17H30",
-    "date": "10/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/1200px-Heracles_Almelo_%28logo%29.svg.png",
-    "name2": "Heracles Almelo",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "14H45",
-    "date": "10/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name1": "Famalicao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_CD_Santa_Clara_2024.svg/1200px-Logo_CD_Santa_Clara_2024.svg.png",
-    "name2": "Santa Clara",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
+    "name2": "Vitoria Guimaraes",
     "champ": "Portugal. Première Ligue",
-    "heure": "16H00",
-    "date": "10/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/1200px-SC_Braga_%28logo%29.svg.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_CD_Tondela_2022.svg/1200px-Logo_CD_Tondela_2022.svg.png",
-    "name2": "Tondela",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H30",
-    "date": "10/08/2025",
+    "heure": "19H45",
+    "date": "11/08/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Moreirense_FC_2023.svg/1200px-Logo_Moreirense_FC_2023.svg.png",
-    "name1": "Moreirense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_FC_Alverca.svg/1200px-Logo_FC_Alverca.svg.png",
-    "name2": "Alverca",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H30",
-    "date": "10/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Caykur_Rizespor_%28logo%29.svg/2048px-Caykur_Rizespor_%28logo%29.svg.png",
-    "name1": "Caykur Rizespor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_G%C3%B6ztepe_SK_2023.svg/1200px-Logo_G%C3%B6ztepe_SK_2023.svg.png",
-    "name2": "Goztepe",
-    "champ": "Turquie. Super Lig",
-    "heure": "16H00",
-    "date": "10/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Trabzonspor_2022.svg/1200px-Logo_Trabzonspor_2022.svg.png",
+    "name1": "Trabzonspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Kocaelispor.svg/1200px-Logo_Kocaelispor.svg.png",
+    "name2": "Kocaelispor",
+    "champ": "Turquie. Süper Lig",
+    "heure": "18H30",
+    "date": "11/08/2025",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ey%C3%BCpspor_Logosu.png",
-    "name1": "Eyupspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Konyaspor_logo.svg/1200px-Konyaspor_logo.svg.png",
-    "name2": "Konyaspor",
-    "champ": "Turquie. Super Lig",
-    "heure": "18H30",
-    "date": "10/08/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Amiens_SC_logo.svg/1200px-Amiens_SC_logo.svg.png",
+    "name1": "Amiens SC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
+    "name2": "Stade de Reims",
+    "champ": "France. Ligue 2",
+    "heure": "18H45",
+    "date": "11/08/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Lechia_Gda%C5%84sk_%28logo%29.svg/1200px-Lechia_Gda%C5%84sk_%28logo%29.svg.png",
+    "name1": "Lechia Gdansk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Motor_Lublin_S.A._Oficjalny_Herb.png",
+    "name2": "Motor Lublin",
+    "champ": "Championnat de Pologne",
+    "heure": "17H00",
+    "date": "11/08/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/1200px-Odense_Boldklub.svg.png",
+    "name1": "Odense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1200px-Logo_Randers_FC_2023.svg.png",
+    "name2": "Randers",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "11/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "Alkmaar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name2": "Waalwijk",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "11/08/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name1": "PSV",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "11/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/1200px-Sheffield_Wednesday_badge.svg.png",
-    "name2": "Sheffield Wednesday",
-    "champ": "Angleterre. Championship",
-    "heure": "15H30",
-    "date": "10/08/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/FC_Zorya_Luhansk_%28logo%29.svg/1200px-FC_Zorya_Luhansk_%28logo%29.svg.png",
+    "name1": "Zorya",
+    "photo2": "https://upload.wikimedia.org/wikipedia/uk/e/e7/FC_Kudrivka_logo.png",
+    "name2": "Kudrivka",
+    "champ": "Ukraine. Premier-Liha",
+    "heure": "15H00",
+    "date": "11/08/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1200px-Logo_HJK_Helsinki_2020.svg.png",
+    "name1": "HJK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
+    "name2": "Ilves",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "16H00",
+    "date": "11/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   }
 ]
