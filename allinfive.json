@@ -1,103 +1,102 @@
-
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/GD_Estoril_Praia_logo.svg/1200px-GD_Estoril_Praia_logo.svg.png",
-    "name1": "Estoril",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/1200px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
-    "name2": "Estrela da Amadora",
-    "champ": "Portugal. Première Ligue",
-    "heure": "17H45",
-    "date": "11/08/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
+    "name1": "Qarabag",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnndJebcPLRXTxB8ugrb1hTEIrEK9CQ_74gA&s",
+    "name2": "Skendja",
+    "champ": "UEFA",
+    "heure": "16H00",
+    "date": "12/08/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H45",
-    "date": "11/08/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Trabzonspor_2022.svg/1200px-Logo_Trabzonspor_2022.svg.png",
-    "name1": "Trabzonspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Kocaelispor.svg/1200px-Logo_Kocaelispor.svg.png",
-    "name2": "Kocaelispor",
-    "champ": "Turquie. Süper Lig",
-    "heure": "18H30",
-    "date": "11/08/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Amiens_SC_logo.svg/1200px-Amiens_SC_logo.svg.png",
-    "name1": "Amiens SC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
-    "name2": "Stade de Reims",
-    "champ": "France. Ligue 2",
-    "heure": "18H45",
-    "date": "11/08/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Lechia_Gda%C5%84sk_%28logo%29.svg/1200px-Lechia_Gda%C5%84sk_%28logo%29.svg.png",
-    "name1": "Lechia Gdansk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Motor_Lublin_S.A._Oficjalny_Herb.png",
-    "name2": "Motor Lublin",
-    "champ": "Championnat de Pologne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name2": "Rangers",
+    "champ": "UEFA",
     "heure": "17H00",
-    "date": "11/08/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/1200px-Odense_Boldklub.svg.png",
-    "name1": "Odense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1200px-Logo_Randers_FC_2023.svg.png",
-    "name2": "Randers",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "11/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "Alkmaar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
-    "name2": "Waalwijk",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "11/08/2025",
+    "date": "12/08/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
-    "name2": "Emmen",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "11/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name2": "Malmo",
+    "champ": "UEFA",
+    "heure": "17H00",
+    "date": "12/08/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/FC_Zorya_Luhansk_%28logo%29.svg/1200px-FC_Zorya_Luhansk_%28logo%29.svg.png",
-    "name1": "Zorya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/uk/e/e7/FC_Kudrivka_logo.png",
-    "name2": "Kudrivka",
-    "champ": "Ukraine. Premier-Liha",
-    "heure": "15H00",
-    "date": "11/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Pafos_FC_badge.png/250px-Pafos_FC_badge.png",
+    "name1": "Pafos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/1200px-Dynamo_logo.svg.png",
+    "name2": "Dynamo Kyiv",
+    "champ": "UEFA",
+    "heure": "17H00",
+    "date": "12/08/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/1200px-Fenerbah%C3%A7e.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "UEFA",
+    "heure": "17H00",
+    "date": "12/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
+    "name2": "FC Salzburg",
+    "champ": "UEFA",
+    "heure": "17H30",
+    "date": "12/08/2025",
     "pro": "1X"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
+    "name2": "Kairat",
+    "champ": "UEFA",
+    "heure": "18H15",
+    "date": "12/08/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
+    "name1": "Ferencvarosi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/PFC_Ludogorets_Razgrad_logo.png",
+    "name2": "Ludogorets",
+    "champ": "UEFA",
+    "heure": "18H15",
+    "date": "12/08/2025",
+    "pro": "12"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_HJK_Helsinki_2020.svg/1200px-Logo_HJK_Helsinki_2020.svg.png",
-    "name1": "HJK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
-    "name2": "Ilves",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "16H00",
-    "date": "11/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
+    "name2": "Nice",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "12/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/1200px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/1200px-KKS_Lech_Pozna%C5%84.svg.png",
+    "name2": "Lech Poznan",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "12/08/2025",
+    "pro": "12"
   }
 ]
