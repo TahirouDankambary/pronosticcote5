@@ -1,102 +1,103 @@
+
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name1": "Qarabag",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnndJebcPLRXTxB8ugrb1hTEIrEK9CQ_74gA&s",
-    "name2": "Skendja",
-    "champ": "UEFA",
-    "heure": "16H00",
-    "date": "12/08/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Supercoupe de l'UEFA",
+    "heure": "19H00",
+    "date": "13/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name1": "Viktoria Plzen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
-    "name2": "Rangers",
-    "champ": "UEFA",
-    "heure": "17H00",
-    "date": "12/08/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name1": "Copenhague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
-    "name2": "Malmo",
-    "champ": "UEFA",
-    "heure": "17H00",
-    "date": "12/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Pafos_FC_badge.png/250px-Pafos_FC_badge.png",
-    "name1": "Pafos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/1200px-Dynamo_logo.svg.png",
-    "name2": "Dynamo Kyiv",
-    "champ": "UEFA",
-    "heure": "17H00",
-    "date": "12/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/1200px-Fenerbah%C3%A7e.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name2": "Feyenoord",
-    "champ": "UEFA",
-    "heure": "17H00",
-    "date": "12/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
-    "name2": "FC Salzburg",
-    "champ": "UEFA",
-    "heure": "17H30",
-    "date": "12/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/800px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
+    "name1": "Istanbul",
+    "photo2": "https://static.wikia.nocookie.net/fifa/images/f/fa/Viking_FK.png/revision/latest/thumbnail/width/360/height/450?cb=20161203183105",
+    "name2": "Viking",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "13/08/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
-    "name2": "Kairat",
-    "champ": "UEFA",
-    "heure": "18H15",
-    "date": "12/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/eb/PFC_Ludogorets_Razgrad_logo.png",
-    "name2": "Ludogorets",
-    "champ": "UEFA",
-    "heure": "18H15",
-    "date": "12/08/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
-    "name2": "Nice",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "12/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1200px-Barnsley_FC.svg.png",
+    "name1": "Barnsley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Fleetwood_Town_F.C._logo.svg/1200px-Fleetwood_Town_F.C._logo.svg.png",
+    "name2": "Fleetwood Town",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "13/08/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/1200px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
-    "name1": "Crvena Zvezda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/1200px-KKS_Lech_Pozna%C5%84.svg.png",
-    "name2": "Lech Poznan",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/vi/d/d3/Bolton_Wanderers_FC.png",
+    "name1": "Bolton Wanderers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/1200px-Sheffield_Wednesday_badge.svg.png",
+    "name2": "Sheffield Wednesday",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "13/08/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huddersfield_Town_AFC_crest.svg/1200px-Huddersfield_Town_AFC_crest.svg.png",
+    "name1": "Huddersfield Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name2": "Leicester City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "13/08/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Cheltenham_Town_FC_2010.svg/langfr-250px-Logo_Cheltenham_Town_FC_2010.svg.png",
+    "name1": "Cheltenham Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Exeter_City_FC.svg/1200px-Exeter_City_FC.svg.png",
+    "name2": "Exeter City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "13/08/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/1200px-Birmingham_City_FC_logo.svg.png",
+    "name1": "Birmingham City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/1200px-Sheffield_United_FC_logo.svg.png",
+    "name2": "Sheffield United",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "19H00",
-    "date": "12/08/2025",
-    "pro": "12"
+    "date": "13/08/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1200px-Logo_Al-Taawoun_FC.svg.png",
+    "name1": "Al-Taawon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Al-Fayha_FC.svg/1200px-Al-Fayha_FC.svg.png",
+    "name2": "Al Feiha",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "13/08/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg/1200px-Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg.png",
+    "name1": "Nea Salamis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/el/thumb/7/71/FC_Krasava_Logo.png/250px-FC_Krasava_Logo.png",
+    "name2": "Freedom24 Krasava",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "13/08/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Anorthosis_FC_logo.svg/1544px-Anorthosis_FC_logo.svg.png",
+    "name1": "Anorthosis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/df/Olympiakos-Nicosia_LOGO.png",
+    "name2": "Olympiakos Nicosia",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H45",
+    "date": "13/08/2025",
+    "pro": "Total: (+2)"
   }
 ]
