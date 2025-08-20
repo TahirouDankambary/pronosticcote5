@@ -1,122 +1,123 @@
+
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
-    "name2": "Club Bruges",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eE0Py0C5rC-U2BgcNjd3TlvVE5s4xcFRuA&s",
+    "name1": "Basel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name2": "Copenhague",
     "champ": "UEFA",
     "heure": "19H00",
-    "date": "19/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "20/08/2025",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name2": "Qarabag",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
     "champ": "UEFA",
     "heure": "19H00",
-    "date": "19/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Red_Star_Belgrade_crest.svg/1200px-Red_Star_Belgrade_crest.svg.png",
-    "name1": "Crvena Zvezda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Pafos_FC_badge.png/250px-Pafos_FC_badge.png",
-    "name2": "Pafos",
-    "champ": "UEFA",
-    "heure": "19H00",
-    "date": "19/08/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "19/08/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name1": "Luton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
-    "name2": "Wigan Athletic",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
+    "date": "20/08/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Mansfield_Town_FC.svg/1200px-Mansfield_Town_FC.svg.png",
-    "name1": "Mansfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Blackpool_FC_logo.svg/1200px-Blackpool_FC_logo.svg.png",
-    "name2": "Blackpool",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Northampton_Town_FC-2012.svg/langfr-150px-Northampton_Town_FC-2012.svg.png",
-    "name1": "Northampton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Lincoln_City_FC_2024_crest.svg/1200px-Lincoln_City_FC_2024_crest.svg.png",
-    "name2": "Lincoln City",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Peterborough_United.svg/1200px-Peterborough_United.svg.png",
-    "name1": "Peterborough United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1200px-Barnsley_FC.svg.png",
-    "name2": "Barnsley",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/2048px-Celtic_fc.svg.png",
+    "name1": "Celtic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
+    "name2": "Kairat",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "20/08/2025",
+    "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/1200px-Plymouth_Argyle_F.C._logo.svg.png",
-    "name1": "Plymouth Argyle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1200px-Leyton_Orient_F.C._logo.svg.png",
-    "name2": "Leyton Orient",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/1200px-Logo_Port_Vale_FC.svg.png",
-    "name1": "Port Vale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1200px-Logo_Stevenage_FC_2019.svg.png",
-    "name2": "Stevenage",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "20/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1200px-Stockport_County_FC_logo_2020.svg.png",
-    "name1": "Stockport County",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBisTVoOLrozIG7ksIG99jhuQ6iY5v1K6PLw&s",
-    "name2": "Bradford City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/1200px-Bolton_Wanderers_FC_logo.svg.png",
+    "name1": "Bolton Wanderers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/1200px-Reading_FC.svg.png",
+    "name2": "Reading",
     "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
+    "heure": "19H00",
+    "date": "20/08/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/1200px-Wycombe_Wanderers_FC_logo.svg.png",
-    "name1": "Wycombe Wanderers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Exeter_City_FC.svg/1200px-Exeter_City_FC.svg.png",
-    "name2": "Exeter City",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "19/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
+    "name1": "Veles Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Krasnoe_Znamya_Noginsk_Logo.svg/1692px-Krasnoe_Znamya_Noginsk_Logo.svg.png",
+    "name2": "Krasnoye Znamya",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "20/08/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Dynamo_Bryansk_Logo.svg/1200px-Dynamo_Bryansk_Logo.svg.png",
+    "name1": "Dinamo Briansk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/58/Saturnlogo.png",
+    "name2": "Saturn Ramenskoye",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "20/08/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Dinamo_Kirov_Logo.svg/1200px-Dinamo_Kirov_Logo.svg.png",
+    "name1": "Dynamo Kirov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/FBK_Kaunas_%28logo%29.svg/2067px-FBK_Kaunas_%28logo%29.svg.png",
+    "name2": "Fankom",
+    "champ": "Coupe de Russie",
+    "heure": "15H30",
+    "date": "20/08/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0b/FC_Znamya_Truda_logo.png",
+    "name1": "Znamya Truda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ef/Dinamo_Barnaoul_logo.png",
+    "name2": "Dynamo Barnaoul",
+    "champ": "Coupe de Russie",
+    "heure": "15H30",
+    "date": "20/08/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://tmssl.akamaized.net//images/wappen/head/132096.png?lm=1751269170",
+    "name1": "Kristall Mez",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/56/FCMuromBadge.png",
+    "name2": "Murom",
+    "champ": "Coupe de Russie",
+    "heure": "16H00",
+    "date": "20/08/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9f/Volgar_FC_logo_2019.png",
+    "name1": "Volgar Astrakhan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chertanovo_FC_logo_2021.png/800px-Chertanovo_FC_logo_2021.png",
+    "name2": "Tchertanovo",
+    "champ": "Coupe de Russie",
+    "heure": "16H15",
+    "date": "20/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/83/FC_Dynamo_Vologda_badge.png",
+    "name1": "Dynamo Vologda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJY2MW2H5Ez2Ws90mgKLhPT8sGVA1WA47f5n_d4-2P9zEgZe46_vfwvWQdKscLijbCH4&usqp=CAU",
+    "name2": "Dynamo",
+    "champ": "Coupe de Russie",
+    "heure": "16H15",
+    "date": "20/08/2025",
     "pro": "Total: (+1.5)"
   }
 ]
