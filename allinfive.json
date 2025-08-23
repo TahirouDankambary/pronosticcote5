@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+    "name2": "Sunderland",
     "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "22/08/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "heure": "14H00",
+    "date": "23/08/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name2": "Leipzig",
-    "champ": "Allemagne. BUndesliga",
-    "heure": "18H30",
-    "date": "22/08/2025",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "name2": "Wolverhampton",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "23/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name2": "Deportivo Alavés",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "22/08/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHjulZcI1PZ19bNyK_XMGOx55NauG393r1A&s",
-    "name1": "Orenbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Akhmat_Grozny_Logo.svg/627px-Akhmat_Grozny_Logo.svg.png",
-    "name2": "Akhmat",
-    "champ": "Russie. Première Ligue",
-    "heure": "15H00",
-    "date": "22/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/1200px-Aston_Villa_FC_new_crest.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "23/08/2025",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
-    "name1": "Real Valladolid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Rayo_Majadahonda_%28logo%29.svg/1200px-Rayo_Majadahonda_%28logo%29.svg.png",
-    "name2": "Rayo Majadahonda",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "22/08/2025",
-    "pro": "Total: (+2)"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "23/08/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ksk_logo.png",
-    "name1": "Karsiyaka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c8/Mu%C4%9Flaspor.png/250px-Mu%C4%9Flaspor.png",
-    "name2": "Muglaspor",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "22/08/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/CD_Numancia_logo.svg/1200px-CD_Numancia_logo.svg.png",
-    "name1": "Numancia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/SD_Tarazona.png/250px-SD_Tarazona.png",
-    "name2": "SD Tarazona",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "22/08/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Unionistas_de_Salamanca_Club_de_F%C3%BAtbol.svg/1200px-Logo_Unionistas_de_Salamanca_Club_de_F%C3%BAtbol.svg.png",
-    "name1": "Unionistas de Salamanca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/24/M%C3%A9rida_UD.png",
-    "name2": "Mérida",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H00",
-    "date": "22/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_SV_Werder_Bremen_2023.svg/1200px-Logo_SV_Werder_Bremen_2023.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "23/08/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/F%C3%BAtbol_Club_Cartagena_%28logo%29.svg/1200px-F%C3%BAtbol_Club_Cartagena_%28logo%29.svg.png",
-    "name1": "Cartagena",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "name2": "Eldense",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "19H00",
-    "date": "22/08/2025",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
+    "name2": "Hoffenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "23/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "23/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "13H30",
+    "date": "23/08/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name1": "Derby County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1200px-Bristol_City_crest.svg.png",
-    "name2": "Bristol City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "22/08/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/480px-FC_St._Pauli_%28logo%29.svg.png",
+    "name1": "St.Pauli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "23/08/2025",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1200px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name2": "Celta de Vigo",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H00",
+    "date": "23/08/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
