@@ -1,102 +1,103 @@
+
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "25/08/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/FC_Kairat_logo.svg/1200px-FC_Kairat_logo.svg.png",
+    "name1": "Kairat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/2048px-Celtic_fc.svg.png",
+    "name2": "Celtic",
+    "champ": "UEFA",
+    "heure": "16H45",
+    "date": "26/08/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name2": "Rayo Vallecano",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "25/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Pafos_FC_badge.png/250px-Pafos_FC_badge.png",
+    "name1": "Pafos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/1200px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name2": "Crvena Zvezda",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "26/08/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
+    "name1": "Sturm Graz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name2": "Bodo-Glimt",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "26/08/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/1200px-Reading_FC.svg.png",
+    "name1": "Reading",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_AFC_Wimbledon_-_2020.svg/langfr-250px-Logo_AFC_Wimbledon_-_2020.svg.png",
+    "name2": "Tournoi de Wimbledon",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H00",
+    "date": "26/08/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
-    "name2": "Getafe",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "25/08/2025",
-    "pro": "Total: (+1)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name1": "Udinese Calcio",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
-    "name2": "Hellas Verona",
-    "champ": "Italie. Série A",
-    "heure": "16H30",
-    "date": "25/08/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
+    "name1": "Wolverhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West Ham",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H30",
+    "date": "26/08/2025",
     "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
-    "name2": "Torino",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/Cambridge_United_FC.svg/1200px-Cambridge_United_FC.svg.png",
+    "name1": "Cambridge United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1200px-Charlton_Athletic.svg.png",
+    "name2": "Charlton Athletic",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H30",
+    "date": "26/08/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Accrington_Stanley_F.C._logo.svg/1200px-Accrington_Stanley_F.C._logo.svg.png",
+    "name1": "Accrington Stanley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1200px-Doncaster_Rovers_F.C._logo.svg.png",
+    "name2": "Doncaster Rovers",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "18H45",
-    "date": "25/08/2025",
+    "date": "26/08/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1200px-Barnsley_FC.svg.png",
+    "name1": "Barnsley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Rotherham_United_FC.svg/1200px-Rotherham_United_FC.svg.png",
+    "name2": "Rotherham United",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "26/08/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
+    "name2": "Derby County",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "26/08/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/1200px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
-    "name1": "Estrela da Amadora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_FC_Alverca.svg/1200px-Logo_FC_Alverca.svg.png",
-    "name2": "Alverca",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "25/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ey%C3%BCpspor_Logosu.png",
-    "name1": "Eyupspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Alanyaspor_%28logo%29.svg/1200px-Alanyaspor_%28logo%29.svg.png",
-    "name2": "Alanyaspor",
-    "champ": "Turquie. Super Lig",
-    "heure": "16H00",
-    "date": "25/08/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SWbxgXMN7M4wjJDm5vgDWLBTFYt2yzEuIA&s",
-    "name1": "Levadiakos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/uk/1/15/A.E._Kifisia_F.C._official_logo.png",
-    "name2": "Kifisias",
-    "champ": "Grèce. Superligue",
-    "heure": "16H30",
-    "date": "25/08/2025",
-    "pro": "1X"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/1200px-U.C._Sampdoria_logo.svg.png",
-    "name1": "Sampdoria",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQupgND9Qizb5ucEfsqXJ9kgQ3eKKkRtOilQ&s",
-    "name2": "Modena",
-    "champ": "Italie. Série B",
-    "heure": "18H30",
-    "date": "25/08/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo_Pau_FC_-_2022.svg/2048px-Logo_Pau_FC_-_2022.svg.png",
-    "name1": "Pau",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
-    "name2": "Stade de Reims",
-    "champ": "France. Ligue 2",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvz3nLRsLQlFX_x1lEbTtu5R7hETXfG76c3g&s",
+    "name1": "Burton Albion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Lincoln_City_FC_2024_crest.svg/1200px-Lincoln_City_FC_2024_crest.svg.png",
+    "name2": "Lincoln City",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "18H45",
-    "date": "25/08/2025",
-    "pro": "2X"
+    "date": "26/08/2025",
+    "pro": "12"
   }
 ]
