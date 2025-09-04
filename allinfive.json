@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/9/93/Karaman_FK_Logo.png",
-    "name1": "Karaman FC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/c3/Suvermez_Kapadokyaspor.png/250px-Suvermez_Kapadokyaspor.png",
-    "name2": "Suvermez Kapadokya",
-    "champ": "Coupe de Turquie",
-    "heure": "16H00",
-    "date": "03/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/2560px-Flag_of_Kazakhstan.svg.png",
+    "name1": "Kazakhstan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/640px-Flag_of_Wales.svg.png",
+    "name2": "Pays de Galles",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "14H00",
+    "date": "04/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/tr/3/32/Fethiyespor.png",
-    "name1": "Fethiyespor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/7/7a/S%C3%B6ke_1970_spor.png",
-    "name2": "Soke 1970",
-    "champ": "Coupe de Turquie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png",
+    "name1": "Géorgie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/960px-Flag_of_Turkey.svg.png",
+    "name2": "Turquie",
+    "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "03/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "04/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Ankaragucu_%28logo%29.svg/1200px-Ankaragucu_%28logo%29.svg.png",
-    "name1": "MKE Ankaragucu",
-    "photo2": "https://upload.wikimedia.org/wikipedia/tr/6/60/Karab%C3%BCkidmanyurdu.png",
-    "name2": "Karabuk Idman",
-    "champ": "Coupe de Turquie",
-    "heure": "17H00",
-    "date": "03/09/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0e/FC_Volga_Ulyanovsk_logo.png",
-    "name1": "Volga Ulyanovsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/FC_Chernomorets_Novorossiysk_Logo.svg/langfr-250px-FC_Chernomorets_Novorossiysk_Logo.svg.png",
-    "name2": "Tchernomorets Novorossiisk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "14H30",
-    "date": "03/09/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/86/FK_Neftekhimik_Nijnekamsk.png",
-    "name1": "Neftekhimik Nijnekamsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1200px-Rodina_Moscou_Logo.svg.png",
-    "name2": "Rodina",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H00",
-    "date": "03/09/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/FC_Sokol_Saratov_Logo.svg/800px-FC_Sokol_Saratov_Logo.svg.png",
-    "name1": "Sokol Saratov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/FC_KAMAZ_Logo.svg/2045px-FC_KAMAZ_Logo.svg.png",
-    "name2": "KAMAZ",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H00",
-    "date": "03/09/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FCChayka2020.png",
-    "name1": "Tchaïka Pestc anakopskoye",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6c/FC_Rotor_Volgograd_logo.png",
-    "name2": "Rotor Volgograd",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H30",
-    "date": "03/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
+    "name1": "Lituanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/250px-Flag_of_Malta.svg.png",
+    "name2": "Malte",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "04/09/2025",
     "pro": "12"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/2560px-Flag_of_Luxembourg.svg.png",
+    "name1": "Luxembourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg/1200px-Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg.png",
+    "name2": "Irlande du Nord",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "18H45",
+    "date": "04/09/2025",
+    "pro": "Total: (+1)"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/FC_Torpedo_Moscow_Logotype_2023.png",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FC_Ufa_logo.svg/1200px-FC_Ufa_logo.svg.png",
-    "name2": "Oufa",
-    "champ": "Russie. 1ère Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
+    "name1": "Pays-Bas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/langfr-250px-Flag_of_Poland.svg.png",
+    "name2": "Pologne",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "18H45",
+    "date": "04/09/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png",
+    "name1": "Slovaquie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-250px-Flag_of_Germany.svg.png",
+    "name2": "Allemagne",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "18H45",
+    "date": "04/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png",
+    "name1": "Angola",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/2560px-Flag_of_Libya.svg.png",
+    "name2": "Libye",
+    "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "03/09/2025",
-    "pro": "1X"
+    "date": "04/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/2560px-Flag_of_Guinea-Bissau.svg.png",
+    "name1": "Guinea-Bissau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/2560px-Flag_of_Sierra_Leone.svg.png",
+    "name2": "Sierra Leone",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "04/09/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/FC_Arsenal_Tula_%28logo%29.svg/2081px-FC_Arsenal_Tula_%28logo%29.svg.png",
-    "name1": "Arsenal Tula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c8/SKA-Khabarovsk_Logo.png",
-    "name2": "SKA-Khabarovsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "17H00",
-    "date": "03/09/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/330px-Flag_of_Mauritius.svg.png",
+    "name1": "Mauritius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
+    "name2": "Cape Verde",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "04/09/2025",
+    "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/89/ADO_%2720_logo.png",
-    "name1": "ADO 20",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/35/New-rbc-logo.png",
-    "name2": "Roosendaal",
-    "champ": "Coupe des Pays-Bas",
-    "heure": "18H00",
-    "date": "03/09/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png",
+    "name1": "Madagascar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/langfr-250px-Flag_of_the_Central_African_Republic.svg.png",
+    "name2": "République Centrafricaine",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "16H00",
+    "date": "04/09/2025",
+    "pro": "12"
   }
 ]
