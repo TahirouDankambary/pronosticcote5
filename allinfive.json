@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png",
-    "name1": "Grèce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/2560px-Flag_of_Belarus.svg.png",
-    "name2": "Bélarus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
+    "name1": "Autriche",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
+    "name2": "Chypre",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "V1"
+    "date": "06/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
-    "name1": "Danemark",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-250px-Flag_of_Scotland.svg.png",
-    "name2": "Écosse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/langfr-250px-Flag_of_Ireland.svg.png",
+    "name1": "Irlande",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/960px-Flag_of_Hungary.svg.png",
+    "name2": "Hongrie",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "05/09/2025",
+    "date": "06/09/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/2560px-Flag_of_Iceland.svg.png",
-    "name1": "Islande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png",
-    "name2": "Azerbaïdjan",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1280px-Flag_of_Moldova.svg.png",
-    "name1": "Moldavie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/langfr-250px-Flag_of_Israel.svg.png",
-    "name2": "Israël",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name1": "Slovénie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
-    "name2": "Suède",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1280px-Flag_of_Ukraine.svg.png",
-    "name1": "Ukraine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-    "name2": "France",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1200px-Flag_of_the_Faroe_Islands.svg.png",
-    "name1": "Îles Féroé",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png",
-    "name2": "Croatie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png",
-    "name1": "Monténégro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png",
-    "name2": "République Tchèque",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/2048px-Flag_of_Switzerland.svg.png",
-    "name1": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/640px-Flag_of_Kosovo.svg.png",
-    "name2": "Kosovo",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "05/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/2560px-Flag_of_Benin.svg.png",
-    "name1": "Benin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/2560px-Flag_of_Zimbabwe.svg.png",
-    "name2": "Zimbabwe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nigeria.png/1200px-Flag_of_Nigeria.png",
+    "name1": "Nigeria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1280px-Flag_of_Rwanda.svg.png",
+    "name2": "Rwanda",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "05/09/2025",
+    "date": "06/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png",
+    "name1": "Égypte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langfr-250px-Flag_of_Tunisia.svg.png",
+    "name2": "Tunisie",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "17H00",
+    "date": "06/09/2025",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAF3G4mgxMdcqN8FwYbzFwuAZueHylQNFYw&s",
+    "name1": "Estoril",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtO8aUa4Ysaa_DvyvwlFZWlynbcvzmQP0vXA&s",
+    "name2": "Santa Clara",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H30",
+    "date": "06/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/lb/d/d1/Bolton_Wanderers_badge.png",
+    "name1": "Bolton Wanderers",
+    "photo2": "https://static.wikia.nocookie.net/the-football-database/images/c/c8/AFC_Wimbledon.png/revision/latest?cb=20140731183736",
+    "name2": "Tournoi de Wimbledon",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "14H00",
+    "date": "06/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1200px-Doncaster_Rovers_F.C._logo.svg.png",
+    "name1": "Doncaster Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Bradford_City_AFC_crest.svg/834px-Bradford_City_AFC_crest.svg.png",
+    "name2": "Bradford City",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "14H00",
+    "date": "06/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQgLedGG5cN88FoZd4mC1sSvhGK7ukI9UWg&s",
+    "name1": "Lincoln City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
+    "name2": "Wigan Athletic",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "14H00",
+    "date": "06/09/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdJ8AL2skOSdCZGFRESxK13dD0VqnMtAQ2A&s",
+    "name1": "Plymouth Argyle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1200px-Stockport_County_FC_logo_2020.svg.png",
+    "name2": "Stockport County",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "14H00",
+    "date": "06/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Port_Vale_logo.svg/1052px-Port_Vale_logo.svg.png",
+    "name1": "Port Vale",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1200px-Leyton_Orient_F.C._logo.svg.png",
+    "name2": "Leyton Orient",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "14H00",
+    "date": "06/09/2025",
+    "pro": "12"
   }
 ]
