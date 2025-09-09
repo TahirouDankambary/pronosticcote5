@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/2560px-Flag_of_Belarus.svg.png",
-    "name1": "Bélarus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-250px-Flag_of_Scotland.svg.png",
-    "name2": "Écosse",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png",
+    "name1": "Azerbaïdjan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png",
+    "name2": "Ukraine",
     "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "12"
+    "heure": "16H00",
+    "date": "09/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/2560px-Flag_of_Gibraltar.svg.png",
-    "name1": "Gibraltar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1200px-Flag_of_the_Faroe_Islands.svg.png",
-    "name2": "Îles Féroé",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2560px-Flag_of_Armenia.svg.png",
+    "name1": "Arménie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/2560px-Flag_of_Ireland.svg.png",
+    "name2": "Irlande",
     "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "16H00",
+    "date": "09/09/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1280px-Flag_of_Greece.svg.png",
-    "name1": "Grèce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
-    "name2": "Danemark",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
+    "name1": "Albanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/2560px-Flag_of_Latvia.svg.png",
+    "name2": "Lettonie",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "Total: (+1.5)"
+    "date": "09/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/2560px-Flag_of_Israel.svg.png",
-    "name1": "Israël",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Italy_%28Pantone%2C_2006%29.svg/250px-Flag_of_Italy_%28Pantone%2C_2006%29.svg.png",
-    "name2": "Italie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/2560px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "name1": "Bosnie-Herzégovine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
+    "name2": "Autriche",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "V2"
+    "date": "09/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/640px-Flag_of_Kosovo.svg.png",
-    "name1": "Kosovo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1280px-Flag_of_Sweden.svg.png",
-    "name2": "Suède",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/960px-Flag_of_Hungary.svg.png",
+    "name1": "Hongrie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
+    "name2": "Portugal",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "08/09/2025",
+    "date": "09/09/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
+    "name1": "Chypre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png",
+    "name2": "Roumanie",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "18H45",
+    "date": "09/09/2025",
     "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png",
-    "name1": "Croatie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/langfr-250px-Flag_of_Montenegro.svg.png",
-    "name2": "Monténégro",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
+    "name1": "Serbie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png",
+    "name2": "Angleterre",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "09/09/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/2048px-Flag_of_Switzerland.svg.png",
-    "name1": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
-    "name2": "Slovénie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "08/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/640px-Flag_of_Guinea.svg.png",
-    "name1": "Guinée",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
-    "name2": "Algérie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png",
+    "name1": "Burkina Faso",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png",
+    "name2": "Égypte",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "08/09/2025",
+    "date": "09/09/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png",
-    "name1": "Madagascar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/langfr-250px-Flag_of_Chad.svg.png",
-    "name2": "Tchad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/250px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name1": "DR Congo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png",
+    "name2": "Sénégal",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "08/09/2025",
-    "pro": "V1"
+    "date": "09/09/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/330px-Flag_of_Malawi.svg.png",
-    "name1": "Malawi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png",
-    "name2": "Liberia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
+    "name1": "Cape Verde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2560px-Flag_of_Cameroon.svg.png",
+    "name2": "Cameroun",
     "champ": "Qualif Coupe du Monde 2026",
     "heure": "16H00",
-    "date": "08/09/2025",
-    "pro": "12"
+    "date": "09/09/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
