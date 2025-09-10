@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/2560px-Flag_of_Azerbaijan.svg.png",
-    "name1": "Azerbaïdjan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png",
-    "name2": "Ukraine",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "09/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/FC_Luki-Energiya_Velikiye_Luki_logo.png/250px-FC_Luki-Energiya_Velikiye_Luki_logo.png",
+    "name1": "FC Luki Energiya Velikié Louki",
+    "photo2": "https://upload.wikimedia.org/wikipedia/he/0/03/FC_Cherepovets.png",
+    "name2": "Tcherepovets",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "10/09/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/2560px-Flag_of_Armenia.svg.png",
-    "name1": "Arménie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/2560px-Flag_of_Ireland.svg.png",
-    "name2": "Irlande",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "09/09/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/langfr-250px-Flag_of_Albania.svg.png",
-    "name1": "Albanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/2560px-Flag_of_Latvia.svg.png",
-    "name2": "Lettonie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "09/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Machouk-KMV_Logo_2023.png",
+    "name1": "Machouk KMV Piatigorsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/18/KubanHoldingLogo2018.png",
+    "name2": "Kuban Holding",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "10/09/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVlC5dpvk40Y7QJp2WSlMLfOUP8Che3na0g&s",
+    "name1": "Tekstilshchik Ivanovo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/83/FC_Dynamo_Vologda_badge.png",
+    "name2": "Dynamo Vologda",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "10/09/2025",
+    "pro": "1X"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/2560px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name1": "Bosnie-Herzégovine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
-    "name2": "Autriche",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "09/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nacional.png",
+    "name1": "Fankom",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9f/Khimik_Djerzinsk.png",
+    "name2": "Khimik Dzerzhinsk",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "10/09/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYe_BvxfeZ0ZGOH8_JJORjjc30-FADvIWomg&s",
+    "name1": "Kristall Mez Borisoglebsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Spartak_Tambov.png/250px-Logo_Spartak_Tambov.png",
+    "name2": "Spartak Tambov",
+    "champ": "Coupe de Russie",
+    "heure": "16H30",
+    "date": "10/09/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/AD_Alcorc%C3%B3n_%28logo%29.svg/langfr-250px-AD_Alcorc%C3%B3n_%28logo%29.svg.png",
+    "name1": "AD Alcorcon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Cultural_y_Deportiva_Leonesa_-_2018.svg/langfr-250px-Logo_Cultural_y_Deportiva_Leonesa_-_2018.svg.png",
+    "name2": "Cultural y Deportiva Leonesa",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "17H30",
+    "date": "10/09/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/50/Buckiethistlefc.png",
+    "name1": "Buckie Thistle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/5c/Clachnacuddin.png",
+    "name2": "Clachnacuddin",
+    "champ": "Écosse. Highland League",
+    "heure": "19H00",
+    "date": "10/09/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/960px-Flag_of_Hungary.svg.png",
-    "name1": "Hongrie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/1200px-Flag_of_Portugal_%28official%29.svg.png",
-    "name2": "Portugal",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "09/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Brechin.svg/1200px-Brechin.svg.png",
+    "name1": "Brechin City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c7/Huntlybadge.png",
+    "name2": "Huntly",
+    "champ": "Écosse. Highland League",
+    "heure": "19H00",
+    "date": "10/09/2025",
+    "pro": "Total 1: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/c3/Banksodeebadge1.png",
+    "name1": "Banks 0'Dee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/85/Formartine_Utd.png",
+    "name2": "Formartine United",
+    "champ": "Écosse. Highland League",
+    "heure": "19H00",
+    "date": "10/09/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/00/Winchester_City_F.C._logo.png",
+    "name1": "Winchester City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f2/Turriff_Utd.png",
+    "name2": "Turriff United",
+    "champ": "Écosse. Highland League",
+    "heure": "19H00",
+    "date": "10/09/2025",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/2560px-Flag_of_Cyprus.svg.png",
-    "name1": "Chypre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png",
-    "name2": "Roumanie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "09/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1280px-Flag_of_Serbia.svg.png",
-    "name1": "Serbie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/2560px-Flag_of_England.svg.png",
-    "name2": "Angleterre",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "18H45",
-    "date": "09/09/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png",
-    "name1": "Burkina Faso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png",
-    "name2": "Égypte",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "09/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/250px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "name1": "DR Congo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png",
-    "name2": "Sénégal",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "09/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
-    "name1": "Cape Verde",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2560px-Flag_of_Cameroon.svg.png",
-    "name2": "Cameroun",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "09/09/2025",
-    "pro": "Total: (+1.5)"
   }
 ]
