@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name1": "Burnley",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCek3QjaBtS-yq8xnduEAnegL-DXzsMVt7-g&s",
-    "name2": "Forest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man City",
     "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "20/09/2025",
-    "pro": "2X"
+    "heure": "15H30",
+    "date": "21/09/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/584px-Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "20/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "20/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/965px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds United",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "20/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/d/da/Manchester_United_FC.svg/1184px-Manchester_United_FC.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "20/09/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/a/a8/Fulham_fc.svg/901px-Fulham_fc.svg.png",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "20/09/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1054px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
-    "name2": "Cologne",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M08d2KsKbeouRHIHXcNzQfpwakz2Uk4DPw&s",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1283px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "name2": "Monchengladbach",
     "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "20/09/2025",
+    "heure": "15H30",
+    "date": "21/09/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name2": "Espanyol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/VfL_Wolfsburg_Logo.png/1200px-VfL_Wolfsburg_Logo.png",
+    "name2": "Wolfsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "21/09/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/906px-RCD_Mallorca_%28logo%29.svg.png",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Atletico_Madrid_logo.svg/1600px-Atletico_Madrid_logo.svg.png",
+    "name2": "Atl Madrid",
     "champ": "Espagne. LaLiga",
     "heure": "14H15",
-    "date": "20/09/2025",
-    "pro": "V1"
+    "date": "21/09/2025",
+    "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name1": "Deportivo Alavés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/844px-Logo_S%C3%A9ville_FC.svg.png",
-    "name2": "Séville",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbX_4IBXYMB2vrrq6n1RYkvfDv6RSDpXiT3g&s",
+    "name1": "Elche",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Logo_Real_Oviedo_2013.svg/529px-Logo_Real_Oviedo_2013.svg.png",
+    "name2": "Real Oviedo",
     "champ": "Espagne. LaLiga",
     "heure": "16H30",
-    "date": "20/09/2025",
+    "date": "21/09/2025",
     "pro": "Total: (+1)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
-    "name1": "Villarreal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/895px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/2023px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png",
+    "name2": "Getafe",
     "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "20/09/2025",
+    "heure": "19H00",
+    "date": "21/09/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1200px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/1161px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Italie. Série A",
+    "heure": "16H00",
+    "date": "21/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_US_Sassuolo_2024.svg/1089px-Logo_US_Sassuolo_2024.svg.png",
+    "name2": "Sassuolo Calcio",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "21/09/2025",
     "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1129px-FC_Baltika_Kaliningrad_Logo.svg.png",
+    "name1": "Baltika Kaliningrad",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfowjSJ-wad-rYYqXWi_-UKeToK7kwOEFPlA&s",
+    "name2": "Rostov",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H00",
+    "date": "21/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXj-UmqKP2hTJaP8kkFw8SfKY21BX5tUkX3A&s",
+    "name2": "Zénith",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H30",
+    "date": "21/09/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
