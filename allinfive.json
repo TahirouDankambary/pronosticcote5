@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "23/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/1200px-Logo_FC_Midtjylland_2025.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
+    "champ": "Ligue Europa",
+    "heure": "16H45",
+    "date": "24/09/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "23/09/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
-    "name1": "Levante",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "23/09/2025",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/989px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "23/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/862px-PAOK_FC_logo.svg.png",
+    "name1": "PAOK",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sw9UUDMFhB329wDGkspKZn0l8yAUszkTsw&s",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "Ligue Europa",
+    "heure": "16H45",
+    "date": "24/09/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1186px-Barnsley_FC.svg.png",
-    "name1": "Barnsley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name2": "Brighton",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1200px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
+    "name1": "Dinamo Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1152px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name2": "Cardiff City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/791px-Malmo_FF_logo.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorets",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1644px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/934px-AS_Roma_Logo_2017.svg.png",
+    "name2": "Roma",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Real Betis",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCek3QjaBtS-yq8xnduEAnegL-DXzsMVt7-g&s",
+    "name2": "Forest",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/854px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_FC_Basel_2023.svg/1115px-Logo_FC_Basel_2023.svg.png",
+    "name2": "Basel",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQgLedGG5cN88FoZd4mC1sSvhGK7ukI9UWg&s",
-    "name1": "Lincoln City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/Cambridge_United_FC.svg/1564px-Cambridge_United_FC.svg.png",
-    "name2": "Cambridge United",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
-    "pro": "Total: (+1.5)"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/765px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
+    "name2": "Celtic",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
-    "name2": "Everton",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/886px-Logo_Wrexham_AFC.svg.png",
-    "name1": "Wrexham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/1200px-Reading_FC.svg.png",
-    "name2": "Reading",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "23/09/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name2": "Alavés",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H00",
+    "date": "24/09/2025",
+    "pro": "Total: (+1)"
   }
 ]
