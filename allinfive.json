@@ -1,103 +1,102 @@
-
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name2": "Man City",
-    "champ": "Angleterre. Premier League",
-    "heure": "15H30",
-    "date": "05/10/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Harrogate_Town_AFC.svg/1200px-Harrogate_Town_AFC.svg.png",
+    "name1": "Harrogate Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Crewe_Alexandra_FC_1995.svg/langfr-250px-Logo_Crewe_Alexandra_FC_1995.svg.png",
+    "name2": "Crewe Alexandra",
+    "champ": "Angleterre. Ligue 2",
+    "heure": "19H00",
+    "date": "06/10/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_FK_Tcheliabinsk_2025.svg/1200px-Logo_FK_Tcheliabinsk_2025.svg.png",
+    "name1": "Tcheliabinsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FC_Yenisey_Krasnoyarsk_%28logo%29.svg/948px-FC_Yenisey_Krasnoyarsk_%28logo%29.svg.png",
+    "name2": "Ienissei Krasnoïarsk",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "14H00",
+    "date": "06/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/FC_KAMAZ_Logo.svg/2045px-FC_KAMAZ_Logo.svg.png",
+    "name1": "KAMAZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/FC_Ural_Yekaterinburg_%28logo%29.svg/1063px-FC_Ural_Yekaterinburg_%28logo%29.svg.png",
+    "name2": "Oural",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H30",
+    "date": "06/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://w7.pngwing.com/pngs/429/285/png-transparent-vitesse-hd-logo.png",
+    "name1": "Vitesse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/2048px-FC_Den_Bosch_logo.svg.png",
+    "name2": "Den Bosch",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "06/10/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Escudo_de_Atl%C3%A9tico_Huila.svg/1177px-Escudo_de_Atl%C3%A9tico_Huila.svg.png",
+    "name1": "Atletico Huila",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barranquilla_FC_logo.png",
+    "name2": "Barranquilla FC",
+    "champ": "Colombie. Torneo Aguila",
+    "heure": "20H30",
+    "date": "06/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Landskrona_BoIS_%28logo%29.svg/833px-Landskrona_BoIS_%28logo%29.svg.png",
+    "name1": "Landskrona Bois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Varbergs_BoIS_%28logo%29.svg/1200px-Varbergs_BoIS_%28logo%29.svg.png",
+    "name2": "Varbergs Bois",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "06/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1200px-Sandvikens_IF_logo.svg.png",
+    "name1": "Sandvikens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/%C3%96rgryte_IS_%28logo%29.svg/1200px-%C3%96rgryte_IS_%28logo%29.svg.png",
+    "name2": "Örgryte",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "06/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/FK_Sarajevo_logo.svg/909px-FK_Sarajevo_logo.svg.png",
+    "name1": "Sarajevo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg/1200px-Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg.png",
+    "name2": "HSK Zrinjski Mostar",
+    "champ": "Bosnie-Herzégovine. Première Ligue",
+    "heure": "16H00",
+    "date": "06/10/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://img.favpng.com/2/2/10/fc-lokomotiv-gorna-oryahovitsa-pfc-lokomotiv-plovdiv-lokomotiv-stadium-first-professional-football-league-pfc-botev-plovdiv-png-favpng-9VfXnnuUtp0r1nLJe7qi8BcgX.jpg",
+    "name1": "Lokomotiv Gorna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/eb/FC_Fratria_logo.png",
+    "name2": "Fratria",
+    "champ": "Bulgarie. B PFG",
+    "heure": "16H00",
+    "date": "06/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPNB2tvfS-yCHJQCoLrm_hmxXjREpBrbNrQ&s",
     "name1": "Hambourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "name2": "Mayence",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "15H30",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/250px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "name1": "Mönchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/854px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1129px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name1": "Baltika Kaliningrad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
-    "name2": "Dynamo Makhachkala",
-    "champ": "Russie. Première Ligue",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_TSG_Hoffenheim.png",
+    "name2": "Hoffenheim",
+    "champ": "Allemagne. Bundesliga Femmes",
     "heure": "16H00",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/896px-Genoa_CFC_crest.svg.png",
-    "name2": "Genoa",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "05/10/2025",
-    "pro": "1X ET TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl0eaCSPWJ9MD2J5sdZ0nZRh2Ei2310F6Vg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/986px-Sevilla_FC_logo.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1186px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "Espagne. LaLiga",
-    "heure": "14H15",
-    "date": "05/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1065px-Logo_Real_Sociedad_2017.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name2": "Rayo Vallecano",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/832px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png",
-    "name1": "Celta de Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
-    "name2": "Atl.Madrid",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "05/10/2025",
-    "pro": "Total: (+1.5)"
+    "date": "06/10/2025",
+    "pro": "V2"
   }
 ]
