@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpm9qHsm4reCtDK1ZnCE04AGf8aisumggKag&s",
-    "name1": "Rodina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_FK_Tcheliabinsk_2025.svg/1200px-Logo_FK_Tcheliabinsk_2025.svg.png",
-    "name2": "Tcheliabinsk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/FC_Torpedo_Moscow_Logotype_2023.png",
+    "name1": "Torpedo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
+    "name2": "Veles Moscou",
     "champ": "Coupe de Russie",
-    "heure": "14H00",
-    "date": "15/10/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "14H30",
+    "date": "16/10/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a6/FCChayka2020.png",
-    "name1": "Tchaïka Pestchanokopskoye",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9FFOpbBZjOybtyP4PW8t_DOw765QT5SEo8w&s",
-    "name2": "KAMAZ",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1050px-Fakel_Voronezh_logo.svg.png",
+    "name1": "Fakel Voronej",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/FC_Ural_Yekaterinburg_%28logo%29.svg/1063px-FC_Ural_Yekaterinburg_%28logo%29.svg.png",
+    "name2": "Oural",
     "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "15/10/2025",
-    "pro": "Total: (+1.5)"
+    "heure": "14H30",
+    "date": "16/10/2025",
+    "pro": "Total: (+1)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Shinnik_Logo.svg/761px-FC_Shinnik_Logo.svg.png",
-    "name1": "Chinnik Iaroslavl",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/FK_Neftekhimik_Nijnekamsk.png",
-    "name2": "Neftekhimik",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/FC_Chernomorets_Novorossiysk_Logo.svg/1200px-FC_Chernomorets_Novorossiysk_Logo.svg.png",
+    "name1": "Tchernomorets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/18/KubanHoldingLogo2018.png",
+    "name2": "Kuban Holding",
     "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "15/10/2025",
-    "pro": "12"
+    "heure": "17H00",
+    "date": "16/10/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
-    "name1": "Arsenal Tula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/FC_Sokol_Saratov_Logo.svg/859px-FC_Sokol_Saratov_Logo.svg.png",
-    "name2": "Sokol Saratov",
-    "champ": "Coupe de Russie",
-    "heure": "16H30",
-    "date": "15/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name1": "Valerenga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name2": "Wolfsburg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
+    "name1": "Atl.Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
+    "name2": "Man United",
     "champ": "UEFA. Femmes",
     "heure": "16H45",
-    "date": "15/10/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1200px-Logo_OH_Leuven_2024.svg.png",
-    "name1": "Oud-Heverlee Leuven",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UJ7uK0ruUFDH6q3bLoLJ_YFkmGiEUMeZpg&s",
-    "name2": "Twente",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "15/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paris_FC_logo.svg/1012px-Paris_FC_logo.svg.png",
-    "name2": "Paris",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "15/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/FC_Nitra_%28logo%29.svg/1796px-FC_Nitra_%28logo%29.svg.png",
-    "name1": "FC Nitra",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Msk_namestovo.png/250px-Msk_namestovo.png",
-    "name2": "MSK Námestovo",
-    "champ": "Coupe de Slovaquie",
-    "heure": "15H00",
-    "date": "15/10/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0c/Gorleston_FC.PNG",
-    "name1": "Gorleston",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/48/Lowestoft_Town_Badge.png",
-    "name2": "Lowestoft Town",
-    "champ": "Angleterre. Isthmian League",
-    "heure": "18H45",
-    "date": "15/10/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Grays_Athletic_F.C._logo.png/250px-Grays_Athletic_F.C._logo.png",
-    "name1": "Grays Athletic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fa/Walthamstow_FC_logo_transparent.png",
-    "name2": "Walthamstow",
-    "champ": "Angleterre. Isthmian League",
-    "heure": "18H45",
-    "date": "15/10/2025",
+    "date": "16/10/2025",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
+    "name2": "Juventus",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "16/10/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/2072px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
+    "name2": "Arsenal",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "16/10/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "16/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Huddersfield_Town_AFC_2019.svg/867px-Logo_Huddersfield_Town_AFC_2019.svg.png",
+    "name1": "Huddersfield Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/1112px-Bolton_Wanderers_FC_logo.svg.png",
+    "name2": "Bolton Wanderers",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H00",
+    "date": "16/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
+    "name1": "Ilves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name2": "Kuopion Palloseura",
+    "champ": "Finlande. VEikkausliiga",
+    "heure": "15H00",
+    "date": "16/10/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/SFK_2000_Sarajevo.png/150px-SFK_2000_Sarajevo.png",
+    "name1": "ZNK SFK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
+    "name2": "Young Boys",
+    "champ": "Coupe d'Europe UEFA. Femmes",
+    "heure": "16H00",
+    "date": "16/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
