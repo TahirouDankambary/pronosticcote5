@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/14/FC_Torpedo_Moscow_Logotype_2023.png",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d9/FC_Veles_logo_2020.png",
-    "name2": "Veles Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "14H30",
-    "date": "16/10/2025",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2r8lQUY6HS0fWTEZeskm9AZxzoq4ZrPL4Jg&s",
+    "name1": "Union Berlin",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnKZxiL1oJL_GWZNEDr67N9HDOM7JImsUsQ&s",
+    "name2": "Borussia Monchengladbach",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "18H30",
+    "date": "17/10/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1050px-Fakel_Voronezh_logo.svg.png",
-    "name1": "Fakel Voronej",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/FC_Ural_Yekaterinburg_%28logo%29.svg/1063px-FC_Ural_Yekaterinburg_%28logo%29.svg.png",
-    "name2": "Oural",
-    "champ": "Coupe de Russie",
-    "heure": "14H30",
-    "date": "16/10/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/FC_Chernomorets_Novorossiysk_Logo.svg/1200px-FC_Chernomorets_Novorossiysk_Logo.svg.png",
-    "name1": "Tchernomorets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/18/KubanHoldingLogo2018.png",
-    "name2": "Kuban Holding",
-    "champ": "Coupe de Russie",
-    "heure": "17H00",
-    "date": "16/10/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
-    "name2": "Man United",
-    "champ": "UEFA. Femmes",
-    "heure": "16H45",
-    "date": "16/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
-    "name2": "Juventus",
-    "champ": "UEFA. Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/827px-Real_Oviedo_logo.svg.png",
+    "name1": "Real Oviedo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
+    "name2": "Espanyol",
+    "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "16/10/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/2072px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
-    "name2": "Arsenal",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "16/10/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "date": "17/10/2025",
+    "pro": "Total: (-3)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
     "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "UEFA. Femmes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",
+    "name2": "Strasbourg",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "17/10/2025",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Union_sportive_monastirienne.png/250px-Union_sportive_monastirienne.png",
+    "name1": "US Monastir",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_JS_Kabylie.svg/1200px-Logo_JS_Kabylie.svg.png",
+    "name2": "JS Kabylie",
+    "champ": "CAF Ligue des champions",
+    "heure": "14H00",
+    "date": "17/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1152px-Middlesbrough_FC_crest.svg.png",
+    "name1": "Middlesbrough",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/962px-Ipswich_Town.svg.png",
+    "name2": "Ipswich",
+    "champ": "Angleterre. Championship",
     "heure": "19H00",
-    "date": "16/10/2025",
+    "date": "17/10/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Huddersfield_Town_AFC_2019.svg/867px-Logo_Huddersfield_Town_AFC_2019.svg.png",
-    "name1": "Huddersfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/1112px-Bolton_Wanderers_FC_logo.svg.png",
-    "name2": "Bolton Wanderers",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H00",
-    "date": "16/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/1200px-Hannover_96_Logo.svg.png",
+    "name1": "Hanovre 96",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/langfr-250px-FC_Schalke_04_Logo.svg.png",
+    "name2": "Schalke 04",
+    "champ": "Allemagne. Bundesliga 2",
+    "heure": "16H30",
+    "date": "17/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/1200px-Fortuna_D%C3%BCsseldorf.svg.png",
+    "name1": "Fortuna Dusseldorf",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/1200px-Eintracht_Braunschweig_%28logo%29.svg.png",
+    "name2": "Eintracht Brunswick",
+    "champ": "Allemagne. Bundesliga 2",
+    "heure": "16H30",
+    "date": "17/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png",
+    "name1": "Andorra Andorra la Vella",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/536px-Logo_Granada_CF.svg.png",
+    "name2": "Granada",
+    "champ": "Espagne. D2",
+    "heure": "18H30",
+    "date": "17/10/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Ilves_logo.svg/1200px-Ilves_logo.svg.png",
-    "name1": "Ilves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
-    "name2": "Kuopion Palloseura",
-    "champ": "Finlande. VEikkausliiga",
-    "heure": "15H00",
-    "date": "16/10/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Virtus_Entella_2005.svg/931px-Logo_Virtus_Entella_2005.svg.png",
+    "name1": "Virtus Entella",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/941px-U.C._Sampdoria_logo.svg.png",
+    "name2": "Sampdoria",
+    "champ": "Italie. Série B",
+    "heure": "18H30",
+    "date": "17/10/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/SFK_2000_Sarajevo.png/150px-SFK_2000_Sarajevo.png",
-    "name1": "ZNK SFK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
-    "name2": "Young Boys",
-    "champ": "Coupe d'Europe UEFA. Femmes",
-    "heure": "16H00",
-    "date": "16/10/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/US_Boulogne_crest.svg/983px-US_Boulogne_crest.svg.png",
+    "name1": "Boulogne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg/langfr-250px-Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg.png",
+    "name2": "En Avant de Guingamp",
+    "champ": "France. Ligue 2",
+    "heure": "18H00",
+    "date": "17/10/2025",
+    "pro": "1X"
   }
 ]
