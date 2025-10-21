@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35oVfw6DPVRs5BTLm6QO5nAbpFJwemJNiCQ&s",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "20/10/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5nI4rEBf_geaX86BOwTkNF_9KMsFDTATgvw&s",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/923px-Olympiacos_FC_crest.svg.png",
+    "name2": "Olympiacos",
+    "champ": "UEFA",
+    "heure": "16H45",
+    "date": "21/10/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name1": "Deportivo Alavés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. LaLiga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/1b/FCKairat_logo.png",
+    "name1": "Kairat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Pafos_FC_crest.svg/250px-Pafos_FC_crest.svg.png",
+    "name2": "Pafos",
+    "champ": "UEFA",
+    "heure": "16H45",
+    "date": "21/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1021px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
+    "name2": "Atl.Madrid",
+    "champ": "UEFA",
     "heure": "19H00",
-    "date": "20/10/2025",
-    "pro": "Total: (+1)"
+    "date": "21/10/2025",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvzuwwUx09kVIZ3xwv4Y_uyJOAddNVDT4MDg&s",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+    "name2": "PSG",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1200px-Logo_US_Cremonese_2018.svg.png",
-    "name1": "Cremonese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name2": "Udinese Calcio",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "20/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man City",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/2048px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1192px-Newcastle_United_Logo.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/2072px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name1": "PSV",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+    "name2": "Naples",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+    "name1": "Royale Union",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "UEFA",
+    "heure": "19H00",
+    "date": "21/10/2025",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ey%C3%BCpspor_Logosu.png",
-    "name1": "Eyüpspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Kas%C4%B1mpa%C5%9Fa_SK.svg/1200px-Logo_Kas%C4%B1mpa%C5%9Fa_SK.svg.png",
-    "name2": "Kasimpasa",
-    "champ": "Turquie. Süper Lig",
-    "heure": "17H00",
-    "date": "20/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/SonderjyskE_logo.svg/1200px-SonderjyskE_logo.svg.png",
-    "name1": "Sonderjyske",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_FC_Fredericia.svg/1200px-Logo_FC_Fredericia.svg.png",
-    "name2": "Fredericia",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "20/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/1326px-C%C3%A1diz_CF_logo.svg.png",
-    "name1": "Cádiz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
-    "name2": "Burgos",
-    "champ": "Espagne. D2",
-    "heure": "18H30",
-    "date": "20/10/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png/250px-Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
-    "name1": "Al-Shorta Baghdad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1034px-Logo_Al-Ittihad_Club_2015.svg.png",
-    "name2": "Ittihad FC",
-    "champ": "AFC Champions League Elite",
-    "heure": "16H00",
-    "date": "20/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
-    "name1": "Al Sharjah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e6/Tractor_Logo.png",
-    "name2": "Tractor",
-    "champ": "AFC Champions League Elite",
-    "heure": "16H00",
-    "date": "20/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1056px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name1": "Al-Ahli Jeddah",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKzix_XouPDrYk6wmbzwPMN4RKR8PePHCwQ&s",
-    "name2": "Al-Gharafa",
-    "champ": "AFC Champions League Elite",
-    "heure": "18H15",
-    "date": "20/10/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/1200px-AZ_Alkmaar.svg.png",
-    "name1": "Alkmaar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/langfr-250px-Logo_Willem_II_Tilburg_-_2022.svg.png",
-    "name2": "Willem",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "20/10/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmqcrc22QHUDF3zA9sew2vhEExe0wCknNsg&s",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVCIgObB52lS556YKAmg0uWfQ1OemFFh7hg&s",
+    "name2": "Spartak Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "21/10/2025",
     "pro": "Total: (+1.5)"
   }
 ]
