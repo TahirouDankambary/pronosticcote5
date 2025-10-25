@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/965px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1079px-West_Ham_United_FC_logo.svg.png",
-    "name2": "West Ham",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZXJJ0zLQc1-dWJzfuD3WyyacV7w12e197VQ&s",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
+    "name2": "Fulham",
     "champ": "Angleterre. Premier League",
-    "heure": "19H00",
-    "date": "24/10/2025",
+    "heure": "14H00",
+    "date": "25/10/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJA5tQW33QgR_acQcBHccFRrKmmQ3yK1lbw&s",
-    "name1": "Werder Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
-    "name2": "Union Berlin",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/1200px-Logo_Sunderland.svg.png",
+    "name2": "Sunderland",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "25/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1184px-Logo_Manchester_United_FC.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "25/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://w7.pngwing.com/pngs/346/519/png-transparent-liverpool-football-club-logo-liverpool-f-c-reserves-and-academy-anfield-english-football-league-uefa-champions-league-liverpool-logo-food-text-label-thumbnail.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "25/10/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1054px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+    "name2": "Cologne",
     "champ": "Allemagne. Bundesliga",
-    "heure": "18H30",
-    "date": "24/10/2025",
+    "heure": "16H30",
+    "date": "25/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
+    "name1": "Espanyol",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbX_4IBXYMB2vrrq6n1RYkvfDv6RSDpXiT3g&s",
+    "name2": "Elche",
+    "champ": "Espagne. LaLiga",
+    "heure": "14H15",
+    "date": "25/10/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/989px-Logo_S%C3%A9ville_FC.svg.png",
-    "name2": "Séville",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
+    "heure": "16H30",
+    "date": "25/10/2025",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1567px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
+    "name2": "Villarreal",
     "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "24/10/2025",
-    "pro": "12"
+    "date": "25/10/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
-    "name1": "Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aRS2J72xyu-lraa24fe36U-kb1jbWuLNEQ&s",
-    "name2": "Pisa 1909",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYH_vR7azQimMDmhJOMk3dTt7mqz3GN3w1w&s",
+    "name1": "Naples",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "name2": "Inter Milan",
+    "champ": "Italie. Série A",
+    "heure": "16H00",
+    "date": "25/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/2140px-Logo_US_Cremonese_2018.svg.png",
+    "name1": "Cremonese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1271px-Logo_Atalanta_Bergamo.svg.png",
+    "name2": "Atalanta",
     "champ": "Italie. Série A",
     "heure": "18H45",
-    "date": "24/10/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Paris_FC_2011.svg/1726px-Logo_Paris_FC_2011.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/931px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
-    "name2": "Nantes",
-    "champ": "France. Ligue 1",
-    "heure": "18H45",
-    "date": "24/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/SC_Heerenveen_logo.svg/1137px-SC_Heerenveen_logo.svg.png",
-    "name1": "Heerenveen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_NAC_Breda.png",
-    "name2": "NAC Breda",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "18H00",
-    "date": "24/10/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiYvy6Y6tfEJ_bUUxwvAcQDnrirf0GIHo4A&s",
-    "name1": "Alverca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/928px-Logo_Gil_Vicente_FC.svg.png",
-    "name2": "Gil Vicente",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "24/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg/langfr-250px-Fatih_Karag%C3%BCmr%C3%BCk_SK_%28logo%29.svg.png",
-    "name1": "Fatih Karagumruk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Kayserispor_logo.svg/1110px-Kayserispor_logo.svg.png",
-    "name2": "Kayserispor",
-    "champ": "Turquie. Süper Lig",
-    "heure": "17H00",
-    "date": "24/10/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
-    "name2": "Sheffield United",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "24/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
-    "name1": "R.Charleroi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/250px-R.S.C._Anderlecht.svg.png",
-    "name2": "Anderlecht",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "18H45",
-    "date": "24/10/2025",
-    "pro": "Total: (+1.5)"
+    "date": "25/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
