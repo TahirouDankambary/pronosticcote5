@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/992px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1095px-US_Sassuolo_Calcio_logo.svg.png",
-    "name2": "Sassuolo",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "30/10/2025",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/368px-FC_Augsburg_-_Logo.svg.png",
+    "name1": "Augsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "31/10/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/250px-Pisa_SC_crest.svg.png",
-    "name1": "Pisa 1909",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1148px-Getafe_%28logo%29.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "31/10/2025",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/879px-PFK_CSKA_Logo.svg.png",
+    "name1": "CSKA Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FC_Nizhny_Novgorod_emblem.svg/836px-FC_Nizhny_Novgorod_emblem.svg.png",
+    "name2": "Pari Nizhny",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H00",
+    "date": "31/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiYvy6Y6tfEJ_bUUxwvAcQDnrirf0GIHo4A&s",
+    "name2": "Alverca",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "31/10/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name1": "PSV",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/81/Fortuna_Sittard_logo.png",
+    "name2": "Fortuna",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "31/10/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/langfr-250px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
+    "name1": "Istanbul",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_nQpwx9EQTNDmCUJcI_7McujDZeece_0w&s",
+    "name2": "Kocaelispor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "31/10/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
+    "name1": "Luton Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Forest_Green_Rovers_crest.svg/1200px-Forest_Green_Rovers_crest.svg.png",
+    "name2": "Forest Green",
+    "champ": "Coupe d'Angleterre",
+    "heure": "19H30",
+    "date": "31/10/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Standard_de_Li%C3%A8ge_2019.svg/langfr-250px-Logo_Standard_de_Li%C3%A8ge_2019.svg.png",
+    "name1": "Standard Liege",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
+    "name2": "R.Charleroi",
+    "champ": "Belgique. Jupiler Ligue",
     "heure": "19H45",
-    "date": "30/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Orihuela_CF_%28logo%29.svg/811px-Orihuela_CF_%28logo%29.svg.png",
-    "name1": "Orihuela",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
-    "name2": "Levante",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H00",
-    "date": "30/10/2025",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7b/CD_Valle_de_Eg%C3%BC%C3%A9s.png",
-    "name1": "Valle Egûés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_FC_Andorra_-_2021.svg/250px-Logo_FC_Andorra_-_2021.svg.png",
-    "name2": "Andorra",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H30",
-    "date": "30/10/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Logo_CD_Atl%C3%A9tico_Baleares.svg/langfr-250px-Logo_CD_Atl%C3%A9tico_Baleares.svg.png",
-    "name1": "CD Atlético Baleares",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/44/Logo_Gimn%C3%A0stic_de_Tarragona.svg/1038px-Logo_Gimn%C3%A0stic_de_Tarragona.svg.png",
-    "name2": "Gimnastic",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H00",
-    "date": "30/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/df/Real_%C3%81vila_CF.png",
-    "name1": "Real Avila",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/e/e5/Real_Avil%C3%A9s.svg/1364px-Real_Avil%C3%A9s.svg.png",
-    "name2": "Real Aviles",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H00",
-    "date": "30/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/UD_Logro%C3%B1%C3%A9s_%28logo%29.svg/733px-UD_Logro%C3%B1%C3%A9s_%28logo%29.svg.png",
-    "name1": "UD Logrones",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/SD_Ponferradina_logo.svg/770px-SD_Ponferradina_logo.svg.png",
-    "name2": "SD Ponferradina",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "19H00",
-    "date": "30/10/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/bd/Atletic_Lleida_logo_2024.png",
-    "name1": "Atletic Lleida",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name2": "Espanyol",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "30/10/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d3/CA_Antoniano.png",
-    "name1": "CA Antoniano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/936px-Logo_of_CD_Castell%C3%B3n.svg.png",
-    "name2": "Castellon",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "30/10/2025",
+    "date": "31/10/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtfDHZLjGdtXXFixZi-NdUpcTQcKcWhD3ZuA&s",
-    "name1": "Real Murcia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/cd/Shield_of_Antequera_CF.png",
-    "name2": "Antequera",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "30/10/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://cdn.freelogovectors.net/wp-content/uploads/2023/03/al-hilal-logo-freelogovectors.net_.png",
+    "name1": "Al-Hilal Riyadh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
+    "name2": "Al Shabab",
+    "champ": "Arabie saoudite",
+    "heure": "14H50",
+    "date": "31/10/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbMhceXF55IqxsbwAxtgjaDPfvZbpn4XrMA&s",
+    "name1": "Ettifaq Dammam",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Logo_Al_Hazem_SC.svg/1146px-Logo_Al_Hazem_SC.svg.png",
+    "name2": "Al-Hazm Rass",
+    "champ": "Arabie saoudite",
+    "heure": "17H30",
+    "date": "31/10/2025",
+    "pro": "1X"
   }
 ]
