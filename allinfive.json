@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/368px-FC_Augsburg_-_Logo.svg.png",
-    "name1": "Augsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "31/10/2025",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
+    "name2": "Arsenal",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "01/11/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1148px-Getafe_%28logo%29.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "31/10/2025",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/879px-PFK_CSKA_Logo.svg.png",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FC_Nizhny_Novgorod_emblem.svg/836px-FC_Nizhny_Novgorod_emblem.svg.png",
-    "name2": "Pari Nizhny",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H00",
-    "date": "31/10/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiYvy6Y6tfEJ_bUUxwvAcQDnrirf0GIHo4A&s",
-    "name2": "Alverca",
-    "champ": "Portugal. Première Ligue",
-    "heure": "20H15",
-    "date": "31/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/81/Fortuna_Sittard_logo.png",
-    "name2": "Fortuna",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "31/10/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/langfr-250px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
-    "name1": "Istanbul",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_nQpwx9EQTNDmCUJcI_7McujDZeece_0w&s",
-    "name2": "Kocaelispor",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "31/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/965px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "01/11/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name1": "Luton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Forest_Green_Rovers_crest.svg/1200px-Forest_Green_Rovers_crest.svg.png",
-    "name2": "Forest Green",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H30",
-    "date": "31/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Standard_de_Li%C3%A8ge_2019.svg/langfr-250px-Logo_Standard_de_Li%C3%A8ge_2019.svg.png",
-    "name1": "Standard Liege",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
-    "name2": "R.Charleroi",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "19H45",
-    "date": "31/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "01/11/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://cdn.freelogovectors.net/wp-content/uploads/2023/03/al-hilal-logo-freelogovectors.net_.png",
-    "name1": "Al-Hilal Riyadh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
-    "name2": "Al Shabab",
-    "champ": "Arabie saoudite",
-    "heure": "14H50",
-    "date": "31/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/962px-Logo_Nottingham_Forest_FC.svg.png",
+    "name1": "Forest",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
+    "name2": "Man United",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "01/11/2025",
+    "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWbMhceXF55IqxsbwAxtgjaDPfvZbpn4XrMA&s",
-    "name1": "Ettifaq Dammam",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Logo_Al_Hazem_SC.svg/1146px-Logo_Al_Hazem_SC.svg.png",
-    "name2": "Al-Hazm Rass",
-    "champ": "Arabie saoudite",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+    "name2": "Wolverhampton",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "01/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Angleterre. Premier League",
     "heure": "17H30",
-    "date": "31/10/2025",
+    "date": "01/11/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "01/11/2025",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1362px-SV-Werder-Bremen-Logo.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "01/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "name1": "Leipzig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1103px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "01/11/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1200px-FC_St._Pauli_%28logo%29.svg.png",
+    "name1": "St.Pauli",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnKZxiL1oJL_GWZNEDr67N9HDOM7JImsUsQ&s",
+    "name2": "Borussia Monchengladbach",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "01/11/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
