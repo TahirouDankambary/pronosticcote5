@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn-Vqb-q_L9yinznsF7jfqUuoqY8z8SFuDQ&s",
+    "name1": "Qarabag",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "04/11/2025",
-    "pro": "Total: (+1.5)"
+    "date": "05/11/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/99/Emblema_Sportovn%C3%AD_Klub_Slavia_Praga.png",
-    "name1": "Slavia Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_P%C3%A1fos_FC_2018.svg/1613px-Logo_P%C3%A1fos_FC_2018.svg.png",
+    "name1": "Pafos",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name2": "Villarreal",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "04/11/2025",
+    "date": "05/11/2025",
     "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/langfr-250px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
-    "name2": "Royale Union",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg/langfr-250px-Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg.png",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1565px-Galatasaray_Sports_Club_Logo.svg.png",
+    "name2": "Galatasaray",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "04/11/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "05/11/2025",
+    "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name1": "Bodo-GLimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
-    "name2": "AS Monaco",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "04/11/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "04/11/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Olympiakos_2024.svg/langfr-250px-Logo_Olympiakos_2024.svg.png",
-    "name1": "Olympiacos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name2": "PSV",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "04/11/2025",
+    "date": "05/11/2025",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/2048px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name2": "Bayern Munich",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "04/11/2025",
-    "pro": "Total: (+2.5)"
+    "date": "05/11/2025",
+    "pro": "2X Et TP(2.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name2": "Copenhague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1319px-FC_Kairat_%28logo%29.svg.png",
+    "name2": "Kairat",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "04/11/2025",
+    "date": "05/11/2025",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1612px-Logo_Olympique_de_Marseille.svg.png",
+    "name1": "Marseille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/730px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name2": "Atalanta",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "05/11/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Dinamo_Makhatchkala_Logo.png/250px-Dinamo_Makhatchkala_Logo.png",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/1500px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H15",
+    "date": "05/11/2025",
     "pro": "12"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
-    "name2": "Sporting",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "04/11/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjM-DyBX9KWTBWqBtwnSM7V9p7lSgXJKe7A&s",
-    "name1": "Birmingham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Millwall_FC_logo_%281992-1994%29.svg/250px-Millwall_FC_logo_%281992-1994%29.svg.png",
-    "name2": "Millwall",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "04/11/2025",
-    "pro": "Total: (+1.5)"
   }
 ]
