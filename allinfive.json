@@ -1,102 +1,103 @@
+
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5NZdgKj7T9qW55F8Cnmssz4tAOIj0B70XCw&s",
-    "name1": "West Ham",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name2": "Burnley",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "08/11/2025",
-    "pro": "1X"
+    "heure": "14H00",
+    "date": "09/11/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
-    "name2": "Fulham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+    "name2": "Brighton",
     "champ": "Angleterre. Premier League",
-    "heure": "15H00",
-    "date": "08/11/2025",
+    "heure": "14H00",
+    "date": "09/11/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1200px-Logo_Sunderland_AFC_1997.svg.png",
-    "name1": "Sunderland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCek3QjaBtS-yq8xnduEAnegL-DXzsMVt7-g&s",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/965px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
     "champ": "Angleterre. Premier League",
-    "heure": "17H30",
-    "date": "08/11/2025",
+    "heure": "14H00",
+    "date": "09/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "16H30",
+    "date": "09/11/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/854px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1200px-FC_St._Pauli_%28logo%29.svg.png",
+    "name2": "St.Pauli",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "09/11/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1103px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
+    "name2": "Augsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "09/11/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "18H30",
+    "date": "09/11/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "09/11/2025",
     "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "08/11/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer 04",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
-    "name2": "Heidenheim",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "08/11/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPNB2tvfS-yCHJQCoLrm_hmxXjREpBrbNrQ&s",
-    "name1": "Hambourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "08/11/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2r8lQUY6HS0fWTEZeskm9AZxzoq4ZrPL4Jg&s",
-    "name1": "Union Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/2048px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name2": "Bayern",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "08/11/2025",
-    "pro": "2X Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_TSG_1899_Hoffenheim_2025.svg/1004px-Logo_TSG_1899_Hoffenheim_2025.svg.png",
-    "name1": "Hoffenheim",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name2": "leipzig",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "08/11/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/500px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "name1": "Monchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1054px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
-    "name2": "Cologne",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "08/11/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioI2hjTMoMN62c_b07tRVBkEM4CPooS546g&s",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/895px-CA_Osasuna_2024_crest.svg.png",
-    "name2": "Osasuna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+    "name2": "Real Betis",
     "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "08/11/2025",
+    "heure": "17H30",
+    "date": "09/11/2025",
     "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1148px-Getafe_%28logo%29.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "09/11/2025",
+    "pro": "Total: (+1)"
   }
 ]
