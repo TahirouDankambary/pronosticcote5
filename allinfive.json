@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
-    "name1": "Wolfsbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQebgxqkRTILxsoWsWLclWaMhV-6ovrEqsMIA&s",
-    "name2": "Man United",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UJ7uK0ruUFDH6q3bLoLJ_YFkmGiEUMeZpg&s",
+    "name1": "Twente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
+    "name2": "Atl.Madrid",
     "champ": "UEFA. Femmes",
     "heure": "17H45",
-    "date": "19/11/2025",
+    "date": "20/11/2025",
     "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1762px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name2": "Lyon",
-    "champ": "UEFA. Femmes",
-    "heure": "17H45",
-    "date": "19/11/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1200px-Logo_OH_Leuven_2024.svg.png",
+    "name1": "Oud-Heverlee Louvain",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/934px-AS_Roma_Logo_2017.svg.png",
+    "name2": "Roma",
     "champ": "UEFA. Femmes",
     "heure": "20H00",
-    "date": "19/11/2025",
-    "pro": "Total: (+2)"
+    "date": "20/11/2025",
+    "pro": "2X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name1": "Valerenga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8OmFSHBypREVx75N6UOqQEChQoGWtmf6gg&s",
-    "name2": "St.Polten",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/2048px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name2": "Bayern",
     "champ": "UEFA. Femmes",
     "heure": "20H00",
-    "date": "19/11/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Logo_Paris_FC_2011.svg/647px-Logo_Paris_FC_2011.svg.png",
-    "name1": "Paris",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name2": "Benfica",
-    "champ": "UEFA. Femmes",
-    "heure": "20H00",
-    "date": "19/11/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b8/N%C5%A0_Mura.png",
-    "name1": "ZNK Mura",
-    "photo2": "https://cdn.fifa.gg/cache/media/team_emblem/85defc45-3ec9-418f-b57f-3f222213f94c/Emblem-of-team-FC-Nordsjaelland-team_emblem-85defc45-3ec9-418f-b57f-3f222213f94c.png?",
-    "name2": "Nordsjaelland",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "17H00",
-    "date": "19/11/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx4rwRfdwmQz84ZOW7keSYO2G19tyXasycsg&s",
-    "name1": "Fortuna Hjorring",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Brei%C3%B0ablik_UBK_%28logo%29.svg/1611px-Brei%C3%B0ablik_UBK_%28logo%29.svg.png",
-    "name2": "Breidablik",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "17H00",
-    "date": "19/11/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
-    "name1": "Young Boys",
-    "photo2": "https://brandlogos.net/wp-content/uploads/2024/02/ac_sparta_prague-logo_brandlogos.net_32uiq-512x536.png",
-    "name2": "AC Sparta Prague",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "17H00",
-    "date": "19/11/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1024px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Internazionale",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ730IqxvO3PjC8iClYJtE-yDss7boghU7XQ&s",
-    "name2": "Hacken",
-    "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "17H30",
-    "date": "19/11/2025",
+    "date": "20/11/2025",
     "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREl3scrqBaMzzdgA5hoZCVgnCmU1UlBDrf2w&s",
-    "name1": "Austria Wien",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "RSC Anderlecht",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1186px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "UEFA. Femmes",
+    "heure": "20H00",
+    "date": "20/11/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name2": "PSV",
     "champ": "Coupe d'Europe. UEFA. Femmes",
-    "heure": "18H30",
-    "date": "19/11/2025",
+    "heure": "17H30",
+    "date": "20/11/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSIX7_MdHqdqD-zGW34E-BTiD1CkmMTgobg&s",
+    "name1": "Hammarby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg/langfr-250px-Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg.png",
+    "name2": "Ajax",
+    "champ": "Coupe d'Europe. UEFA. Femmes",
+    "heure": "18H00",
+    "date": "20/11/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Peterborough_United_2008.svg/1200px-Logo_Peterborough_United_2008.svg.png",
+    "name1": "Peterborough United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Stockport_County_FC_logo_2020.svg/1200px-Stockport_County_FC_logo_2020.svg.png",
+    "name2": "Stockport County",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "20H00",
+    "date": "20/11/2025",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1AxaB2k9xc_qrEbpN1HB5Gq9X5Y2vSDfvw&s",
+    "name1": "Esporte Clube Juventude",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/CruzeiroEC.svg/1200px-CruzeiroEC.svg.png",
+    "name2": "Cruzeiro Esporte Clube",
+    "champ": "Brésil. Série A",
+    "heure": "19H00",
+    "date": "20/11/2025",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Esporte_Clube_Bahia.svg/1200px-Esporte_Clube_Bahia.svg.png",
+    "name1": "Bahia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fortaleza_EC_2018.png/250px-Fortaleza_EC_2018.png",
+    "name2": "Fortaleza FC",
+    "champ": "Brésil. Série A",
+    "heure": "21H00",
+    "date": "20/11/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/SC_Corinthians_Paulista_logo.svg/959px-SC_Corinthians_Paulista_logo.svg.png",
+    "name1": "Corinthians Paulista",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_S%C3%A3o_Paulo_FC_2022.svg/1195px-Logo_S%C3%A3o_Paulo_FC_2022.svg.png",
+    "name2": "Sao Paulo",
+    "champ": "Brésil. Série A",
+    "heure": "22H30",
+    "date": "20/11/2025",
     "pro": "12"
   }
 ]
