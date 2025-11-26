@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvQqDXIlurzKUGnsrxLvOF-P-Fr-yEcn7i0Q&s",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Logo_SL_Benfica_%283_Stars%29.svg/langfr-250px-Logo_SL_Benfica_%283_Stars%29.svg.png",
-    "name2": "Benfica",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/773px-FC_Kairat_%28logo%29.svg.png",
+    "name2": "Kairat",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "25/11/2025",
-    "pro": "Total: (+1.5)"
+    "date": "26/11/2025",
+    "pro": "12"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0L6ki6V4Nb6DzLjEBBjffBymlJOhtSkHw&s",
-    "name1": "Galatasaray",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrv86cawv8DM6JRbsY9utuBl_Ivlw_352znA&s",
-    "name2": "Royale Union Saint-Gilloise",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Pafos_FC_crest.svg/947px-Pafos_FC_crest.svg.png",
+    "name1": "Pafos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name2": "AS Monaco",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "25/11/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/756px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/thumb/e/ec/Bayer_04_Leverkusen_Stemma.svg/1200px-Bayer_04_Leverkusen_Stemma.svg.png",
-    "name2": "Bayer",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1598px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name2": "Qarabag",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1612px-Logo_Olympique_de_Marseille.svg.png",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
-    "name2": "Newcastle",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
+    "date": "26/11/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/0/04/Slavia-Praha.png",
-    "name1": "Slavia Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Athletic Bilbao",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/730px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name2": "Atalanta",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "25/11/2025",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1186px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/11/2025",
+    "date": "26/11/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Al_Wahda_FC_logo.svg/926px-Al_Wahda_FC_logo.svg.png",
-    "name1": "Al-Wahda Abu Dhabi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Logo_Al-Sadd_SC_2020.svg/langfr-250px-Logo_Al-Sadd_SC_2020.svg.png",
-    "name2": "Al Sadd",
-    "champ": "AFC Champions League Elite",
-    "heure": "16H00",
-    "date": "25/11/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1019px-Logo_Arsenal_FC_2002.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/2048px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name2": "Bayern",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
+    "name1": "Atl.Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name2": "PSV",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "1X Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Olympiakos_2024.svg/langfr-250px-Logo_Olympiakos_2024.svg.png",
+    "name1": "Olympiacos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/860px-Logo_Real_Madrid.svg.png",
+    "name2": "Real Madrid",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYRdHRYTOxqJhps9tpEP28g6jPw3puW9Fgg&s",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
+    "name2": "Club Bruges",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "26/11/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/1200px-FC_Krasnodar_2016_Logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_FK_Orenbourg_2025.svg/langfr-250px-Logo_FK_Orenbourg_2025.svg.png",
+    "name2": "Orenbourg",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "26/11/2025",
+    "pro": "V1"
   }
 ]
