@@ -1,103 +1,103 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIlvLNdWmBek8zbU3yWVmVXUcLSKPBkaOYg&s",
-    "name1": "Kairat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_Olympiakos_2024.svg/langfr-250px-Logo_Olympiakos_2024.svg.png",
-    "name2": "Olympiacos",
-    "champ": "UEFA",
-    "heure": "15H30",
-    "date": "09/12/2025",
-    "pro": "2X"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/2048px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/960px-Logo_Sporting_Clube_Portugal.svg.png",
-    "name2": "Sporting",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name2": "Copenhague",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "09/12/2025",
-    "pro": "Total: (+2)"
-  },
+    "date": "10/12/2025",
+    "pro": "1X"
+  },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPgiS-klcNERBxqsEY0LwD0iHRAtx0U-WlA&s",
-    "name1": "AS Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Galatasaray_Sports_Club_Logo.svg/1565px-Galatasaray_Sports_Club_Logo.svg.png",
-    "name2": "Galatasaray",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/936px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
+    "name1": "Qarabag",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg/langfr-250px-Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg.png",
+    "name2": "Ajax",
     "champ": "UEFA",
-    "heure": "20H00",
-    "date": "09/12/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "09/12/2025",
+    "heure": "17H45",
+    "date": "10/12/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/langfr-250px-Logo_Athletic_Club_1995.svg.png",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2025",
-    "pro": "V1 ET TP(2.5) - OUI"
+    "date": "10/12/2025",
+    "pro": "2X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Bayer",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2025",
+    "date": "10/12/2025",
     "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
-    "name2": "Atl.Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+    "name2": "Naples",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2025",
-    "pro": "Total: (+2)"
+    "date": "10/12/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtHdeSE8ibSCL5FTHZ8VIWtjKcJ5tGi0lwg&s",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/99/Emblema_Sportovn%C3%AD_Klub_Slavia_Praga.png",
-    "name2": "Slavia Prague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name2": "Bodo-Glimt",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2025",
+    "date": "10/12/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Royale_Union_Saint-Gilloise_2025.svg/langfr-250px-Logo_Royale_Union_Saint-Gilloise_2025.svg.png",
-    "name1": "Royale Union",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1612px-Logo_Olympique_de_Marseille.svg.png",
-    "name2": "Marseille",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1020px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "09/12/2025",
-    "pro": "Total: (+1.5)"
+    "date": "10/12/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1161px-Logo_Blackburn_Rovers.svg.png",
-    "name1": "Blackburn Rovers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bZH1GT--QDQCZJPa3s7btV_yJxnRK9O6CQ&s",
-    "name2": "Oxford United",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/960px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_P%C3%A1fos_FC_2018.svg/langfr-250px-Logo_P%C3%A1fos_FC_2018.svg.png",
+    "name2": "Pafos",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "10/12/2025",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "name2": "Leicester City",
     "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "09/12/2025",
+    "date": "10/12/2025",
     "pro": "Total: (+1.5)"
   }
 ]
