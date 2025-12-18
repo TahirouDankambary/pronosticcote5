@@ -1,104 +1,104 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Flamengo_logo.svg/500px-Flamengo_logo.svg.png?20201127020820",
-    "name2": "Flamengo",
-    "champ": "Coupe Intercontinentale",
-    "heure": "17H00",
-    "date": "17/12/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1024px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+    "name1": "Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "Italie. Super Coupe",
+    "heure": "19H00",
+    "date": "18/12/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/2048px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_Brentford_FC_2016.svg/1200px-Logo_Brentford_FC_2016.svg.png",
-    "name2": "Brentford",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H30",
-    "date": "17/12/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_AEK_Ath%C3%A8nes_2014.svg/langfr-250px-Logo_AEK_Ath%C3%A8nes_2014.svg.png",
+    "name1": "AEK Athènes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLfPRmlcW1TflQahIuxrW9ly8VIKcpdoom9w&s",
+    "name2": "CS Universitatea Craiova",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/2056px-Logo_Newcastle_United_FC.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/901px-Logo_Fulham.svg.png",
-    "name2": "Fulham",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "20H15",
-    "date": "17/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/1/19/Cultural_y_Deportiva_Leonesa_escudo.png",
-    "name1": "Deportiva Leonesa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1672px-Logo_Levante_UD.svg.png",
-    "name2": "Levante",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "17H00",
-    "date": "17/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Albacete_balompie.svg/langfr-250px-Albacete_balompie.svg.png",
-    "name1": "Albacete Balompie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1212px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name2": "Celta de Vigo",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H00",
-    "date": "17/12/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2a/Logo_CD_Atl%C3%A9tico_Baleares.svg/1183px-Logo_CD_Atl%C3%A9tico_Baleares.svg.png",
-    "name1": "Atlético Baleares",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Atletico_Madrid_logo.svg/960px-Atletico_Madrid_logo.svg.png",
-    "name2": "Atl.Madrid",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H00",
-    "date": "17/12/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/Racing_de_Santander_%28logo%29.svg/1476px-Racing_de_Santander_%28logo%29.svg.png",
-    "name1": "Racing de Santander",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/820px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H00",
-    "date": "17/12/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1768px-Logo_SD_Huesca_2023.svg.png",
-    "name1": "Huesca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1526px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "18H00",
-    "date": "17/12/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name1": "Deportivo Alavés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/633px-Logo_S%C3%A9ville_FC.svg.png",
-    "name2": "Séville",
-    "champ": "Espagne. Coupe du Roi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/960px-AEK_Larnaca.svg.png",
+    "name1": "AEK Larnaca",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJBCsaqLwUyIl-lJondNCnI2hZdVE_vf5kg&s",
+    "name2": "Skendja",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "20H00",
-    "date": "17/12/2025",
+    "date": "18/12/2025",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "AZ Alkmaar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/57/FC_Jagiellonia_Bialystok.png",
+    "name2": "Jagiellonia Białystok",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9MlQbrBeYo2dVGRFuuw6D1SH5znsKy7Vew&s",
+    "name2": "Noah Yerevan",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg/1200px-Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg.png",
+    "name1": "HSK Zrinjski Mostar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
+    "name2": "Rapid Vienne",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name2": "Kuopion Palloseura",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FMUGpzuApmrkvEaav_80WLJoAY8E5-l5mg&s",
+    "name1": "Legia Varsovie",
+    "photo2": "https://ih1.redbubble.net/image.5703892594.2247/fposter,small,wall_texture,square_product,600x600.u3.jpg",
+    "name2": "Lincoln Red Imps",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FC_Lausanne-Sport_logo.svg/1523px-FC_Lausanne-Sport_logo.svg.png",
+    "name1": "Lausanne-Sport",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "20H00",
+    "date": "18/12/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/98/CF_Talavera_de_la_Reina_logo.png",
-    "name1": "Talavera",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "Espagne. Coupe du Roi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name2": "Samsunspor",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "20H00",
-    "date": "17/12/2025",
-    "pro": "V2"
+    "date": "18/12/2025",
+    "pro": "1X"
   }
 ]
 
