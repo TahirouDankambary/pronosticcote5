@@ -1,104 +1,103 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1024px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/250px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
     "champ": "Italie. Super Coupe",
     "heure": "19H00",
-    "date": "18/12/2025",
-    "pro": "Total: (+1.5)"
+    "date": "19/12/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_AEK_Ath%C3%A8nes_2014.svg/langfr-250px-Logo_AEK_Ath%C3%A8nes_2014.svg.png",
-    "name1": "AEK Athènes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLfPRmlcW1TflQahIuxrW9ly8VIKcpdoom9w&s",
-    "name2": "CS Universitatea Craiova",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/960px-AEK_Larnaca.svg.png",
-    "name1": "AEK Larnaca",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJBCsaqLwUyIl-lJondNCnI2hZdVE_vf5kg&s",
-    "name2": "Skendja",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ Alkmaar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/57/FC_Jagiellonia_Bialystok.png",
-    "name2": "Jagiellonia Białystok",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9MlQbrBeYo2dVGRFuuw6D1SH5znsKy7Vew&s",
-    "name2": "Noah Yerevan",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg/1200px-Logo_H%C5%A0K_Zrinjski_Mostar_2015.svg.png",
-    "name1": "HSK Zrinjski Mostar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
-    "name2": "Rapid Vienne",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
-    "name2": "Kuopion Palloseura",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1283px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+    "name2": "Borussia Monchengladbach",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "19/12/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FMUGpzuApmrkvEaav_80WLJoAY8E5-l5mg&s",
-    "name1": "Legia Varsovie",
-    "photo2": "https://ih1.redbubble.net/image.5703892594.2247/fposter,small,wall_texture,square_product,600x600.u3.jpg",
-    "name2": "Lincoln Red Imps",
-    "champ": "Ligue Conférence de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/906px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "19/12/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FC_Lausanne-Sport_logo.svg/1523px-FC_Lausanne-Sport_logo.svg.png",
-    "name1": "Lausanne-Sport",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAF3G4mgxMdcqN8FwYbzFwuAZueHylQNFYw&s",
+    "name1": "Estoril",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name2": "Braga",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "19/12/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbv_nQpwx9EQTNDmCUJcI_7McujDZeece_0w&s",
+    "name1": "Kocaelispor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_Antalyaspor.svg/1200px-Logo_Antalyaspor.svg.png",
+    "name2": "Antalyaspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "19/12/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/960px-Sporting_de_Charleroi_%28logo%29.svg.png",
+    "name1": "R.Charleroi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
+    "name2": "Genk",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "19H45",
+    "date": "19/12/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_US_Avranches_MSM.svg/1676px-Logo_US_Avranches_MSM.svg.png",
+    "name1": "Avranches",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IWIYXgSpdXNRK_ZEyy0KYf8jNci_lnrk3Q&s",
+    "name2": "Stade Brestois",
+    "champ": "Coupe de France",
+    "heure": "19H45",
+    "date": "19/12/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg/langfr-250px-Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg.png",
+    "name1": "En Avant de Guingamp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Stade_lavallois_MFC_2022.svg/1649px-Logo_Stade_lavallois_MFC_2022.svg.png",
+    "name2": "Stade Lavallois",
+    "champ": "Coupe de France",
+    "heure": "19H45",
+    "date": "19/12/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
-    "name2": "Samsunspor",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "20H00",
-    "date": "18/12/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Canet_Roussillon_FC_%28logo%29.svg/1011px-Canet_Roussillon_FC_%28logo%29.svg.png",
+    "name1": "Canet Roussillon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HSC_Montpellier_Logo.png",
+    "name2": "Montpellier",
+    "champ": "Coupe de France",
+    "heure": "19H45",
+    "date": "19/12/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Logo_IC_Croix_Football.svg/1668px-Logo_IC_Croix_Football.svg.png",
+    "name1": "Croix IC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/Logo_Stade_de_Reims_-_2020.svg/1032px-Logo_Stade_de_Reims_-_2020.svg.png",
+    "name2": "Reims",
+    "champ": "Coupe de France",
+    "heure": "19H45",
+    "date": "19/12/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   }
 ]
-
