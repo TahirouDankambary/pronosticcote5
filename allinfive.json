@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png",
-    "name1": "Soudan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/2560px-Flag_of_Burkina_Faso.svg.png",
-    "name2": "Burkina Faso",
-    "champ": "Coupe d'Afrique des Nations",
-    "heure": "16H00",
-    "date": "31/12/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/langfr-250px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/langfr-250px-Logo_Fulham.svg.png",
+    "name2": "Fulham",
+    "champ": "Angleterre. Premier League",
+    "heure": "17H30",
+    "date": "01/01/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2560px-Flag_of_Equatorial_Guinea.svg.png",
-    "name1": "Guinée Equatorial",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2560px-Flag_of_Algeria.svg.png",
-    "name2": "Algérie",
-    "champ": "Coupe d'Afrique des Nations",
-    "heure": "16H00",
-    "date": "31/12/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/2560px-Flag_of_Gabon.svg.png",
-    "name1": "Gabon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/2560px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name2": "Côte d'Ivoire",
-    "champ": "Coupe d'Afrique des Nations",
-    "heure": "19H00",
-    "date": "31/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2560px-Flag_of_Mozambique.svg.png",
-    "name1": "Mozambique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2560px-Flag_of_Cameroon.svg.png",
-    "name2": "Cameroun",
-    "champ": "Coupe d'Afrique des Nations",
-    "heure": "19H00",
-    "date": "31/12/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Neom_SC_Logo.png/250px-Neom_SC_Logo.png",
-    "name1": "Neom SC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1034px-Logo_Al-Ittihad_Club_2015.svg.png",
-    "name2": "Ittihad FC",
-    "champ": "Championnat d'Arabie saoudite",
-    "heure": "15H25",
-    "date": "31/12/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNP2X0HQMfZgiy_A_SxmC6yPFFVNGQguMOZA&s",
-    "name1": "Al Kholood",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72L59aHo-Qv7qyAgItRzqbWgI7yrigwsRjw&s",
-    "name2": "Al-Hilal Riyadh",
-    "champ": "Championnat d'Arabie saoudite",
+    "photo1": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/langfr-250px-Logo_Leeds_United_FC.svg.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Premier League",
     "heure": "17H30",
-    "date": "31/12/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YOhwcK0pwKZMXclI2BBAIne8J30gsCQZBQ&s",
-    "name1": "Al Shabab Riyadh",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJo_kMIkPM838DXtNmF3mXUaCYThtDDvHaLA&s",
-    "name2": "Al-Qadisiyah",
-    "champ": "Championnat d'Arabie saoudite",
-    "heure": "17H30",
-    "date": "31/12/2025",
+    "date": "01/11/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/big/46718.png?lm=1765489069",
-    "name1": "Al-Ittihad Bahrain",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/91/Manama_Club.png",
-    "name2": "Manama Club",
-    "champ": "Bahreïn. Deuxième Division",
-    "heure": "16H00",
-    "date": "31/12/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WHKcsIG20l3QHWosezwxwacwVu9-vcgnww&s",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "01/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1200px-Logo_Sunderland_AFC_1997.svg.png",
+    "name1": "Sunderland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "01/01/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Logo_Portsmouth_FC.svg/1200px-Logo_Portsmouth_FC.svg.png",
+    "name2": "Portsmouth",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
+    "name1": "Derby County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Middlesbrough.svg/1152px-Logo_Middlesbrough.svg.png",
+    "name2": "Middlesbrough",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
     "pro": "2X"
   },
-    {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/big/110065.png?lm=1687292340",
-    "name1": "Bouri",
-    "photo2": "https://www.footballdatabase.eu/images/photos/clubs/a_23/23060.png",
-    "name2": "Qalali Club",
-    "champ": "Bahreïn. Deuxième Division",
-    "heure": "16H00",
-    "date": "31/12/2025",
-    "pro": "V1"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
+    "name1": "Ipswich Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1046px-Logo_Oxford_United_2018.svg.png",
+    "name2": "Oxford United",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name1": "Queens Park Rangers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU45R6t05ZYGLjNF6WAQxsOnOp1nMl9vEOrQ&s",
+    "name2": "Norwich City",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnSNrHFhKIZDFS8hBFNmCttBaZydGT60OHJQ&s",
-    "name1": "Isa Town",
-    "photo2": "https://volleybox.net/media/upload/teams/1558983997NvQ3j.png",
-    "name2": "Etehad Al Reef",
-    "champ": "Bahreïn. Deuxième Division",
-    "heure": "16H00",
-    "date": "31/12/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Logo_Preston_North_End_FC_-_2014.svg/1200px-Logo_Preston_North_End_FC_-_2014.svg.png",
+    "name1": "Preston North End",
+    "photo2": "https://www.designyourway.net/blog/wp-content/uploads/2024/05/logo-3.jpg",
+    "name2": "Sheffield Wednesday",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/52/Logo_Millwall_FC_-_140_ans_%281885-2025%29.svg/1200px-Logo_Millwall_FC_-_140_ans_%281885-2025%29.svg.png",
+    "name2": "Millwall",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2026",
     "pro": "Total: (+1.5)"
   }
 ]
