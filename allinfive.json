@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RBS0CjOOGq67pHDwlF4EuaaJBlE6RU6tCA&s",
-    "name1": "Celta de Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "name2": "Valencia",
-    "champ": "Espagne. LaLiga",
-    "heure": "13H00",
-    "date": "03/01/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUIZCt_afceke9JI4BOZAQD9WWuYaHHk8BZQ&s",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/965px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name2": "Crystal Palace",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "04/01/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs3BjXvCCF52i7_l4Fzo-qBZI06iBJt2w_MQ&s",
-    "name1": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1792px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Athletic Bilbao",
-    "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "03/01/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLKVVmVpm_9umxifHHxCWfz7TF0OOADtMMw&s",
+    "name2": "Sunderland",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "04/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/langfr-250px-Logo_Fulham.svg.png",
+    "name1": "Fulham",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "04/01/2026",
     "pro": "2X"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/langfr-250px-Logo_Everton_FC_2023.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1200px-Logo_Brentford_FC_-_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
+    "heure": "15H00",
+    "date": "04/01/2026",
+    "pro": "Total: (+1.5)"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_RCD_Espanyol_Barcelona_2022.svg/langfr-250px-Logo_RCD_Espanyol_Barcelona_2022.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiEwYuAwnFhFqKB6H1zIcyqDoDPwAgXt12Lg&s",
+    "name2": "Chelsea",
+    "champ": "Angleterre. Premier League",
+    "heure": "17H30",
+    "date": "04/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+    "name2": "Real Betis",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "04/01/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
+    "name2": "Real Oviedo",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "04/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ezaJpF3uNlRZz8nim8vDgDRZ7QNTIjJHdQ&s",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "04/01/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
+    "name2": "Atl Madrid",
     "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "03/01/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "04/01/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PliTrqOaY433mE2PAIw8d_Q5gck15AcCyQ&s",
-    "name2": "Pisa 1909",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1200px-Logo_US_Cremonese_2018.svg.png",
+    "name2": "Cremonese",
     "champ": "Italie. Série A",
     "heure": "14H00",
-    "date": "03/01/2026",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_US_Sassuolo_2024.svg/1089px-Logo_US_Sassuolo_2024.svg.png",
-    "name1": "Sassuolo Calcio",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNfaZlqIdnywubRN-S6Fr1gKUx2QcQzt7qA&s",
-    "name2": "Parma",
-    "champ": "Italie. Série A",
-    "heure": "14H00",
-    "date": "03/01/2026",
+    "date": "04/01/2026",
     "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/961px-US_Lecce_2023.svg.png",
-    "name2": "Lecce",
-    "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "03/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1271px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
-    "name2": "Roma",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "03/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name1": "AS Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/langfr-250px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name2": "Lyon",
-    "champ": "France. Ligue 1",
-    "heure": "16H00",
-    "date": "03/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1644px-Logo_OGC_Nice_2013.svg.png",
-    "name1": "Nice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
-    "name2": "Strasbourg",
-    "champ": "France. Ligue 1",
-    "heure": "18H00",
-    "date": "03/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-250px-Logo_LOSC_Lille_2018.svg.png",
-    "name1": "Lille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/langfr-250px-Logo_Stade_Rennais_FC.svg.png",
-    "name2": "Stade Rennais",
-    "champ": "France. Ligue 1",
-    "heure": "20H05",
-    "date": "03/01/2026",
-    "pro": "1X"
   }
 ]
