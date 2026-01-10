@@ -1,102 +1,103 @@
+
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtbXujRa75T2vjcueY_jo9CKqHUfIJ4CR6A&s",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1200px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name2": "Mayence",
     "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "09/01/2026",
-    "pro": "2X"
+    "heure": "14H30",
+    "date": "10/01/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnV0VKn4oS664O7jce5sMtnkMrOP2ldO8e9A&s",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/langfr-250px-Logo_Real_Sociedad_2017.svg.png",
-    "name2": "Real Sociedad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Hambourg_SV.svg/langfr-250px-Logo_Hambourg_SV.svg.png",
+    "name2": "Hambourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "10/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Bayer Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "10/01/2026",
+    "pro": "Totale: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/961px-Logo_Villarreal_CF_2009.svg.png",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name2": "Deportivo Alavés",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "10/01/2026",
+    "pro": "Totale: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/langfr-250px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/960px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "10/01/2026",
+    "pro": "Totale: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/977px-Logo_Elche_CF_2021.svg.png",
+    "name2": "Elche",
     "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "09/01/2026",
-    "pro": "Totale: (+1)"
+    "date": "10/01/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1280px-Flag_of_Mali.svg.png",
-    "name1": "Mali",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png",
-    "name2": "Sénégal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_US_Sassuolo_2024.svg/1280px-Logo_US_Sassuolo_2024.svg.png",
+    "name2": "Sassuolo Calcio",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "10/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1280px-Logo_Torino_FC_2024.svg.png",
+    "name2": "Torino",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "10/01/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/3840px-Flag_of_Algeria.svg.png",
+    "name1": "Algérie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Flag_of_Nigeria.png/1200px-Flag_of_Nigeria.png",
+    "name2": "Nigeria",
     "champ": "Coupe d'Afrique des nations",
     "heure": "16H00",
-    "date": "09/01/2026",
-    "pro": "2X"
+    "date": "10/01/2026",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png",
-    "name1": "Cameroun",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png",
-    "name2": "Maroc",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1280px-Flag_of_Egypt.svg.png",
+    "name1": "Égypte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "name2": "Côte d'Ivoire",
     "champ": "Coupe d'Afrique des nations",
     "heure": "19H00",
-    "date": "09/01/2026",
-    "pro": "Totale: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/b/bf/MK_Dons.png",
-    "name1": "Milton Keynes Dons",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0ZfctGQpQe7txmLzLmEoNIJJL5b0G9R5Fg&s",
-    "name2": "Oxford United",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H30",
-    "date": "09/01/2026",
-    "pro": "Totale: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/1038px-Logo_Port_Vale_FC.svg.png",
-    "name1": "Port Vale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Fleetwood_Town_FC_2010.svg/2048px-Logo_Fleetwood_Town_FC_2010.svg.png",
-    "name2": "Fleetwood Town",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H30",
-    "date": "09/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Logo_Preston_North_End_FC_-_2014.svg/1280px-Logo_Preston_North_End_FC_-_2014.svg.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/2048px-Logo_Wigan_Athletic.svg.png",
-    "name2": "Wigan Athletic",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H30",
-    "date": "09/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c9/Wrexham_FC.png",
-    "name1": "Wrexham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/a/a2/Nottingham_Forest.png",
-    "name2": "Forest",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H30",
-    "date": "09/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1036px-Logo_Al-Taawoun_FC.svg.png",
-    "name1": "Al-Taawon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2e/Logo_Al_Shabab_FC_Riyad.png",
-    "name2": "Al Shabab Riyadh",
-    "champ": "Championnat d'Arabie saoudite",
-    "heure": "15H05",
-    "date": "09/01/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Logo_Al-Kholood_Club_2025.svg/1200px-Logo_Al-Kholood_Club_2025.svg.png",
-    "name1": "Al Kholood",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1034px-Logo_Al-Ittihad_Club_2015.svg.png",
-    "name2": "Ittihad FC",
-    "champ": "Championnat d'Arabie saoudite",
-    "heure": "17H30",
-    "date": "09/01/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "date": "10/01/2026",
+    "pro": "Total: (+1)"
   }
 ]
