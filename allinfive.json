@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioI2hjTMoMN62c_b07tRVBkEM4CPooS546g&s",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/langfr-250px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "Espagne. LaLiga",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmBdYKf6YKCXKTD5n5s-_9oUouSBH32tnWyw&s",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "20H00",
-    "date": "12/01/2026",
-    "pro": "Total: (+1)"
+    "date": "13/01/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtbxvWnQwEKkvtrBRv8RiGOydzXpGC4_Qzw&s",
-    "name2": "Cagliari Calcio",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Allemagne. Bundesliga",
     "heure": "17H30",
-    "date": "12/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/langfr-250px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
-    "name2": "Cremonese",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "12/01/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1280px-Barnsley_FC.svg.png",
-    "name2": "Barnsley",
-    "champ": "Coupe d'Angleterre",
-    "heure": "19H45",
-    "date": "12/01/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Paris_FC_2024.svg/langfr-250px-Logo_Paris_FC_2024.svg.png",
-    "name2": "Paris",
-    "champ": "Coupe de France",
-    "heure": "20H10",
-    "date": "12/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1280px-Logo_SD_Huesca_2023.svg.png",
-    "name1": "Huesca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/langfr-250px-C%C3%B3rdoba_CF_logo.svg.png",
-    "name2": "Cordoba",
-    "champ": "Espagne. Division 2",
-    "heure": "19H30",
-    "date": "12/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
-    "name1": "Rapid Vienne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxYQe9_J7VzXoW9AONhs-Oi_1yuv7VHFKRw&s",
-    "name2": "Ferencvárosi",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "12/01/2026",
+    "date": "13/01/2026",
     "pro": "12"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_FMUGpzuApmrkvEaav_80WLJoAY8E5-l5mg&s",
-    "name1": "Legia Varsovie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Pusk%C3%A1s_Akad%C3%A9mia_FC_%28logo%29.svg/1108px-Pusk%C3%A1s_Akad%C3%A9mia_FC_%28logo%29.svg.png",
-    "name2": "Puskas Akadémia",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "12/01/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1920px-SV-Werder-Bremen-Logo.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "13/01/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV ll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtuR7WEnBDSOHybGlPQgnhsmkBz6IrAT7IQ&s",
-    "name2": "Oss",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "12/01/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/2560px-Hamburger_SV_logo.svg.png",
+    "name1": "Hambourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "13/01/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1280px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
+    "name2": "Heidenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "13/01/2026",
     "pro": "1X"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9LKPx5YXu-5cI_Zjv094CvMRsoSC_b6MyQ&s",
-    "name1": "Alkmaar ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Ajax_Amsterdam_2011-2025_Logo.svg/1705px-Ajax_Amsterdam_2011-2025_Logo.svg.png",
-    "name2": "Ajax ll",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "12/01/2026",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1705px-Logo_Torino_FC_2024.svg.png",
+    "name2": "Torino",
+    "champ": "Coupe d'Italie",
+    "heure": "20H00",
+    "date": "13/01/2026",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Deportivo_La_Coru%C3%B1a.png/250px-Logo_Deportivo_La_Coru%C3%B1a.png",
+    "name1": "Deportivo de la Coruňa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzV8dLXhu0PdfWs-Db7ksISirfyvRUMuH7SQ&s",
+    "name2": "Atl.Madrid",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H00",
+    "date": "13/01/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/1/19/Cultural_y_Deportiva_Leonesa_escudo.png",
+    "name1": "Deportiva Leonesa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1280px-Club_Athletic_Bilbao_logo.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H00",
+    "date": "13/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/960px-CA_Osasuna_2024_crest.svg.png",
+    "name2": "Osasuna",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H00",
+    "date": "13/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/langfr-250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_RAAL_La_Louvi%C3%A8re_2025.svg/langfr-250px-Logo_RAAL_La_Louvi%C3%A8re_2025.svg.png",
+    "name2": "RAAL La Louviere",
+    "champ": "Coupe de Belgique",
+    "heure": "19H30",
+    "date": "13/01/2026",
+    "pro": "1X"
   }
 ]
