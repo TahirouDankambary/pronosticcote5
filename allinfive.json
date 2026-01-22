@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNG0L6ki6V4Nb6DzLjEBBjffBymlJOhtSkHw&s",
-    "name1": "Galatasaray",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
-    "name2": "Alt.Madrid",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/langfr-250px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png",
+    "name2": "Celtic",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "21/01/2026",
+    "date": "22/01/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1920px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name1": "Qarabag",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name2": "Frankfurt",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/960px-Brann_logo.svg.png",
+    "name1": "Brann",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
+    "name2": "Midtjylland",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "21/01/2026",
-    "pro": "Total 2: (+0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/langfr-250px-Logo_Atalanta_Bergame_2024.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/langfr-250px-Logo_Athletic_Club_1995.svg.png",
-    "name2": "Athletic Bilbao",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern Munich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFZ_jf2ATArtQeWv3NxBDipOnBIHYTnM6PEw&s",
-    "name2": "Royal Union",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1280px-Logo_Newcastle_United_FC.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD2QCkVDGSd2V6qv4hyR5PigZd0kcY32pmQ&s",
-    "name2": "PSV",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
+    "date": "22/01/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-250px-Logo_Olympique_de_Marseille.svg.png",
-    "name1": "Marseille",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
-    "name2": "Liverpool",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/langfr-250px-FCVP_official_logo.svg.png",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/250px-Logo_FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
     "pro": "2X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/SK_Slavia_Praha_logo_%281996%E2%80%932022%29.svg/250px-SK_Slavia_Praha_logo_%281996%E2%80%932022%29.svg.png",
-    "name1": "Slavia Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/3840px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
-    "pro": "Total 2: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymTfXbAjvx8T00mlzIi4VykBCTAthyF3zCA&s",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_P%C3%A1fos_FC_2018.svg/langfr-250px-Logo_P%C3%A1fos_FC_2018.svg.png",
-    "name2": "Pafos",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
-    "pro": "V1"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/960px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Logo_SL_Benfica_%283_Stars%29.svg/langfr-250px-Logo_SL_Benfica_%283_Stars%29.svg.png",
-    "name2": "Benfica",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "21/01/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/langfr-250px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name2": "Crvena Zvezda",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/960px-PAOK_FC_logo.svg.png",
+    "name1": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/langfr-250px-Real_betis_logo.svg.png",
+    "name2": "Real Betis",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9LKPx5YXu-5cI_Zjv094CvMRsoSC_b6MyQ&s",
-    "name1": "AZ Alkmaar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREowWWYVAuoQfuBVYvlTEHEn4HNKs_JN5x1w&s",
-    "name2": "Excelsior",
-    "champ": "Pays-Bas. Eredivisie",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Feyenoord_Rotterdam_2024.svg/langfr-250px-Logo_Feyenoord_Rotterdam_2024.svg.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "21/01/2026",
-    "pro": "1X"
+    "date": "22/01/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/40/Logo_Maccabi_Tel-Aviv_FC_%285_Stars%29.svg/1280px-Logo_Maccabi_Tel-Aviv_FC_%285_Stars%29.svg.png",
+    "name2": "Maccabi Tel Aviv",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1280px-BSC_Young_Boys.svg.png",
+    "name1": "Young Boys",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/langfr-250px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name2": "Lyon",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "22/01/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2VlJjyVCJvxTAk2eNGhUu-oxKNZ95rkqZw&s",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Forest",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "22/01/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
