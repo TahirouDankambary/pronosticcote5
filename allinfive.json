@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YOz6mdw10xPBIHjI4xW-yHtAZPr4gm7xnw&s",
-    "name1": "Brentford",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ayskZzgbh6IQbw1McIZFvDKMA5r_ypa2tA&s",
-    "name2": "Forest",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToztO_6P3yWPkgtcltESj5UQTgeP6TxWD8lw&s",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/langfr-250px-Logo_Leeds_United_FC.svg.png",
+    "name2": "Leeds United",
     "champ": "Angleterre. Premier Ligue",
-    "heure": "14H00",
-    "date": "25/01/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "20H00",
+    "date": "26/01/2026",
+    "pro": "Total: (+1)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier Ligue",
-    "heure": "14H00",
-    "date": "25/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Premier Ligue",
-    "heure": "14H00",
-    "date": "25/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_Manchester_United.svg/960px-Logo_Manchester_United.svg.png",
-    "name2": "Man United",
-    "champ": "Angleterre. Premier Ligue",
-    "heure": "16H30",
-    "date": "25/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnKZxiL1oJL_GWZNEDr67N9HDOM7JImsUsQ&s",
-    "name1": "Borussia Monchengladbach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "25/01/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/960px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/langfr-250px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
-    "name2": "Cologne",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "25/01/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/3840px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp19TLTmOwL26HmKWuYiFhzWErmdgGsnLKAA&s",
-    "name2": "Real Oviedo",
-    "champ": "Espagne. Laliga",
-    "heure": "15H15",
-    "date": "25/01/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
-    "name1": "Real Sociedad",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9RBS0CjOOGq67pHDwlF4EuaaJBlE6RU6tCA&s",
-    "name2": "Celta de Vigo",
-    "champ": "Espagne. Laliga",
-    "heure": "17H30",
-    "date": "25/01/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/330px-Deportivo_Alaves_logo_%282020%29.svg.png?20200906123708",
-    "name1": "Deportivo Alavés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/langfr-250px-Real_betis_logo.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. Laliga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1280px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vwxLIv4AplsSUioFDtHfeyW3BW2BtkkSOg&s",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "25/01/2026",
+    "date": "26/01/2026",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png",
+    "name1": "Hellas Verona",
+    "photo2": "https://static.wikia.nocookie.net/fifa/images/1/19/Udinese_Calcio.png/revision/latest/thumbnail/width/360/height/360?cb=20180224174807",
+    "name2": "Udinese Calcio",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "26/01/2026",
     "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/330px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNfaZlqIdnywubRN-S6Fr1gKUx2QcQzt7qA&s",
-    "name2": "Parma",
-    "champ": "Italie. Série A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1920px-Logo_FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Dm_93HnGvoMdeduc7zZL9PwtFnoQaHsnrQ&s",
+    "name2": "Gil Vicente",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H15",
+    "date": "26/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://images.seeklogo.com/logo-png/23/1/norwich-city-fc-logo-png_seeklogo-238770.png",
+    "name1": "Norwich City",
+    "photo2": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/388.png",
+    "name2": "Coventry City",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "26/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/OHK_Dinamo.png/250px-OHK_Dinamo.png",
+    "name1": "Dynamo Moscou",
+    "photo2": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21355.png",
+    "name2": "Chengdu Rongcheng",
+    "champ": "Matchs amicaux des clubs",
     "heure": "14H00",
-    "date": "25/01/2026",
+    "date": "26/01/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/1280px-IF_Elfsborg_%28logo%29.svg.png",
+    "name1": "Elfsborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
+    "name2": "AGF Århus",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "26/01/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
+    "name1": "Dynamo Makhachkala",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/FK_Vardar_%28logo%29.svg/500px-FK_Vardar_%28logo%29.svg.png",
+    "name2": "Vardar",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "26/01/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ey%C3%BCpspor_Logosu.png",
+    "name1": "Eyüpspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg/langfr-250px-Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg.png",
+    "name2": "Besiktas",
+    "champ": "Turquie. Süper Lig",
+    "heure": "17H00",
+    "date": "26/01/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/AD_Ceuta_%28logo%29.svg/langfr-250px-AD_Ceuta_%28logo%29.svg.png",
+    "name1": "AD Ceuta FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/d/d3/CyD_Leonesa.png",
+    "name2": "Deportiva Leonesa",
+    "champ": "Espagne. Division 2",
+    "heure": "19H30",
+    "date": "26/01/2026",
     "pro": "1X"
   }
 ]
