@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTznjBZklVEBkAeurbnSXsoKT4CBhjgoxU7gw&s",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1280px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
     "champ": "Angleterre. Coupe de la Ligue",
     "heure": "20H00",
-    "date": "03/02/2026",
-    "pro": "Total: (+1.5)"
+    "date": "04/02/2026",
+    "pro": "Total 3 Issues: Moins de 5"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1280px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer 04",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1280px-FC_St._Pauli_%28logo%29.svg.png",
-    "name2": "St.Pauli",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/langfr-250px-Holstein_Kiel_Logo.svg.png",
+    "name1": "Holstein Kiel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
     "champ": "Coupe d'Allemagne - DFB Pokal",
     "heure": "19H45",
-    "date": "03/02/2026",
-    "pro": "1X"
+    "date": "04/02/2026",
+    "pro": "But dans l'intervalle de temps - NON: Equipe 1 : Minutes 1-15"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7a/Logo_Albacete_Balompi%C3%A9_2009.svg/langfr-250px-Logo_Albacete_Balompi%C3%A9_2009.svg.png",
-    "name1": "Albacete Balompie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Deportivo Alavés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1280px-Logo_Real_Sociedad_2017.svg.png",
+    "name2": "Real Sociedad",
     "champ": "Espagne. Coupe du Roi",
     "heure": "20H00",
-    "date": "03/02/2026",
-    "pro": "V2"
+    "date": "04/02/2026",
+    "pro": "Total corners: V1 Et TM(9.5) - NON"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/langfr-250px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "03/02/2026",
-    "pro": "Total: (-3.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1920px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/1280px-Club_Athletic_Bilbao_logo.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "Espagne. Coupe du Roi",
+    "heure": "20H00",
+    "date": "04/02/2026",
+    "pro": "Total 3 Issues: Moins de 4"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Stade_de_Reims_2020_%28Alternatif%29.svg/langfr-120px-Logo_Stade_de_Reims_2020_%28Alternatif%29.svg.png",
-    "name1": "Stade de Reims",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo_Le_Mans_FC_-_2010.svg/1280px-Logo_Le_Mans_FC_-_2010.svg.png",
-    "name2": "Le Mans",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1920px-Logo_Torino_FC_2024.svg.png",
+    "name2": "Torino",
+    "champ": "Coupe de d'Italie",
+    "heure": "20H00",
+    "date": "04/02/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name1": "Lyon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Stade_Lavallois_MFC_2025.svg/langfr-250px-Logo_Stade_Lavallois_MFC_2025.svg.png",
+    "name2": "Stade Lavallois",
     "champ": "Coupe de France",
     "heure": "19H30",
-    "date": "03/02/2026",
-    "pro": "1X"
+    "date": "04/02/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/960px-Logo_Olympique_de_Marseille.svg.png",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/langfr-250px-Logo_Stade_Rennais_FC.svg.png",
-    "name2": "Stade Rennais",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/1920px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
+    "name1": "Lorient",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Paris_FC_2024.svg/1280px-Logo_Paris_FC_2024.svg.png",
+    "name2": "Paris FC",
     "champ": "Coupe de France",
-    "heure": "20H10",
-    "date": "03/02/2026",
-    "pro": "1X"
+    "heure": "19H30",
+    "date": "04/02/2026",
+    "pro": "Total: (+1)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/langfr-250px-Logo_Port_Vale_FC.svg.png",
-    "name1": "Port Vale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AFC_Wimbledon_%282020%29_logo.svg/960px-AFC_Wimbledon_%282020%29_logo.svg.png",
-    "name2": "Tournoi de Wimbledon",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H00",
-    "date": "03/02/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/langfr-250px-Barnsley_FC.svg.png",
-    "name1": "Barnsley",
-    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072012/northampton_town_fc.jpg?itok=uJ4Dob64",
-    "name2": "Northampton Town",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "03/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1280px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Logo_Montpellier_HSC_-_2025.svg/1280px-Logo_Montpellier_HSC_-_2025.svg.png",
+    "name2": "Montpellier HSC",
+    "champ": "Coupe de France",
+    "heure": "19H30",
+    "date": "04/02/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/4/43/Burton_Albion_FC.png",
-    "name1": "Burton Albion",
-    "photo2": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/279.png",
-    "name2": "Doncaster Rovers",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "03/02/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
+    "name1": "Toulouse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
+    "name2": "Amiens SC",
+    "champ": "Coupe de France",
+    "heure": "19H30",
+    "date": "04/02/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_EVsNOsz2zR-_CjgkU4iU1c9oij8M5WCUQ&s",
-    "name1": "Barnet",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Crewe_Alexandra_FC_1995.svg/langfr-250px-Logo_Crewe_Alexandra_FC_1995.svg.png",
-    "name2": "Crewe Alexandra",
-    "champ": "Angleterre. Ligue 2",
-    "heure": "19H45",
-    "date": "03/02/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1920px-ES_Troyes_AC.svg.png",
+    "name1": "Troyes AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1920px-Logo_RC_Lens.svg.png",
+    "name2": "RC Lens",
+    "champ": "Coupe de France",
+    "heure": "20H00",
+    "date": "04/02/2026",
+    "pro": "2X"
   }
 ]
