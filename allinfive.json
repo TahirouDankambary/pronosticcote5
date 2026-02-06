@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/langfr-250px-Real_betis_logo.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
-    "name2": "Atl.Madrid",
-    "champ": "Espagne. Coupe du Roi",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjZK-5dsCukugOieXNGKzjpDEJf3d90721A&s",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Forest",
+    "champ": "Angleterre. Premier League",
     "heure": "20H00",
-    "date": "05/02/2026",
-    "pro": "Total 2: (+0.5)"
+    "date": "06/02/2026",
+    "pro": "Total: (+1)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name2": "Juventus",
-    "champ": "Coupe d'Italie",
-    "heure": "20H00",
-    "date": "05/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1280px-Racing_Club_de_Strasbourg_logo.svg.png",
-    "name1": "Strasbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name2": "AS Monaco",
-    "champ": "Coupe de France",
-    "heure": "20H00",
-    "date": "05/02/2026",
-    "pro": "Handicap: 2(1)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/960px-Logo_Sporting_CP_2001.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/42/AVS_Futebol_SAD_logo.png",
-    "name2": "Aves",
-    "champ": "Coupe du Portugal",
-    "heure": "20H45",
-    "date": "05/02/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNi-J8I3wTzVoPKgOKcvL_HCJcJ19R-eMSg&s",
-    "name1": "Kocaelispor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg/langfr-250px-Logo_Be%C5%9Fikta%C5%9F_JK_2024.svg.png",
-    "name2": "Besiktas",
-    "champ": "Coupe de Turquie",
-    "heure": "15H00",
-    "date": "05/02/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/langfr-250px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_BB_Erzurumspor_%282014_-_2022%29.svg/960px-Logo_BB_Erzurumspor_%282014_-_2022%29.svg.png",
-    "name2": "BB Erzurum",
-    "champ": "Coupe de Turquie",
-    "heure": "17H30",
-    "date": "05/02/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/langfr-250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name2": "Royal Antwerp",
-    "champ": "Coupe de Belgique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/03/Logo_1._FC_Union_Berlin_2024.svg/1280px-Logo_1._FC_Union_Berlin_2024.svg.png",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1280px-Eintracht_Frankfurt_crest.svg.png",
+    "name2": "Frankfurt",
+    "champ": "Allemagne. Bundesliga",
     "heure": "19H30",
-    "date": "05/02/2026",
+    "date": "06/02/2026",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "06/02/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/ro/thumb/a/a0/Hellas_Verona_FC.svg/250px-Hellas_Verona_FC.svg.png",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/960px-Logo_Pisa_SC_2024.svg.png",
+    "name2": "Pisa",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "06/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSY3JA9lQkC1ntw4UAjAiRyE8_T0gydyRVeA&s",
-    "name1": "Al Feiha",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0Aq0moXaf6e5UlYmDuKZJhNrCnH4wbB-Gg&s",
-    "name2": "Al-Najma Unaizah",
-    "champ": "Arabie Saoudite",
-    "heure": "15H20",
-    "date": "05/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/960px-FC_Metz_2021_Logo.svg.png",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-250px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "France. Ligue 1",
+    "heure": "19H45",
+    "date": "06/02/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8mrWlGQsjiZPEX7JqYhmplOni1r0bPw9Vw&s",
+    "name1": "NAC Breda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/langfr-250px-Excelsior_Rotterdam_logo_2021.svg.png",
+    "name2": "Excelsior",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "06/02/2026",
     "pro": "1X"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMIsl7Pp-loL2n3etQT5yjLy9CwV-x5CZfQ&s",
-    "name1": "Al-Ahli Jeddah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Logo_Al_Hazem_SC.svg/960px-Logo_Al_Hazem_SC.svg.png",
-    "name2": "Al-Hazm Rass",
-    "champ": "Arabie Saoudite",
-    "heure": "17H30",
-    "date": "05/02/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name1": "Krasnodar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name2": "Zénith",
+    "champ": "Russie. Coupe RPL d'Hiver",
+    "heure": "16H15",
+    "date": "06/02/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/1280px-Charlton_Athletic.svg.png",
+    "name1": "Charlton Athletic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1280px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name2": "Queens Park Rangers",
+    "champ": "Angleterre. Championship",
+    "heure": "20H01",
+    "date": "06/02/2026",
+    "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/Logo_Al-Okhdood_FC.svg/langfr-250px-Logo_Al-Okhdood_FC.svg.png",
-    "name1": "Al-Okhdood",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72L59aHo-Qv7qyAgItRzqbWgI7yrigwsRjw&s",
-    "name2": "Al-Hilal Riyadh",
-    "champ": "Arabie Saoudite",
-    "heure": "17H30",
-    "date": "05/02/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1280px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganés",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/960px-Logo_Granada_CF.svg.png",
+    "name2": "Granada",
+    "champ": "Espagne. Division 2",
+    "heure": "19H30",
+    "date": "06/02/2026",
+    "pro": "Total: (+1)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_Cesena_FC_2018.svg/960px-Logo_Cesena_FC_2018.svg.png",
+    "name1": "Cesena",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4WWo_E-qrOgfkS28Q1Nn3iXKL-4s81TtmQ&s",
+    "name2": "Delfino Pescara",
+    "champ": "Italie. Série B",
+    "heure": "19H30",
+    "date": "06/02/2026",
+    "pro": "1X"
   }
 ]
