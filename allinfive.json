@@ -2,93 +2,93 @@
  [
   
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/1280px-Logo_Athletic_Club_1995.svg.png",
-    "name1": "Athletic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Levante_UD.svg/1280px-Logo_Levante_UD.svg.png",
-    "name2": "Levante",
-    "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "08/02/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1280px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
-    "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "08/02/2026",
-    "pro": "Total: (+1)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "08/02/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_US_Sassuolo_2024.svg/1280px-Logo_US_Sassuolo_2024.svg.png",
-    "name1": "Sassuolo Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Milan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_US_Cremonese_2018.svg/1280px-Logo_US_Cremonese_2018.svg.png",
+    "name2": "Cremonese",
     "champ": "Italie. Série A",
-    "heure": "17H00",
-    "date": "08/02/2026",
-    "pro": "2X"
+    "heure": "17H30",
+    "date": "09/02/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1280px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1280px-Cagliari_Calcio_1920_logo.svg.png",
+    "name2": "Cagliari",
     "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "08/02/2026",
+    "date": "09/02/2026",
+    "pro": "Total: (-4)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSByeeo3NtitU3dYOYnEYNEb9WvJi6DrT6Tw&s",
+    "name1": "Famalicao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_AFS_Vila_das_Aves_2023.svg/960px-Logo_AFS_Vila_das_Aves_2023.svg.png",
+    "name2": "Aves",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H45",
+    "date": "09/02/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Gaziantep_FK.svg/1280px-Logo_Gaziantep_FK.svg.png",
+    "name1": "Gaziantep",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT64c2GFHl3Mdd9SdXegjjAGgcEbmHMiQOQsw&s",
+    "name2": "Kasimpasa",
+    "champ": "Championnat de Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "09/02/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Logo_Angers_SCO_2021.svg/langfr-250px-Logo_Angers_SCO_2021.svg.png",
-    "name1": "Angers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
-    "name2": "Toulouse",
-    "champ": "France. Ligue 1",
-    "heure": "16H15",
-    "date": "08/02/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeefYJEtcJ7lNqSP-R9Oruwknduk87skMIlQ&s",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/42/Gen%C3%A7lerbirli%C4%9Fi_S.K._%28logo%29.svg/langfr-250px-Gen%C3%A7lerbirli%C4%9Fi_S.K._%28logo%29.svg.png",
+    "name2": "Genclerbirligi",
+    "champ": "Championnat de Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "09/02/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Havre_AC_2012.svg/langfr-250px-Logo_Havre_AC_2012.svg.png",
-    "name1": "Le Havre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
-    "name2": "Strasbourg",
-    "champ": "France. Ligue 1",
-    "heure": "16H15",
-    "date": "08/02/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgKUCFRBqEjagbx1SMMVc5nQGVs3HF8hMlg&s",
+    "name1": "Al-Duhail",
+    "photo2": "https://upload.wikimedia.org/wikipedia/id/f/fa/SharjahClub.png",
+    "name2": "Al Sharjah",
+    "champ": "AFC Champions League Elite",
+    "heure": "16H00",
+    "date": "09/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Shabab_AlAhli_logo.png/250px-Shabab_AlAhli_logo.png",
+    "name1": "Shabab Al-Ahli Dubai",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72L59aHo-Qv7qyAgItRzqbWgI7yrigwsRjw&s",
+    "name2": "Al-Hilal Riyadh",
+    "champ": "AFC Champions League Elite",
+    "heure": "16H00",
+    "date": "09/02/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1280px-Logo_Sheffield_United_FC.svg.png",
+    "name1": "Sheffield United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Middlesbrough.svg/1280px-Logo_Middlesbrough.svg.png",
+    "name2": "Middlesbrough",
+    "champ": "Angleterre. Championship",
+    "heure": "20H01",
+    "date": "09/02/2026",
     "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3IDTBe8jrt6FCpSuknrwqBTH2dJxKJfnXA&s",
-    "name1": "Nacional da Madeira",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWpLQw9Ry3sNkRMKf96bWeWL0lUPTscDcyw&s",
-    "name2": "Casa Pia",
-    "champ": "Portugal. Première Ligue",
-    "heure": "15H30",
-    "date": "08/02/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzj6IoBrtn3PLaUTZ3J1-SIhoqvceJiGxkA&s",
-    "name1": "Braga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsz1Ysc1cQ5yD0z4ulIgRIG3K-tVoZNqEpQ&s",
-    "name2": "Rio Ave",
-    "champ": "Portugal. Première Ligue",
-    "heure": "18H00",
-    "date": "08/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name1": "PSV",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/de/TOP_Oss_FC.png",
+    "name2": "Oss",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "09/02/2026",
     "pro": "1X"
   }
 ]
