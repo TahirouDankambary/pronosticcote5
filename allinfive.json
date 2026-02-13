@@ -1,103 +1,93 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_Brentford_FC_-_2017.svg/1280px-Logo_Brentford_FC_-_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Angleterre. Premier League",
-    "heure": "20H00",
-    "date": "12/02/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1AjK5mEUFzIziqv0-NDXBmKW6roGHnzFOA&s",
+    "name2": "Mayence",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "19H30",
+    "date": "13/02/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://kassiesa.net/uefa/clubs/images/Atl%E9tico-Madrid.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgBaILKgFiotLflLCbrSLiw3Y1B_6iRbmNQ&s",
-    "name2": "Barcelone",
-    "champ": "Espagne. Coupe du Roi",
-    "heure": "20H00",
-    "date": "12/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
+    "name1": "Pisa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
+    "name2": "Milan",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "13/02/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/langfr-250px-Logo_Stade_Rennais_FC.svg.png",
+    "name1": "Stade Rennais",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name2": "PSG",
+    "champ": "France. Ligue 1",
+    "heure": "18H00",
+    "date": "13/02/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/langfr-250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name1": "Royal Antwerp",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name2": "Anderlecht",
-    "champ": "Coupe de Belgique",
-    "heure": "19H30",
-    "date": "12/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/960px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name1": "AS Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_FC_Nantes_2020.svg/langfr-250px-Logo_FC_Nantes_2020.svg.png",
+    "name2": "Nantes",
+    "champ": "France. Ligue 1",
+    "heure": "20H05",
+    "date": "13/02/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtO8aUa4Ysaa_DvyvwlFZWlynbcvzmQP0vXA&s",
+    "name1": "Santa Clara",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3f/Logo_SL_Benfica_%283_Stars%29.svg/langfr-250px-Logo_SL_Benfica_%283_Stars%29.svg.png",
+    "name2": "Benfica",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H30",
+    "date": "13/02/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Logo_FC_Volendam_2024.svg/langfr-250px-Logo_FC_Volendam_2024.svg.png",
+    "name1": "Volendam",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRD2QCkVDGSd2V6qv4hyR5PigZd0kcY32pmQ&s",
+    "name2": "PSV",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "13/02/2026",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://images.seeklogo.com/logo-png/32/2/wrexham-afc-logo-png_seeklogo-323807.png",
+    "name1": "Wrexham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/langfr-250px-Logo_Ipswich_Town_2024.svg.png",
+    "name2": "Ipswich",
+    "champ": "Coupe d'Angleterre",
+    "heure": "19H45",
+    "date": "13/02/2026",
     "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1920px-AGF_Aarhus_%28logo%29.svg.png",
-    "name1": "AGF Aarhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Coupe de Danemark",
-    "heure": "18H00",
-    "date": "12/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKSYSfciFxkn5ZoLUTU5TiB1SzDL1GMuOHg&s",
-    "name1": "Den Bosch",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/Logo_FC_Eindhoven_2022.svg/langfr-250px-Logo_FC_Eindhoven_2022.svg.png",
-    "name2": "Eindhoven",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "12/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2eDY2KRwcXt0iVF4c0Bp-Go0_CgU4A1Stbg&s",
-    "name1": "Damac",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/langfr-250px-Logo_Al-Taawoun_FC.svg.png",
-    "name2": "Al-Taawon",
-    "champ": "Arabie saoudite",
-    "heure": "15H45",
-    "date": "12/02/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJo_kMIkPM838DXtNmF3mXUaCYThtDDvHaLA&s",
-    "name1": "Al-Qadisiyah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Neom_SC_Logo.png/250px-Neom_SC_Logo.png",
-    "name2": "Neom SC",
-    "champ": "Arabie saoudite",
-    "heure": "17H30",
-    "date": "12/02/2026",
-    "pro": "Total 1: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Logo_Al_Hazem_SC.svg/langfr-250px-Logo_Al_Hazem_SC.svg.png",
-    "name1": "Al-Hazm Rass",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/Logo_Al-Okhdood_FC.svg/langfr-250px-Logo_Al-Okhdood_FC.svg.png",
-    "name2": "Al-Okhdood",
-    "champ": "Arabie saoudite",
-    "heure": "17H30",
-    "date": "12/02/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/langfr-250px-Hull_City_AFC_logo.svg.png",
+    "name1": "Hull City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
+    "champ": "Coupe d'Angleterre",
+    "heure": "19H45",
+    "date": "13/02/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdPZ9WqmQZA7d_vRECLJM09O56OjGKbK58ng&s",
-    "name1": "Sion",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSzjbr5lrQofX2jX5iIwcdcXYnh7yzMQ-8w&s",
-    "name2": "Basel",
-    "champ": "Suisse. SuperLigue",
-    "heure": "19H30",
-    "date": "12/02/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FC_Thun_Logo_2011.svg/langfr-250px-FC_Thun_Logo_2011.svg.png",
-    "name1": "Thun",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/FC_Lausanne-Sport_logo.svg/langfr-120px-FC_Lausanne-Sport_logo.svg.png",
-    "name2": "Lausanne-Sport",
-    "champ": "Suisse. SuperLigue",
-    "heure": "19H30",
-    "date": "12/02/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEfTZ2RMZyRlyQWWlKgMK34qkaAZ9KDe6wQ&s",
+    "name1": "Antalyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name2": "Samsunspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/02/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
