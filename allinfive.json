@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Excelsior_Rotterdam_logo_2002.svg/960px-Excelsior_Rotterdam_logo_2002.svg.png",
-    "name1": "Excelsior",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9LKPx5YXu-5cI_Zjv094CvMRsoSC_b6MyQ&s",
-    "name2": "AZ Alkmaar",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "17H45",
-    "date": "14/02/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVdYf17i1LtQI1vhX1I1WeehuCWyWfYtzbw&s",
+    "name1": "Stoke City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/960px-Logo_Fulham.svg.png",
+    "name2": "Fulham",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "15/02/2026",
+    "pro": "2X"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1280px-Logo_Wigan_Athletic.svg.png",
+    "name2": "Wigan Athletic",
+    "champ": "Coupe d'Angleterre",
+    "heure": "16H30",
+    "date": "15/02/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
+    "name1": "Augsbourg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EYX9TxOB36x8OgJY9LcpOM0tz6YO2-hXOg&s",
+    "name2": "Heidenheim",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "14H30",
+    "date": "15/02/2026",
     "pro": "Total: (+1.5)"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg/langfr-250px-Ajax_Amsterdam_1928-1991%E2%80%942025_Logo.svg.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1280px-Logo_Fortuna_Sittard_2024.svg.png",
-    "name2": "Fortuna Sittard",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "14/02/2026",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1280px-Logo_RB_Leipzig_2020.svg.png",
+    "name1": "Leipzig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/langfr-250px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name2": "Wolfsbourg",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "16H30",
+    "date": "15/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
-    "name2": "Real Sociedad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/3840px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
+    "name2": "Atl.Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "15/02/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
+    "name1": "Levante",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1920px-Logo_Valencia_CF_2019.svg.png",
+    "name2": "Valencia",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "15/02/2026",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdomGGiAgicLOOaBcRDNpTgWv0mL52XPwjMA&s",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
+    "name2": "Real Betis",
     "champ": "Espagne. LaLiga",
     "heure": "20H00",
-    "date": "14/02/2026",
-    "pro": "1X"
+    "date": "15/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOweAB5XloH6Jsvugb63Md6Mo9LeRBa6iWGA&s",
+    "name1": "Cremonese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "15/02/2026",
+    "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/330px-Logo_Atalanta_Bergamo.svg.png",
-    "name2": "Atalanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1920px-Logo_Torino_FC_2024.svg.png",
+    "name1": "Torino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1920px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
     "champ": "Italie. Série A",
     "heure": "17H00",
-    "date": "14/02/2026",
-    "pro": "Total: (+1.5)"
+    "date": "15/02/2026",
+    "pro": "2X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name2": "Juventus",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/1280px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+    "name1": "Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name2": "Roma",
     "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "14/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/langfr-250px-Logo_Eintracht_Francfort.svg.png",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/330px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "name2": "Borussia Monchengladbach",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "14/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer 04",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/langfr-250px-FC_St._Pauli_%28logo%29.svg.png",
-    "name2": "St.Pauli",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "14/02/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJA5tQW33QgR_acQcBHccFRrKmmQ3yK1lbw&s",
-    "name1": "Werder Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern Munich",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "14/02/2026",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1280px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
-    "name2": "Cologne",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "17H30",
-    "date": "14/02/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1920px-Olympique_Marseille_logo.svg.png",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/1280px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
-    "name2": "Strasbourg",
-    "champ": "France. Ligue 1",
-    "heure": "16H00",
-    "date": "14/02/2026",
-    "pro": "1X"
+    "date": "15/02/2026",
+    "pro": "Total: (+1)"
   }
 ]
