@@ -1,103 +1,93 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBKume6UzBb42ENDz2PDotQX2bTojKJBiMOA&s",
-    "name1": "Galatasaray",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name2": "Juventus",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuU4QkaIlTwJSId7MhEqj8qobCVV6XlL5rxw&s",
+    "name1": "Qarabag",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "17/02/2026",
-    "pro": "Total: (+2)"
+    "date": "18/02/2026",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/960px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name1": "AS Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1280px-Paris_Saint-Germain_Logo.svg.png",
-    "name2": "PSG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/langfr-250px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
+    "name2": "Atl.Madrid",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "17/02/2026",
+    "date": "18/02/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9MOpqHz53FM-GfQ6RjXowJlulr9xGIjsJZw&s",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "17/02/2026",
+    "date": "18/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn17MuCwBpA-vXMSOHUpNi8dFNtxp3hPyljA&s",
+    "name1": "Olympiacos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Bayer 04",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "18/02/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1280px-Wolverhampton_Wanderers.svg.png",
+    "name1": "Wolverhhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H00",
+    "date": "18/02/2026",
     "pro": "2X Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/250px-AtalantaBC.svg.png",
-    "name2": "Atalanta",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "17/02/2026",
-    "pro": "Total: (+1.5)"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
+    "name1": "Levante UD",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "18/02/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
-    "name1": "Charlton Athletic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1280px-Portsmouth_FC_logo.svg.png",
-    "name2": "Portsmouth",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/1180px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1280px-Logo_Bristol_City_FC_2019.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTkG4dQZI9NEzvvNlNlj5BW8USUvz7joza-Q&s",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1280px-Barnsley_FC.svg.png",
-    "name1": "Barnsley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_Peterborough_United_2008.svg/1280px-Logo_Peterborough_United_2008.svg.png",
-    "name2": "Petersburg United",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "17/02/2026",
+    "date": "18/02/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burton_Albion_FC_crest.svg/1280px-Burton_Albion_FC_crest.svg.png",
-    "name1": "Burton Albion",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Rotherham_United_F.C._svg.svg/250px-Rotherham_United_F.C._svg.svg.png",
-    "name2": "Rotherham United",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1280px-Logo_Wigan_Athletic.svg.png",
+    "name1": "Wigan Athletic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_Luton_Town_2009_FC.svg/1280px-Logo_Luton_Town_2009_FC.svg.png",
+    "name2": "Luton Town",
     "champ": "Angleterre. Ligue 1",
     "heure": "19H45",
-    "date": "17/02/2026",
+    "date": "18/02/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBisTVoOLrozIG7ksIG99jhuQ6iY5v1K6PLw&s",
-    "name1": "Bradford City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1280px-Stockport_County_FC_logo_2020.svg.png",
-    "name2": "Stockport County",
-    "champ": "Angleterre. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Grimsby_Town_F.C._logo.svg/1280px-Grimsby_Town_F.C._logo.svg.png",
+    "name1": "Grimsby Town",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoHAk7gdS_PCQUQ_5cM4IBw9nye8bUWDlGoA&s",
+    "name2": "Walsall",
+    "champ": "Angleterre. Ligue 2",
     "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1280px-Doncaster_Rovers_F.C._logo.svg.png",
-    "name1": "Doncaster Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/bs/4/45/Huddersfield_logo.png",
-    "name2": "Huddersfield Town",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "19H45",
-    "date": "17/02/2026",
-    "pro": "1X"
+    "date": "18/02/2026",
+    "pro": "12"
   }
 ]
