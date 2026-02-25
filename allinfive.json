@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/langfr-250px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name2": "Club Bruges",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "24/02/2026",
-    "pro": "1X"
+    "date": "25/02/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer 04",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos Piraeus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1280px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name2": "AS Monaco",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "24/02/2026",
-    "pro": "Total: (+1.5)"
+    "date": "25/02/2026",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name2": "Bodo Glimt",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwvoJ3quMYK7AHjp4UUekbvEMdZvZ0S98yg&s",
+    "name2": "Benfica",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "24/02/2026",
-    "pro": "Total: (+1.5)"
+    "date": "25/02/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEXCSOvy--0d_BgUS5Kf3lpGlXw122QyKlMA&s",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1920px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name2": "Qarabag",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl0eaCSPWJ9MD2J5sdZ0nZRh2Ei2310F6Vg&s",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png",
+    "name2": "Galatasaray",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "24/02/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1280px-Logo_Blackburn_Rovers.svg.png",
-    "name1": "Blackburn Rovers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyg1Y65aqXyI5hKSmrPbr7FyQi9762wTf-g&s",
-    "name2": "Bristol City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "24/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1280px-Logo_West_Bromwich_Albion.svg.png",
-    "name1": "West Bromwich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
-    "name2": "Charlton Athletic",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "24/02/2026",
-    "pro": "Total: (+1)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1280px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
-    "name2": "Leicester City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "24/02/2026",
+    "date": "25/02/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://images.seeklogo.com/logo-png/32/2/wrexham-afc-logo-png_seeklogo-323807.png",
-    "name1": "Wrexham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1280px-Portsmouth_FC_logo.svg.png",
-    "name2": "Portsmouth",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1280px-Millwall_FC_crest.svg.png",
+    "name1": "Millwall",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/250px-Birmingham_City_FC_logo.svg.png",
+    "name2": "Birmingham",
     "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "24/02/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1CTtZ_iEg9-sl5M8H3_ekNPOd8dGPwxWFdQ&s",
-    "name1": "Swansea City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8F44gpuAvCesA-odowiHncMuxy9mEJTjsg&s",
-    "name2": "Preston North End",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "24/02/2026",
+    "date": "25/02/2026",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Watford_FC_2001.svg/1280px-Logo_Watford_FC_2001.svg.png",
-    "name1": "Watford",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_yAJw5pCVT01fS27XbHu7hCAeCCvVW1dUiw&s",
-    "name2": "Ipswich Town",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_Norwich_City_FC_2022.svg/1280px-Logo_Norwich_City_FC_2022.svg.png",
+    "name1": "Norwich City",
+    "photo2": "https://static.wikia.nocookie.net/ted-lasso/images/1/15/SheffieldWednesday.jpg/revision/latest?cb=20221222142944",
+    "name2": "Sheffield Wednesday",
     "champ": "Angleterre. Championship",
     "heure": "19H45",
-    "date": "24/02/2026",
+    "date": "25/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1280px-Logo_Sheffield_United_FC.svg.png",
+    "name1": "Sheffield United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/960px-Coventry_City_FC_crest.svg.png",
+    "name2": "Coventry City",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "25/02/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Stoke_City_FC_-_2025.svg/1280px-Logo_Stoke_City_FC_-_2025.svg.png",
+    "name1": "Stoke City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1920px-Logo_Oxford_United_2018.svg.png",
+    "name2": "Oxford United",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "25/02/2026",
+    "pro": "Total: (-4.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Braintree_Town_FC_crest.svg/1280px-Braintree_Town_FC_crest.svg.png",
+    "name1": "Braintree Town",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrQ9K3V7YLunjvSDBNgmIQOTstg-KJpYpnQ&s",
+    "name2": "Aldershot Town",
+    "champ": "Angleterre. National League",
+    "heure": "19H45",
+    "date": "25/02/2026",
     "pro": "2X"
+  },
+    {
+    "photo1": "https://play-lh.googleusercontent.com/9DBLfJJltQI9583DKrXa4igr8MDWU3yM5ue54ek40nAnsP0TGf74-TNUKiejatrDkSks=w600-h300-pc0xffffff-pd",
+    "name1": "Woking",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Solihull_Moors_FC_crest.svg/1280px-Solihull_Moors_FC_crest.svg.png",
+    "name2": "Solihull Moors",
+    "champ": "Angleterre. National League",
+    "heure": "19H45",
+    "date": "25/02/2026",
+    "pro": "12"
   }
 ]
