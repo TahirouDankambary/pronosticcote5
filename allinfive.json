@@ -1,103 +1,102 @@
-
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/langfr-250px-FCVP_official_logo.svg.png",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1280px-Panathinaikos_F.C._logo.svg.png",
+    "name2": "Panathinaikos",
+    "champ": "Ligue Europa de l'UEFA",
     "heure": "17H45",
-    "date": "25/02/2026",
-    "pro": "Total: (+2)"
+    "date": "26/02/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1280px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name2": "AS Monaco",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/02/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1280px-Logo_Ferencv%C3%A1ros_TC.svg.png",
+    "name1": "Ferencvarosi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorets",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwvoJ3quMYK7AHjp4UUekbvEMdZvZ0S98yg&s",
-    "name2": "Benfica",
-    "champ": "UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Logo_FC_Red_Star_Belgrade_%282011%E2%80%932019%29.svg/500px-Logo_FC_Red_Star_Belgrade_%282011%E2%80%932019%29.svg.png",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/960px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png",
+    "name2": "Celtic",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/960px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
+    "name2": "Brann",
+    "champ": "Ligue Europa de l'UEFA",
     "heure": "20H00",
-    "date": "25/02/2026",
+    "date": "26/02/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1920px-Logo_KRC_Genk_2021.svg.png",
+    "name1": "Genk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dinamo_Zagreb_logo.png",
+    "name2": "Dinamo Zagreb",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "20H00",
+    "date": "26/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/250px-Logo_Nottingham_Forest_FC.svg.png",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Fenerbah%C3%A7e_SK_1910.svg/960px-Logo_Fenerbah%C3%A7e_SK_1910.svg.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "20H00",
+    "date": "26/02/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1920px-PAOK_FC_logo.svg.png",
+    "name2": "PAOK",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "20H00",
+    "date": "26/02/2026",
     "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl0eaCSPWJ9MD2J5sdZ0nZRh2Ei2310F6Vg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png",
-    "name2": "Galatasaray",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "25/02/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1280px-Millwall_FC_crest.svg.png",
-    "name1": "Millwall",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/250px-Birmingham_City_FC_logo.svg.png",
-    "name2": "Birmingham",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "25/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Logo_HNK_Rijeka_2021.svg/1920px-Logo_HNK_Rijeka_2021.svg.png",
+    "name1": "Rijeka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/AC_Omonia_logo.svg/1280px-AC_Omonia_logo.svg.png",
+    "name2": "AC Omonia",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_Norwich_City_FC_2022.svg/1280px-Logo_Norwich_City_FC_2022.svg.png",
-    "name1": "Norwich City",
-    "photo2": "https://static.wikia.nocookie.net/ted-lasso/images/1/15/SheffieldWednesday.jpg/revision/latest?cb=20221222142944",
-    "name2": "Sheffield Wednesday",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1280px-Logo_Sheffield_United_FC.svg.png",
-    "name1": "Sheffield United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/960px-Coventry_City_FC_crest.svg.png",
-    "name2": "Coventry City",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_Stoke_City_FC_-_2025.svg/1280px-Logo_Stoke_City_FC_-_2025.svg.png",
-    "name1": "Stoke City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1920px-Logo_Oxford_United_2018.svg.png",
-    "name2": "Oxford United",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "25/02/2026",
-    "pro": "Total: (-4.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Braintree_Town_FC_crest.svg/1280px-Braintree_Town_FC_crest.svg.png",
-    "name1": "Braintree Town",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrQ9K3V7YLunjvSDBNgmIQOTstg-KJpYpnQ&s",
-    "name2": "Aldershot Town",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://play-lh.googleusercontent.com/9DBLfJJltQI9583DKrXa4igr8MDWU3yM5ue54ek40nAnsP0TGf74-TNUKiejatrDkSks=w600-h300-pc0xffffff-pd",
-    "name1": "Woking",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Solihull_Moors_FC_crest.svg/1280px-Solihull_Moors_FC_crest.svg.png",
-    "name2": "Solihull Moors",
-    "champ": "Angleterre. National League",
-    "heure": "19H45",
-    "date": "25/02/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name1": "Samsunspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/Logo_KF_Shk%C3%ABndija.svg/960px-Logo_KF_Shk%C3%ABndija.svg.png",
+    "name2": "Shkendija",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H45",
+    "date": "26/02/2026",
+    "pro": "1X"
   }
 ]
