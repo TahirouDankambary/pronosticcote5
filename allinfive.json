@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1280px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Forest",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
+    "name2": "Getafe",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "02/03/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_Manchester_United.svg/960px-Logo_Manchester_United.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1280px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name2": "Crystal Palace",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/960px-Logo_Fulham.svg.png",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/960px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Stuttgart",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
-    "name2": "Wolfsbourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "14H30",
-    "date": "01/03/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1280px-Logo_Eintracht_Francfort.svg.png",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/langfr-250px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPNB2tvfS-yCHJQCoLrm_hmxXjREpBrbNrQ&s",
-    "name1": "Hambourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
-    "name2": "Leipzig",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "18H30",
-    "date": "01/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
+    "name1": "Pisa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1920px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
+    "champ": "Italie. Série A",
+    "heure": "17H30",
+    "date": "02/03/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/langfr-250px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "01/03/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8awuiFC7UjobkUDQGuqgpReICGE3JWv4X4g&s",
+    "name1": "Udinese Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/120px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJ3zNyHg7o20KjA0-r7WgLwlNbU3lO9Si_A&s",
+    "name1": "Birmingham City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQH894amNWj0BzkQrAcCCD11FEfYF8hBH-Uw&s",
+    "name2": "Middlesbrough",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "02/03/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/960px-Real_Sporting_de_Gijon.svg.png",
+    "name1": "Sporting de Gijon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRheCmljE9ieGDv3voYwcdNGRHp2bOJ5Qbyzw&s",
+    "name2": "Leganés",
+    "champ": "Espagne. Division 2",
+    "heure": "19H00",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/langfr-250px-C%C3%B3rdoba_CF_logo.svg.png",
+    "name1": "Cordoba",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png",
+    "name2": "Andora Andora la Vella",
+    "champ": "Espagne. Division 2",
+    "heure": "19H30",
+    "date": "02/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
+    "name1": "Amiens SC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1920px-ES_Troyes_AC.svg.png",
+    "name2": "Troyes AC",
+    "champ": "France. Ligue 2",
+    "heure": "19H45",
+    "date": "02/03/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Al_Ittihad_Al_Sakandary_Alexandria_logo.png/250px-Al_Ittihad_Al_Sakandary_Alexandria_logo.png",
+    "name1": "Al Ittihad Alexandria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/Ghazl_El_Mahalla_SC_new_logo.png",
+    "name2": "Ghazl El Mahalla",
+    "champ": "Égypte. Première Ligue",
+    "heure": "19H30",
+    "date": "02/03/2026",
+    "pro": "Total: (-3)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b4/Pharco_FC_Logo.png",
+    "name1": "Pharco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d7/Al-Kahrabaa_SC_logo_%282023%29.png",
+    "name2": "Kahrbaa Alasmalia",
+    "champ": "Égypte. Première Ligue",
+    "heure": "19H30",
+    "date": "02/03/2026",
     "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1920px-Logo_S%C3%A9ville_FC.svg.png",
-    "name2": "Séville",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "01/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
+    "name1": "Emmen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/92/FC_Utrecht.png",
+    "name2": "Utrecht",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "19H00",
+    "date": "02/03/2026",
     "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1280px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name2": "Celta de Vigo",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "01/03/2026",
-    "pro": "Total: (+1.5)"
   }
 ]
