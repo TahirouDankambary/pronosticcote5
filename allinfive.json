@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Getafe_CF_2011.svg/1280px-Logo_Getafe_CF_2011.svg.png",
-    "name2": "Getafe",
-    "champ": "Espagne. LaLiga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/960px-Logo_ATM_2024.svg.png",
+    "name2": "Atl.Madrid",
+    "champ": "Espagne. Coupe du Roi",
     "heure": "20H00",
-    "date": "02/03/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "03/03/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
-    "name1": "Pisa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1920px-Logo_Bologna_FC_-_2018.svg.png",
-    "name2": "Bologna",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "02/03/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8awuiFC7UjobkUDQGuqgpReICGE3JWv4X4g&s",
-    "name1": "Udinese Calcio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/120px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "02/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJ3zNyHg7o20KjA0-r7WgLwlNbU3lO9Si_A&s",
-    "name1": "Birmingham City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQH894amNWj0BzkQrAcCCD11FEfYF8hBH-Uw&s",
-    "name2": "Middlesbrough",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/1180px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "Coupe d'Italie",
     "heure": "20H00",
-    "date": "02/03/2026",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Real_Sporting_de_Gijon.svg/960px-Real_Sporting_de_Gijon.svg.png",
-    "name1": "Sporting de Gijon",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRheCmljE9ieGDv3voYwcdNGRHp2bOJ5Qbyzw&s",
-    "name2": "Leganés",
-    "champ": "Espagne. Division 2",
-    "heure": "19H00",
-    "date": "02/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/langfr-250px-C%C3%B3rdoba_CF_logo.svg.png",
-    "name1": "Cordoba",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png",
-    "name2": "Andora Andora la Vella",
-    "champ": "Espagne. Division 2",
-    "heure": "19H30",
-    "date": "02/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
-    "name1": "Amiens SC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ES_Troyes_AC.svg/1920px-ES_Troyes_AC.svg.png",
-    "name2": "Troyes AC",
-    "champ": "France. Ligue 2",
-    "heure": "19H45",
-    "date": "02/03/2026",
+    "date": "03/03/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Al_Ittihad_Al_Sakandary_Alexandria_logo.png/250px-Al_Ittihad_Al_Sakandary_Alexandria_logo.png",
-    "name1": "Al Ittihad Alexandria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/Ghazl_El_Mahalla_SC_new_logo.png",
-    "name2": "Ghazl El Mahalla",
-    "champ": "Égypte. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/960px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YOz6mdw10xPBIHjI4xW-yHtAZPr4gm7xnw&s",
+    "name2": "Brentford",
+    "champ": "Angleterre. Premier League",
     "heure": "19H30",
-    "date": "02/03/2026",
-    "pro": "Total: (-3)"
+    "date": "03/03/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b4/Pharco_FC_Logo.png",
-    "name1": "Pharco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d7/Al-Kahrabaa_SC_logo_%282023%29.png",
-    "name2": "Kahrbaa Alasmalia",
-    "champ": "Égypte. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/langfr-250px-Logo_Leeds_United_FC.svg.png",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Sunderland_AFC_1997.svg/1280px-Logo_Sunderland_AFC_1997.svg.png",
+    "name2": "Sunderland",
+    "champ": "Angleterre. Premier League",
     "heure": "19H30",
-    "date": "02/03/2026",
+    "date": "03/03/2026",
     "pro": "Total: (+1)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/960px-FC_Emmen_logo.svg.png",
-    "name1": "Emmen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/92/FC_Utrecht.png",
-    "name2": "Utrecht",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "19H00",
-    "date": "02/03/2026",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_Everton_FC_2023.svg/500px-Logo_Everton_FC_2023.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_Burnley_FC_2023.svg/1280px-Logo_Burnley_FC_2023.svg.png",
+    "name2": "Burnley",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H30",
+    "date": "03/03/2026",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
+    "name1": "Wolverhampton",
+    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
+    "name2": "Liverpool",
+    "champ": "Angleterre. Premier League",
+    "heure": "20H15",
+    "date": "03/03/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
+    "name1": "Strasbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stade_Reims.svg/250px-Stade_Reims.svg.png",
+    "name2": "Stade de Reims",
+    "champ": "Coupe de France",
+    "heure": "20H00",
+    "date": "03/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
+    "name1": "Baltika Kaliningrad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name2": "Zénith",
+    "champ": "Coupe de Russie",
+    "heure": "17H00",
+    "date": "03/03/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LogoN.E.C.png/330px-LogoN.E.C.png",
+    "name1": "NEC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name2": "PSV",
+    "champ": "Pays-Bas. KNVB Beker",
+    "heure": "19H00",
+    "date": "03/03/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/langfr-250px-Logo_Port_Vale_FC.svg.png",
+    "name1": "Port Vale",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1280px-Logo_Bristol_City_FC_2019.svg.png",
+    "name2": "Bristol City",
+    "champ": "Coupe d'Angleterre",
+    "heure": "19H45",
+    "date": "03/03/2026",
+    "pro": "2X"
   }
 ]
