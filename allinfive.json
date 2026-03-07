@@ -1,93 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLIsM-Cqi7aCmHogOoyGJoPzMfbPJREVCvQ&s",
-    "name1": "Bayern Munich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/330px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-    "name2": "Borussia Monchengladbach",
+    "photo1": "https://cdn.freebiesupply.com/logos/thumbs/2x/wrexham-afc-logo.png",
+    "name1": "Wrexham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MQWl0bBEdJd76258UHEpRI9JkOQWaCRS2A&s",
+    "name2": "Chelsea",
     "champ": "Allemagne. Bundesliga",
-    "heure": "19H30",
-    "date": "06/03/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "heure": "17H45",
+    "date": "07/03/2026",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langfr-250px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/1920px-Logo_Torino_FC_2024.svg.png",
-    "name2": "Torino",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "06/03/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1280px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "Coupe d'Angleterre",
+    "heure": "20H00",
+    "date": "07/03/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
-    "name1": "Celta de Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjAmSq3orIT_3O5OVYXcqO67u5eVRXrzl3VQ&s",
+    "name1": "Levante UD",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1280px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
     "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "06/03/2026",
-    "pro": "2X"
+    "heure": "15H15",
+    "date": "07/03/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/langfr-250px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name2": "AS Monaco",
-    "champ": "France. Ligue 1",
-    "heure": "19H45",
-    "date": "06/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/langfr-250px-Logo_ATM_2024.svg.png",
+    "name1": "Atl.Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsibS1fcacac5YYw4xX3S5QQLtiAPUJTNrg&s",
+    "name2": "Real Sociedad",
+    "champ": "Espagne. LaLiga",
+    "heure": "17H30",
+    "date": "07/03/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Logo_Athletic_Club_1995.svg/langfr-250px-Logo_Athletic_Club_1995.svg.png",
+    "name1": "Athletic Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "07/03/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://static.wikia.nocookie.net/fifa/images/1/19/Udinese_Calcio.png/revision/latest/thumbnail/width/360/height/360?cb=20180224174807",
+    "name2": "Udinese Calcio",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "07/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl0eaCSPWJ9MD2J5sdZ0nZRh2Ei2310F6Vg&s",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/langfr-250px-Logo_Pisa_SC_2024.svg.png",
+    "name2": "Pisa",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "07/03/2026",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/langfr-250px-Heracles_Almelo_%28logo%29.svg.png",
-    "name1": "Heracles Almelo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/92/FC_Utrecht.png",
-    "name2": "Utrecht",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "06/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-250px-Wolverhampton_Wanderers.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png",
-    "name2": "Liverpool",
-    "champ": "Coupe d'Angleterre",
-    "heure": "20H00",
-    "date": "06/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1280px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+    "name1": "Cologne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "17H30",
+    "date": "07/03/2026",
     "pro": "2X"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8F44gpuAvCesA-odowiHncMuxy9mEJTjsg&s",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1280px-Oxford_United_FC_logo.svg.png",
-    "name2": "Oxford United",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "06/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
-    "name1": "Zamalek",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Al_Ittihad_Al_Sakandary_Alexandria_logo.png/250px-Al_Ittihad_Al_Sakandary_Alexandria_logo.png",
-    "name2": "Al Ittihad Alexandria",
-    "champ": "Égypte. Première Ligue",
-    "heure": "19H30",
-    "date": "06/03/2026",
-    "pro": "Total: (+1.5)"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/langfr-250px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name1": "Nantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Logo_Angers_SCO_-_2021.svg/1280px-Logo_Angers_SCO_-_2021.svg.png",
+    "name2": "Angers",
+    "champ": "France. Ligue 1",
+    "heure": "16H00",
+    "date": "07/03/2026",
+    "pro": "Total: (+1)"
   },
     {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/big/20572.png?lm=1771923099",
-    "name1": "El Gouna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/2f/Wadi_Degla_logo.png",
-    "name2": "Wadi Degla",
-    "champ": "Égypte. Première Ligue",
-    "heure": "19H30",
-    "date": "06/03/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/960px-AJAuxerreLogo.svg.png",
+    "name1": "Auxerre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-250px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png",
+    "name2": "Strasbourg",
+    "champ": "France. Ligue 1",
+    "heure": "18H00",
+    "date": "07/03/2026",
+    "pro": "12"
   }
 ]
