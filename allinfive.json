@@ -1,103 +1,102 @@
-
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1920px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVAfjlUkL0kXalqkl3cFYsmv3VvYEjalAlA&s",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
+    "name2": "Roma",
+    "champ": "Ligue Europa",
     "heure": "17H45",
-    "date": "11/03/2026",
-    "pro": "Total: (+1.5)"
+    "date": "12/03/2026",
+    "pro": "Total: (+1)"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/960px-Logo_Sporting_Clube_Portugal.svg.png",
-    "name2": "Sporting",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "11/03/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1280px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-250px-Logo_Chelsea.svg.png",
-    "name2": "Chelsea",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "11/03/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "11/03/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfJ3zNyHg7o20KjA0-r7WgLwlNbU3lO9Si_A&s",
-    "name1": "Birmingham City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1280px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name2": "Queens Park Rangers",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/03/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/960px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "12/03/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1280px-Logo_West_Bromwich_Albion.svg.png",
-    "name1": "West Bromwich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
-    "name2": "Southampton",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/03/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCLBcWBBijqbC8Ut0F7mKJBqA2aq7-yRkAsg&s",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Logo_Real_Betis_Balompi%C3%A9_2022.svg/1280px-Logo_Real_Betis_Balompi%C3%A9_2022.svg.png",
+    "name2": "Real Betis",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "12/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1280px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUawC4iyVbJrVsKcff86ZO8cklvjZVJiQ8VQ&s",
+    "name2": "Porto",
+    "champ": "Ligue Europa",
+    "heure": "17H45",
+    "date": "12/03/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1280px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Charlton_Athletic.svg/langfr-250px-Charlton_Athletic.svg.png",
-    "name2": "Charlton Athletic",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/03/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
+    "name1": "Genk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/langfr-250px-SC_Freiburg_%28logo%29.svg.png",
+    "name2": "Fribourg",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "12/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/960px-Nottingham_Forest_F.C._logo.svg.png",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
+    "name2": "Midtjylland",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "12/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/960px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/langfr-250px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name2": "Lyon",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "12/03/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxYQe9_J7VzXoW9AONhs-Oi_1yuv7VHFKRw&s",
+    "name1": "Ferencvarosi",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzj6IoBrtn3PLaUTZ3J1-SIhoqvceJiGxkA&s",
+    "name2": "Braga",
+    "champ": "Ligue Europa",
+    "heure": "20H00",
+    "date": "12/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/1280px-AZ_Alkmaar.svg.png",
+    "name1": "AZ Alkmaar",
+    "photo2": "https://brandlogos.net/wp-content/uploads/2024/02/ac_sparta_prague-logo_brandlogos.net_32uiq-512x536.png",
+    "name2": "Sparta Prague",
+    "champ": "Ligue Conférence",
+    "heure": "17H45",
+    "date": "12/03/2026",
     "pro": "1X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_Norwich_City_FC_2022.svg/1280px-Logo_Norwich_City_FC_2022.svg.png",
-    "name1": "Norwich City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1280px-Logo_Sheffield_United_FC.svg.png",
-    "name2": "Sheffield United",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/03/2026",
-    "pro": "Total: (+1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Oxford_United_FC_logo.svg/1280px-Oxford_United_FC_logo.svg.png",
-    "name1": "Oxford United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1280px-Logo_Blackburn_Rovers.svg.png",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "11/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMZVDcemou-s_CKWU4XcUMTVuPWUVAtwB3g&s",
-    "name1": "Coventry City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8F44gpuAvCesA-odowiHncMuxy9mEJTjsg&s",
-    "name2": "Preston North End",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "11/03/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkotcOnocG5_cqrsvBDWmmgc0QTQD7knbdRQ&s",
+    "name1": "Lech Poznan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
+    "name2": "Chakhtar",
+    "champ": "Ligue Conférence",
+    "heure": "17H45",
+    "date": "12/03/2026",
+    "pro": "Total: (+1)"
   }
 ]
