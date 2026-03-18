@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rvuE_610oqIIiHaDvgrYwRQ7Q7DuozaCGg&s",
-    "name2": "Bodo-Glimt",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
     "champ": "UEFA",
     "heure": "17H45",
-    "date": "17/03/2026",
-    "pro": "Total: (+2)"
+    "date": "18/03/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Bayer Leverkusen",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLIsM-Cqi7aCmHogOoyGJoPzMfbPJREVCvQ&s",
+    "name1": "Bayern Munich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
+    "name2": "Atalanta",
     "champ": "UEFA",
     "heure": "20H00",
-    "date": "17/03/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1280px-Manchester_City_FC_badge.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-250px-Logo_Real_Madrid.svg.png",
-    "name2": "Real Madrid",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "17/03/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1280px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/langfr-250px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
-    "champ": "UEFA",
-    "heure": "20H00",
-    "date": "17/03/2026",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name1": "Krasnodar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "16H30",
-    "date": "17/03/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Fenerbah%C3%A7e_SK_%285_Stars%29.svg/1280px-Logo_Fenerbah%C3%A7e_SK_%285_Stars%29.svg.png",
-    "name1": "Fenerbahce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/Logo_Gaziantep_FK.svg/1280px-Logo_Gaziantep_FK.svg.png",
-    "name2": "Gaziantep",
-    "champ": "Turquie. Super Lig",
-    "heure": "17H00",
-    "date": "17/03/2026",
+    "date": "18/03/2026",
     "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1280px-Watford.svg.png",
-    "name1": "Watford",
-    "photo2": "https://cdn.freebiesupply.com/logos/thumbs/2x/wrexham-afc-logo.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Championship",
-    "heure": "19H45",
-    "date": "17/03/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIq19efCP5-k0odxT_gOsS8WWQ6MeT7vuwAQ&s",
+    "name1": "Liverpool",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUFSIu16SGxbXGXMLOk0z83q7-ts4UEgBzUw&s",
+    "name2": "Galatasaray",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "18/03/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/960px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Atletico_Madrid_logo.svg/250px-Atletico_Madrid_logo.svg.png",
+    "name2": "Atl.Madrid",
+    "champ": "UEFA",
+    "heure": "20H00",
+    "date": "18/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_SC_Braga_2018.svg/1280px-Logo_SC_Braga_2018.svg.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ferencv%C3%A1rosiTClog%C3%B3.png/500px-Ferencv%C3%A1rosiTClog%C3%B3.png",
+    "name2": "Ferencvarosi",
+    "champ": "Ligue Europa",
+    "heure": "15H30",
+    "date": "18/03/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
+    "champ": "Coupde de Russie",
+    "heure": "15H15",
+    "date": "18/03/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyLHHSQut07Xp0z3w5DX9l3qua6NqHqn2rg&s",
+    "name1": "Spartak Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/1920px-Dynamo_Moscow_logo.svg.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Coupde de Russie",
+    "heure": "17H45",
+    "date": "18/03/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/0/0b/US_Citt%C3%A0_di_Palermo_Logo.png",
-    "name1": "Città Di Palermo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7D46tVrFeCJ-VEhLLZAM0vsF9gytOiCaVQ&s",
-    "name2": "Juve Stabia",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Southampton_FC.svg/1920px-Southampton_FC.svg.png",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Logo_Norwich_City_FC_2022.svg/1280px-Logo_Norwich_City_FC_2022.svg.png",
+    "name2": "Norwich City",
+    "champ": "Angleterre. Championship",
+    "heure": "19H45",
+    "date": "18/03/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Frosinone_Calcio_2011.svg/1280px-Logo_Frosinone_Calcio_2011.svg.png",
+    "name1": "Frosinone Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/thumb/0/00/Societ%C3%A0_Sportiva_Calcio_Bari_logo.svg/1280px-Societ%C3%A0_Sportiva_Calcio_Bari_logo.svg.png",
+    "name2": "Bari",
     "champ": "Italie. Série B",
     "heure": "18H00",
-    "date": "17/03/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
-    "name1": "Venise FC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpX4EVxP_9C_3AmsQkqHV7w-Wr5R8LiWOIHg&s",
-    "name2": "Calcio Padova",
-    "champ": "Italie. Série B",
-    "heure": "19H00",
-    "date": "17/03/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyQk0SZm-_ptvzuNurFCBXp9J6D4ZNiSFCmA&s",
-    "name1": "Catanzaro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbuKlfhyS9xM3JhZ-2O-V2kTDXFIhbo88nbQ&s",
-    "name2": "Modena",
-    "champ": "Italie. Série B",
-    "heure": "19H00",
-    "date": "17/03/2026",
+    "date": "18/03/2026",
     "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_US_Avellino_1912.svg/960px-Logo_US_Avellino_1912.svg.png",
+    "name1": "Avellino 1912",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ETPtBlVgCxFHZNCa3Mplvmj7Kq4heZ2k_g&s",
+    "name2": "Sudtirol",
+    "champ": "Italie. Série B",
+    "heure": "19H00",
+    "date": "18/03/2026",
+    "pro": "Total: (+1)"
   }
 ]
