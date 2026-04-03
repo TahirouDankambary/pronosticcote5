@@ -1,103 +1,63 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjzln-umpWK5Mb4X7TTUeR6Uj-hCRByBSFKA&s",
-    "name1": "Wigan Athletic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1280px-Leyton_Orient_F.C._logo.svg.png",
-    "name2": "Leyton Orient",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "02/04/2026",
-    "pro": "Total: (-3.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/250px-Coventry_City_FC_crest.svg.png",
+    "name1": "Coventry City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1280px-Derby_County_crest.svg.png",
+    "name2": "Derby Country",
+    "champ": "Angleterre. Championship",
+    "heure": "19H00",
+    "date": "03/04/2026",
+    "pro": "Total: (+2)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8f/Cambridge_United_FC.svg/1920px-Cambridge_United_FC.svg.png",
-    "name1": "Cambridge United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Swindon_Town_FC.svg/1280px-Swindon_Town_FC.svg.png",
-    "name2": "Swindon Town",
-    "champ": "Angleterre. Ligue 2",
-    "heure": "19H00",
-    "date": "02/04/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6b/CleeTownFC.png",
-    "name1": "Cleethorpes Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/8/87/Stocksbridge_Park_Steels_F.C._logo.png",
-    "name2": "Stocksbridge Park Steels",
-    "champ": "Angleterre. Northern Première Ligue",
-    "heure": "18H45",
-    "date": "02/04/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQyVltFmzs20NRei-R9kOvEMwNbsyzgqdVIw&s",
-    "name1": "Las Palmas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/960px-Logo_Granada_CF.svg.png",
-    "name2": "Granada",
-    "champ": "Espagne. Division 2",
-    "heure": "17H00",
-    "date": "02/04/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/CD_Castell%C3%B3n_-_Logo.svg/1920px-CD_Castell%C3%B3n_-_Logo.svg.png",
-    "name1": "Castellon",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxnBzqmxG1vEr-9-mh4j8JOBO1AYCs41xEw&s",
-    "name2": "UD Almeria",
-    "champ": "Espagne. Division 2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/Logo_FC_Annecy_-_2022.svg/1280px-Logo_FC_Annecy_-_2022.svg.png",
+    "name1": "Annecy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg/langfr-250px-Logo-eag-fonds-clairs-rvb-sans-fond-2019.svg.png",
+    "name2": "En Avant de Guingamp",
+    "champ": "France. Ligue 2",
     "heure": "18H00",
-    "date": "02/04/2026",
-    "pro": "Total: (+1.5)"
+    "date": "03/04/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsibS1fcacac5YYw4xX3S5QQLtiAPUJTNrg&s",
-    "name1": "Real Sociedad ll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQfCl43gsejAzhlxc-NRO1hfbkhXTGrTv1A&s",
-    "name2": "SD Eibar",
-    "champ": "Espagne. Division 2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Logo_Sporting_Club_Bastia_2024.svg/1920px-Logo_Sporting_Club_Bastia_2024.svg.png",
+    "name1": "Bastia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Amiens_SC_-_2022.svg/langfr-250px-Logo_Amiens_SC_-_2022.svg.png",
+    "name2": "Amiens SC",
+    "champ": "France. Ligue 2",
     "heure": "18H00",
-    "date": "02/04/2026",
+    "date": "03/04/2026",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1280px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Real_Zaragoza_svg_logo.svg/1280px-Real_Zaragoza_svg_logo.svg.png",
-    "name2": "Real Zaragoza",
-    "champ": "Espagne. Division 2",
-    "heure": "19H30",
-    "date": "02/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/head/1525.png?lm=1564084545",
-    "name1": "KAC 1909",
-    "photo2": "https://images.seeklogo.com/logo-png/17/2/vst-volkermarkt-logo-png_seeklogo-172610.png",
-    "name2": "VST Volkermarkt",
-    "champ": "Autriche. Landesliga",
-    "heure": "15H30",
-    "date": "02/04/2026",
-    "pro": "2X"
-  },
     {
-    "photo1": "https://atsvwolfsberg.at/wp-content/uploads/ATSV-LOGO_frei.png",
-    "name1": "ATSV Wolfsberg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-9Oa9-DV4wmnFhwDKXCFaNfDamYGej7u6A&s",
-    "name2": "ATUS Ferlach",
-    "champ": "Autriche. Landesliga",
-    "heure": "17H00",
-    "date": "02/04/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_Grenoble_Foot_38_-_2018.svg/langfr-250px-Logo_Grenoble_Foot_38_-_2018.svg.png",
+    "name1": "Grenoble Foot",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE9Q1hAsfD5B2E3xubq_YSXGLaSCTLzJWC4g&s",
+    "name2": "Clermont Foot",
+    "champ": "France. Ligue 2",
+    "heure": "18H00",
+    "date": "03/04/2026",
+    "pro": "12"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/d/dd/Union_Woerle_Henndorf.png",
-    "name1": "Union Henndorf",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo-fc-puch.png/960px-Logo-fc-puch.png",
-    "name2": "Puch",
-    "champ": "Autriche. Landesliga",
-    "heure": "17H00",
-    "date": "02/04/2026",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Logo_Red_Star_FC_2014.svg/langfr-250px-Logo_Red_Star_FC_2014.svg.png",
+    "name1": "Red Star Saint-Ouen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Stade_Lavallois_MFC_2025.svg/langfr-250px-Logo_Stade_Lavallois_MFC_2025.svg.png",
+    "name2": "Stade Lavallois",
+    "champ": "France. Ligue 2",
+    "heure": "18H00",
+    "date": "03/04/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7VMzHCbS_MpQK0Nh8j6Gb0_QCzWR90H8TQ&s",
+    "name1": "USL Dunkerque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/Logo_Rodez_AF_2017.svg/1280px-Logo_Rodez_AF_2017.svg.png",
+    "name2": "Rodez Aveyron",
+    "champ": "France. Ligue 2",
+    "heure": "18H00",
+    "date": "03/04/2026",
     "pro": "Total: (+2)"
   }
 ]
