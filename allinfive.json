@@ -1,103 +1,103 @@
 
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_rf4TUH6cFTYESyHqkozUA_GdU_mcSDXZtg&s",
-    "name1": "Gérone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "06/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT39IY4ZtE0SoWE139DmFNzK3zQbJExjvFXjA&s",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png",
+    "name2": "CSKA Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "07/04/2026",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/960px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "06/04/2026",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langfr-250px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
-    "name1": "Naples",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "06/04/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/FC_Rubin_Kazan_%28logo%29.svg/langfr-250px-FC_Rubin_Kazan_%28logo%29.svg.png",
-    "name2": "Rubin Kazan",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "06/04/2026",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6O2Zz1o4OMZ-gOjs5POgOTlxT-HTa48uC8g&s",
-    "name1": "Arouca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/GD_Estoril_Praia_logo.svg/960px-GD_Estoril_Praia_logo.svg.png",
-    "name2": "Estoril",
-    "champ": "Portugal. Première Ligue",
-    "heure": "17H45",
-    "date": "06/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWpLQw9Ry3sNkRMKf96bWeWL0lUPTscDcyw&s",
-    "name1": "Casa Pia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1280px-SL_Benfica_logo.svg.png",
-    "name2": "Benfica",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H45",
-    "date": "06/04/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Swansea_City_AFC_logo.svg/960px-Swansea_City_AFC_logo.svg.png",
-    "name1": "Swansea City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqgxck08zVhg1zmSsXpp6neD_vk0XJcEA3A&s",
-    "name2": "Middlesbrough",
-    "champ": "Angleterre. Championship",
-    "heure": "16H30",
-    "date": "06/04/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/960px-Hull_City_AFC_logo.svg.png",
-    "name1": "Hull City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEG0B4SwznBxl_YY9jcFbgpSd7tPKNvOKWA&s",
-    "name2": "Coventry City",
+    "photo1": "https://w7.pngwing.com/pngs/752/117/png-transparent-wrexham-afc-hd-logo.png",
+    "name1": "Wrexham",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZz5kKviLWndRrGIQ_kxe5BvOLMecLzvBeQ&s",
+    "name2": "Southampton",
     "champ": "Angleterre. Championship",
     "heure": "19H00",
-    "date": "06/04/2026",
+    "date": "07/04/2026",
     "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/CD_Castell%C3%B3n_-_Logo.svg/1920px-CD_Castell%C3%B3n_-_Logo.svg.png",
-    "name1": "Castellon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/960px-Logo_Granada_CF.svg.png",
-    "name2": "Granada",
-    "champ": "Espagne. Division 2",
-    "heure": "17H00",
-    "date": "06/04/2026",
-    "pro": "Total: (+1.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/74/Smouha_SC_%28logo%29.png",
+    "name1": "Smouha",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/ENPPI_Club_%28logo%29.svg/1280px-ENPPI_Club_%28logo%29.svg.png",
+    "name2": "ENPPI",
+    "champ": "Égypte. Première Ligue",
+    "heure": "15H00",
+    "date": "07/04/2026",
+    "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Logo_Le_Mans_FC_-_2010.svg/langfr-250px-Logo_Le_Mans_FC_-_2010.svg.png",
-    "name1": "Le Mans",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX8Mv3Sn-fN2t1vrTMvln46los0hlEjTL91A&s",
-    "name2": "Pau",
-    "champ": "France. Ligue 2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Ceramica_Cleopatra_FC_logo.png/250px-Ceramica_Cleopatra_FC_logo.png",
+    "name1": "Ceramica Cleopatra",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
+    "name2": "Al Ahly le Caire",
+    "champ": "Égypte. Première Ligue",
+    "heure": "18H00",
+    "date": "07/04/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg/1280px-Escudo_Asociacion_Atl%C3%A9tica_Estudiantes_de_R%C3%ADo_Cuarto.svg.png",
+    "name1": "Estudiante de Rio Cuarto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f0/San_Martin_deTucuman.png",
+    "name2": "Club Atlético San Martin",
+    "champ": "Coupe d'Argentine",
+    "heure": "19H00",
+    "date": "07/04/2026",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Escudo_Club_Atl%C3%A9tico_Gimnasia_y_Esgrima_Mendoza.png/250px-Escudo_Club_Atl%C3%A9tico_Gimnasia_y_Esgrima_Mendoza.png",
+    "name1": "Gimnasia y Esgrima",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gimnasio_y_tiro_de_salta.png",
+    "name2": "Club de Gimnasia",
+    "champ": "Coupe d'Argentine",
+    "heure": "20H00",
+    "date": "07/04/2026",
+    "pro": "Total: (+1)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Port_Vale_logo.svg/1280px-Port_Vale_logo.svg.png",
+    "name1": "Port Vale",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uumPEE17haKiS7bSty5_wUBcE637Ooy8jA&s",
+    "name2": "Rotherham United",
+    "champ": "Angleterre. Ligue 1",
     "heure": "18H45",
-    "date": "06/04/2026",
-    "pro": "1X"
+    "date": "07/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://images.seeklogo.com/logo-png/35/2/fc-nordsjaelland-farum-logo-png_seeklogo-357243.png",
+    "name1": "Nordsjaelland",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5W-_xOhNShWJTsCe0jgD1kOIEF6TuswwYg&s",
+    "name2": "Brondby",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "07/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_KFUM-Kameratene_Oslo.svg/1280px-Logo_KFUM-Kameratene_Oslo.svg.png",
+    "name1": "KFUM-Kameratene",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4NfQiRZQ15mZeMwlfi4MaM8mfgmWcUs3_w&s",
+    "name2": "Sandefjord",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "07/04/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://www.ogol.com.br/img/logos/equipas/2032_imgbank_1688458159.png",
+    "name1": "Aalesunds",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7UW9oPAZxvOrHdnSjhpLb2XLvko4T0sQsA&s",
+    "name2": "Fredrikstad",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "07/04/2026",
+    "pro": "Total: (+2)"
   }
 ]
