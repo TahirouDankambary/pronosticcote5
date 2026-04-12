@@ -1,103 +1,63 @@
 
  [
   {
-    "photo1": "https://logos-marques.com/wp-content/uploads/2020/04/Liverpool-Logo-1999.jpg",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/Logo_Fulham.svg/1920px-Logo_Fulham.svg.png",
-    "name2": "Fulham",
-    "champ": "Angleterre. Premier League",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Russie. Première Ligue",
     "heure": "16H30",
-    "date": "11/04/2026",
-    "pro": "1X"
+    "date": "12/04/2026",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1280px-FC_St._Pauli_%28logo%29.svg.png",
-    "name1": "St.Pauli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name2": "Bayern Munich",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "11/04/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
+    "name1": "Toulouse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1280px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "France. Ligue 1",
+    "heure": "15H15",
+    "date": "12/04/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1280px-Logo_FC_Barcelone.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "name2": "Espanyol",
-    "champ": "Espagne. LaLiga",
-    "heure": "16H30",
-    "date": "11/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1920px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name1": "Lyon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/1920px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
+    "name2": "Lorient",
+    "champ": "France. Ligue 1",
+    "heure": "18H45",
+    "date": "12/04/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Séville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Atletico_Madrid_logo.svg/1920px-Atletico_Madrid_logo.svg.png",
-    "name2": "Atl.Madrid",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "11/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1920px-Logo_of_AC_Milan.svg.png",
-    "name1": "Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1280px-Logo_Udinese_Calcio_2010.svg.png",
-    "name2": "Udinese Calcio",
-    "champ": "Italie. Série A",
-    "heure": "16H00",
-    "date": "11/04/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_Atalanta_Bergamo.svg/1280px-Logo_Atalanta_Bergamo.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
-    "name2": "Juventus",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "11/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
-    "name1": "Baltika Kaliningrad",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzuwAs7EkyT-TScS4TpF8SdM3cKiKU-1GKGw&s",
-    "name2": "Pari Nizhny",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "11/04/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cdJDBgAabTu9lswEMKSuq6ho2_9t-FLr3A&s",
-    "name1": "Auxerre",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_ej48j_vX2UYISUZuZ2sLL5x3GqnewKbGg&s",
-    "name2": "Nantes",
-    "champ": "France. Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1280px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_CD_Nacional.svg/1280px-Logo_CD_Nacional.svg.png",
+    "name2": "Nacional da Madeira",
+    "champ": "Portugal. Première Ligue",
     "heure": "17H00",
-    "date": "11/04/2026",
-    "pro": "Total: (+1.5)"
+    "date": "12/04/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK36O9qxu3vKHzAKcND4uGtQTJ0RoShOmqjA&s",
-    "name1": "Stade Rennais",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd0Cujukam0-SfpKuWNIRxHnmvRZTdWb5P6Q&s",
-    "name2": "Angers",
-    "champ": "France. Ligue 1",
-    "heure": "19H05",
-    "date": "11/04/2026",
-    "pro": "1X"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_SC_Braga_2018.svg/1280px-Logo_SC_Braga_2018.svg.png",
+    "name1": "Braga",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6O2Zz1o4OMZ-gOjs5POgOTlxT-HTa48uC8g&s",
+    "name2": "Arouca",
+    "champ": "Portugal. Première Ligue",
+    "heure": "17H00",
+    "date": "12/04/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP4QWYBMRd_jsuuuZ8G0Q6ht7IpC8EWNN8ow&s",
-    "name1": "Sparta Rotterdam",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8g_HaKEvaICiEXNCaOogI_77VzpVcilIlg&s",
-    "name2": "PSV",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "16H45",
-    "date": "11/04/2026",
-    "pro": "2X"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/GD_Estoril_Praia_logo.svg/960px-GD_Estoril_Praia_logo.svg.png",
+    "name1": "Estoril",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/langfr-250px-Logo_FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H30",
+    "date": "12/04/2026",
+    "pro": "Total: (+2)"
   }
 ]
