@@ -1,63 +1,83 @@
 
  [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
-    "name1": "Zénith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
-    "name2": "Krasnodar",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "12/04/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
+    "name1": "Man United",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjZK-5dsCukugOieXNGKzjpDEJf3d90721A&s",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Premier League",
+    "heure": "19H00",
+    "date": "13/04/2026",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/langfr-250px-Toulouse_FC_logo_2021.svg.png",
-    "name1": "Toulouse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1280px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille",
-    "champ": "France. Ligue 1",
-    "heure": "15H15",
-    "date": "12/04/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGfiG25f0IyeHVDPkTyEpDh2W-a6bM7-bsA&s",
+    "name1": "Tondela",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/1920px-Logo_Gil_Vicente_FC.svg.png",
+    "name2": "Gil Vicente",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H15",
+    "date": "13/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLb0oaU6S5o94UD83nt_NwE6OhTvLoMwQmmw&s",
+    "name2": "Lazio",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "13/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Caykur_Rizespor_%28logo%29.svg/1280px-Caykur_Rizespor_%28logo%29.svg.png",
+    "name1": "Caykur Rizespor",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCwlWum3UnHKl94FODXjK5lHMFrayNljX0w&s",
+    "name2": "Gaziantep",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/04/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ey%C3%BCpspor_Logosu.png/500px-Ey%C3%BCpspor_Logosu.png",
+    "name1": "Eyupspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Samsunspor_2020.svg/langfr-250px-Logo_Samsunspor_2020.svg.png",
+    "name2": "Samsunspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "13/04/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1920px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name1": "Lyon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/1920px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
-    "name2": "Lorient",
-    "champ": "France. Ligue 1",
-    "heure": "18H45",
-    "date": "12/04/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1280px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_CD_Nacional.svg/1280px-Logo_CD_Nacional.svg.png",
-    "name2": "Nacional da Madeira",
-    "champ": "Portugal. Première Ligue",
-    "heure": "17H00",
-    "date": "12/04/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMIsl7Pp-loL2n3etQT5yjLy9CwV-x5CZfQ&s",
+    "name1": "Al-Ahli Jeddah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Logo_Al-Duhail_SC_2016.svg/1280px-Logo_Al-Duhail_SC_2016.svg.png",
+    "name2": "Al-Duhail",
+    "champ": "AFC Champions League Elite",
+    "heure": "14H45",
+    "date": "13/04/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Logo_SC_Braga_2018.svg/1280px-Logo_SC_Braga_2018.svg.png",
-    "name1": "Braga",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6O2Zz1o4OMZ-gOjs5POgOTlxT-HTa48uC8g&s",
-    "name2": "Arouca",
-    "champ": "Portugal. Première Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmZ7xI1btOniFWYiy6US2z9NpUGNHrL0Q4g&s",
+    "name1": "Fredericia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0dI0Ba1F5xU3MPEdgehJq47-JvAsGZcE2g&s",
+    "name2": "Vejle",
+    "champ": "Danemark. Superliga",
     "heure": "17H00",
-    "date": "12/04/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "13/04/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/GD_Estoril_Praia_logo.svg/960px-GD_Estoril_Praia_logo.svg.png",
-    "name1": "Estoril",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/langfr-250px-Logo_FC_Porto.svg.png",
-    "name2": "Porto",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H30",
-    "date": "12/04/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghJdLH7ij76zYLtmHunnAIeWCBtdgUsij6w&s",
+    "name1": "Fakel Voronej",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1280px-Rodina_Moscou_Logo.svg.png",
+    "name2": "Rodina",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H45",
+    "date": "13/04/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
