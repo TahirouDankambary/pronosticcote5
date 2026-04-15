@@ -1,83 +1,82 @@
-
  [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUiOvt55sw6JxpTU465E2Zx1YwalnreTOchg&s",
-    "name1": "Portsmouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/langfr-250px-Logo_Ipswich_Town_2024.svg.png",
-    "name2": "Ipswich",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "14/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1280px-Logo_Southampton_FC_2011.svg.png",
-    "name1": "Southampton",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOjDypDkuxdEfaln_emZx7e7NUkSdK8LrEw&s",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Championship",
-    "heure": "19H00",
-    "date": "14/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3vcDqgmUZ-owQ2Tc9ePZYd-SRsXbFfe6BQ&s",
-    "name1": "Port Vale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/1280px-Barnsley_FC.svg.png",
-    "name2": "Barnsley",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/AFC_Wimbledon_%282020%29_logo.svg/960px-AFC_Wimbledon_%282020%29_logo.svg.png",
+    "name1": "Tournoi de Wimbledon",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS59D_NHOMP9Thmy3y6vI7GaP7ja-xA4ezyxQ&s",
+    "name2": "Stockport County",
     "champ": "Angleterre. Ligue 1",
     "heure": "18H45",
-    "date": "14/04/2026",
+    "date": "15/04/2026",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1280px-Leyton_Orient_F.C._logo.svg.png",
-    "name1": "Leyton Orient",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/Mansfield_Town_FC.svg/1280px-Mansfield_Town_FC.svg.png",
-    "name2": "Mansfield Town",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_Luton_Town_2009_FC.svg/1280px-Logo_Luton_Town_2009_FC.svg.png",
+    "name1": "Luton Town",
+    "photo2": "https://images.seeklogo.com/logo-png/52/1/northampton-town-fc-logo-png_seeklogo-520917.png",
+    "name2": "Northampton",
     "champ": "Angleterre. Ligue 1",
     "heure": "18H45",
-    "date": "14/04/2026",
-    "pro": "Total: (+1.5)"
+    "date": "15/04/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1280px-Logo_Wigan_Athletic.svg.png",
-    "name1": "Wigan Athletic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uumPEE17haKiS7bSty5_wUBcE637Ooy8jA&s",
-    "name2": "Rotherham United",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "14/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg/1280px-Logotipo_Oficial_y_Escudo_del_Club_Atl%C3%A9tico_de_Rafaela.svg.png",
+    "name1": "Atlético de Rafaela",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/250px-Boca_Juniors_logo18.svg.png",
+    "name2": "Boca Juniors ll",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/960px-CA_Banfield_%282014%29.svg.png",
+    "name1": "Club Atlético Banfield",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png",
+    "name2": "Godoy Cruz",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwjCUFrtOnXxFWUlSs82YmfwXyg8EcTWkMdA&s",
+    "name1": "Vélez Sarsfield",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06hP9dnR0E8G1JvEbvaRRDSfojq0hUhJ6PA&s",
+    "name2": "CA Aldosivi",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQUn5bGiCr5IMwxFdA6tGxO62_Zap6cUIlA&s",
+    "name1": "Deportivo Riestra",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdbDrZ6k-_tst3HSIZkdlnC2CD8SVjZs7Pw&s",
+    "name2": "Belgrano ll",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/5e/EscudoQuilmes2016.png",
+    "name1": "Quilmes ll",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuZQK4UjkZiQquPFJ82l9h1mXShHY2jp-gA&s",
+    "name2": "Club Atlético Huracan",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Bolton_wanderers.svg/1280px-Bolton_wanderers.svg.png",
-    "name1": "Bolton Wanderers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1280px-Logo_Stevenage_FC_2019.svg.png",
-    "name2": "Stevenage",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "14/04/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Huddersfield_Town_AFC_2019.svg/langfr-250px-Logo_Huddersfield_Town_AFC_2019.svg.png",
-    "name1": "Huddersfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1280px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name2": "Cardiff City",
-    "champ": "Angleterre. Ligue 1",
-    "heure": "18H45",
-    "date": "14/04/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq9BjG42BBZiMReZTE6tDe6sLdYnrfX05z_A&s",
-    "name1": "Catanzaro 1929",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQupgND9Qizb5ucEfsqXJ9kgQ3eKKkRtOilQ&s",
-    "name2": "Modena",
-    "champ": "Italie. Série B",
-    "heure": "17H00",
-    "date": "14/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/db/Club_Alt%C3%A9tico_Platense_crest_%282025%29.svg",
+    "name1": "Platense ll",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Escudo_club_ferro_c_oeste.svg/1280px-Escudo_club_ferro_c_oeste.svg.png",
+    "name2": "Ferro Carril Oeste",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "15/04/2026",
     "pro": "Total: (+1.5)"
   }
 ]
