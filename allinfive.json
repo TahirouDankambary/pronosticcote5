@@ -1,15 +1,15 @@
- [
+[
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3GjzUAyIqkVjXkmb9gqTecP1DMzCM2RyrA&s",
     "name1": "GAIS",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1280px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
     "name2": "Mjallby AIF",
-    "champ": "Suède. Allsvenskan",
+    "champ": "SuÃ¨de. Allsvenskan",
     "heure": "17H00",
     "date": "24/04/2026",
     "pro": "Total: (+1.5)"
   },
-   {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0I-e_7TXatQmJyj8Q5vk0P_qvVcwoFRt7Jw&s",
     "name1": "Sonderjyske",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
@@ -19,11 +19,11 @@
     "date": "24/04/2026",
     "pro": "2X Et TP(1.5) - OUI"
   },
-   {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7VBmd145L5AzkQGoG7GAfDGsiTaHZ9wh3Cg&s",
     "name1": "Levante UD",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjzlGtWs6_uEprlgqQsfBtfXdygJtZBc2LwQ&s",
-    "name2": "Séville",
+    "name2": "SÃ©ville",
     "champ": "Espagne. LaLiga",
     "heure": "17H00",
     "date": "23/04/2026",
@@ -38,7 +38,7 @@
     "heure": "18H00",
     "date": "23/04/2026",
     "pro": "Total: (+1.5)"
-  },  
+  },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Logo_Real_Oviedo_2013.svg/960px-Logo_Real_Oviedo_2013.svg.png",
     "name1": "Real Oviedo",
@@ -54,17 +54,17 @@
     "name1": "Akhmat",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png",
     "name2": "Baltika Kaliningrad",
-    "champ": "Russie. Première Ligue",
+    "champ": "Russie. PremiÃ¨re Ligue",
     "heure": "16H45",
     "date": "23/04/2026",
     "pro": "Total: (+1.5)"
   },
-    {
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
     "name1": "Spartak Moscou",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/langfr-250px-FC_Krasnodar_2016_Logo.svg.png",
     "name2": "Krasnodar",
-    "champ": "Russie. Première Ligue",
+    "champ": "Russie. PremiÃ¨re Ligue",
     "heure": "16H45",
     "date": "23/04/2026",
     "pro": "Total: (+1.5)"
@@ -78,5 +78,85 @@
     "heure": "19H00",
     "date": "23/04/2026",
     "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/VVV-Venlo_logo.svg/120px-VVV-Venlo_logo.svg.png",
+    "name1": "VVV-Venlo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Almere_City_FC_logo.svg/120px-Almere_City_FC_logo.svg.png",
+    "name2": "Almere City",
+    "champ": "Pays-Bas",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Double chance: 2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/FC_Den_Bosch_logo.svg/120px-FC_Den_Bosch_logo.svg.png",
+    "name1": "Den Bosch",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ADO_Den_Haag_logo.svg/120px-ADO_Den_Haag_logo.svg.png",
+    "name2": "ADO La Haye",
+    "champ": "Pays-Bas",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Albacete_Balompi%C3%A9_logo.svg/120px-Albacete_Balompi%C3%A9_logo.svg.png",
+    "name1": "Albacete Balompie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/SD_Eibar_logo.svg/120px-SD_Eibar_logo.svg.png",
+    "name2": "SD Eibar",
+    "champ": "Espagne",
+    "heure": "18H30",
+    "date": "24/04/2026",
+    "pro": "Double chance: 2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/AC_Monza_Logo.svg/120px-AC_Monza_Logo.svg.png",
+    "name1": "Monza 1912",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Modena_FC_logo.svg/120px-Modena_FC_logo.svg.png",
+    "name2": "Modena",
+    "champ": "Italie",
+    "heure": "17H00",
+    "date": "24/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Amiens_SC_logo.svg/120px-Amiens_SC_logo.svg.png",
+    "name1": "Amiens SC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Montpellier_HSC_logo.svg/120px-Montpellier_HSC_logo.svg.png",
+    "name2": "Montpellier HSC",
+    "champ": "France",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "2X Et TP (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/FC_Annecy_logo.svg/120px-FC_Annecy_logo.svg.png",
+    "name1": "Annecy",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Pau_FC_logo.svg/120px-Pau_FC_logo.svg.png",
+    "name2": "Pau",
+    "champ": "France. Ligue 2",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Double chance: 12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/120px-Ajax_Amsterdam.svg.png",
+    "name1": "AFC Ajax II",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/FC_Utrecht.svg/120px-FC_Utrecht.svg.png",
+    "name2": "Utrecht II",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Les deux marquent: Oui"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/RKC_Waalwijk_logo.svg/120px-RKC_Waalwijk_logo.svg.png",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/120px-PSV_Eindhoven.svg.png",
+    "name2": "PSV Eindhoven II",
+    "champ": "Pays-Bas. Eerste Divisie",
+    "heure": "18H00",
+    "date": "24/04/2026",
+    "pro": "Les deux marquent: Oui"
   }
 ]
