@@ -1,82 +1,92 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/1280px-Logo_Arsenal_FC_2002.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
-    "name2": "Newcastle United",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "25/04/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZM0HoYYSzP5Jrd75giW1vkeTbDOD7Y_RiA&s",
+    "name1": "Estrela da Amadora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/langfr-250px-Logo_FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Portugal. Première Ligue",
+    "heure": "17H00",
+    "date": "26/04/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_AFS_Vila_das_Aves_2023.svg/1280px-Logo_AFS_Vila_das_Aves_2023.svg.png",
+    "name1": "Aves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/langfr-250px-Logo_Sporting_CP_2001.svg.png",
+    "name2": "Sporting",
+    "champ": "Portugal. Première Ligue",
+    "heure": "19H30",
+    "date": "26/04/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/a/ae/Everton_FC_logo_2014.png",
-    "name2": "Everton",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "25/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1280px-Wolverhampton_Wanderers.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKtHdeSE8ibSCL5FTHZ8VIWtjKcJ5tGi0lwg&s",
-    "name2": "Tottenham",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "25/04/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1280px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsM7HU4r3SPimzoDgalblXAySMGTb5EDM8Og&s",
+    "name2": "Fribourg",
+    "champ": "Alleamgne. Bundesliga",
+    "heure": "15H30",
+    "date": "26/04/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Logo_ATM_2024.svg/250px-Logo_ATM_2024.svg.png",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Athletic Bilbao",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
+    "name1": "Villarreal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png",
+    "name2": "Celta de Vigo",
     "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "25/04/2026",
+    "date": "26/04/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1920px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/langfr-250px-AS_Roma_Logo_2017.svg.png",
-    "name2": "Roma",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/langfr-250px-Logo_Torino_FC_2024.svg.png",
+    "name1": "Torino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
     "champ": "Italie. Série A",
     "heure": "16H00",
-    "date": "25/04/2026",
+    "date": "26/04/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-250px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS75_AXmxgI1xIPdHBSKQ6IWh8pymrUxmbBRg&s",
+    "name2": "Juventus",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "26/04/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1280px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Moreirense_FC_2023.svg/1280px-Logo_Moreirense_FC_2023.svg.png",
-    "name2": "Moreirense",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Paris_FC_2024.svg/langfr-250px-Logo_Paris_FC_2024.svg.png",
+    "name1": "Paris FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1280px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "France. Ligue 1",
+    "heure": "15H15",
+    "date": "26/04/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_Stade_Rennais_FC.svg/langfr-250px-Logo_Stade_Rennais_FC.svg.png",
+    "name1": "Stade Rennais",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/langfr-250px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name2": "Nantes",
+    "champ": "France. Ligue 1",
+    "heure": "15H15",
+    "date": "26/04/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtO8aUa4Ysaa_DvyvwlFZWlynbcvzmQP0vXA&s",
+    "name1": "Santa Clara",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvlqRTSRt-Vdcq1Np7hEZCVO7pKmU4KeEjTg&s",
+    "name2": "Braga",
     "champ": "Portugal. Première Ligue",
     "heure": "17H00",
-    "date": "25/04/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/FC_Rubin_Kazan_%28logo%29.svg/langfr-250px-FC_Rubin_Kazan_%28logo%29.svg.png",
-    "name1": "Rubin Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "25/04/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Logo_Angers_SCO_-_2021.svg/1280px-Logo_Angers_SCO_-_2021.svg.png",
-    "name1": "Angers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1280px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
-    "champ": "France. Ligue 1",
-    "heure": "17H00",
-    "date": "25/04/2026",
-    "pro": "V2"
+    "date": "26/04/2026",
+    "pro": "2X"
   }
 ]
