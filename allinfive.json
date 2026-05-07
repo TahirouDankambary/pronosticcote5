@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
-    "name1": "Spartak Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_bhS17iQCYn3jU4rguwb_dwgQYp-9045XA&s",
-    "name2": "CSKA Moscou",
-    "champ": "Coupe de Russie",
-    "heure": "17H00",
-    "date": "06/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Tala%27ea_El_Geish.png",
+    "name1": "Tala'ea El-Gaish",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Ghazl_El_Mahalla_SC_new_logo.png/250px-Ghazl_El_Mahalla_SC_new_logo.png",
+    "name2": "Ghazl El Mahalla",
+    "champ": "Égypte. Première Ligue",
+    "heure": "14H00",
+    "date": "07/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CA_Banfield_%282014%29.svg/960px-CA_Banfield_%282014%29.svg.png",
+    "name1": "Club Atlético Banfield",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigxkMAxQvvDRU2l5OWpX_Rz5xjvssNx5jcg&s",
+    "name2": "Club Atlético Union de Santa Fe",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "07/05/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/9/95/Bylis_Ballshi.svg/250px-Bylis_Ballshi.svg.png",
-    "name1": "KS Bylis Ballsh",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmshDklbqWU8Z83wd94hHwFW6eNB80EXJBdg&s",
-    "name2": "AF Elbasani",
-    "champ": "Albanie. Super League",
-    "heure": "14H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Barracas_central_logo.svg/langfr-250px-Barracas_central_logo.svg.png",
+    "name1": "Barracas Central",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_of_CD_Godoy_Cruz_Antonio_Tomba.png",
+    "name2": "Godoy Cruz Antonio",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "07/05/2026",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Dinamo_Tirana_Club_Logo.svg/250px-Dinamo_Tirana_Club_Logo.svg.png",
-    "name1": "Dinamo City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fk_vora_2.png",
-    "name2": "KF Vora",
-    "champ": "Albanie. Super League",
-    "heure": "14H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo_X9aiaW5EkPI94iF0C9wX-ygB3iUW-pFSA&s",
-    "name1": "KF Tirana",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd2QlZejOks0lGAU5YR1F-oENI01sAbFBQfA&s",
-    "name2": "Vllaznia",
-    "champ": "Albanie. Super League",
-    "heure": "14H00",
-    "date": "06/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/6/68/Escudo_Colon_Con_Estrella.png",
+    "name1": "Colon de Santa Fe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/250px-Boca_Juniors_logo18.svg.png",
+    "name2": "Boca Juniors",
+    "champ": "Argentine. Ligue de Réserve",
+    "heure": "18H00",
+    "date": "07/05/2026",
     "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Flamurtari_Vlor%C3%AB_Club_Logo.svg/1280px-Flamurtari_Vlor%C3%AB_Club_Logo.svg.png",
-    "name1": "Flamurtari Vlore",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Teuta_Club_Logo.svg/1280px-Teuta_Club_Logo.svg.png",
-    "name2": "Teuta Durres",
-    "champ": "Albanie. Super League",
-    "heure": "14H00",
-    "date": "06/05/2026",
-    "pro": "Total: (+1.5)"
   }
 ]
