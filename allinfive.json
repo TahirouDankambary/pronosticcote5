@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/FK_Nijni_Novgorod_Logo.svg/langfr-250px-FK_Nijni_Novgorod_Logo.svg.png",
-    "name1": "Pari Nizhny",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/PFK_CSKA_Logo.svg/langfr-250px-PFK_CSKA_Logo.svg.png",
-    "name2": "CSKA Moscou",
-    "champ": "Russie. Première Ligue",
-    "heure": "12H15",
-    "date": "11/05/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzxwUygmPgJCYdUzGBqGvJC-RX4bJkhUgpA&s",
-    "name1": "Spartak Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/FC_Rubin_Kazan_%28logo%29.svg/langfr-250px-FC_Rubin_Kazan_%28logo%29.svg.png",
-    "name2": "Rubin Kazan",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H30",
-    "date": "11/05/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/langfr-250px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name1": "Vitoria Guimaraes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Logo_Casa_Pia_AC_2017.svg/1280px-Logo_Casa_Pia_AC_2017.svg.png",
-    "name2": "Casa Pia",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "11/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZwGsD6MNcF3saUEa-MR5AlLIFO_uLhfrCQ&s",
+    "name1": "Panetolikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/AEL1964-Crest.svg/960px-AEL1964-Crest.svg.png",
+    "name2": "AEL 1964",
+    "champ": "Grèce. Superligue Ellada",
+    "heure": "16H00",
+    "date": "12/05/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Gil_Vicente_FC.svg/1920px-Logo_Gil_Vicente_FC.svg.png",
-    "name1": "Gil Vicente",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6O2Zz1o4OMZ-gOjs5POgOTlxT-HTa48uC8g&s",
-    "name2": "Arouca",
-    "champ": "Portugal. Première Ligue",
-    "heure": "19H15",
-    "date": "11/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_du_Kilmarnock_FC_2023.svg/langfr-250px-Logo_du_Kilmarnock_FC_2023.svg.png",
+    "name1": "Kilmarnock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Dundee_FC_-_2025.svg/1280px-Logo_Dundee_FC_-_2025.svg.png",
+    "name2": "Dundee",
+    "champ": "Écosse. Première Ligue",
+    "heure": "18H45",
+    "date": "12/05/2026",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fc/FC_Zlin_logo.png",
+    "name1": "Zlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FK_Teplice_logo.svg/960px-FK_Teplice_logo.svg.png",
+    "name2": "Teplice",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "15H30",
+    "date": "12/05/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_1._FC_Slov%C3%A1cko.svg/1280px-Logo_1._FC_Slov%C3%A1cko.svg.png",
+    "name1": "Slovacko",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1280px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name2": "Banik Ostrava",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "15H30",
+    "date": "12/05/2026",
+    "pro": "2X"
   }
 ]
