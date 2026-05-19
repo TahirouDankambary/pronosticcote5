@@ -1,72 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/1280px-Logo_Djurg%C3%A5rdens_IF.svg.png",
-    "name1": "Djurgardens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/Logo_IK_Sirius_2018.svg/1920px-Logo_IK_Sirius_2018.svg.png",
-    "name2": "Sirius",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "18/05/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFnmRDsCJAr-xQo2LQ8rsmTVztHhHZR8ZxQ&s",
-    "name1": "Sundsvall",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1-xt5A6CjfE5md76YR63Bosk0Wggu27xyQ&s",
-    "name2": "Landskrona Bols",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "18/05/2026",
-    "pro": "Total: (+1.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYT8WLniFWz8A7rySOg5PlJ8oqbKf2f_ZjXg&s",
-    "name1": "Oddevold",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnK-cWKCxNlZ-rVL47TUkzJiQH4FOx3GnSUg&s",
-    "name2": "Örebro",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H05",
-    "date": "18/05/2026",
-    "pro": "1X"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1280px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganés",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1280px-Logo_SD_Huesca_2023.svg.png",
-    "name2": "Huesca",
-    "champ": "Espagne. Division 2",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmE-z0NpakThkajLXJ4wHUXot8kQB_JNfrnA&s",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Premier League",
     "heure": "18H30",
-    "date": "18/05/2026",
-    "pro": "1X"
+    "date": "19/05/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Waterford_FC_2025.svg/1280px-Logo_Waterford_FC_2025.svg.png",
-    "name1": "Waterford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1280px-Drogheda_United_FC.svg.png",
-    "name2": "Drogheda United",
-    "champ": "Irlande. Première Division",
-    "heure": "18H45",
-    "date": "18/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Logo_FC_Rouen_1899_-_2022.svg/langfr-250px-Logo_FC_Rouen_1899_-_2022.svg.png",
+    "name1": "Rouen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Stade_lavallois_MFC_2022.svg/1280px-Logo_Stade_lavallois_MFC_2022.svg.png",
+    "name2": "Stade Lavallois",
+    "champ": "France. Qualification",
+    "heure": "18H30",
+    "date": "19/05/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arka_Gdynia_crest.svg/1280px-Arka_Gdynia_crest.svg.png",
-    "name1": "Arka Gdynia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/13/Logo_Bruk-Bet_Termalica_Nieciecza.png",
-    "name2": "Bruk-Bet Termalica",
-    "champ": "Championnat de Pologne",
-    "heure": "17H00",
-    "date": "18/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_AC_Monza_2019.svg/langfr-250px-Logo_AC_Monza_2019.svg.png",
+    "name1": "Monza",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7D46tVrFeCJ-VEhLLZAM0vsF9gytOiCaVQ&s",
+    "name2": "Juve Stabia",
+    "champ": "Italie. Série B",
+    "heure": "18H00",
+    "date": "19/05/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9w_QDA5bQ8Hcvkf2llPSVvfOeEv-SBmbaCQ&s",
-    "name1": "Örgryte",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_IFK_G%C3%B6teborg_2020.svg/langfr-250px-Logo_IFK_G%C3%B6teborg_2020.svg.png",
-    "name2": "Goteborg",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "18/05/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDZyX2W8kn2QIsQGIzi8heWq-JlhqMPoDdA&s",
+    "name1": "Genk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/langfr-250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name2": "Royal Antwerp",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H30",
+    "date": "19/05/2026",
+    "pro": "Total: (+2)"
   }
 ]
