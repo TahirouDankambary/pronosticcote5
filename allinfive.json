@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4P11u36qDuu5wo836UnMPU3acm_TyCEsNuQ&s",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Ligue Europa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
+    "name1": "Anderlecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_STVV_2025.svg/langfr-250px-Logo_STVV_2025.svg.png",
+    "name2": "Sint-Truidense",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H30",
+    "date": "21/05/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06cq3adi6d8UkMBtIA2WYIaGi031mN_-fHw&s",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_SC_Paderborn_07.svg/1280px-Logo_SC_Paderborn_07.svg.png",
+    "name2": "Paderborn 07",
+    "champ": "Allemagne. Qualification",
+    "heure": "18H30",
+    "date": "21/05/2026",
+    "pro": "1X"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png/250px-Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/FC_Groningen_%28logo%29.svg/1280px-FC_Groningen_%28logo%29.svg.png",
+    "name2": "Groningen",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "16H45",
+    "date": "21/05/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1280px-Logo_FC_Utrecht.svg.png",
+    "name1": "Utrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1280px-Logo_sc_Heerenveen_2024.svg.png",
+    "name2": "Heerenveen",
+    "champ": "Pays-Bas. Eredivisie",
     "heure": "19H00",
-    "date": "20/05/2026",
-    "pro": "Total: (+1.5)"
+    "date": "21/05/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
-    "name1": "Rotor Volgograd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Akron_Togliatti_Logo_2020.png",
-    "name2": "Akron Tolyatti",
-    "champ": "Russie. Qualification",
-    "heure": "16H30",
-    "date": "20/05/2026",
-    "pro": "12"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/0/0b/US_Citt%C3%A0_di_Palermo_Logo.png",
-    "name1": "Città Di Palermo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/US_Catanzaro_%28logo%29.svg/1920px-US_Catanzaro_%28logo%29.svg.png",
-    "name2": "Catanzaro 1929",
-    "champ": "Italie. Série B",
-    "heure": "18H00",
-    "date": "20/05/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/KV_Mechelen_%28logo%29.svg/1920px-KV_Mechelen_%28logo%29.svg.png",
+    "name1": "Mechelen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
+    "name2": "Club Bruges",
+    "champ": "Belgique. Jupiler Ligue",
+    "heure": "18H30",
+    "date": "21/05/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
-    "name1": "IK Start",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1280px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "20/05/2026",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Partick_Thistle_FC_2008.svg/1280px-Logo_Partick_Thistle_FC_2008.svg.png",
+    "name1": "Partick Thistle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-l314eoVjO8wOBykgOdgzsheKhy2igbeWzw&s",
+    "name2": "Saint Mirren",
+    "champ": "Écosse. Qualification",
+    "heure": "19H00",
+    "date": "21/05/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
