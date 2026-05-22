@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/langfr-250px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_STVV_2025.svg/langfr-250px-Logo_STVV_2025.svg.png",
-    "name2": "Sint-Truidense",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "18H30",
-    "date": "21/05/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06cq3adi6d8UkMBtIA2WYIaGi031mN_-fHw&s",
-    "name1": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_SC_Paderborn_07.svg/1280px-Logo_SC_Paderborn_07.svg.png",
-    "name2": "Paderborn 07",
-    "champ": "Allemagne. Qualification",
-    "heure": "18H30",
-    "date": "21/05/2026",
-    "pro": "1X"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png/250px-Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/FC_Groningen_%28logo%29.svg/1280px-FC_Groningen_%28logo%29.svg.png",
-    "name2": "Groningen",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "16H45",
-    "date": "21/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xMi_CgL9AAKvRynv_CwOOGhdUIZZ7jbiPQ&s",
+    "name1": "Fiorentina",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbO98zfHoL2gXoOBoRQQZRFfCKk7SyCbGxMA&s",
+    "name2": "Atalanta",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "22/05/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1280px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1280px-Logo_sc_Heerenveen_2024.svg.png",
-    "name2": "Heerenveen",
-    "champ": "Pays-Bas. Eredivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_RC_Lens.svg/1920px-Logo_RC_Lens.svg.png",
+    "name1": "RC Lens",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzCVkBZrbAILEWp4FO--4TXthwA-ZERalZw&s",
+    "name2": "Nice",
+    "champ": "Coupe de France",
     "heure": "19H00",
-    "date": "21/05/2026",
-    "pro": "1X"
+    "date": "22/05/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/KV_Mechelen_%28logo%29.svg/1920px-KV_Mechelen_%28logo%29.svg.png",
-    "name1": "Mechelen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFNb9ivpfKucIcQRZymE01eZxN8pkkld6npQ&s",
-    "name2": "Club Bruges",
-    "champ": "Belgique. Jupiler Ligue",
-    "heure": "18H30",
-    "date": "21/05/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/80/Logo_SAK_Klagenfurt.png",
+    "name1": "SAK Klagenfurt",
+    "photo2": "https://static.flashscore.com/res/image/data/rqLWjrsa-p0XB0bja.png",
+    "name2": "KAC 1909",
+    "champ": "Autriche. Landesliga",
+    "heure": "16H00",
+    "date": "22/05/2026",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/el/3/34/SpitalLogo.png",
+    "name1": "SV Spittal",
+    "photo2": "https://static.fan.at/images/8ed53de2-a38f-4b42-8a84-9cb78aebb819_640x640.png",
+    "name2": "SV Lendorf",
+    "champ": "Autriche. Landesliga",
+    "heure": "16H45",
+    "date": "22/05/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Partick_Thistle_FC_2008.svg/1280px-Logo_Partick_Thistle_FC_2008.svg.png",
-    "name1": "Partick Thistle",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-l314eoVjO8wOBykgOdgzsheKhy2igbeWzw&s",
-    "name2": "Saint Mirren",
-    "champ": "Écosse. Qualification",
-    "heure": "19H00",
-    "date": "21/05/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/e1/USV_Allerheiligen.png",
+    "name1": "Allerheiligen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ziENsHNxloF436eYtqS3f7EqyzMiHXyU2A&s",
+    "name2": "SV Tillmitsch",
+    "champ": "Autriche. Landesliga",
+    "heure": "17H00",
+    "date": "22/05/2026",
+    "pro": "Total: (+2.5)"
   }
 ]
