@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LceQkQY1K-YVqKfiTT5mHDe_6_gymPpvtQ&s",
-    "name1": "Notts County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lt/thumb/6/67/Salford_City_FC_emblema.png/250px-Salford_City_FC_emblema.png",
-    "name2": "Salford City",
-    "champ": "Angleterre. Ligue 2",
-    "heure": "14H00",
-    "date": "25/05/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTD-whVQuo9zOab_C8IzQGnJShm7-PK5dng&s",
+    "name1": "Borac Banja Luka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/NK_Posu%C5%A1je_%28logo%29.svg/1280px-NK_Posu%C5%A1je_%28logo%29.svg.png",
+    "name2": "NK Posusje",
+    "champ": "Bosnie-Herzégovine. Première Ligue",
+    "heure": "16H00",
+    "date": "26/05/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Sloga_Doboj.png",
+    "name1": "Sloga Doboj",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwhh0msHfMWPxrsdScej3NorCMapqkOP1sg&s",
+    "name2": "Rudar Prijedor",
+    "champ": "Bosnie-Herzégovine. Première Ligue",
+    "heure": "16H00",
+    "date": "26/05/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/AS_Saint-Etienne-logo_2022.svg/1280px-AS_Saint-Etienne-logo_2022.svg.png",
+    "name1": "AS Saint-Etienne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzCVkBZrbAILEWp4FO--4TXthwA-ZERalZw&s",
+    "name2": "Nice",
+    "champ": "France. Qualification",
+    "heure": "18H45",
+    "date": "26/05/2026",
+    "pro": "Total: (+2)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_SC_Paderborn_07.svg/1280px-Logo_SC_Paderborn_07.svg.png",
-    "name1": "Paderborn 07",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06cq3adi6d8UkMBtIA2WYIaGi031mN_-fHw&s",
-    "name2": "Wolfsbourg",
-    "champ": "Allemagne. Qualification",
-    "heure": "18H30",
-    "date": "25/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BK_Olympic_logo.svg/1280px-BK_Olympic_logo.svg.png",
+    "name1": "BK Olympic",
+    "photo2": "https://tmssl.akamaized.net//images/wappen/big/75203.png?lm=1766357897",
+    "name2": "AFC Malmo",
+    "champ": "Coupe de Suède",
+    "heure": "16H00",
+    "date": "26/05/2026",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUJ8HUB6SO_9z3h9X-0rU7sd2KtXOW25wqw&s",
-    "name1": "Rapid Vienne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SV_Ried.svg/1920px-SV_Ried.svg.png",
-    "name2": "SV Ried",
-    "champ": "Autriche. Bundesliga",
-    "heure": "15H00",
-    "date": "25/05/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnK-cWKCxNlZ-rVL47TUkzJiQH4FOx3GnSUg&s",
+    "name1": "Orebro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1280px-Helsingborgs_IF_%28logo%29.svg.png",
+    "name2": "Helsingborg",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "26/05/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/1280px-Logo_WSG_Tirol.svg.png",
-    "name1": "WSG Tirol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/64/Wacker_Innsbruck.png",
-    "name2": "Wacker Innsbruck",
-    "champ": "Austria. Tirol Cup",
-    "heure": "15H00",
-    "date": "25/05/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlSKXFZAWKDJW6__pDWekXyQ7Lr-Y5x7_Mvw&s",
-    "name1": "KFUM-Kameratene",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1280px-Rosenborg_Trondheim_logo.svg.png",
-    "name2": "Rosenborg",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "25/05/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1280px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name1": "Banik Ostrava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/FC_Silon_T%C3%A1borsko_logo.svg/1280px-FC_Silon_T%C3%A1borsko_logo.svg.png",
+    "name2": "Silon Taborsko",
+    "champ": "République Tchèque. Qualification",
+    "heure": "16H00",
+    "date": "26/05/2026",
+    "pro": "V1"
   }
 ]
