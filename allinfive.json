@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTD-whVQuo9zOab_C8IzQGnJShm7-PK5dng&s",
-    "name1": "Borac Banja Luka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/NK_Posu%C5%A1je_%28logo%29.svg/1280px-NK_Posu%C5%A1je_%28logo%29.svg.png",
-    "name2": "NK Posusje",
-    "champ": "Bosnie-Herzégovine. Première Ligue",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1c/FK_Sloga_Doboj.png",
-    "name1": "Sloga Doboj",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwhh0msHfMWPxrsdScej3NorCMapqkOP1sg&s",
-    "name2": "Rudar Prijedor",
-    "champ": "Bosnie-Herzégovine. Première Ligue",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/AS_Saint-Etienne-logo_2022.svg/1280px-AS_Saint-Etienne-logo_2022.svg.png",
-    "name1": "AS Saint-Etienne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgzCVkBZrbAILEWp4FO--4TXthwA-ZERalZw&s",
-    "name2": "Nice",
-    "champ": "France. Qualification",
-    "heure": "18H45",
-    "date": "26/05/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Jenis_Noursoultan_Logo.png",
+    "name1": "Jenis",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZEkFqXgeimMsZcE3OmWdj6n9LoddgEMZqA&s",
+    "name2": "Caspiy Aktau",
+    "champ": "Championnat du Kazakhstan",
+    "heure": "14H00",
+    "date": "28/05/2026",
+    "pro": "1X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/BK_Olympic_logo.svg/1280px-BK_Olympic_logo.svg.png",
-    "name1": "BK Olympic",
-    "photo2": "https://tmssl.akamaized.net//images/wappen/big/75203.png?lm=1766357897",
-    "name2": "AFC Malmo",
-    "champ": "Coupe de Suède",
-    "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnK-cWKCxNlZ-rVL47TUkzJiQH4FOx3GnSUg&s",
-    "name1": "Orebro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1280px-Helsingborgs_IF_%28logo%29.svg.png",
-    "name2": "Helsingborg",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "26/05/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7d/FC_Kaisar_logo.svg/langfr-250px-FC_Kaisar_logo.svg.png",
+    "name1": "Kaysar",
+    "photo2": "https://semeyainasy.media/wp-content/cache/thumbnails/2022/08/3a417d84-49e0-44c5-80da-9b9ef23eac52-1200x630-c.jpeg",
+    "name2": "Elimai",
+    "champ": "Championnat du Kazakhstan",
+    "heure": "14H00",
+    "date": "28/05/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1280px-FC_Banik_Ostrava_%28logo%29.svg.png",
-    "name1": "Banik Ostrava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/FC_Silon_T%C3%A1borsko_logo.svg/1280px-FC_Silon_T%C3%A1borsko_logo.svg.png",
-    "name2": "Silon Taborsko",
-    "champ": "République Tchèque. Qualification",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKEoBi9FQj7ZArWiOpa2nYGxGIgqjGUk0rA&s",
+    "name1": "Ordabasy Chymkent",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwVZxMV2eYkT1fZ3giNaDDsWLWubkKbMntVA&s",
+    "name2": "Kairat",
+    "champ": "Championnat du Kazakhstan",
+    "heure": "15H00",
+    "date": "28/05/2026",
+    "pro": "12"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/64/Fahaheel_.png",
+    "name1": "Al Fahaheel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c8/Al-SalmiyaClub.png",
+    "name2": "Al-Salmiya",
+    "champ": "Championnat du Koweït",
+    "heure": "16H20",
+    "date": "28/05/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9K7xqhIRl8wfZ8hLobxtc-5zBHNq1CP-gw&s",
+    "name1": "Supraslanka Suprasl",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCJ94RSUdV8i5cedR-s2srvzCrrUacTjuFg&s",
+    "name2": "Krypnianka Krypno",
+    "champ": "Championnat de Pologne",
     "heure": "16H00",
-    "date": "26/05/2026",
-    "pro": "V1"
+    "date": "28/05/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfX7-l8I963lrGH9fALYiiBa7aid-m2o9ZBQ&s",
+    "name1": "Chrobry Glogow",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5e/LKS_Lodz.png",
+    "name2": "LKS Lodz",
+    "champ": "Championnat de Pologne",
+    "heure": "15H30",
+    "date": "28/05/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
