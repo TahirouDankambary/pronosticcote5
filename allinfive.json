@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1_UHYRCasyLjKvArSlZcanI0e6jXd-dxDw&s",
-    "name1": "UD Almeria",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFrm-vWKBp6RWcj4hhOHTMPjtuViQK-Ifrg&s",
-    "name2": "Castellon",
-    "champ": "Espagne. Division 2",
-    "heure": "19H00",
-    "date": "09/06/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbNYqYvYfDuoa1iXz2G4KTFjEDXJ4GU8-3w&s",
+    "name1": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/3840px-Flag_of_Nigeria.svg.png",
+    "name2": "Nigeria",
+    "champ": "Matchs amicaux. Équipes nationales",
+    "heure": "19H45",
+    "date": "10/06/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/3840px-Flag_of_Armenia.svg.png",
-    "name1": "Arménie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1280px-Flag_of_Moldova.svg.png",
-    "name2": "Moldavie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+    "name1": "Angleterre",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIHg7Pf0dSXav87qd_aRZTNq4IOGVvUcV_w&s",
+    "name2": "Costa Rica",
     "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "15H00",
-    "date": "09/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1280px-Flag_of_Tajikistan.svg.png",
-    "name1": "Tadjikistan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_India.png",
-    "name2": "Inde",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "15H00",
-    "date": "09/06/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "20H00",
+    "date": "10/06/2026",
+    "pro": "V1"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/3840px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "name1": "DR Congo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_President_of_Chile.svg/250px-Flag_of_the_President_of_Chile.svg.png",
-    "name2": "Chili",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "16H00",
-    "date": "09/06/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name1": "Kuopion Palloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_Vaasan_Palloseura.svg/1280px-Logo_Vaasan_Palloseura.svg.png",
+    "name2": "Vaasan Palloseura",
+    "champ": "Coupe de Finlande",
+    "heure": "14H00",
+    "date": "10/06/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1280px-Flag_of_Hungary.svg.png",
-    "name1": "Hongrie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png",
-    "name2": "Kazakhstan",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "17H00",
-    "date": "09/06/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDPWVMmdwbC1fDH9lTIYexm91OOJ9RFxEqLw&s",
+    "name1": "Ilves",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwRvC6b5TGnRe4n7JSBDmSofwH8rzsBvhVQ&s",
+    "name2": "Lahti",
+    "champ": "Coupe de Finlande",
+    "heure": "15H00",
+    "date": "10/06/2026",
+    "pro": "Total: (+1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/330px-Flag_of_Russia.svg.png",
-    "name1": "Russie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/langfr-250px-Flag_of_Trinidad_and_Tobago.svg.png",
-    "name2": "Trinité-et-Tobago",
-    "champ": "Matchs amicaux. Équipes nationales",
-    "heure": "17H00",
-    "date": "09/06/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQR7sqaDKVZ6eyZi0EOlpVDXv_VmEWAyXIlg&s",
+    "name1": "Seinajoen Jalkapallokerho",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-KNN29mwnwSqcJOuHv4kc13ZtCSVfDrJZcQ&s",
+    "name2": "Inter Turku",
+    "champ": "Coupe de Finlande",
+    "heure": "15H00",
+    "date": "10/06/2026",
+    "pro": "2X"
   }
 ]
