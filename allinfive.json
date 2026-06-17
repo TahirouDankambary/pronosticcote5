@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-    "name1": "France",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/langfr-250px-Flag_of_Senegal.svg.png",
-    "name2": "Sénégal",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbNYqYvYfDuoa1iXz2G4KTFjEDXJ4GU8-3w&s",
+    "name1": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/3840px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+    "name2": "DR Congo",
     "champ": "Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "16/06/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "17H00",
+    "date": "17/06/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1280px-Flag_of_Iraq.svg.png",
-    "name1": "Irak",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/3840px-Flag_of_Norway.svg.png",
-    "name2": "Norvège",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+    "name1": "Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
+    "name2": "Croatie",
     "champ": "Coupe du Monde 2026",
-    "heure": "22H00",
-    "date": "16/06/2026",
+    "heure": "20H00",
+    "date": "17/06/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/3840px-Flag_of_Ghana.svg.png",
+    "name1": "Ghana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
+    "name2": "Panama",
+    "champ": "Coupe du Monde 2026",
+    "heure": "23H00",
+    "date": "17/06/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/langfr-250px-Flag_of_Uzbekistan.svg.png",
+    "name1": "Ouzbékistan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
+    "name2": "Colombie",
+    "champ": "Coupe du Monde 2026",
+    "heure": "02H00",
+    "date": "18/06/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Utsiktens_BK_logo.svg/1280px-Utsiktens_BK_logo.svg.png",
+    "name1": "Utsiktens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/%C3%85tvidabergs_FF_%28logo%29.svg/960px-%C3%85tvidabergs_FF_%28logo%29.svg.png",
+    "name2": "Atvidabergs",
+    "champ": "Suède. Division 1",
+    "heure": "17H30",
+    "date": "17/06/2026",
     "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
-    "name1": "Argentine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/3840px-Flag_of_Algeria.svg.png",
-    "name2": "Algérie",
-    "champ": "Coupe du Monde 2026",
-    "heure": "01H00",
-    "date": "17/06/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
-    "name1": "Autriche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png",
-    "name2": "Jordanie",
-    "champ": "Coupe du Monde 2026",
-    "heure": "04H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/R%C3%A5gsveds_IF.png/250px-R%C3%A5gsveds_IF.png",
+    "name1": "Raagsveds IF",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Enkopings_SK_logo.svg/1280px-Enkopings_SK_logo.svg.png",
+    "name2": "Enkopings",
+    "champ": "Coupe de Suède",
+    "heure": "17H30",
     "date": "17/06/2026",
     "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/Logo_IFK_V%C3%A4rnamo_2021.svg/1280px-Logo_IFK_V%C3%A4rnamo_2021.svg.png",
-    "name1": "IFK Varnamo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8b/Helsingborgs_IF_%28logo%29.svg/1280px-Helsingborgs_IF_%28logo%29.svg.png",
-    "name2": "Helsingborgs",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "16/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1-xt5A6CjfE5md76YR63Bosk0Wggu27xyQ&s",
-    "name1": "Landskrona Bois",
-    "photo2": "https://images.seeklogo.com/logo-png/48/2/united-ik-nordic-logo-png_seeklogo-487829.png",
-    "name2": "Nordic United",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "16/06/2026",
-    "pro": "Total: (+2)"
   }
 ]
