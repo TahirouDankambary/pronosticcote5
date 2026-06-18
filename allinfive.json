@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbNYqYvYfDuoa1iXz2G4KTFjEDXJ4GU8-3w&s",
-    "name1": "Portugal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/3840px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-    "name2": "DR Congo",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
+    "name1": "République Tchèque",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3tV2vy_48u4Utv2iw-xnVSg5xcOfxoIpbwg&s",
+    "name2": "Afrique du Sud",
     "champ": "Coupe du Monde 2026",
-    "heure": "17H00",
-    "date": "17/06/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
-    "name1": "Angleterre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
-    "name2": "Croatie",
-    "champ": "Coupe du Monde 2026",
-    "heure": "20H00",
-    "date": "17/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/3840px-Flag_of_Ghana.svg.png",
-    "name1": "Ghana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
-    "name2": "Panama",
-    "champ": "Coupe du Monde 2026",
-    "heure": "23H00",
-    "date": "17/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/langfr-250px-Flag_of_Uzbekistan.svg.png",
-    "name1": "Ouzbékistan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
-    "name2": "Colombie",
-    "champ": "Coupe du Monde 2026",
-    "heure": "02H00",
+    "heure": "16H00",
     "date": "18/06/2026",
-    "pro": "2X"
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Utsiktens_BK_logo.svg/1280px-Utsiktens_BK_logo.svg.png",
-    "name1": "Utsiktens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f7/%C3%85tvidabergs_FF_%28logo%29.svg/960px-%C3%85tvidabergs_FF_%28logo%29.svg.png",
-    "name2": "Atvidabergs",
-    "champ": "Suède. Division 1",
-    "heure": "17H30",
-    "date": "17/06/2026",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
+    "name1": "Suisse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "name2": "Bosnie-Herzégovine",
+    "champ": "Coupe du Monde 2026",
+    "heure": "19H00",
+    "date": "18/06/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/R%C3%A5gsveds_IF.png/250px-R%C3%A5gsveds_IF.png",
-    "name1": "Raagsveds IF",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Enkopings_SK_logo.svg/1280px-Enkopings_SK_logo.svg.png",
-    "name2": "Enkopings",
-    "champ": "Coupe de Suède",
-    "heure": "17H30",
-    "date": "17/06/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
+    "name1": "Canada",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1-j5ko7Jt763uDTcHK3zaTdQeVIDiG1IvQ&s",
+    "name2": "Qatar",
+    "champ": "Coupe du Monde 2026",
+    "heure": "22H00",
+    "date": "18/06/2026",
+    "pro": "1X2 (2UP): V1"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUK3tRUXiVjZCjM3hw9b20UVWkmdUikob36g&s",
+    "name1": "Mexique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",
+    "name2": "Corée du Sud",
+    "champ": "Coupe du Monde 2026",
+    "heure": "01H00",
+    "date": "19/06/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/J%C3%B6nk%C3%B6pings_S%C3%B6dra_IF.svg/langfr-250px-J%C3%B6nk%C3%B6pings_S%C3%B6dra_IF.svg.png",
+    "name1": "Jonkopings Sodra",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0013/3391/brand.gif?itok=LwgcvI_a",
+    "name2": "Lunds",
+    "champ": "Suède. Division 1",
+    "heure": "17H00",
+    "date": "18/06/2026",
+    "pro": "1X"
   }
 ]
