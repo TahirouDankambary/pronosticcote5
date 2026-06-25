@@ -1,72 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name1": "Bosnie-Herzégovine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_Qatar_%283-2%29.svg/3840px-Flag_of_Qatar_%283-2%29.svg.png",
-    "name2": "Qatar",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/3840px-Flag_of_Cura%C3%A7ao.svg.png",
+    "name1": "Curacao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "name2": "Côte d'Ivoire",
     "champ": "Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "24/06/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
-    "name1": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
-    "name2": "Canada",
-    "champ": "Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "24/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/langfr-250px-Flag_of_Morocco.svg.png",
-    "name1": "Maroc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/3840px-Flag_of_Haiti.svg.png",
-    "name2": "Haiti",
-    "champ": "Coupe du Monde 2026",
-    "heure": "22H00",
-    "date": "24/06/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-250px-Flag_of_Scotland.svg.png",
-    "name1": "Écosse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
-    "name2": "Brésil",
-    "champ": "Coupe du Monde 2026",
-    "heure": "22H00",
-    "date": "24/06/2026",
+    "heure": "20H00",
+    "date": "25/06/2026",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/3840px-Flag_of_the_Czech_Republic.svg.png",
-    "name1": "République Tchèque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/3840px-Flag_of_Mexico.svg.png",
-    "name2": "Mexique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/3840px-Flag_of_Ecuador.svg.png",
+    "name1": "Équateur",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/3840px-Flag_of_Germany.svg.png",
+    "name2": "Allemagne",
     "champ": "Coupe du Monde 2026",
-    "heure": "01H00",
+    "heure": "20H00",
     "date": "25/06/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
-    "name1": "Afrique du Sud",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/3840px-Flag_of_South_Korea.svg.png",
-    "name2": "Corée du Sud",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1280px-Flag_of_Tunisia.svg.png",
+    "name1": "Tunisie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDAESZmOtUbC3bpTGPfpvNntAx8_yfmzE6FdBL_7RcYEXJ0TPwLAly8ko&s=10",
+    "name2": "Pays-Bas",
     "champ": "Coupe du Monde 2026",
-    "heure": "01H00",
+    "heure": "23H00",
     "date": "25/06/2026",
-    "pro": "Total: (+1.5)"
+    "pro": "V2 Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tasmania_Berlin_Logo.svg/250px-Tasmania_Berlin_Logo.svg.png",
-    "name1": "Tasmania Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/3b/BFC_Preussen_Logo.png",
-    "name2": "BFC Preussen",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "17H00",
-    "date": "24/06/2026",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/3840px-Flag_of_Turkey.svg.png",
+    "name1": "Turquie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
+    "name2": "États-Unis",
+    "champ": "Coupe du Monde 2026",
+    "heure": "02H00",
+    "date": "26/06/2026",
     "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Logo_%C3%89toile_rouge_de_Belgrade_2024.svg/langfr-250px-Logo_%C3%89toile_rouge_de_Belgrade_2024.svg.png",
+    "name1": "Crvena Zvezda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEvSsUCMRcFmSl663tMgWy7YDZOR7T70HghrBge11jA&s=10",
+    "name2": "SKU Amstetten",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "25/06/2026",
+    "pro": "V1"
   }
 ]
