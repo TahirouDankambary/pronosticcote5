@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiB0QtNPd2uL2--2F2sNrxHZbFGP1Mr5fyg&s",
-    "name1": "Turun Palloseura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_FF_Jaro_2008.svg/1280px-Logo_FF_Jaro_2008.svg.png",
-    "name2": "FF Jaro",
-    "champ": "Finlande. Veikkausliiga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-250px-Flag_of_South_Africa.svg.png",
+    "name1": "Afrique du Sud",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
+    "name2": "Canada",
+    "champ": "Coupe du Monde 2026",
+    "heure": "19H00",
+    "date": "28/06/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/langfr-250px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
+    "name1": "Mladost Lucani",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIy1_ln-LNDc9_WnYkvzbw374wcj1UHWpaJZ7kFUmPw&s=10",
+    "name2": "Novi Pazar",
+    "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "27/06/2026",
-    "pro": "Total: (+1.5)"
+    "date": "28/06/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/AC_Oulu_%28logo%29.svg/1280px-AC_Oulu_%28logo%29.svg.png",
-    "name1": "AC Oulu",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/FC_Lahti_logo.svg/1280px-FC_Lahti_logo.svg.png",
-    "name2": "Lahti",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "18H00",
-    "date": "27/06/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/langfr-250px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
+    "name1": "Olimpija Ljubljana",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtIVj6zs_6CynLHPnKjLdCBKayh_3obWgUC1oNjEjJAQ&s=10",
+    "name2": "Cukaricki",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "28/06/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1280px-Flag_of_Panama.svg.png",
-    "name1": "Panama",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
-    "name2": "Angleterre",
-    "champ": "Coupe du Monde 2026",
-    "heure": "21H00",
-    "date": "27/06/2026",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/2017.svg/langfr-250px-2017.svg.png",
+    "name1": "América Cali",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/73/Racing_Club_Escudo.png",
+    "name2": "Racing Club de Montevideo",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "20H15",
+    "date": "28/06/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
-    "name1": "Croatie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/3840px-Flag_of_Ghana.svg.png",
-    "name2": "Ghana",
-    "champ": "Coupe du Monde 2026",
-    "heure": "21H00",
-    "date": "27/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandvikens_IF_logo.svg/1280px-Sandvikens_IF_logo.svg.png",
+    "name1": "Sandvikens",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGz7OxH5B2rQ91d0lUjd-1_-oK0LlM_Sff1qcvBGkHw&s",
+    "name2": "Helsingborgs",
+    "champ": "Suède. Superettan",
+    "heure": "15H00",
+    "date": "28/06/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
-    "name1": "Colombie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbNYqYvYfDuoa1iXz2G4KTFjEDXJ4GU8-3w&s",
-    "name2": "Portugal",
-    "champ": "Coupe du Monde 2026",
-    "heure": "23H30",
-    "date": "27/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1280px-Flag_of_Jordan.svg.png",
-    "name1": "Jordanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
-    "name2": "Argentine",
-    "champ": "Coupe du Monde 2026",
-    "heure": "02H00",
-    "date": "27/06/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg/960px-Logo_of_Clube_Atl%C3%A9tico_Mineiro.svg.png",
+    "name1": "Athletic Club MG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ava%C3%AD_Futebol_Clube_logo.svg/960px-Ava%C3%AD_Futebol_Clube_logo.svg.png",
+    "name2": "Avai",
+    "champ": "Brazil. Campeonato",
+    "heure": "19H00",
+    "date": "28/06/2026",
+    "pro": "Total: (+2)"
   }
 ]
