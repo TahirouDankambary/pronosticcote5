@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
-    "name1": "Brésil",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/3840px-Flag_of_Japan.svg.png",
-    "name2": "Japon",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+    "name1": "Côte d'Ivoire",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/3840px-Flag_of_Norway.svg.png",
+    "name2": "Norvège",
     "champ": "Coupe du Monde 2026",
     "heure": "17H00",
-    "date": "29/06/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/3840px-Flag_of_Germany.svg.png",
-    "name1": "Allemagne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/3840px-Flag_of_Paraguay.svg.png",
-    "name2": "Paraguay",
-    "champ": "Coupe du Monde 2026",
-    "heure": "20H30",
-    "date": "29/06/2026",
-    "pro": "1X2 (2UP): V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDAESZmOtUbC3bpTGPfpvNntAx8_yfmzE6FdBL_7RcYEXJ0TPwLAly8ko&s=10",
-    "name1": "Pays-Bas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/langfr-250px-Flag_of_Morocco.svg.png",
-    "name2": "Maroc",
-    "champ": "Coupe du Monde 2026",
-    "heure": "01H00",
     "date": "30/06/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1a/FC_U_Craiova_1948_logo.png",
-    "name1": "CS Universitatea Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/9b/FC_Polissya_Zhytomyr.png",
-    "name2": "Polissya Zhytomyr",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "29/06/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKnydwWNEC0WsnW0RYhQ84_xb0ObIwlA7lw&s",
+    "name1": "France",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/langfr-250px-Flag_of_Sweden.svg.png",
+    "name2": "Suède",
+    "champ": "Coupe du Monde 2026",
+    "heure": "21H00",
+    "date": "30/06/2026",
+    "pro": "1X2 (2UP): V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Crvena Zvezda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/960px-SK_Slovan_Bratislava_logo.svg.png",
-    "name2": "Slovan Bratislava",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "29/06/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
+    "name1": "Mexique",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-lN8CWpFl4d3AcKy7kZO5GMAc7j--zBimFw&s",
+    "name2": "Équateur",
+    "champ": "Coupe du Monde 2026",
+    "heure": "01H00",
+    "date": "01/07/2026",
     "pro": "1X"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Vaasan_Palloseura_logo.svg/1280px-Vaasan_Palloseura_logo.svg.png",
+    "name1": "Vaasan Palloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/FC_Inter_Turku_logo.svg/1280px-FC_Inter_Turku_logo.svg.png",
+    "name2": "Inter Turku",
+    "champ": "Coupe de Finlande",
+    "heure": "15H00",
+    "date": "30/06/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfoFFxba7kOWRuKY-_iXf39qqTrTXayM_BQ&s",
+    "name1": "Zbrojovka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Ny%C3%ADregyh%C3%A1za_Spartacus_FC_logo.png/250px-Ny%C3%ADregyh%C3%A1za_Spartacus_FC_logo.png",
+    "name2": "Nyiregyhaza Spartacus",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "30/06/2026",
+    "pro": "Total: (+2)"
+  },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJaRT9wMXk0RYPV7WTPnBjGgnMpLQCv8pujU9jou4Pw&s",
-    "name1": "Akhmat",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsjW9UxcwJ8so6VbvnRs2Wcf9itADpCSl6nmdwLhLGJw&s=10",
-    "name2": "Borac Banja Luka",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
+    "name1": "Levski Sofia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_FK_Radnik_Surdulica.svg/1280px-Logo_FK_Radnik_Surdulica.svg.png",
+    "name2": "Radnik Surdulica",
     "champ": "Matchs amicaux des clubs",
     "heure": "16H00",
-    "date": "29/06/2026",
-    "pro": "1X"
+    "date": "30/06/2026",
+    "pro": "V1"
   }
 ]
