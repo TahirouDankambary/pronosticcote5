@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1280px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name1": "Côte d'Ivoire",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/3840px-Flag_of_Norway.svg.png",
-    "name2": "Norvège",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+    "name1": "Angleterre",
+    "photo2": "https://img.magnific.com/free-psd/flag-democratic-republic-congo-waving-transparent-background_35913-4248.jpg?semt=ais_hybrid&w=740&q=80",
+    "name2": "DR Congo",
     "champ": "Coupe du Monde 2026",
-    "heure": "17H00",
-    "date": "30/06/2026",
+    "heure": "16H00",
+    "date": "01/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
+    "name1": "Belgique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
+    "name2": "Sénégal",
+    "champ": "Coupe du Monde 2026",
+    "heure": "20H00",
+    "date": "01/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKnydwWNEC0WsnW0RYhQ84_xb0ObIwlA7lw&s",
-    "name1": "France",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/langfr-250px-Flag_of_Sweden.svg.png",
-    "name2": "Suède",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
+    "name1": "États-Unis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+    "name2": "Bosnie-Herzégovine",
     "champ": "Coupe du Monde 2026",
-    "heure": "21H00",
-    "date": "30/06/2026",
+    "heure": "00H00",
+    "date": "02/07/2026",
     "pro": "1X2 (2UP): V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "name1": "Mexique",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-lN8CWpFl4d3AcKy7kZO5GMAc7j--zBimFw&s",
-    "name2": "Équateur",
-    "champ": "Coupe du Monde 2026",
-    "heure": "01H00",
-    "date": "01/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Vaasan_Palloseura_logo.svg/1280px-Vaasan_Palloseura_logo.svg.png",
-    "name1": "Vaasan Palloseura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/FC_Inter_Turku_logo.svg/1280px-FC_Inter_Turku_logo.svg.png",
-    "name2": "Inter Turku",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPcB1HBlXFISQRUsHmnXEgHYWsUZaULxkvgalvCtbQQ&s",
+    "name1": "HJK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Ilves_Tampere.png",
+    "name2": "Ilves",
     "champ": "Coupe de Finlande",
-    "heure": "15H00",
-    "date": "30/06/2026",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfoFFxba7kOWRuKY-_iXf39qqTrTXayM_BQ&s",
-    "name1": "Zbrojovka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Ny%C3%ADregyh%C3%A1za_Spartacus_FC_logo.png/250px-Ny%C3%ADregyh%C3%A1za_Spartacus_FC_logo.png",
-    "name2": "Nyiregyhaza Spartacus",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "30/06/2026",
+    "heure": "16H00",
+    "date": "01/07/2026",
     "pro": "Total: (+2)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
-    "name1": "Levski Sofia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/61/Logo_FK_Radnik_Surdulica.svg/1280px-Logo_FK_Radnik_Surdulica.svg.png",
-    "name2": "Radnik Surdulica",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJqFVJ1oKrqj2jVccfGv1MrOLiuhsFnyyGTee2ERjug&s=10",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6vqm9M6-VDSnb11kEvCfaMzDqGzdQ2CZsnCN0NGbWA&s=10",
+    "name2": "Spartak Trnava",
     "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "30/06/2026",
+    "heure": "15H00",
+    "date": "01/07/2026",
     "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/1280px-Sk_sigma.svg.png",
+    "name1": "Sigma Olomouc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/16/MFK_Skalica_club_logo.png",
+    "name2": "Skalica",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "01/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
