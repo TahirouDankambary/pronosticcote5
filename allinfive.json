@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
-    "name1": "Angleterre",
-    "photo2": "https://img.magnific.com/free-psd/flag-democratic-republic-congo-waving-transparent-background_35913-4248.jpg?semt=ais_hybrid&w=740&q=80",
-    "name2": "DR Congo",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
+    "name1": "Espagne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/langfr-250px-Flag_of_Austria.svg.png",
+    "name2": "Autriche",
     "champ": "Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "01/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
-    "name1": "Belgique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1280px-Flag_of_Senegal.svg.png",
-    "name2": "Sénégal",
-    "champ": "Coupe du Monde 2026",
-    "heure": "20H00",
-    "date": "01/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/250px-Flag_of_the_United_States_%28Pantone%29.svg.png",
-    "name1": "États-Unis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name2": "Bosnie-Herzégovine",
-    "champ": "Coupe du Monde 2026",
-    "heure": "00H00",
+    "heure": "19H00",
     "date": "02/07/2026",
-    "pro": "1X2 (2UP): V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPcB1HBlXFISQRUsHmnXEgHYWsUZaULxkvgalvCtbQQ&s",
-    "name1": "HJK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Ilves_Tampere.png",
-    "name2": "Ilves",
-    "champ": "Coupe de Finlande",
-    "heure": "16H00",
-    "date": "01/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqJqFVJ1oKrqj2jVccfGv1MrOLiuhsFnyyGTee2ERjug&s=10",
-    "name1": "Viktoria Plzen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6vqm9M6-VDSnb11kEvCfaMzDqGzdQ2CZsnCN0NGbWA&s=10",
-    "name2": "Spartak Trnava",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "01/07/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/1280px-Sk_sigma.svg.png",
-    "name1": "Sigma Olomouc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/16/MFK_Skalica_club_logo.png",
-    "name2": "Skalica",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "01/07/2026",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/330px-Flag_of_Portugal.svg.png",
+    "name1": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-250px-Civil_ensign_of_Croatia.svg.png",
+    "name2": "Croatie",
+    "champ": "Coupe du Monde 2026",
+    "heure": "23H00",
+    "date": "02/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
+    "name1": "Suisse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/3840px-Flag_of_Algeria.svg.png",
+    "name2": "Algérie",
+    "champ": "Coupe du Monde 2026",
+    "heure": "03H00",
+    "date": "03/07/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png/250px-KS_Wieczysta_Krak%C3%B3w_Logo.png",
+    "name1": "Wieczysta Krakow",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b2/SK_Artis_Brno%2C_Czech_football_club%2C_2025_logo.png",
+    "name2": "Artis Brno",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "02/07/2026",
+    "pro": "1X"
   }
 ]
