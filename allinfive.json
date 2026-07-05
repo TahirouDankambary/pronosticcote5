@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png",
-    "name1": "Canada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/langfr-250px-Flag_of_Morocco.svg.png",
-    "name2": "Maroc",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
+    "name1": "Brésil",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/3840px-Flag_of_Norway.svg.png",
+    "name2": "Norvège",
     "champ": "Coupe du Monde 2026",
-    "heure": "17H00",
-    "date": "04/07/2026",
+    "heure": "20H00",
+    "date": "05/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/3840px-Flag_of_Paraguay.svg.png",
-    "name1": "Paraguay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png",
-    "name2": "France",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
+    "name1": "Mexique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
+    "name2": "Angleterre",
     "champ": "Coupe du Monde 2026",
-    "heure": "21H00",
-    "date": "04/07/2026",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg/1920px-Logo_FC_Zbrojovka_Brno_%282010_-_2026%29.svg.png",
-    "name1": "Zbrojovka",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e9/FK_Miercurea_Ciuc_logo.png",
-    "name2": "Csikszereda Miercurea",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "04/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlfq-5f1cZs6ggdC8hy6vrWk7y0GFzOERbOr1jP1w1-g&s=10",
-    "name1": "Servette",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM_LCfdRiFIfSUNfmLt4Ihja42t1P8AUyfFh-44f4HKw&s=10",
-    "name2": "Stade Nyonnais",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "04/07/2026",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_1._FC_Slov%C3%A1cko.svg/1280px-Logo_1._FC_Slov%C3%A1cko.svg.png",
-    "name1": "1.Slovacko",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Spartak_Trnava_%28logo%29.svg/1280px-Spartak_Trnava_%28logo%29.svg.png",
-    "name2": "Spartak Trnava",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "04/07/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWeT1Uv_b8OiLgSK43_yze9C9Ns4weN0h8MbTEt4mOA&s=10",
-    "name1": "Harberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/5/5c/%C3%9Ajpest_FC_logo.png",
-    "name2": "Ujest",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "04/07/2026",
+    "heure": "00H00",
+    "date": "06/07/2026",
     "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFT5yJnOyyW3Cx1RogSd-D8PnWoCbwqiL9MT7wuZ12gw&s",
+    "name1": "Elfsborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Hammarby_IF_logo.svg/1280px-Hammarby_IF_logo.svg.png",
+    "name2": "Hammarby",
+    "champ": "Suède. Allsvenskan",
+    "heure": "14H30",
+    "date": "05/07/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%A4%D0%9A_%22%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%22.png",
+    "name1": "KharKiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1280px-BSC_Young_Boys.svg.png",
+    "name2": "Young Boys",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png/250px-KS_Wieczysta_Krak%C3%B3w_Logo.png",
+    "name1": "KS Wieczysta Krakow",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSONFdN8HejhJ16oHIwtt7AwxbBI2zt8Z390fGXQiYw&s=10",
+    "name2": "Slavia Prague",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "05/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
