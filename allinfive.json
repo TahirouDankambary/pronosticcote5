@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langfr-250px-Flag_of_Brazil.svg.png",
-    "name1": "Brésil",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/3840px-Flag_of_Norway.svg.png",
-    "name2": "Norvège",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png",
+    "name1": "Portugal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
+    "name2": "Espagne",
     "champ": "Coupe du Monde 2026",
-    "heure": "20H00",
-    "date": "05/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langfr-250px-Flag_of_Mexico.svg.png",
-    "name1": "Mexique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png",
-    "name2": "Angleterre",
-    "champ": "Coupe du Monde 2026",
-    "heure": "00H00",
+    "heure": "19H00",
     "date": "06/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFT5yJnOyyW3Cx1RogSd-D8PnWoCbwqiL9MT7wuZ12gw&s",
-    "name1": "Elfsborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Hammarby_IF_logo.svg/1280px-Hammarby_IF_logo.svg.png",
-    "name2": "Hammarby",
-    "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "05/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_the_United_States_%281795%E2%80%931818%29.svg/250px-Flag_of_the_United_States_%281795%E2%80%931818%29.svg.png",
+    "name1": "États-Unis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
+    "name2": "Belgique",
+    "champ": "Coupe du Monde 2026",
+    "heure": "00H00",
+    "date": "07/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%A4%D0%9A_%22%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%22.png",
-    "name1": "KharKiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1280px-BSC_Young_Boys.svg.png",
-    "name2": "Young Boys",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "05/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPupAZDKPi0Ey92snPAdqmJr47CcIDzejS0LFSCvmpiQ&s",
+    "name1": "Brommapojkarna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
+    "name2": "GAIS",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "06/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KS_Wieczysta_Krak%C3%B3w_Logo.png/250px-KS_Wieczysta_Krak%C3%B3w_Logo.png",
-    "name1": "KS Wieczysta Krakow",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSONFdN8HejhJ16oHIwtt7AwxbBI2zt8Z390fGXQiYw&s=10",
-    "name2": "Slavia Prague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/KS_Cracovia_%28logo%29.svg/500px-KS_Cracovia_%28logo%29.svg.png",
+    "name1": "KS Cracovia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/960px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
+    "name2": "Istanbul Buyuksehir",
     "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "05/07/2026",
+    "date": "06/07/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfmthLRQKZkg6csOFALOd_e8IhmZQ3uGMwF0dpOouFw&s",
+    "name1": "Colwyn Bay",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/18/C.P.D._Y_Rhyl_1879_logo.png",
+    "name2": "Rhyl",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "18H30",
+    "date": "06/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
+    "name1": "Hacken",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc34X8eO7JL5owlTGMWJCxvjm0gJvVrl_xeY20j0NmA&s=10",
+    "name2": "Djurgardens",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "06/07/2026",
     "pro": "Total: (+2)"
   }
 ]
