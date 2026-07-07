@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/3840px-Flag_of_Portugal.svg.png",
-    "name1": "Portugal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/3840px-Flag_of_Spain.svg.png",
-    "name2": "Espagne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
+    "name1": "Argentine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png",
+    "name2": "Égypte",
     "champ": "Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "06/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_the_United_States_%281795%E2%80%931818%29.svg/250px-Flag_of_the_United_States_%281795%E2%80%931818%29.svg.png",
-    "name1": "États-Unis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/langfr-250px-Flag_of_Belgium.svg.png",
-    "name2": "Belgique",
-    "champ": "Coupe du Monde 2026",
-    "heure": "00H00",
+    "heure": "16H00",
     "date": "07/07/2026",
-    "pro": "Total: (+2)"
+    "pro": "Qualification Equipe 1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPupAZDKPi0Ey92snPAdqmJr47CcIDzejS0LFSCvmpiQ&s",
-    "name1": "Brommapojkarna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_GAIS_2023.svg/500px-Logo_GAIS_2023.svg.png",
-    "name2": "GAIS",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "06/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
+    "name1": "Suisse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
+    "name2": "Colombie",
+    "champ": "Coupe du Monde 2026",
+    "heure": "20H00",
+    "date": "07/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a6/KS_Cracovia_%28logo%29.svg/500px-KS_Cracovia_%28logo%29.svg.png",
-    "name1": "KS Cracovia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/960px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
-    "name2": "Istanbul Buyuksehir",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "06/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
+    "name1": "Zalgiris Kaunas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
+    "name2": "KF Drita",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "07/07/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpfmthLRQKZkg6csOFALOd_e8IhmZQ3uGMwF0dpOouFw&s",
-    "name1": "Colwyn Bay",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/1/18/C.P.D._Y_Rhyl_1879_logo.png",
-    "name2": "Rhyl",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "18H30",
-    "date": "06/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
+    "name1": "Lincoln Red Imps",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
+    "name2": "Inter Club d'Escaldes",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "07/07/2026",
+    "pro": "Total: (+1.5)"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
-    "name1": "Hacken",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwc34X8eO7JL5owlTGMWJCxvjm0gJvVrl_xeY20j0NmA&s=10",
-    "name2": "Djurgardens",
-    "champ": "Suède. Allsvenskan",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaOg5o0zCpg01rpNmIpQibX0oUAqEM2m_c_NPOoYYlA&s",
+    "name1": "Vardar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name2": "Kuopion Palloseura",
+    "champ": "Ligue des champions de l'UEFA",
     "heure": "17H00",
-    "date": "06/07/2026",
-    "pro": "Total: (+2)"
+    "date": "07/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
