@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/330px-Flag_of_Argentina.svg.png",
-    "name1": "Argentine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png",
-    "name2": "Égypte",
-    "champ": "Coupe du Monde 2026",
-    "heure": "16H00",
-    "date": "07/07/2026",
-    "pro": "Qualification Equipe 1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1920px-FC_Kairat_%28logo%29.svg.png",
+    "name1": "Kairat",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/44/FK_Sutjeska_Nik%C5%A1i%C4%87.jpg",
+    "name2": "Sutjeska Niksic",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Civil_Ensign_of_Switzerland.svg/langfr-250px-Civil_Ensign_of_Switzerland.svg.png",
-    "name1": "Suisse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langfr-250px-Flag_of_Colombia.svg.png",
-    "name2": "Colombie",
-    "champ": "Coupe du Monde 2026",
-    "heure": "20H00",
-    "date": "07/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/FC_Flora_%28logo%29.svg/1920px-FC_Flora_%28logo%29.svg.png",
+    "name1": "Flora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Saburtalo_Tbilissi_Logo_2021.png/250px-Saburtalo_Tbilissi_Logo_2021.png",
+    "name2": "Iberia 1999",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "08/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_%C5%BDalgiris_Kaunas.svg/1280px-Logo_%C5%BDalgiris_Kaunas.svg.png",
-    "name1": "Zalgiris Kaunas",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQtW3iEfhGEmxkPAwSuy3JRiGOoWWUAeKqO1OvBCsUQ&s=10",
-    "name2": "KF Drita",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "07/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
-    "name1": "Lincoln Red Imps",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
-    "name2": "Inter Club d'Escaldes",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "07/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHaOg5o0zCpg01rpNmIpQibX0oUAqEM2m_c_NPOoYYlA&s",
-    "name1": "Vardar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
-    "name2": "Kuopion Palloseura",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/36/FK_ML_Vitebsk.png",
+    "name1": "ML Vitebsk",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILp_2jd_wridTdUJk_ZmQeXHYARgM3SdffmaNAjyGdg&s=10",
+    "name2": "CS Universitatea Craiova",
     "champ": "Ligue des champions de l'UEFA",
     "heure": "17H00",
-    "date": "07/07/2026",
+    "date": "08/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/84/CS_Petrocub_Logo.png",
+    "name1": "Petrocub",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/langfr-250px-Egnatia_Club_Logo.svg.png",
+    "name2": "Egnatia",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H00",
+    "date": "08/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://tmssl.akamaized.net//images/wappen/big/46710.png?lm=1553022308",
+    "name1": "Zira",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8e/FC_Torpedo_Kutaisi_logo.png",
+    "name2": "Torpedo Kutaisi",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "08/07/2026",
     "pro": "Total: (+1.5)"
   }
 ]
