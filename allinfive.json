@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/1920px-FC_Kairat_%28logo%29.svg.png",
-    "name1": "Kairat",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/44/FK_Sutjeska_Nik%C5%A1i%C4%87.jpg",
-    "name2": "Sutjeska Niksic",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "15H00",
-    "date": "08/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/FC_Flora_%28logo%29.svg/1920px-FC_Flora_%28logo%29.svg.png",
-    "name1": "Flora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Saburtalo_Tbilissi_Logo_2021.png/250px-Saburtalo_Tbilissi_Logo_2021.png",
-    "name2": "Iberia 1999",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "08/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/36/FK_ML_Vitebsk.png",
-    "name1": "ML Vitebsk",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILp_2jd_wridTdUJk_ZmQeXHYARgM3SdffmaNAjyGdg&s=10",
-    "name2": "CS Universitatea Craiova",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Universitatea_Cluj_%28logo%29.svg/1280px-Universitatea_Cluj_%28logo%29.svg.png",
+    "name2": "Universitatea Cluj",
+    "champ": "Ligue Europa de l'UEFA",
     "heure": "17H00",
-    "date": "08/07/2026",
+    "date": "09/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/84/CS_Petrocub_Logo.png",
-    "name1": "Petrocub",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/langfr-250px-Egnatia_Club_Logo.svg.png",
-    "name2": "Egnatia",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxhCKIVTPRrDwUXHusZ_43Ps6eDtRF4EliNODlm-WCg&s=10",
+    "name1": "Sheriff Tiraspol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Aluminij_NK_Logo.png",
+    "name2": "NK Aluminij",
+    "champ": "Ligue Europa de l'UEFA",
     "heure": "17H00",
-    "date": "08/07/2026",
-    "pro": "Total: (+1.5)"
+    "date": "09/07/2026",
+    "pro": "1X2 (2UP): V1"
   },
   {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/big/46710.png?lm=1553022308",
-    "name1": "Zira",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8e/FC_Torpedo_Kutaisi_logo.png",
-    "name2": "Torpedo Kutaisi",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "08/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/FK_Vojvodina_%28logo%29.svg/960px-FK_Vojvodina_%28logo%29.svg.png",
+    "name1": "Vojvodina Novi Sad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1280px-Logo_Ferencv%C3%A1ros_TC.svg.png",
+    "name2": "Ferencvarosi",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "18H00",
+    "date": "09/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HNK_Hajduk_Split_logo.svg/1280px-HNK_Hajduk_Split_logo.svg.png",
+    "name1": "Hajduk Split",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/MSK_Zilina_%28logo%29.svg/1280px-MSK_Zilina_%28logo%29.svg.png",
+    "name2": "MSK Zilina",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "18H00",
+    "date": "09/07/2026",
     "pro": "Total: (+1.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/960px-CSKA_Sofia_logo.svg.png",
+    "name1": "CSKA Sofia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Derry_City_FC_2017.svg/1280px-Logo_Derry_City_FC_2017.svg.png",
+    "name2": "Derry City",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "18H00",
+    "date": "09/07/2026",
+    "pro": "V1"
   }
 ]
