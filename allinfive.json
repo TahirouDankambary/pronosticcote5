@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Dynamo_logo.svg/langfr-250px-Dynamo_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Universitatea_Cluj_%28logo%29.svg/1280px-Universitatea_Cluj_%28logo%29.svg.png",
-    "name2": "Universitatea Cluj",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "09/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEvSsUCMRcFmSl663tMgWy7YDZOR7T70HghrBge11jA&s=10",
+    "name1": "SKU Amstetten",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b2/SK_Artis_Brno%2C_Czech_football_club%2C_2025_logo.png",
+    "name2": "Artis Brno",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "10/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbxhCKIVTPRrDwUXHusZ_43Ps6eDtRF4EliNODlm-WCg&s=10",
-    "name1": "Sheriff Tiraspol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/Aluminij_NK_Logo.png",
-    "name2": "NK Aluminij",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "09/07/2026",
-    "pro": "1X2 (2UP): V1"
+    "photo1": "https://images.seeklogo.com/logo-png/64/2/sv-donau-klagenfurt-logo-png_seeklogo-647707.png",
+    "name1": "Donau Klagenfurt",
+    "photo2": "https://images.seeklogo.com/logo-png/20/1/atus-ferlach-logo-png_seeklogo-202486.png",
+    "name2": "ATUS Ferlach",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "10/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/FK_Vojvodina_%28logo%29.svg/960px-FK_Vojvodina_%28logo%29.svg.png",
-    "name1": "Vojvodina Novi Sad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1280px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name2": "Ferencvarosi",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "09/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HNK_Hajduk_Split_logo.svg/1280px-HNK_Hajduk_Split_logo.svg.png",
-    "name1": "Hajduk Split",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/MSK_Zilina_%28logo%29.svg/1280px-MSK_Zilina_%28logo%29.svg.png",
-    "name2": "MSK Zilina",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "09/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShQFqYEJs-IJQogDHwAL9iYpe4BlJoILIYJ4IVSIGIAA&s=10",
+    "name1": "SV Ried",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg/langfr-250px-Logo_%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK.svg.png",
+    "name2": "Istanbul Buyuksehir",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "10/07/2026",
+    "pro": "Total: (+2.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/960px-CSKA_Sofia_logo.svg.png",
-    "name1": "CSKA Sofia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Derry_City_FC_2017.svg/1280px-Logo_Derry_City_FC_2017.svg.png",
-    "name2": "Derry City",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "09/07/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png/250px-Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/AEK_Larnaca.svg/langfr-250px-AEK_Larnaca.svg.png",
+    "name2": "AEK Larnaca",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "10/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
