@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Shinnik_Logo.svg/960px-FC_Shinnik_Logo.svg.png",
-    "name1": "Chinnik Iaroslavl",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e1/FK_Sotchi_%28logo%29.svg/1280px-FK_Sotchi_%28logo%29.svg.png",
-    "name2": "Sochi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_FK_Tcheliabinsk_2025.svg/1280px-Logo_FK_Tcheliabinsk_2025.svg.png",
+    "name1": "Tcheliabinsk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c8/SKA-Khabarovsk_Logo.png",
+    "name2": "SKA-Khabarovsk",
     "champ": "Russie. 1ère Ligue",
     "heure": "14H00",
-    "date": "12/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
-    "name2": "IK Start",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "12/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1280px-Rosenborg_Trondheim_logo.svg.png",
-    "name1": "Rosenborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/09/Kristiansund_BK_logo.png/500px-Kristiansund_BK_logo.png",
-    "name2": "Kristiansund BK",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "12/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAB56YfVOZMwwUV0ZLVaRHV4u3Ups9MPKgfV0hg2RY1g&s",
-    "name1": "Sandefjord",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQieWc7sJLvgOplOn9HEzNd-6M1PqYKmTdyY3beEi6BwA&s=10",
-    "name2": "Hamkam",
-    "champ": "Norvège. Eliteserien",
-    "heure": "15H00",
-    "date": "12/07/2026",
+    "date": "13/07/2026",
     "pro": "Total: (+1.5)"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/langfr-250px-Logo_Djurg%C3%A5rdens_IF.svg.png",
+    "name1": "Djurgardens",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPURssWjzJ1SY46_FfGqgdHDtN-kXMuplBXCwIR82lLA&s",
+    "name2": "Halmstads",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "13/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
+    "name2": "Dynamo Makhachkala",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "13/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_Wolfsberger_AC.svg/1280px-Logo_Wolfsberger_AC.svg.png",
+    "name1": "Wolfsberger AC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4d/FC_Hradec_Kr%C3%A1lov%C3%A9_logo.png",
+    "name2": "Hradec Kralove",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "13/07/2026",
+    "pro": "1X"
+  },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6IODQoyS_ETkzaAk3lzQSa_qz_85JcvblvuMpHzAgRQ&s=10",
-    "name1": "Sarpsborg 08",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1280px-Logo_Viking_FK.svg.png",
-    "name2": "Viking",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H15",
-    "date": "12/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/1280px-Sk_sigma.svg.png",
+    "name1": "Sigma Olomouc",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Shabab_AlAhli_logo.png/250px-Shabab_AlAhli_logo.png",
+    "name2": "Shabab Al-Ahli Dubai",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "13/07/2026",
+    "pro": "1X"
   }
 ]
