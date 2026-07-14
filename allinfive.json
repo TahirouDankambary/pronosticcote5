@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_FK_Tcheliabinsk_2025.svg/1280px-Logo_FK_Tcheliabinsk_2025.svg.png",
-    "name1": "Tcheliabinsk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c8/SKA-Khabarovsk_Logo.png",
-    "name2": "SKA-Khabarovsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "14H00",
-    "date": "13/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/langfr-250px-Logo_Djurg%C3%A5rdens_IF.svg.png",
-    "name1": "Djurgardens",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPURssWjzJ1SY46_FfGqgdHDtN-kXMuplBXCwIR82lLA&s",
-    "name2": "Halmstads",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "13/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
-    "name1": "Zénith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Dinamo_Makhatchkala_Logo.png",
-    "name2": "Dynamo Makhachkala",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H00",
-    "date": "13/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/Logo_Wolfsberger_AC.svg/1280px-Logo_Wolfsberger_AC.svg.png",
-    "name1": "Wolfsberger AC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4d/FC_Hradec_Kr%C3%A1lov%C3%A9_logo.png",
-    "name2": "Hradec Kralove",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "13/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name1": "Kuopion Palloseura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/49/FK_Vardar_Logo.svg/1920px-FK_Vardar_Logo.svg.png",
+    "name2": "Vardar",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "15H00",
+    "date": "14/07/2026",
     "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9e/Saburtalo_Tbilisi_Logo.png",
+    "name1": "Iberia 1999",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/FC_Flora_%28logo%29.svg/1920px-FC_Flora_%28logo%29.svg.png",
+    "name2": "Flora",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "14/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f0/Inter_Club_Escaldes.png",
+    "name1": "Inter Club d'Escaldes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
+    "name2": "Lincoln Red Imps",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "14/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtm6oPrbYHCBKzR8VUHt4ffrMCXsrAb8RQCg0OTo71RxsCxf2PmO0doeNu&s=10",
+    "name1": "Riga FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Ararat-Armenia_%28logo%29.svg/1280px-FC_Ararat-Armenia_%28logo%29.svg.png",
+    "name2": "Ararat-Armenie",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H00",
+    "date": "14/07/2026",
+    "pro": "Total: (+1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/1280px-Sk_sigma.svg.png",
-    "name1": "Sigma Olomouc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Shabab_AlAhli_logo.png/250px-Shabab_AlAhli_logo.png",
-    "name2": "Shabab Al-Ahli Dubai",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "16H00",
-    "date": "13/07/2026",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/PFC_Levski_Sofia.png",
+    "name1": "Levski Sofia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNfyfTOT4jEXxC5CPBsewiU_IfY1MUHLNxOmp4WIYSA&s",
+    "name2": "Borac Banja Luka",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H30",
+    "date": "14/07/2026",
+    "pro": "1X2 (2UP): V1"
   }
 ]
