@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Derry_City_FC_2017.svg/1280px-Logo_Derry_City_FC_2017.svg.png",
-    "name1": "Derry City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1920px-CSKA_Sofia_logo.svg.png",
-    "name2": "CSKA Sofia",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H30",
-    "date": "16/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Fredrikstad_FK.svg/1280px-Logo_Fredrikstad_FK.svg.png",
+    "name2": "Fredrikstad",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H15",
+    "date": "17/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/MSK_Zilina_%28logo%29.svg/1280px-MSK_Zilina_%28logo%29.svg.png",
-    "name1": "MSK Zilina",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWoiU-YwVRb9CenpkAG9YCM6zytNbWNG0_h5ZbyFN3xA&s=10",
-    "name2": "Hajduk Split",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H30",
-    "date": "16/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQ2taJBNwdxjVqM6S4zuJvb36oed2FyNu4YjZmgvPog&s=10",
+    "name1": "Goteborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/langfr-250px-Logo_IF_Brommapojkarna_2020.svg.png",
+    "name2": "Brommapojkarna",
+    "champ": "Suède. Allsvensskan",
+    "heure": "17H00",
+    "date": "17/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1280px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name1": "Mjallby AIF",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg/1280px-V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg.png",
+    "name2": "Vasteras SK",
+    "champ": "Suède. Allsvensskan",
+    "heure": "17H00",
+    "date": "17/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HSC_Montpellier_Logo.png",
+    "name1": "Montpellier HSC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo_Puy_Foot_43_Auvergne_2017.svg/1920px-Logo_Puy_Foot_43_Auvergne_2017.svg.png",
+    "name2": "Le Puy",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H00",
+    "date": "17/07/2026",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://assets.football-logos.cc/logos/iceland/700x700/vestri.80c5e255.png",
-    "name1": "Vestri",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk15S4jklXjKYTAiPAoLXLcN2T72RrSDepmCQb0ePNhw&s=10",
-    "name2": "Qarabag",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "20H00",
-    "date": "16/07/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/96/FC_Astana_Logo.svg/1280px-FC_Astana_Logo.svg.png",
-    "name1": "Astana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Dinamo_Tirana_Club_Logo.svg/1280px-Dinamo_Tirana_Club_Logo.svg.png",
-    "name2": "Dinamo City",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "15H00",
-    "date": "16/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1280px-FC_Inter_Turku_%28logo%29.svg.png",
-    "name1": "Inter Turku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FK_Sarajevo_%28logo%29.svg/250px-FK_Sarajevo_%28logo%29.svg.png",
-    "name2": "Sarajevo",
-    "champ": "Ligue Conférence de l'UEFA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leyton_Orient_FC.svg/1280px-Logo_Leyton_Orient_FC.svg.png",
+    "name1": "Leyton Orient",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFS--CMbbSi8OLzSsTHPxdHiLD2qBqKdA5F3iY7rBGfA&s=10",
+    "name2": "Lincoln City",
+    "champ": "Matchs amicaux des clubs",
     "heure": "15H00",
-    "date": "16/07/2026",
+    "date": "17/07/2026",
     "pro": "Total: (+1.5)"
   }
 ]
