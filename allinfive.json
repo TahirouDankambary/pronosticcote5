@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/3840px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Fredrikstad_FK.svg/1280px-Logo_Fredrikstad_FK.svg.png",
-    "name2": "Fredrikstad",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lillestr%C3%B8m_SK.png/250px-Lillestr%C3%B8m_SK.png",
+    "name1": "Lillestrom",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_KFUM-Kameratene_Oslo.svg/1280px-Logo_KFUM-Kameratene_Oslo.svg.png",
+    "name2": "KFUM-Kameratene",
     "champ": "Norvège. Eliteserien",
-    "heure": "17H15",
-    "date": "17/07/2026",
+    "heure": "14H00",
+    "date": "18/07/2026",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
+    "name1": "IK Start",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rosenborg_BK.png",
+    "name2": "Rosenborg",
+    "champ": "Norvège. Eliteserien",
+    "heure": "14H00",
+    "date": "18/07/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1280px-Logo_Viking_FK.svg.png",
+    "name1": "Viking",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOudZMO5WAs13S81upGnsDcdChN2Tk0nAEol0gAxPkQ&s=10",
+    "name2": "Sandefjord",
+    "champ": "Norvège. Eliteserien",
+    "heure": "16H00",
+    "date": "18/07/2026",
     "pro": "V1"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQ2taJBNwdxjVqM6S4zuJvb36oed2FyNu4YjZmgvPog&s=10",
-    "name1": "Goteborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/langfr-250px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name2": "Brommapojkarna",
-    "champ": "Suède. Allsvensskan",
-    "heure": "17H00",
-    "date": "17/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1280px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
-    "name1": "Mjallby AIF",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg/1280px-V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg.png",
-    "name2": "Vasteras SK",
-    "champ": "Suède. Allsvensskan",
-    "heure": "17H00",
-    "date": "17/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HSC_Montpellier_Logo.png",
-    "name1": "Montpellier HSC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo_Puy_Foot_43_Auvergne_2017.svg/1920px-Logo_Puy_Foot_43_Auvergne_2017.svg.png",
-    "name2": "Le Puy",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "17/07/2026",
-    "pro": "Total: (+1.5)"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leyton_Orient_FC.svg/1280px-Logo_Leyton_Orient_FC.svg.png",
-    "name1": "Leyton Orient",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFS--CMbbSi8OLzSsTHPxdHiLD2qBqKdA5F3iY7rBGfA&s=10",
-    "name2": "Lincoln City",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H00",
-    "date": "17/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
+    "name1": "Molde",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
+    "name2": "Brann",
+    "champ": "Norvège. Eliteserien",
+    "heure": "16H00",
+    "date": "18/07/2026",
+    "pro": "1X"
   }
 ]
