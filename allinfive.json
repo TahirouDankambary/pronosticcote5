@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lillestr%C3%B8m_SK.png/250px-Lillestr%C3%B8m_SK.png",
-    "name1": "Lillestrom",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_KFUM-Kameratene_Oslo.svg/1280px-Logo_KFUM-Kameratene_Oslo.svg.png",
-    "name2": "KFUM-Kameratene",
-    "champ": "Norvège. Eliteserien",
-    "heure": "14H00",
-    "date": "18/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CN9LZMsjQ_kLKUiY8M-cGEN6Rq50tqGszHk5JU-g9w&s=10",
+    "name1": "Halmstads",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
+    "name2": "Hacken",
+    "champ": "Suède. Allsvenskan",
+    "heure": "14H30",
+    "date": "19/07/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_Hammarby_IF.svg/1280px-Logo_Hammarby_IF.svg.png",
+    "name1": "Hammarby",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYPrI2PgTKW_QOxyWVX_hCN0YNSHRl1ei9UWPdE_QmA&s=10",
+    "name2": "Degerfors",
+    "champ": "Suède. Allsvenskan",
+    "heure": "14H30",
+    "date": "19/07/2026",
+    "pro": "1X2 (2UP): V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/langfr-250px-IF_Elfsborg_%28logo%29.svg.png",
+    "name1": "Elfsborg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
+    "name2": "Sirius",
+    "champ": "Suède. Allsvenskan",
+    "heure": "14H30",
+    "date": "19/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AVWMzbinrFXC24qqB7ERbAPD9p-YmZgone7IugFJiQ&s",
+    "name1": "Sochi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4c/FC_Spartak_Kostroma_Logo_2022.svg/1920px-FC_Spartak_Kostroma_Logo_2022.svg.png",
+    "name2": "Spartak Kostroma",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "15H00",
+    "date": "19/07/2026",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Start_Kristiansand_Logo.svg/1280px-Start_Kristiansand_Logo.svg.png",
-    "name1": "IK Start",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rosenborg_BK.png",
-    "name2": "Rosenborg",
-    "champ": "Norvège. Eliteserien",
-    "heure": "14H00",
-    "date": "18/07/2026",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309r_OwpXKNtwlTtmPsHk2wWM9JlMdo6g_OBJR0L75A&s=10",
+    "name1": "Torpedo Moscou",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0e/FC_Volga_Ulyanovsk_logo.png",
+    "name2": "Volga Ulyanovsk",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "15H30",
+    "date": "19/07/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1280px-Logo_Viking_FK.svg.png",
-    "name1": "Viking",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOudZMO5WAs13S81upGnsDcdChN2Tk0nAEol0gAxPkQ&s=10",
-    "name2": "Sandefjord",
-    "champ": "Norvège. Eliteserien",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/FC_Arsenal_Tula_%28logo%29.svg/1280px-FC_Arsenal_Tula_%28logo%29.svg.png",
+    "name1": "Arsenal Tula",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/FK_Neftekhimik_Nijnekamsk.png",
+    "name2": "Neftekhimik Nijnekamsk",
+    "champ": "Russie. 1ère Ligue",
     "heure": "16H00",
-    "date": "18/07/2026",
-    "pro": "V1"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1280px-Molde_Fotball_Logo.svg.png",
-    "name1": "Molde",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/1280px-Brann_logo.svg.png",
-    "name2": "Brann",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "18/07/2026",
-    "pro": "1X"
+    "date": "19/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
