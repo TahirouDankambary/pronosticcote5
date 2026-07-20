@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6CN9LZMsjQ_kLKUiY8M-cGEN6Rq50tqGszHk5JU-g9w&s=10",
-    "name1": "Halmstads",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
-    "name2": "Hacken",
-    "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "19/07/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMlmrlTf7m_fLZriBlCp-CAs1lJg7x7Xj-1loxi40RWg&s=10",
+    "name1": "Rotor Volgograd",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Y4txq5drgBtKew_TX8VlSmowpTJEDxQ0MxDb-Abr_g&s=10",
+    "name2": "SKA Khabarovsk",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "16H30",
+    "date": "20/07/2026",
+    "pro": "Corners, Total: (+7.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_Hammarby_IF.svg/1280px-Logo_Hammarby_IF.svg.png",
-    "name1": "Hammarby",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYPrI2PgTKW_QOxyWVX_hCN0YNSHRl1ei9UWPdE_QmA&s=10",
-    "name2": "Degerfors",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjy9pWDrflbFrHJH8emNx0QU-mB1sGu7x-W4wbhU0QQ&s",
+    "name1": "Kalmar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/960px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name2": "Malmo",
     "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "19/07/2026",
-    "pro": "1X2 (2UP): V1"
+    "heure": "17H00",
+    "date": "20/07/2026",
+    "pro": "2ème mi-temps, Double chance: 2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/IF_Elfsborg_%28logo%29.svg/langfr-250px-IF_Elfsborg_%28logo%29.svg.png",
-    "name1": "Elfsborg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
-    "name2": "Sirius",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Orgryte_IS_logo.svg/1920px-Orgryte_IS_logo.svg.png",
+    "name1": "Orgryte",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYkBErr3rzdL_FYSrZ9atO6kFTUoivUlh7tm6cOs9aw&s=10",
+    "name2": "Djurgardens",
     "champ": "Suède. Allsvenskan",
-    "heure": "14H30",
-    "date": "19/07/2026",
+    "heure": "17H00",
+    "date": "20/07/2026",
+    "pro": "Corners, 1X2: V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Norrby_IF_logo.svg/1280px-Norrby_IF_logo.svg.png",
+    "name1": "Norrby",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtw1tXA0egm3-ptusY0Dt0LBei_0Psiv1pbZwU4OPFUA&s=10",
+    "name2": "Sundsvall",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "20/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AVWMzbinrFXC24qqB7ERbAPD9p-YmZgone7IugFJiQ&s",
-    "name1": "Sochi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4c/FC_Spartak_Kostroma_Logo_2022.svg/1920px-FC_Spartak_Kostroma_Logo_2022.svg.png",
-    "name2": "Spartak Kostroma",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H00",
-    "date": "19/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT309r_OwpXKNtwlTtmPsHk2wWM9JlMdo6g_OBJR0L75A&s=10",
-    "name1": "Torpedo Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0e/FC_Volga_Ulyanovsk_logo.png",
-    "name2": "Volga Ulyanovsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "15H30",
-    "date": "19/07/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/FC_Arsenal_Tula_%28logo%29.svg/1280px-FC_Arsenal_Tula_%28logo%29.svg.png",
-    "name1": "Arsenal Tula",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/FK_Neftekhimik_Nijnekamsk.png",
-    "name2": "Neftekhimik Nijnekamsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "19/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3j5Nx18Sf-RmECJ6Cu8CE5sCfo-Yk9758EXELrbImg&s=10",
+    "name1": "Al-Sailiya",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm9JZCi59q13zRcVszYpkGwAsF7w_ovxvzmHfcWbhGAA&s=10",
+    "name2": "Al Nasr Dubai",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H20",
+    "date": "20/07/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
