@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMlmrlTf7m_fLZriBlCp-CAs1lJg7x7Xj-1loxi40RWg&s=10",
-    "name1": "Rotor Volgograd",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Y4txq5drgBtKew_TX8VlSmowpTJEDxQ0MxDb-Abr_g&s=10",
-    "name2": "SKA Khabarovsk",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H30",
-    "date": "20/07/2026",
-    "pro": "Corners, Total: (+7.5)"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjy9pWDrflbFrHJH8emNx0QU-mB1sGu7x-W4wbhU0QQ&s",
-    "name1": "Kalmar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/960px-Logo_Malm%C3%B6_FF_2000.svg.png",
-    "name2": "Malmo",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "20/07/2026",
-    "pro": "2ème mi-temps, Double chance: 2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Orgryte_IS_logo.svg/1920px-Orgryte_IS_logo.svg.png",
-    "name1": "Orgryte",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYkBErr3rzdL_FYSrZ9atO6kFTUoivUlh7tm6cOs9aw&s=10",
-    "name2": "Djurgardens",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "20/07/2026",
-    "pro": "Corners, 1X2: V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Norrby_IF_logo.svg/1280px-Norrby_IF_logo.svg.png",
-    "name1": "Norrby",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtw1tXA0egm3-ptusY0Dt0LBei_0Psiv1pbZwU4OPFUA&s=10",
-    "name2": "Sundsvall",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "20/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
+    "name1": "Ararat-Aemenie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Shamrock_Rovers_FC_2023.svg/960px-Logo_Shamrock_Rovers_FC_2023.svg.png",
+    "name2": "Shamrock Rovers",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "21/07/2026",
     "pro": "Total: (+1.5)"
   },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
+    "name1": "Iberia 1999",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
+    "name2": "Slovan Bratislava",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "21/07/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name1": "Mjallby AIF",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/3840px-Lincoln_Red_Imps_%28logo%29.svg.png",
+    "name2": "Lincoln Red Imps",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "21/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3j5Nx18Sf-RmECJ6Cu8CE5sCfo-Yk9758EXELrbImg&s=10",
-    "name1": "Al-Sailiya",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm9JZCi59q13zRcVszYpkGwAsF7w_ovxvzmHfcWbhGAA&s=10",
-    "name2": "Al Nasr Dubai",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H20",
-    "date": "20/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png",
+    "name1": "Sabah Baku",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
+    "name2": "Kuopion Palloseura",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "16H00",
+    "date": "21/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
+    "name1": "AGF Aarhus",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
+    "name2": "Lech Poznan",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "17H00",
+    "date": "21/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE6GuZRiHuRZKmZBUUSNWtxE7D3821tEZ-efDVHz2nQ&s=10",
+    "name1": "Thun",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
+    "name2": "Dinamo Zagreb",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H00",
+    "date": "21/07/2026",
     "pro": "Total: (+1.5)"
   }
 ]
