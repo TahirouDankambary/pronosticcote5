@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
-    "name1": "Ararat-Aemenie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Shamrock_Rovers_FC_2023.svg/960px-Logo_Shamrock_Rovers_FC_2023.svg.png",
-    "name2": "Shamrock Rovers",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKYQQhvL18G_d9W91u7P0RZtbxhW7Wf9HB_FLB3awLw&s=10",
+    "name1": "AC Omonia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/FC_Kairat_%28logo%29.svg/500px-FC_Kairat_%28logo%29.svg.png",
+    "name2": "Kairat",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "21/07/2026",
+    "heure": "17H00",
+    "date": "22/07/2026",
     "pro": "Total: (+1.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
-    "name1": "Iberia 1999",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
-    "name2": "Slovan Bratislava",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/f/fb/20170711094004%21PFC_Levski_Sofia.png",
+    "name1": "Levski Sofia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_Universitatea_Craiova.svg/langfr-250px-Logo_Universitatea_Craiova.svg.png",
+    "name2": "CS Universitatea Craiova",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "21/07/2026",
-    "pro": "Total: (+2)"
+    "heure": "17H30",
+    "date": "22/07/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/3840px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
-    "name1": "Mjallby AIF",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/3840px-Lincoln_Red_Imps_%28logo%29.svg.png",
-    "name2": "Lincoln Red Imps",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
+    "name1": "Egnatia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png",
+    "name2": "Celje",
     "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "21/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "heure": "19H00",
+    "date": "22/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png",
-    "name1": "Sabah Baku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/25/Logo_KuPS_Kuopio_2021.png",
-    "name2": "Kuopion Palloseura",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H00",
-    "date": "21/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
-    "name1": "AGF Aarhus",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
-    "name2": "Lech Poznan",
-    "champ": "Ligue des champions de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Um8U4Ff2HasBxA_tk05va16PoglUxB4G1THWGWl61ltoZRKkDKssa58&s=10",
+    "name1": "Bohemian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/FC_Ballkani.svg/500px-FC_Ballkani.svg.png",
+    "name2": "Ballkani",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "17H00",
-    "date": "21/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbE6GuZRiHuRZKmZBUUSNWtxE7D3821tEZ-efDVHz2nQ&s=10",
-    "name1": "Thun",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
-    "name2": "Dinamo Zagreb",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "18H00",
-    "date": "21/07/2026",
+    "date": "22/07/2026",
     "pro": "Total: (+1.5)"
   }
 ]
