@@ -1,52 +1,42 @@
 [
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk15S4jklXjKYTAiPAoLXLcN2T72RrSDepmCQb0ePNhw&s=10",
-    "name1": "Qarabag",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CSKA_Sofia_logo.svg/1920px-CSKA_Sofia_logo.svg.png",
-    "name2": "CSKA Sofia",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "16H00",
-    "date": "23/07/2026",
-    "pro": "1X"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/330px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1920px-PAOK_FC_logo.svg.png",
-    "name2": "PAOK",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "23/07/2026",
-    "pro": "Total: (+1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_Troms%C3%B8_IL_2020.svg/960px-Logo_Troms%C3%B8_IL_2020.svg.png?_=20241213152102",
-    "name1": "Tromso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/4/4d/FC_Hradec_Kr%C3%A1lov%C3%A9_logo.png",
-    "name2": "Hradec Kralove",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "23/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://seeklogo.com/images/F/fc-strani-logo-34DA075C4A-seeklogo.com.png",
+    "name1": "Strani",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092017/fc_vsetin.gif?itok=P40tXNzt",
+    "name2": "Vsetin",
+    "champ": "Coupe de République Tchèque",
+    "heure": "16H00",
+    "date": "24/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ab/Logo_Hammarby_IF.svg/1280px-Logo_Hammarby_IF.svg.png",
-    "name1": "Hammarby",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
-    "name2": "Anderlecht",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "17H00",
-    "date": "23/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://fotbalunas.cz/cache/a/3/5/f/7/a35f73dcb9c5a4e355d19c8b0f18ebf3a7a9de2e.png",
+    "name1": "Tatran Vsechovice",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8LrditzmwiVxV7f5CcO3qRCjjaYDddDbARQq3l5UrQ&s=10",
+    "name2": "Hlubina",
+    "champ": "Coupe de République Tchèque",
+    "heure": "16H00",
+    "date": "24/07/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FC_St._Gallen_logo.svg/500px-FC_St._Gallen_logo.svg.png",
-    "name1": "Saint-Gall",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEAFluaEkwZI2GIgit5NMI0tBG6Sx-UmLRH8Vo-gujA&s=10",
-    "name2": "Benfica",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "18H00",
-    "date": "23/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/1280px-Logo_Viborg_FF.svg.png",
+    "name1": "Viborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/3840px-Odense_Boldklub.svg.png",
+    "name2": "Odense",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "24/07/2026",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_FF_Jaro_2008.svg/1280px-Logo_FF_Jaro_2008.svg.png",
+    "name1": "FF Jaro",
+    "photo2": "https://toppng.com/uploads/preview/seinajoen-jalkapallokerho-vector-logo-11573847121mt6dbztuag.png",
+    "name2": "Seinajoen Jalkapallokenttä",
+    "champ": "Finlande. Veikkausliiga",
+    "heure": "16H00",
+    "date": "24/07/2026",
+    "pro": "Total: (+2)"
   }
 ]
