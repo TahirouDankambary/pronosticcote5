@@ -1,42 +1,52 @@
 [
-    {
-    "photo1": "https://seeklogo.com/images/F/fc-strani-logo-34DA075C4A-seeklogo.com.png",
-    "name1": "Strani",
-    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092017/fc_vsetin.gif?itok=P40tXNzt",
-    "name2": "Vsetin",
-    "champ": "Coupe de République Tchèque",
-    "heure": "16H00",
-    "date": "24/07/2026",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLyKZ3w8Krl1LQH2u0dKUi2vqRj7vidxdzgQ7TvkFfg&s=10",
+    "name1": "PAOK (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/2/2a/%D0%9D%D0%B5%D1%84%D1%82%D1%87%D0%B8_%D0%91%D0%B0%D0%BA%D1%83_logo.png",
+    "name2": "Neftchi Baku (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "15H30",
+    "date": "25/07/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/lt/4/43/Spartak_Myjava_logo.png",
+    "name1": "Spartak Myjava (Femmes)",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/ea/M%C4%A1arr_United_F.C._logo.png",
+    "name2": "Mgarr United (Femmes)",
+    "champ": "UEFA. Femmes",
+    "heure": "17H00",
+    "date": "25/07/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://fotbalunas.cz/cache/a/3/5/f/7/a35f73dcb9c5a4e355d19c8b0f18ebf3a7a9de2e.png",
-    "name1": "Tatran Vsechovice",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8LrditzmwiVxV7f5CcO3qRCjjaYDddDbARQq3l5UrQ&s=10",
-    "name2": "Hlubina",
-    "champ": "Coupe de République Tchèque",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FK_Tekstilshchik_Ivanovo_Logo_2008.svg/1280px-FK_Tekstilshchik_Ivanovo_Logo_2008.svg.png",
+    "name1": "Tekstilshchik Ivanovo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiq0tR6PjnvhCbX6DxxIARYpcBaD4PTpF_oUuOI59IA&s=10",
+    "name2": "Spartak Kostroma",
+    "champ": "Russie. 1ère Ligue",
     "heure": "16H00",
-    "date": "24/07/2026",
-    "pro": "Total: (+2.5)"
+    "date": "25/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/1280px-Logo_Viborg_FF.svg.png",
-    "name1": "Viborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Odense_Boldklub.svg/3840px-Odense_Boldklub.svg.png",
-    "name2": "Odense",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "24/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/64/Wacker_Innsbruck.png",
+    "name1": "Wacker Innsbruck",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/7/72/SVG_Reichenau_Logo.svg/3840px-SVG_Reichenau_Logo.svg.png",
+    "name2": "Reichenau",
+    "champ": "Coupe d'Autriche",
+    "heure": "16H00",
+    "date": "25/07/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_FF_Jaro_2008.svg/1280px-Logo_FF_Jaro_2008.svg.png",
-    "name1": "FF Jaro",
-    "photo2": "https://toppng.com/uploads/preview/seinajoen-jalkapallokerho-vector-logo-11573847121mt6dbztuag.png",
-    "name2": "Seinajoen Jalkapallokenttä",
-    "champ": "Finlande. Veikkausliiga",
+    "photo1": "https://www.wiener-viktoria.at/MEDIA/cropped-SC_Wiener_Viktoria_Wiener_Viktoria_Rabe_rot_RGB.png",
+    "name1": "Wiener Viktoria",
+    "photo2": "https://images.seeklogo.com/logo-png/19/1/sc-esv-parndorf-logo-png_seeklogo-190149.png",
+    "name2": "SC ESV Parndorf",
+    "champ": "Coupe d'Autriche",
     "heure": "16H00",
-    "date": "24/07/2026",
+    "date": "25/07/2026",
     "pro": "Total: (+2)"
   }
 ]
