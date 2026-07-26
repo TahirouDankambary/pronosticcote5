@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLyKZ3w8Krl1LQH2u0dKUi2vqRj7vidxdzgQ7TvkFfg&s=10",
-    "name1": "PAOK (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/2/2a/%D0%9D%D0%B5%D1%84%D1%82%D1%87%D0%B8_%D0%91%D0%B0%D0%BA%D1%83_logo.png",
-    "name2": "Neftchi Baku (Femmes)",
-    "champ": "UEFA. Femmes",
-    "heure": "15H30",
-    "date": "25/07/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lt/4/43/Spartak_Myjava_logo.png",
-    "name1": "Spartak Myjava (Femmes)",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/ea/M%C4%A1arr_United_F.C._logo.png",
-    "name2": "Mgarr United (Femmes)",
-    "champ": "UEFA. Femmes",
-    "heure": "17H00",
-    "date": "25/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/FC_Rubin_Kazan_%28logo%29.svg/1920px-FC_Rubin_Kazan_%28logo%29.svg.png",
+    "name1": "Rubin Kazan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/1280px-FC_Krasnodar_2016_Logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H30",
+    "date": "26/07/2026",
     "pro": "Total: (+2)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FK_Tekstilshchik_Ivanovo_Logo_2008.svg/1280px-FK_Tekstilshchik_Ivanovo_Logo_2008.svg.png",
-    "name1": "Tekstilshchik Ivanovo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiq0tR6PjnvhCbX6DxxIARYpcBaD4PTpF_oUuOI59IA&s=10",
-    "name2": "Spartak Kostroma",
-    "champ": "Russie. 1ère Ligue",
-    "heure": "16H00",
-    "date": "25/07/2026",
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhbrSTZFo_PwB07yzfR-bPv9ndF_h3Xh8sxm1akbb9w&s",
+    "name1": "Bahia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/SC_Corinthians_Paulista_logo.svg/1920px-SC_Corinthians_Paulista_logo.svg.png",
+    "name2": "Corinthians Paulista",
+    "champ": "Brésil. Série A",
+    "heure": "19H00",
+    "date": "26/07/2026",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/64/Wacker_Innsbruck.png",
-    "name1": "Wacker Innsbruck",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/7/72/SVG_Reichenau_Logo.svg/3840px-SVG_Reichenau_Logo.svg.png",
-    "name2": "Reichenau",
-    "champ": "Coupe d'Autriche",
-    "heure": "16H00",
-    "date": "25/07/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/1280px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+    "name1": "Cruzeiro Esporte",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/960px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
+    "name2": "Botafogo de Futebol",
+    "champ": "Brésil. Série A",
+    "heure": "19H00",
+    "date": "26/07/2026",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://www.wiener-viktoria.at/MEDIA/cropped-SC_Wiener_Viktoria_Wiener_Viktoria_Rabe_rot_RGB.png",
-    "name1": "Wiener Viktoria",
-    "photo2": "https://images.seeklogo.com/logo-png/19/1/sc-esv-parndorf-logo-png_seeklogo-190149.png",
-    "name2": "SC ESV Parndorf",
-    "champ": "Coupe d'Autriche",
-    "heure": "16H00",
-    "date": "25/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/3/3f/Lyngby_BK.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Lyngby",
+    "champ": "Danemark. Superliga",
+    "heure": "14H00",
+    "date": "26/07/2026",
+    "pro": "1X"
   }
 ]
