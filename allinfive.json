@@ -1,42 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/FC_Rubin_Kazan_%28logo%29.svg/1920px-FC_Rubin_Kazan_%28logo%29.svg.png",
-    "name1": "Rubin Kazan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/FC_Krasnodar_2016_Logo.svg/1280px-FC_Krasnodar_2016_Logo.svg.png",
-    "name2": "Krasnodar",
-    "champ": "Russie. Première Ligue",
-    "heure": "16H30",
-    "date": "26/07/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/SK_Artis_Brno_logo.svg/1280px-SK_Artis_Brno_logo.svg.png",
+    "name1": "Artis Brno",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pdXTterJARReS5PriZB2-vpfKfOsC0PcmhdJj4rZ1A&s=10",
+    "name2": "Mlada Boleslav",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "16H00",
+    "date": "27/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1280px-Logo_Randers_FC_2023.svg.png",
+    "name1": "Randers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11rZ0P6IEuMKiroKuqWzo1VT7XiZcdsy2o8jW_wFtgA&s=10",
+    "name2": "Silkeborg",
+    "champ": "Danemark. Superliga",
+    "heure": "17H00",
+    "date": "27/07/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhbrSTZFo_PwB07yzfR-bPv9ndF_h3Xh8sxm1akbb9w&s",
-    "name1": "Bahia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/SC_Corinthians_Paulista_logo.svg/1920px-SC_Corinthians_Paulista_logo.svg.png",
-    "name2": "Corinthians Paulista",
-    "champ": "Brésil. Série A",
-    "heure": "19H00",
-    "date": "26/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rosenborg_BK.png",
+    "name1": "Rosenborg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Fredrikstad_FK.svg/3840px-Logo_Fredrikstad_FK.svg.png",
+    "name2": "Fredrikstad",
+    "champ": "Norvège. Eliteserien",
+    "heure": "17H00",
+    "date": "27/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/1280px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
-    "name1": "Cruzeiro Esporte",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/960px-Botafogo_de_Futebol_e_Regatas_logo.svg.png",
-    "name2": "Botafogo de Futebol",
-    "champ": "Brésil. Série A",
-    "heure": "19H00",
-    "date": "26/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
+    "name1": "Hacken",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcEehgCP2mPUnoRWLXVA0kvrRy0Y66RbFdYX1yJxvJA&s=10",
+    "name2": "AIK Fotboll",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "27/07/2026",
+    "pro": "Total: (+2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
-    "name1": "Copenhague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/3/3f/Lyngby_BK.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Lyngby",
-    "champ": "Danemark. Superliga",
-    "heure": "14H00",
-    "date": "26/07/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ncvdt12BYBwwxgjerpiL3agbotJfAjxj1xnLZSjRkg&s=10",
+    "name1": "KAMAZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
+    "name2": "Rotor Volgograd",
+    "champ": "Russie. 1ère Ligue",
+    "heure": "17H00",
+    "date": "27/07/2026",
+    "pro": "2X"
   }
 ]
