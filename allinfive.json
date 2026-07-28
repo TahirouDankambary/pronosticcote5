@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/SK_Artis_Brno_logo.svg/1280px-SK_Artis_Brno_logo.svg.png",
-    "name1": "Artis Brno",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pdXTterJARReS5PriZB2-vpfKfOsC0PcmhdJj4rZ1A&s=10",
-    "name2": "Mlada Boleslav",
-    "champ": "Tchéquie. Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
+    "name1": "Lincoln Red Imps",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
+    "name2": "Mjallby AIF",
+    "champ": "Ligue des Champions de l'UEFA",
     "heure": "16H00",
-    "date": "27/07/2026",
+    "date": "28/07/2026",
     "pro": "Total: (+1.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1280px-Logo_Randers_FC_2023.svg.png",
-    "name1": "Randers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11rZ0P6IEuMKiroKuqWzo1VT7XiZcdsy2o8jW_wFtgA&s=10",
-    "name2": "Silkeborg",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
+    "name1": "Dinamo Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FC_Thun_Logo_2011.svg/1920px-FC_Thun_Logo_2011.svg.png",
+    "name2": "Thun",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "18H00",
+    "date": "28/07/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rosenborg_BK.png",
-    "name1": "Rosenborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Fredrikstad_FK.svg/3840px-Logo_Fredrikstad_FK.svg.png",
-    "name2": "Fredrikstad",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "27/07/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png",
+    "name1": "Celje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
+    "name2": "Egnatia",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "18H15",
+    "date": "28/07/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
-    "name1": "Hacken",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcEehgCP2mPUnoRWLXVA0kvrRy0Y66RbFdYX1yJxvJA&s=10",
-    "name2": "AIK Fotboll",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "Total: (+2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Heart_of_Midlothian_FC_logo.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "18H45",
+    "date": "28/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ncvdt12BYBwwxgjerpiL3agbotJfAjxj1xnLZSjRkg&s=10",
-    "name1": "KAMAZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/de/Rotor_Volgograd_2018.png",
-    "name2": "Rotor Volgograd",
-    "champ": "Russie. 1ère Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Apollon_Limassol_FC_logo.svg/3840px-Apollon_Limassol_FC_logo.svg.png",
+    "name1": "Apollon Limassol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/FC_Dila_Gori_%28Logo%29.png",
+    "name2": "Dila Gori",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "17H00",
-    "date": "27/07/2026",
-    "pro": "2X"
+    "date": "28/07/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
