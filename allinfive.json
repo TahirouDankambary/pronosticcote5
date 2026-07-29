@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Lincoln_Red_Imps_%28logo%29.svg/1280px-Lincoln_Red_Imps_%28logo%29.svg.png",
-    "name1": "Lincoln Red Imps",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
-    "name2": "Mjallby AIF",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "16H00",
-    "date": "28/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
-    "name1": "Dinamo Zagreb",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FC_Thun_Logo_2011.svg/1920px-FC_Thun_Logo_2011.svg.png",
-    "name2": "Thun",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H00",
-    "date": "28/07/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png",
-    "name1": "Celje",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Egnatia_Club_Logo.svg/1920px-Egnatia_Club_Logo.svg.png",
-    "name2": "Egnatia",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyI28i78QR8bAs1iEIoSw_tAY5DpdF5A_6RDTAMKBxA&s=10",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
+    "name2": "Iberia 1999",
     "champ": "Ligue des Champions de l'UEFA",
     "heure": "18H15",
-    "date": "28/07/2026",
-    "pro": "Total: (+2)"
+    "date": "29/07/2026",
+    "pro": "V1"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Heart_of_Midlothian_FC_logo.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name2": "Sturm Graz",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H45",
-    "date": "28/07/2026",
-    "pro": "Total: (+2)"
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/FC_Dukagjini_Logo.svg/1280px-FC_Dukagjini_Logo.svg.png",
+    "name1": "Dukagjini",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FC_Lugano_logo.svg/3840px-FC_Lugano_logo.svg.png",
+    "name2": "Lugano",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "14H30",
+    "date": "29/07/2026",
+    "pro": "12"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Apollon_Limassol_FC_logo.svg/3840px-Apollon_Limassol_FC_logo.svg.png",
-    "name1": "Apollon Limassol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/FC_Dila_Gori_%28Logo%29.png",
-    "name2": "Dila Gori",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://pandastorage.b-cdn.net/watchupl/uploadedImage/41150477/FC_Polissya_Logopng_41150477_1722468620.png",
+    "name2": "Polissya Zhytomyr",
     "champ": "Ligue Conférence de l'UEFA",
     "heure": "17H00",
-    "date": "28/07/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "29/07/2026",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
+    "name1": "Rapid Vienne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk63WuF8wGnaVDw_9L1TULB5T6_oTpywjpGmrYO5po5w&s=10",
+    "name2": "Santa Coloma",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "29/07/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwnexLg7y6j4hj0z9Wvyylp5-flLxUlcTwg-F8uM-SQ&s",
+    "name1": "Ilpar",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8HFuykq6NHOJDiwUDXtzMiB_AOzfNc0HGSuwx5YjXQ&s=10",
+    "name2": "Metallurg Asha",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "29/07/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8jyWdxz9LjtvWzPhtlNjB-_wgmpOnuIA3CecMP147Q&s=10",
+    "name1": "Kirovets Voshozhdenie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfbbV6Vj7b9xIChWWOOJBSZ7oRXUrxPf_1E7pXr_PMw&s=10",
+    "name2": "Tosno",
+    "champ": "Coupe de Russie",
+    "heure": "15H00",
+    "date": "29/07/2026",
+    "pro": "12"
   }
 ]
