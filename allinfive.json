@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyI28i78QR8bAs1iEIoSw_tAY5DpdF5A_6RDTAMKBxA&s=10",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/65/Saburtalo_Tbilissi_Logo_2021.png",
-    "name2": "Iberia 1999",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "18H15",
-    "date": "29/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkL8ssC94XbcZOe6Kxrlj6Zn5Oy5hwYEIwRu_hxFh8JQ&s=10",
+    "name1": "Zira",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBn1uFdLrPMJ80cgGHHcD56UkI5aaGoKksw5H2jZBfJQ&s=10",
+    "name2": "Paide Linnameeskond",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "30/07/2026",
     "pro": "V1"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/FC_Dukagjini_Logo.svg/1280px-FC_Dukagjini_Logo.svg.png",
-    "name1": "Dukagjini",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FC_Lugano_logo.svg/3840px-FC_Lugano_logo.svg.png",
-    "name2": "Lugano",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtySdd9M0gM-BWSSARqLgq9RYwaLiOqrXTng5cBvsLg&s=10",
+    "name1": "Ilves",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49AMTgrF42c5wpheU5LCbhco30i3v-lu6F34PlzEQ0w&s=10",
+    "name2": "Stjarnan",
     "champ": "Ligue Conférence de l'UEFA",
-    "heure": "14H30",
-    "date": "29/07/2026",
+    "heure": "16H00",
+    "date": "30/07/2026",
     "pro": "12"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_FC_Copenhagen_%281992-2024%29.svg/3840px-Logo_FC_Copenhagen_%281992-2024%29.svg.png",
-    "name1": "Copenhague",
-    "photo2": "https://pandastorage.b-cdn.net/watchupl/uploadedImage/41150477/FC_Polissya_Logopng_41150477_1722468620.png",
-    "name2": "Polissya Zhytomyr",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf1T5T6pl06XkZHjg8VOvPaSnKXPAQUyycoxOozVpFw&s=10",
+    "name1": "Inter Turku",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtrZ2wVTAUy53IutXkUwHKUY_TnL8YHnoiAKNrYfewyQ&s=10",
+    "name2": "Istanbul Buyuksehir",
     "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "29/07/2026",
-    "pro": "Total: (+2)"
+    "heure": "16H00",
+    "date": "30/07/2026",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
-    "name1": "Rapid Vienne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk63WuF8wGnaVDw_9L1TULB5T6_oTpywjpGmrYO5po5w&s=10",
-    "name2": "Santa Coloma",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREj0HTRttiblmDYJXGGHYHruxxDWr6C6dtlbpbu5keA&s=10",
+    "name1": "Nomme Kalju",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/500px-Shelbourne_FC.svg.png?_=20131217000550",
+    "name2": "Shelbourne",
     "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H30",
-    "date": "29/07/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwnexLg7y6j4hj0z9Wvyylp5-flLxUlcTwg-F8uM-SQ&s",
-    "name1": "Ilpar",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8HFuykq6NHOJDiwUDXtzMiB_AOzfNc0HGSuwx5YjXQ&s=10",
-    "name2": "Metallurg Asha",
-    "champ": "Coupe de Russie",
-    "heure": "14H00",
-    "date": "29/07/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8jyWdxz9LjtvWzPhtlNjB-_wgmpOnuIA3CecMP147Q&s=10",
-    "name1": "Kirovets Voshozhdenie",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfbbV6Vj7b9xIChWWOOJBSZ7oRXUrxPf_1E7pXr_PMw&s=10",
-    "name2": "Tosno",
-    "champ": "Coupe de Russie",
-    "heure": "15H00",
-    "date": "29/07/2026",
-    "pro": "12"
+    "heure": "16H00",
+    "date": "30/07/2026",
+    "pro": "2X"
   }
 ]
