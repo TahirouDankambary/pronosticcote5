@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkL8ssC94XbcZOe6Kxrlj6Zn5Oy5hwYEIwRu_hxFh8JQ&s=10",
-    "name1": "Zira",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBn1uFdLrPMJ80cgGHHcD56UkI5aaGoKksw5H2jZBfJQ&s=10",
-    "name2": "Paide Linnameeskond",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTstETPWt-AnKWl3Jd54N1KPeq_tSWgSMirlVX6TwX7zw&s=10",
+    "name1": "Motor Lublin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/57/FC_Jagiellonia_Bialystok.png",
+    "name2": "Jagiellonia Białystok",
+    "champ": "Championnat de Pologne",
+    "heure": "18H30",
+    "date": "31/07/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtySdd9M0gM-BWSSARqLgq9RYwaLiOqrXTng5cBvsLg&s=10",
-    "name1": "Ilves",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49AMTgrF42c5wpheU5LCbhco30i3v-lu6F34PlzEQ0w&s=10",
-    "name2": "Stjarnan",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+    "name1": "Sparta Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/f/fc/FC_Zlin_logo.png",
+    "name2": "Zlin",
+    "champ": "Tchéquie. Première Ligue",
+    "heure": "17H00",
+    "date": "31/07/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGf1T5T6pl06XkZHjg8VOvPaSnKXPAQUyycoxOozVpFw&s=10",
-    "name1": "Inter Turku",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtrZ2wVTAUy53IutXkUwHKUY_TnL8YHnoiAKNrYfewyQ&s=10",
-    "name2": "Istanbul Buyuksehir",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/IK_Oddevold_logo.svg/1280px-IK_Oddevold_logo.svg.png",
+    "name1": "Oddevold",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Norrby_IF_logo.svg/1280px-Norrby_IF_logo.svg.png",
+    "name2": "Norrby",
+    "champ": "Suède. Superettan",
+    "heure": "17H00",
+    "date": "31/07/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREj0HTRttiblmDYJXGGHYHruxxDWr6C6dtlbpbu5keA&s=10",
-    "name1": "Nomme Kalju",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/500px-Shelbourne_FC.svg.png?_=20131217000550",
-    "name2": "Shelbourne",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "16H00",
-    "date": "30/07/2026",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_Dundee_United_FC_-_2022.svg/960px-Logo_Dundee_United_FC_-_2022.svg.png?_=20220621141406",
+    "name1": "Dundee United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/960px-Logo_Rangers_FC_-_2020.svg.png?_=20220621142916",
+    "name2": "Rangers",
+    "champ": "Écosse. Première Ligue",
+    "heure": "19H00",
+    "date": "31/07/2026",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5b/FSV_Mainz_05.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e9/Shabab_AlAhli_logo.png",
+    "name2": "Shabab Al Ahli",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H00",
+    "date": "31/07/2026",
+    "pro": "1X"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/1280px-FC_Den_Bosch_logo.svg.png",
+    "name1": "Den Bosch",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Al-Fayha_FC_2022.svg/1280px-Logo_Al-Fayha_FC_2022.svg.png",
+    "name2": "Al Faiha",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "14H30",
+    "date": "31/07/2026",
+    "pro": "12"
   }
 ]
