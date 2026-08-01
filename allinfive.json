@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTstETPWt-AnKWl3Jd54N1KPeq_tSWgSMirlVX6TwX7zw&s=10",
-    "name1": "Motor Lublin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/57/FC_Jagiellonia_Bialystok.png",
-    "name2": "Jagiellonia Białystok",
-    "champ": "Championnat de Pologne",
-    "heure": "18H30",
-    "date": "31/07/2026",
-    "pro": "Total: (+2)"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
-    "name1": "Sparta Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/f/fc/FC_Zlin_logo.png",
-    "name2": "Zlin",
-    "champ": "Tchéquie. Première Ligue",
-    "heure": "17H00",
-    "date": "31/07/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/IK_Oddevold_logo.svg/1280px-IK_Oddevold_logo.svg.png",
-    "name1": "Oddevold",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Norrby_IF_logo.svg/1280px-Norrby_IF_logo.svg.png",
-    "name2": "Norrby",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "31/07/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_Dundee_United_FC_-_2022.svg/960px-Logo_Dundee_United_FC_-_2022.svg.png?_=20220621141406",
-    "name1": "Dundee United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/960px-Logo_Rangers_FC_-_2020.svg.png?_=20220621142916",
-    "name2": "Rangers",
-    "champ": "Écosse. Première Ligue",
-    "heure": "19H00",
-    "date": "31/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLg_gnyyfg-cbi6bLXBEK5YqnwTNstXcPazCgiHsgsw&s=10",
+    "name1": "IK Start",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
+    "name2": "Viking",
+    "champ": "Norvège. Eliteserien",
+    "heure": "16H00",
+    "date": "01/08/2026",
     "pro": "2X Et TP(1.5) - OUI"
   },
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrGUrr9AZpl-3BGz9O9pvQb57bY_0CvouVIp08hqOHw&s=10",
+    "name1": "Lyngby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
+    "name2": "AGF Aarhus",
+    "champ": "Danemark. Superliga",
+    "heure": "16H00",
+    "date": "01/08/2026",
+    "pro": "2X"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5b/FSV_Mainz_05.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e9/Shabab_AlAhli_logo.png",
-    "name2": "Shabab Al Ahli",
-    "champ": "Matchs amicaux des clubs",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpnF4w3epUs6jnK8qr6R2E20FPt6g24Dfz1ote7KiYg&s=10",
+    "name1": "Tranmere Rovers",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iY3cSdZT9PQg9DblEu2crN5I2oMvuvLR7ORhxMiBHg&s=10",
+    "name2": "Rochdale",
+    "champ": "Angleterre. Coupe de la Ligue",
     "heure": "14H00",
-    "date": "31/07/2026",
-    "pro": "1X"
+    "date": "01/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://images.seeklogo.com/logo-png/61/1/sc-wiener-viktoria-logo-png_seeklogo-613165.png",
+    "name1": "Wiener Viktoria",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1wdtIHCVUKHsYjLGZYBNxIiFHJEdYyseyZCEACUbJA&s=10",
+    "name2": "SV Oberwart",
+    "champ": "Autriche. Regionalliga East",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Total: (+2.5)"
+  },
+    {
+    "photo1": "https://iconape.com/wp-content/files/vt/312614/png/312614.png",
+    "name1": "Wienerberger",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAcc49MoDasTRlNZJo30CAiJGF5GDlFJUsUGdATomtcg&s=10",
+    "name2": "Marchfel",
+    "champ": "Autriche. Regionalliga East",
+    "heure": "15H00",
+    "date": "01/08/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/1280px-FC_Den_Bosch_logo.svg.png",
-    "name1": "Den Bosch",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Al-Fayha_FC_2022.svg/1280px-Logo_Al-Fayha_FC_2022.svg.png",
-    "name2": "Al Faiha",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "14H30",
-    "date": "31/07/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXD_4lAcfIlXIXGuth_nIamHrwsylNq5niliq3HDxew&s",
+    "name1": "Wieczysta Krakow",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
+    "name2": "Lech Poznan",
+    "champ": "Championnat de Pologne",
+    "heure": "15H30",
+    "date": "01/08/2026",
     "pro": "12"
   }
 ]
