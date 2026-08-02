@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLg_gnyyfg-cbi6bLXBEK5YqnwTNstXcPazCgiHsgsw&s=10",
-    "name1": "IK Start",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
-    "name2": "Viking",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H00",
-    "date": "01/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrGUrr9AZpl-3BGz9O9pvQb57bY_0CvouVIp08hqOHw&s=10",
-    "name1": "Lyngby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1280px-AGF_Aarhus_%28logo%29.svg.png",
-    "name2": "AGF Aarhus",
-    "champ": "Danemark. Superliga",
-    "heure": "16H00",
-    "date": "01/08/2026",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpnF4w3epUs6jnK8qr6R2E20FPt6g24Dfz1ote7KiYg&s=10",
-    "name1": "Tranmere Rovers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iY3cSdZT9PQg9DblEu2crN5I2oMvuvLR7ORhxMiBHg&s=10",
-    "name2": "Rochdale",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "14H00",
-    "date": "01/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-P9SB5xAOn-Iz8Bie9yp5xWj8ODXyjNXaDWKrg7Bsg&s",
+    "name1": "Austria Lustenau",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/SV_Ried.svg/500px-SV_Ried.svg.png",
+    "name2": "SV Ried",
+    "champ": "Autriche. Bundesliga",
+    "heure": "15H00",
+    "date": "02/08/2026",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://images.seeklogo.com/logo-png/61/1/sc-wiener-viktoria-logo-png_seeklogo-613165.png",
-    "name1": "Wiener Viktoria",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1wdtIHCVUKHsYjLGZYBNxIiFHJEdYyseyZCEACUbJA&s=10",
-    "name2": "SV Oberwart",
-    "champ": "Autriche. Regionalliga East",
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ3u69eJsra4LU9J80Ekt-DSbUwppunccZN-_YSKtdw&s",
+    "name1": "Wolfsberger",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidyeGCwVYI024YyvYBF3nuPHhd0eWiMMnlcgfI_qhNw&s=10",
+    "name2": "Austria Wien",
+    "champ": "Autriche. Bundesliga",
     "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "Total: (+2.5)"
+    "date": "02/08/2026",
+    "pro": "1X"
   },
     {
-    "photo1": "https://iconape.com/wp-content/files/vt/312614/png/312614.png",
-    "name1": "Wienerberger",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAcc49MoDasTRlNZJo30CAiJGF5GDlFJUsUGdATomtcg&s=10",
-    "name2": "Marchfel",
-    "champ": "Autriche. Regionalliga East",
-    "heure": "15H00",
-    "date": "01/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
+    "name1": "Rapid Vienne",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeD09MZO61k_BMsEXweBJ4afldM_xckxppmBSs-EpOlg&s=10",
+    "name2": "Rheindorf Altach",
+    "champ": "Autriche. Bundesliga",
+    "heure": "17H00",
+    "date": "02/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/Logo_FC_Midtjylland_2025.svg/langfr-250px-Logo_FC_Midtjylland_2025.svg.png",
+    "name1": "Midtjylland",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJ1uiNdZYoiXP_nRKfrTPzHN76fUYoyUI2qwe0BrlDw&s",
+    "name2": "Horsens",
+    "champ": "Danemark. Superliga",
+    "heure": "12H00",
+    "date": "02/08/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://images.seeklogo.com/logo-png/35/2/fc-nordsjaelland-farum-logo-png_seeklogo-357243.png",
+    "name1": "Nordsjaelland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1280px-Logo_Randers_FC_2023.svg.png",
+    "name2": "Randers",
+    "champ": "Danemark. Superliga",
+    "heure": "12H00",
+    "date": "02/08/2026",
+    "pro": "12"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXD_4lAcfIlXIXGuth_nIamHrwsylNq5niliq3HDxew&s",
-    "name1": "Wieczysta Krakow",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
-    "name2": "Lech Poznan",
-    "champ": "Championnat de Pologne",
-    "heure": "15H30",
-    "date": "01/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Logo_Br%C3%B8ndby_IF_2026.svg/1280px-Logo_Br%C3%B8ndby_IF_2026.svg.png",
+    "name1": "Brondby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/3840px-Logo_Viborg_FF.svg.png",
+    "name2": "Viborg",
+    "champ": "Danemark. Superliga",
+    "heure": "14H00",
+    "date": "02/08/2026",
     "pro": "12"
   }
 ]
