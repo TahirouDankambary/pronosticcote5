@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqb-GcaIWkVp6BZhOCfZx7xjIhQsSOx8IKDKjyins4kw&s=10",
-    "name1": "Halmstads",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
-    "name2": "Sirius",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "03/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYkBErr3rzdL_FYSrZ9atO6kFTUoivUlh7tm6cOs9aw&s=10",
-    "name1": "Djurgardens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg/1280px-V%C3%A4ster%C3%A5s_SK_FK_%28logo%29.svg.png",
-    "name2": "Vasteras SK",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "03/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Gentofte-Vangede_Idr%C3%A6tsforening_logo.png",
+    "name1": "Gentofte Vangede",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbDVCtXjZEboe8tF7hNbcVZ9FI9Js0WlHYfaCHP88lsxAkMrQoECGPJPk&s=10",
+    "name2": "Avarta",
+    "champ": "Coupe de Danemark",
+    "heure": "16H00",
+    "date": "04/08/2026",
     "pro": "Total: (+2)"
   },
+     {
+    "photo1": "https://tmssl.akamaized.net//images/wappen/head/75635.png?lm=1759068170",
+    "name1": "Oure FA",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_FC_Fredericia_2025.svg/960px-Logo_FC_Fredericia_2025.svg.png",
+    "name2": "Fredericia",
+    "champ": "Coupe de Danemark",
+    "heure": "16H00",
+    "date": "04/08/2026",
+    "pro": "V2 Et TP(2.5) - OUI"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/0/08/%C3%96rebro_SK_Logo.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Orebro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/Logo_IFK_V%C3%A4rnamo_2021.svg/1280px-Logo_IFK_V%C3%A4rnamo_2021.svg.png",
-    "name2": "IFK Varnamo",
-    "champ": "Suède. Superettan",
-    "heure": "17H05",
-    "date": "03/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/61/Br%C3%B8nsh%C3%B8j_BK.png",
+    "name1": "Bronshoj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_HB_Koge.svg/1280px-Logo_HB_Koge.svg.png",
+    "name2": "HB Koge",
+    "champ": "Coupe de Danemark",
+    "heure": "16H30",
+    "date": "04/08/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://images.seeklogo.com/logo-png/14/1/vasalunds-if-stockholm-logo-png_seeklogo-147630.png",
-    "name1": "Vasalunds",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6772_cSrfOYDyh_dylq1S2i6gBiIG5is2QlGx7Dh9rQ&s=10",
-    "name2": "Sollentuna",
-    "champ": "Suède. Division 1",
-    "heure": "17H00",
-    "date": "03/08/2026",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kolding_Boldklub.png/500px-Kolding_Boldklub.png",
+    "name1": "Kolding Boldklub",
+    "photo2": "https://images.seeklogo.com/logo-png/35/2/nsby-bk-logo-png_seeklogo-351248.png",
+    "name2": "Naesby",
+    "champ": "Coupe de Danemark",
+    "heure": "16H30",
+    "date": "04/08/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDxL-souf0xS1800LlipSDe6sFGI5CdCNlwrrn0stelZDzA1jytLOEj8ik&s=10",
-    "name1": "Hammarby Talang",
-    "photo2": "https://images.seeklogo.com/logo-png/40/1/fc-arlanda-logo-png_seeklogo-400736.png",
-    "name2": "Arlanda",
-    "champ": "Suède. Division 1",
-    "heure": "17H30",
-    "date": "03/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1a/Holstebro_BK.png",
+    "name1": "Holstebro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aalborg_Boldspilklub_%28logo%29.svg/1280px-Aalborg_Boldspilklub_%28logo%29.svg.png",
+    "name2": "AaB Fodbold",
+    "champ": "Coupe de Danemark",
+    "heure": "16H30",
+    "date": "04/08/2026",
+    "pro": "Total: (+2.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png",
-    "name1": "Celtic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Logo_Dundee_FC_-_2025.svg/960px-Logo_Dundee_FC_-_2025.svg.png",
-    "name2": "Dundee",
-    "champ": "Écosse. Première Ligue",
-    "heure": "18H30",
-    "date": "03/08/2026",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Lyseng_logo.png",
+    "name1": "IF Lyseng",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Vejgaard_BK_logo.png",
+    "name2": "Vejgaard",
+    "champ": "Coupe de Danemark",
+    "heure": "17H00",
+    "date": "04/08/2026",
+    "pro": "12"
   }
 ]
