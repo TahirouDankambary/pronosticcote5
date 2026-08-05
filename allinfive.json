@@ -1,62 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/46/Gentofte-Vangede_Idr%C3%A6tsforening_logo.png",
-    "name1": "Gentofte Vangede",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbDVCtXjZEboe8tF7hNbcVZ9FI9Js0WlHYfaCHP88lsxAkMrQoECGPJPk&s=10",
-    "name2": "Avarta",
-    "champ": "Coupe de Danemark",
-    "heure": "16H00",
-    "date": "04/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/3840px-Brann_logo.svg.png",
+    "name1": "Brann",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhpAHP557DcQDsp7SXWLxBfKmH7BZXrcfisaF5NiGQ&s=10",
+    "name2": "Apollon Limassol",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H00",
+    "date": "05/08/2026",
+    "pro": "Qualification Equipe 1"
   },
      {
-    "photo1": "https://tmssl.akamaized.net//images/wappen/head/75635.png?lm=1759068170",
-    "name1": "Oure FA",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_FC_Fredericia_2025.svg/960px-Logo_FC_Fredericia_2025.svg.png",
-    "name2": "Fredericia",
-    "champ": "Coupe de Danemark",
-    "heure": "16H00",
-    "date": "04/08/2026",
-    "pro": "V2 Et TP(2.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TP3rDz-1zANY5zslOta_ZtQa84ysAqe_vm4dH5qhjQ&s=10",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
+    "name2": "CSKA 1948",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "05/08/2026",
+    "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/61/Br%C3%B8nsh%C3%B8j_BK.png",
-    "name1": "Bronshoj",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_HB_Koge.svg/1280px-Logo_HB_Koge.svg.png",
-    "name2": "HB Koge",
-    "champ": "Coupe de Danemark",
-    "heure": "16H30",
-    "date": "04/08/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kolding_Boldklub.png/500px-Kolding_Boldklub.png",
-    "name1": "Kolding Boldklub",
-    "photo2": "https://images.seeklogo.com/logo-png/35/2/nsby-bk-logo-png_seeklogo-351248.png",
-    "name2": "Naesby",
-    "champ": "Coupe de Danemark",
-    "heure": "16H30",
-    "date": "04/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODrXAAw0Y3f5doQow06WH_15czZAh_uQFkJSOVPMjzG8DjEXdnwju9oQ&s=10",
+    "name1": "Ossese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/f/fb/Torres_SEF_1903.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "SEF Sassari Torres",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "05/08/2026",
     "pro": "V2 Et TP(1.5) - OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/1a/Holstebro_BK.png",
-    "name1": "Holstebro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Aalborg_Boldspilklub_%28logo%29.svg/1280px-Aalborg_Boldspilklub_%28logo%29.svg.png",
-    "name2": "AaB Fodbold",
-    "champ": "Coupe de Danemark",
-    "heure": "16H30",
-    "date": "04/08/2026",
-    "pro": "Total: (+2.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_US-Pianese_2019.svg/960px-Logo_US-Pianese_2019.svg.png",
+    "name1": "US Pianese ASD",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-a_6_TujNNULmXx89lLOTXWLWh8JT7x43c4Y0z9DbLw&s=10",
+    "name2": "Montevarchi Calcio",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "15H30",
+    "date": "05/08/2026",
+    "pro": "Total: (+2)"
   },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/Lyseng_logo.png",
-    "name1": "IF Lyseng",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/03/Vejgaard_BK_logo.png",
-    "name2": "Vejgaard",
-    "champ": "Coupe de Danemark",
-    "heure": "17H00",
-    "date": "04/08/2026",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9e/Pro_Palazzolo_SSD_logo.png",
+    "name1": "Pro Palazzolo",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJcWsRnuM6PSEZ8z9FQyhn_WHEn7uz7Q2GE_BhldM1sg&s=10",
+    "name2": "ASD Brusaporto",
+    "champ": "Matchs amicaux des clubs",
+    "heure": "16H00",
+    "date": "05/08/2026",
     "pro": "12"
   }
 ]
