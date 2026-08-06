@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/3840px-Brann_logo.svg.png",
-    "name1": "Brann",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qhpAHP557DcQDsp7SXWLxBfKmH7BZXrcfisaF5NiGQ&s=10",
-    "name2": "Apollon Limassol",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "17H00",
-    "date": "05/08/2026",
-    "pro": "Qualification Equipe 1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHLyKZ3w8Krl1LQH2u0dKUi2vqRj7vidxdzgQ7TvkFfg&s=10",
+    "name1": "PAOK",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
+    "name2": "Anderlecht",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H45",
+    "date": "06/08/2026",
+    "pro": "Total: (+2)"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TP3rDz-1zANY5zslOta_ZtQa84ysAqe_vm4dH5qhjQ&s=10",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
-    "name2": "CSKA 1948",
-    "champ": "Ligue Conférence de l'UEFA",
-    "heure": "18H30",
-    "date": "05/08/2026",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/FC_Thun_Logo_2011.svg/1920px-FC_Thun_Logo_2011.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Thun",
+    "photo2": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112016/vikingyur_reykyavik_islandiya_old_logo3.jpg?itok=QGN5-brl",
+    "name2": "Vikingur Reykjavik",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "18H00",
+    "date": "06/08/2026",
+    "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQODrXAAw0Y3f5doQow06WH_15czZAh_uQFkJSOVPMjzG8DjEXdnwju9oQ&s=10",
-    "name1": "Ossese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/f/fb/Torres_SEF_1903.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "SEF Sassari Torres",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "05/08/2026",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/960px-SL_Benfica_logo.svg.png?_=20191027195421",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/f/f9/Heart_of_Midlothian_FC_logo.png",
+    "name2": "Heart of Midlothian",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "06/08/2026",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_US-Pianese_2019.svg/960px-Logo_US-Pianese_2019.svg.png",
-    "name1": "US Pianese ASD",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-a_6_TujNNULmXx89lLOTXWLWh8JT7x43c4Y0z9DbLw&s=10",
-    "name2": "Montevarchi Calcio",
-    "champ": "Matchs amicaux des clubs",
-    "heure": "15H30",
-    "date": "05/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/FC_Inter_Turku_%28logo%29.svg/1280px-FC_Inter_Turku_%28logo%29.svg.png",
+    "name1": "Inter Turku",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_FC_Vaduz_2024.svg/960px-Logo_FC_Vaduz_2024.svg.png?_=20241104124043",
+    "name2": "Vaduz",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "15H00",
+    "date": "06/08/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9e/Pro_Palazzolo_SSD_logo.png",
-    "name1": "Pro Palazzolo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJcWsRnuM6PSEZ8z9FQyhn_WHEn7uz7Q2GE_BhldM1sg&s=10",
-    "name2": "ASD Brusaporto",
-    "champ": "Matchs amicaux des clubs",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDn1XkM5n1p1O2lE5P2-FYjwGmHi-deg-TtnFpNQtg5A&s",
+    "name1": "Noah Yerevan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw7sBFy_V_27XF328TbEU4iyZKyQuUpDO2Yh-kX8Xn9w&s=10",
+    "name2": "Sion",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "16H00",
-    "date": "05/08/2026",
-    "pro": "12"
+    "date": "06/08/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/47/Paide_Linnameeskond_logo.png",
+    "name1": "Paide Linnameeskond",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwpmfSeeyIfT5yvUARnRJCqh_3Tz99GGV3pxX2YMJIdA&s=10",
+    "name2": "Rapid Vienne",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "06/08/2026",
+    "pro": "V2 Et TP(1.5) - OUI"
   }
 ]
