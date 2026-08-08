@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTwLpmrldwD_C5K5O0MOkBC10_Vq7-C6uIvS_Fsy7Lg&s=10",
-    "name1": "Bochum",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hertha_BSC_Logo_2012.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Hertha BSC",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "18H30",
-    "date": "07/08/2026",
-    "pro": "1X"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/81/Logo_SC_Rheindorf_Altach_2025.svg/1280px-Logo_SC_Rheindorf_Altach_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Rheindorf Altach",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c3/Logo_WSG_Tirol.svg/960px-Logo_WSG_Tirol.svg.png",
-    "name2": "WSG Tirol",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_TSV_Hartberg_2010.svg/langfr-250px-Logo_TSV_Hartberg_2010.svg.png",
+    "name1": "Hartberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
+    "name2": "Sturm Graz",
     "champ": "Autriche. Bundesliga",
     "heure": "17H30",
-    "date": "07/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_S%C3%B8nderjyskE.svg/1280px-Logo_S%C3%B8nderjyskE.svg.png",
-    "name1": "Sonderjyske",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/1280px-Logo_Viborg_FF.svg.png",
-    "name2": "Viborg",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "07/08/2026",
+    "date": "08/08/2026",
     "pro": "12"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqOudZMO5WAs13S81upGnsDcdChN2Tk0nAEol0gAxPkQ&s=10",
-    "name1": "Sandefjord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/KFUM-Kameratene_logo.svg/3840px-KFUM-Kameratene_logo.svg.png",
-    "name2": "KFUM Kameratene",
-    "champ": "Norvège. Eliteserien",
-    "heure": "17H00",
-    "date": "07/08/2026",
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/960px-Barnsley_FC.svg.png",
+    "name1": "Barnsley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/3840px-Logo_Wigan_Athletic.svg.png",
+    "name2": "Wigan Athletic",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "14H00",
+    "date": "08/08/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54EpeD828otNMbM1aIQXI7uoxpZd4xQSJfrQPbGxzHQ&s",
-    "name1": "Seinajoen Jalkapallokerho",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e9/Logo_IF_Gnistan.svg/1280px-Logo_IF_Gnistan.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Gnistan",
-    "champ": "Finlande. Veikkausliiga",
-    "heure": "16H00",
-    "date": "07/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_Burnley_FC_2023.svg/960px-Logo_Burnley_FC_2023.svg.png",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Notts_County_FC.svg/960px-Notts_County_FC.svg.png",
+    "name2": "Notts County",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "14H00",
+    "date": "08/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/Logo_Burton_Albion_FC_2025.svg/3840px-Logo_Burton_Albion_FC_2025.svg.png",
+    "name1": "Burton Albion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1280px-Logo_Blackburn_Rovers.svg.png",
+    "name2": "Blackburn Rovers",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "14H00",
+    "date": "08/08/2026",
+    "pro": "2X"
   }
 ]
