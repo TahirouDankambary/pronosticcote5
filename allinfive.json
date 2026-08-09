@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_TSV_Hartberg_2010.svg/langfr-250px-Logo_TSV_Hartberg_2010.svg.png",
-    "name1": "Hartberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
-    "name2": "Sturm Graz",
-    "champ": "Autriche. Bundesliga",
-    "heure": "17H30",
-    "date": "08/08/2026",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1280px-Rodina_Moscou_Logo.svg.png",
+    "name2": "Rodina Moscow",
+    "champ": "Russie. Première Ligue",
+    "heure": "14H00",
+    "date": "09/08/2026",
+    "pro": "1X Et TP(4.5) - NON"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/960px-Barnsley_FC.svg.png",
-    "name1": "Barnsley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/3840px-Logo_Wigan_Athletic.svg.png",
-    "name2": "Wigan Athletic",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "14H00",
-    "date": "08/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8LpJH7KZJtg1NiE0-tKxVgnUUYd5timX9jPDxtEAog&s=10",
+    "name1": "Heerenveen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhkIcvoJONJGAJS3fIVIDjpHzs_bdiA3wDsjoATMhdQ&s=10",
+    "name2": "Twente",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "14H45",
+    "date": "09/08/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_Burnley_FC_2023.svg/960px-Logo_Burnley_FC_2023.svg.png",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Notts_County_FC.svg/960px-Notts_County_FC.svg.png",
-    "name2": "Notts County",
-    "champ": "Angleterre. Coupe de la Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/SV_Zulte_Waregem_Logo.svg/1280px-SV_Zulte_Waregem_Logo.svg.png",
+    "name1": "Zulte Waregem",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fe/Logo_du_KRC_Genk.png",
+    "name2": "Genk",
+    "champ": "Belgique. Jupiler Pro League",
     "heure": "14H00",
-    "date": "08/08/2026",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "09/08/2026",
+    "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/Logo_Burton_Albion_FC_2025.svg/3840px-Logo_Burton_Albion_FC_2025.svg.png",
-    "name1": "Burton Albion",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1280px-Logo_Blackburn_Rovers.svg.png",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Coupe de la Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/960px-Sporting_de_Charleroi_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "R.Charleroi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/3840px-Logo_OH_Leuven_2024.svg.png",
+    "name2": "Oud Heverlee Louvain",
+    "champ": "Belgique. Jupiler Pro League",
     "heure": "14H00",
-    "date": "08/08/2026",
-    "pro": "2X"
+    "date": "09/08/2026",
+    "pro": "1X Et TP(3.5) - NON"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
+    "name1": "Anderlecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_RAAL_La_Louvi%C3%A8re_2025.svg/1920px-Logo_RAAL_La_Louvi%C3%A8re_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "RAAL La Louviere",
+    "champ": "Belgique. Jupiler Pro League",
+    "heure": "16H30",
+    "date": "09/08/2026",
+    "pro": "V1 Et TM(2.5) - NON"
+  },
+      {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png?_=20200612111540",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/SK_Beveren_%28logo%29.svg/1280px-SK_Beveren_%28logo%29.svg.png",
+    "name2": "SK Beveren",
+    "champ": "Belgique. Jupiler Pro League",
+    "heure": "17H15",
+    "date": "09/08/2026",
+    "pro": "Total: (+2)"
   }
 ]
