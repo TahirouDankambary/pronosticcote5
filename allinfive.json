@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Zénith",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Rodina_Moscou_Logo.svg/1280px-Rodina_Moscou_Logo.svg.png",
-    "name2": "Rodina Moscow",
-    "champ": "Russie. Première Ligue",
-    "heure": "14H00",
-    "date": "09/08/2026",
-    "pro": "1X Et TP(4.5) - NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
+    "name1": "Sirius",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/330px-Logo_IF_Brommapojkarna_2020.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Brommapojkarna",
+    "champ": "Suède. Allsvenskan",
+    "heure": "17H00",
+    "date": "10/08/2026",
+    "pro": "V1"
   },
      {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8LpJH7KZJtg1NiE0-tKxVgnUUYd5timX9jPDxtEAog&s=10",
-    "name1": "Heerenveen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhkIcvoJONJGAJS3fIVIDjpHzs_bdiA3wDsjoATMhdQ&s=10",
-    "name2": "Twente",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "14H45",
-    "date": "09/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Plymouth_Argyle_1982.svg/1280px-Logo_Plymouth_Argyle_1982.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Plymouth Argyle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/960px-Logo_Exeter_City_FC_2016.svg.png",
+    "name2": "Exeter City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "19H00",
+    "date": "10/08/2026",
     "pro": "Total: (+2)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/SV_Zulte_Waregem_Logo.svg/1280px-SV_Zulte_Waregem_Logo.svg.png",
-    "name1": "Zulte Waregem",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fe/Logo_du_KRC_Genk.png",
-    "name2": "Genk",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "14H00",
-    "date": "09/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/FC_Karpaty_Lviv.svg/langfr-250px-FC_Karpaty_Lviv.svg.png",
+    "name1": "Karpaty Lviv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/83/LNZ_Cherkasy_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "LNZ",
+    "champ": "Ukraine. Premier Liha",
+    "heure": "15H00",
+    "date": "10/08/2026",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/960px-Sporting_de_Charleroi_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "R.Charleroi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/3840px-Logo_OH_Leuven_2024.svg.png",
-    "name2": "Oud Heverlee Louvain",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "14H00",
-    "date": "09/08/2026",
-    "pro": "1X Et TP(3.5) - NON"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Logo_RAAL_La_Louvi%C3%A8re_2025.svg/1920px-Logo_RAAL_La_Louvi%C3%A8re_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "RAAL La Louviere",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "16H30",
-    "date": "09/08/2026",
-    "pro": "V1 Et TM(2.5) - NON"
-  },
-      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/250px-Royal_Antwerp_Football_Club_%28logo%29.svg.png?_=20200612111540",
-    "name1": "Royal Antwerp",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/SK_Beveren_%28logo%29.svg/1280px-SK_Beveren_%28logo%29.svg.png",
-    "name2": "SK Beveren",
-    "champ": "Belgique. Jupiler Pro League",
-    "heure": "17H15",
-    "date": "09/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/cc/Lusit%C3%A2nia_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Lusitania Lourosa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/62/Fcporto-2.png",
+    "name2": "Porto ll",
+    "champ": "Portugal. Segunda Liga",
+    "heure": "17H00",
+    "date": "10/08/2026",
     "pro": "Total: (+2)"
   }
 ]
