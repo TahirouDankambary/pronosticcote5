@@ -1,42 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
-    "name1": "Sirius",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/330px-Logo_IF_Brommapojkarna_2020.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Brommapojkarna",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "10/08/2026",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvlGTFeQBgSVVJEffpjO1L23xUZcHdeEZ-aljtt3OVg&s=10",
+    "name1": "Celje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Ararat-Armenia_%28logo%29.svg/langfr-250px-FC_Ararat-Armenia_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "name2": "Ararat Armenia",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H15",
+    "date": "11/08/2026",
+    "pro": "12"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Plymouth_Argyle_1982.svg/1280px-Logo_Plymouth_Argyle_1982.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Plymouth Argyle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/960px-Logo_Exeter_City_FC_2016.svg.png",
-    "name2": "Exeter City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H00",
-    "date": "10/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a3/FC_Karpaty_Lviv.svg/langfr-250px-FC_Karpaty_Lviv.svg.png",
-    "name1": "Karpaty Lviv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/83/LNZ_Cherkasy_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "LNZ",
-    "champ": "Ukraine. Premier Liha",
-    "heure": "15H00",
-    "date": "10/08/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1280px-SK_Sturm_Graz_Logo.svg.png",
+    "name1": "Sturm Graz",
+    "photo2": "https://assets.football-logos.cc/logos/turkey/700x700/fenerbahce.0df7e3ee.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "18H30",
+    "date": "11/08/2026",
     "pro": "2X"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1280px-Logo_Olympique_Lyonnais_-_2022.svg.png",
+    "name1": "Lyon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/250px-AC-Sparta-LOGO2021.svg.png",
+    "name2": "AC Sparta Prague",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "11/08/2026",
+    "pro": "Total: (+1.5)"
+  },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/cc/Lusit%C3%A2nia_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Lusitania Lourosa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/62/Fcporto-2.png",
-    "name2": "Porto ll",
-    "champ": "Portugal. Segunda Liga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Apollon_Limassol_FC_logo.svg/3840px-Apollon_Limassol_FC_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Apollon Limassol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/3840px-Brann_logo.svg.png",
+    "name2": "Brann",
+    "champ": "Ligue Conférence de l'UEFA",
     "heure": "17H00",
-    "date": "10/08/2026",
-    "pro": "Total: (+2)"
+    "date": "11/08/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
+    "name1": "CSKA 1948",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Panathinaikos_FC_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Panathinaikos",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "17H30",
+    "date": "11/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+     {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/ed/Pakhtakor_Tachkent_Logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Pakhtakor Tachkent",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6e/Al-Hussein_SC_%28Irbid%29_-_2025_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Al Hussein",
+    "champ": "AFC Champions League Elite",
+    "heure": "15H00",
+    "date": "11/08/2026",
+    "pro": "1X"
   }
 ]
