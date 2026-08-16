@@ -1,52 +1,72 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGjvWl259DNWkCRDoPwzhr18BtkC6tCZgvu3XYOlHPeA&s=10",
-    "name1": "CSKA Moscou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Fakel_Voronezh_logo.svg/1280px-Fakel_Voronezh_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Fakel Voronej",
-    "champ": "Russie. Première Ligue",
-    "heure": "13H15",
-    "date": "15/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqFiISNtsNcnmyiyh0Np137gd6SERA81b1Cw4MWWerQ&s=10",
+    "name1": "Basel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/3840px-Logo_FC_Barcelona.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Barcelone",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "14H30",
+    "date": "16/08/2026",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/1280px-FC_Schalke_04_Logo.svg.png",
+    "name1": "Schalke 04",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5pacCJTItWO7XUlojLNmYt4skdDm37CxdW8KCJ3ouqA&s=10",
+    "name2": "Real Madrid",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "15H00",
+    "date": "16/08/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/5/53/Arsenal_FC.svg/330px-Arsenal_FC.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Arsenal",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/manchester-city.8d2b6688.png",
+    "name2": "Man City",
+    "champ": "Angleterre. SA Community Shield",
+    "heure": "14H00",
+    "date": "16/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_RC_Lens_2014.svg/1920px-Logo_RC_Lens_2014.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "RC Lens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1280px-Logo_Paris_Saint-Germain_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "PSG",
+    "champ": "France. Trophée des Champions",
+    "heure": "18H45",
+    "date": "16/08/2026",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGIKpY7AvtA6r6B19m36BNsfaCn-Y0agzUSVymGIftw&s=10",
+    "name1": "Racing de Santander",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1280px-Logo_Villarreal_CF_2009.svg.png",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H00",
+    "date": "16/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_AFC_Ajax_%281928-1991%2C_2025-%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Ajax",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8LpJH7KZJtg1NiE0-tKxVgnUUYd5timX9jPDxtEAog&s=10",
+    "name2": "Heerenveen",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "14H45",
+    "date": "16/08/2026",
     "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f4/Logo_Willem_II_Tilburg_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Willem ll",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1y63qLu-uxef_tZfVaKrt0air2qJxOJz_nPVbzt7ZJQ&s=10",
-    "name2": "NEC",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "14H30",
-    "date": "15/08/2026",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/960px-Logo_Fortuna_Sittard_2024.svg.png?_=20241116074144",
-    "name1": "Fortuna Sittard",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_SC_Cambuur.svg/960px-Logo_SC_Cambuur.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Cambuur",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "19H00",
-    "date": "15/08/2026",
-    "pro": "Total: (+2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/A.C._Viseu.svg/langfr-250px-A.C._Viseu.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Academico de Viseu",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhqhvG-7dbG0edWByUex03HPK5YrLa46NJXi4W0rT-5w&s=10",
-    "name2": "Santa Clara",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "17H00",
-    "date": "15/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1280px-Rio_Ave_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Rio Ave",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoCNmUWqiHY-_3YX211dj6ZG6FpFDw8lNQ2BrBbOaOYA&s=10",
-    "name2": "Porto",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "19H30",
-    "date": "15/08/2026",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/20/Logo_of_Be%C5%9Fikta%C5%9F_JK.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Besiktas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKWCVrcuNGOpB2CkSP_beUvHBd66Ji2_9Zohel3oegQQ&s",
+    "name2": "Eyupspor",
+    "champ": "Turquie. Super Lig",
+    "heure": "18H30",
+    "date": "16/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
