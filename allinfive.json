@@ -1,52 +1,62 @@
 [
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgsU3oBAF8r9yZz2kn5JoB5WTiPlGa-YS68dYWjPFNuvt3ahd8ZLvqvfB&s=10",
-    "name1": "Thailande",
-    "photo2": "https://cdn.freebiesupply.com/logos/large/2x/singapor-logo-png-transparent.png",
-    "name2": "Singapour",
-    "champ": "Coupe d'Asie du Sud-Est",
-    "heure": "13H00",
-    "date": "18/08/2026",
-    "pro": "V1"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Escudo_del_Club_Deportivo_Riestra.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Deportivo Riestra",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdLVcb3j6ZazR2IvQ0cnQjZdS1XZF-x2tPBMLXxpx_w&s",
-    "name2": "Gimnasia y Esgrima",
-    "champ": "Coupe d'Argentine",
-    "heure": "20H00",
-    "date": "18/08/2026",
-    "pro": "Total: (+1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Atl.Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/960px-Logo_M%C3%A1laga_CF.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Malaga",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H00",
+    "date": "19/08/2026",
+    "pro": "1X2 (2UP): V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7b/Al_Jabalain_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Al Jabalain",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHLRtLNVJmGpM2uMxKWYbNg9KQLRuLtNcCclfrJjPig&s=10",
-    "name2": "Ettifaq Dammam",
-    "champ": "Coupe d'Arabie Saoudite",
-    "heure": "16H15",
-    "date": "18/08/2026",
+     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaED28H1lNL48TeHuF0tAXgDRWfORPCIgr3DQfc5dN9w&s=10",
+    "name1": "Celtic",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCirFxVT4rjJjMulKCBUsl0eFE705nhEjqDwzLSZ5A_A&s=10",
+    "name2": "LASK Linz",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
     "pro": "Total: (+1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Al-Najma_Sports_Club2023.svg/3840px-Al-Najma_Sports_Club2023.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Al Najma Unaizah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/960px-Logo_Al-Ittihad_Club_2015.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Ittihad FC",
-    "champ": "Coupe d'Arabie Saoudite",
-    "heure": "16H15",
-    "date": "18/08/2026",
-    "pro": "V2"
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Celje",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkc00hcN70fKSxc142g_ELbrPfHfdj1JM-mjK_FYzxQw&s=10",
-    "name1": "Al Okhdood",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwRBH7w0cdMG_5SxcgGDpJXZX9ZCwKhTgfMJfCgKKag&s=10",
-    "name2": "Al Khaleej",
-    "champ": "Coupe d'Arabie Saoudite",
-    "heure": "16H15",
-    "date": "18/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZK4wWQeUGtySSECZq39GnbTIc_2I4ODKw5gGuXNv2Q&s=10",
+    "name1": "Hapoel Beer Sheva",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Sabah Baku",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://cdn.freebiesupply.com/logos/large/2x/nec-nijmegen-logo-png-transparent.png",
+    "name1": "NEC",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrBbR6TgAzo67D1VLZ9WUXIWorV3kbD0sOZHuNWc-nQ&s=10",
+    "name2": "Bodo Glimt",
+    "champ": "Ligue des Champions de l'UEFA",
+    "heure": "19H00",
+    "date": "19/08/2026",
     "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe_3w_ZilaB4NeqmYBi4PoVsYiWIN50c_OBQTxJ0MgA&s=10",
+    "name1": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5doxUqUAjRMUhRwMGn5Hjrg1ur_J9eMa8JHuqNcQkA&s=10",
+    "name2": "Al Ahly le Caire",
+    "champ": "Matchs amicaux de clubs. Top",
+    "heure": "18H00",
+    "date": "19/08/2026",
+    "pro": "V1 Et TP(2.5) - OUI"
   }
 ]
