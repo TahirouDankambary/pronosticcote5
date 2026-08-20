@@ -1,62 +1,72 @@
 [
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Atl.Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/960px-Logo_M%C3%A1laga_CF.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Malaga",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H00",
-    "date": "19/08/2026",
-    "pro": "1X2 (2UP): V1"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaED28H1lNL48TeHuF0tAXgDRWfORPCIgr3DQfc5dN9w&s=10",
-    "name1": "Celtic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCirFxVT4rjJjMulKCBUsl0eFE705nhEjqDwzLSZ5A_A&s=10",
-    "name2": "LASK Linz",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "19H00",
-    "date": "19/08/2026",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTpra8Goq-IkopQCAIuv9ORsQyOYejVrTMYzJ4NrYyvg&s",
+    "name1": "Mjallby AIF",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ6rFjwOW5eyRKoQ4WntLKaauOVZ1TYN8VNYi73U02rQ&s=10",
+    "name2": "FC Salzburg",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "16H00",
+    "date": "20/08/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/NK_Celje_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Celje",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "19H00",
-    "date": "19/08/2026",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJiMgY5TgdgRIsjDQEsRVHHR6wtz45ihHsgsEIgsjb_g&s=10",
+    "name1": "Jagiellonia Bialystok",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH6nWZjG58S1uFpf4UOdf9_gi6FVAol48zqL9zT1_xQ&s",
+    "name2": "Iberia 1999",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "16H00",
+    "date": "20/08/2026",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ZK4wWQeUGtySSECZq39GnbTIc_2I4ODKw5gGuXNv2Q&s=10",
-    "name1": "Hapoel Beer Sheva",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a9/Sabah_FC_%28Azerbaijan%29.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Sabah Baku",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "19H00",
-    "date": "19/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4B1B5QTJ8JLfp9o0IFZ3Z00YN0h8jBTgUQGZq8Nb7w&s",
+    "name1": "Besiktas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VSqNOvCN-s11hzrTu9M5h3L35a0kEI1eZ6vbjHNGrA&s=10",
+    "name2": "Zalgiris Kaunas",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "20/08/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHsowEHJZHTT9-uiMXE1ZmBLOBPfVMKVnUYQSki0fYMQ&s=10",
+    "name1": "CS Universitatea Craiova",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETWcpDAtKMz6wVeRWwEx8j0W0teQEFUKTRxRkiVu94A&s=10",
+    "name2": "Ararat Armenia",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "17H00",
+    "date": "20/08/2026",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://cdn.freebiesupply.com/logos/large/2x/nec-nijmegen-logo-png-transparent.png",
-    "name1": "NEC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrBbR6TgAzo67D1VLZ9WUXIWorV3kbD0sOZHuNWc-nQ&s=10",
-    "name2": "Bodo Glimt",
-    "champ": "Ligue des Champions de l'UEFA",
-    "heure": "19H00",
-    "date": "19/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeBHACuPGj4nQ9wgYYqcqrtXEudmGlGN4cECUDvvsWQ&s=10",
+    "name1": "Atalanta",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7-S37zhjGEUy7yJNE5-OFUjRg5NXEFZd_DZuzNqL4Pg&s=10",
+    "name2": "Hapoel Tel Aviv",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "20/08/2026",
+    "pro": "V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe_3w_ZilaB4NeqmYBi4PoVsYiWIN50c_OBQTxJ0MgA&s=10",
-    "name1": "Barcelone",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5doxUqUAjRMUhRwMGn5Hjrg1ur_J9eMa8JHuqNcQkA&s=10",
-    "name2": "Al Ahly le Caire",
-    "champ": "Matchs amicaux de clubs. Top",
-    "heure": "18H00",
-    "date": "19/08/2026",
-    "pro": "V1 Et TP(2.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SC548DBT38z9Yv6EP7mdJt4Kl4U_sa8QDF_EUSca8A&s=10",
+    "name1": "KAA La Gantoise",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0EHFYla1GNoI03AdOBrx4MIHxLNVJiRA1M3uaHc-b5A&s=10",
+    "name2": "Hibernian",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "18H30",
+    "date": "20/08/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSn2tjc5eodHALBXT-PHfOcpkGdmVrhzl6e5jdB-rtqg&s=10",
+    "name1": "Inter Turku",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ORDLOOzynL-qhlR0OdnZbwGkxJO0w3C3AzEOrqLw6w&s=10",
+    "name2": "Copenhague",
+    "champ": "Ligue Conférence de l'UEFA",
+    "heure": "16H00",
+    "date": "20/08/2026",
+    "pro": "2X"
   }
 ]
