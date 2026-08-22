@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/langfr-250px-C%C3%B3rdoba_CF_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-    "name1": "Cordoue",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEYhOjT2CU_QnewylCSJSVgX3n2DzX8CArSkUrADnKA&s2",
-    "name2": "Gérone",
-    "champ": "Espagne. Division 2",
-    "heure": "19H00",
-    "date": "21/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Bayern Munich",
+    "champ": "Supercoupe d'Allemagne",
+    "heure": "18H30",
+    "date": "22/08/2026",
+    "pro": "2X"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxQKtaHzVUyQPqqwRYw_emhTbCP5z5VzNYAft_fQipmA&s=10",
-    "name1": "Sirius",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF92NXNP4pmDJBRzDL5hIWSeplxLeeXRvcl-bsXaETw&s=10",
-    "name2": "Hacken",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "21/08/2026",
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMk1u-cL4MdTzRZsACeO-vojoKcD5I4rT62r6V6TFgQ&s=10",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Celta de Vigo",
+    "champ": "Esapgne. LaLiga",
+    "heure": "17H30",
+    "date": "22/08/2026",
     "pro": "Total: (+2)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YajDAjs8n8znNB_073xNMEm_0CN9fkRlEaa974YboTXyRsoiUYAqp0ON&s=10",
-    "name1": "Boulogne",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzka-MZvnpdceAFRcHxy_RB60dMc3VA5_A1Cp6ccQDQ&s=10",
-    "name2": "Red Star Saint Ouen",
-    "champ": "France. Ligue 2",
-    "heure": "18H00",
-    "date": "21/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTnXcpojIK9ggmrNKrGf9Rg6vMbkwNM5-GxZSBoYemg&s=10",
+    "name1": "Ipswich Town",
+    "photo2": "https://assets.football-logos.cc/logos/england/1500x1500/sunderland.4cec0d39.png",
+    "name2": "Sunderland",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "22/08/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Clermont_Foot_63_2021.svg/1920px-Logo_Clermont_Foot_63_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Clermont Foot",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/LogoDFCO.svg/500px-LogoDFCO.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20180531181521",
-    "name2": "Dijon FCD",
-    "champ": "France. Ligue 2",
-    "heure": "18H00",
-    "date": "21/08/2026",
-    "pro": "Total: (+2)"
+    "photo1": "https://assets.football-logos.cc/logos/england/700x700/nottingham-forest.0594f24a.png",
+    "name1": "Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/250px-Logo_Leeds_United_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20201108232122",
+    "name2": "Leeds United",
+    "champ": "Angleterre. Premier League",
+    "heure": "14H00",
+    "date": "22/08/2026",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo_Pau_FC_-_2022.svg/3840px-Logo_Pau_FC_-_2022.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Pau",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_AS_Nancy_Lorraine_2018.svg/1280px-Logo_AS_Nancy_Lorraine_2018.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Nancy",
-    "champ": "France. Ligue 2",
-    "heure": "18H00",
-    "date": "21/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xZyHBeSfI3fb4iThIz1nZ42Jcd9FYmtXyVJbhsHxZg&s=10",
+    "name1": "Inter Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/08/AC_Monza_Brianza_1912_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Monza 1912",
+    "champ": "Italie. Série A",
+    "heure": "16H30",
+    "date": "22/08/2026",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4c/Logo_Genoa_CFC_-_2022.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Genoa",
+    "photo2": "https://i.pinimg.com/736x/38/c2/01/38c201696e57c58074ca696638f80058.jpg",
+    "name2": "SSC Naples",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "22/08/2026",
     "pro": "Total: (+1.5)"
   }
 ]
