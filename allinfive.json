@@ -1,62 +1,62 @@
 [
-  {
-    "photo1": "https://assets.football-logos.cc/logos/england/1500x1500/fulham.92113b10.png",
-    "name1": "Fulham",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvd1MAJNntawvyT_OiQqPciRfY7ixZqb5f05s_cxIzwA&s=10",
-    "name2": "Chelsea",
-    "champ": "Angleterre. Premier League",
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp7FsaNywVYR8ScvWcLPZI81NMLjtAP8x0P3B-EH7Dg&s=10",
+    "name1": "Sabah Baku",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Hapoel Beer-Sheva",
+    "champ": "Ligue des chmapions de l'UEFA",
+    "heure": "16H45",
+    "date": "25/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCEjW27Au5MIW2TdVQeSpGeLC5Ep8CJDABi7x5HDHxw&s",
+    "name1": "LASK Linz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Celtic",
+    "champ": "Ligue des chmapions de l'UEFA",
     "heure": "19H00",
-    "date": "24/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fb/Logo_Bologna_FC_-_2018.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Bologna",
-    "photo2": "https://assets.football-logos.cc/logos/italy/1500x1500/lazio.b6301260.png",
-    "name2": "Lazio",
-    "champ": "Italie. Série A",
-    "heure": "16H30",
-    "date": "24/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://assets.football-logos.cc/logos/italy/1500x1500/roma.90753835.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1280px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Italie. Série A",
-    "heure": "18H45",
-    "date": "24/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKTB2enZ6VI4Z_MFzyI6sllVl29JWHCRtD9p-4ciXgA&s=10",
-    "name1": "Gil Vicente",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylipU4XIYu1YVWpPnu60-NDC44L8YGrbpbQWhQJHfNA&s=10",
-    "name2": "Casa Pia",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "19H15",
-    "date": "24/08/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1280px-Logo_PSV_Eindhoven_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "PSV Eindhoven",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbTdjQ5RrWaGlkzlMWLe45enmUufVfGc7q13NdUHeJ2NeDCihtVwSfNU&s=10",
-    "name2": "Oss",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "24/08/2026",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/92/FC_Utrecht.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Utrecht ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/1920px-Heracles_Almelo_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Heracles Almelo",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "18H00",
-    "date": "24/08/2026",
+    "date": "25/08/2026",
     "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Dinamo_Kirov_Logo.svg/1280px-Dinamo_Kirov_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Dynamo Kirov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amkar_FC_logo_2021.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Amkar Perm",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "25/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/FC_Torpedo_Vladimir_Logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Torpedo Vladimir",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Krasnoe_Znamya_Noginsk_Logo.svg/langfr-250px-Krasnoe_Znamya_Noginsk_Logo.svg.png",
+    "name2": "Krasnoye Znamya",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "25/08/2026",
+    "pro": "12"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTnXcpojIK9ggmrNKrGf9Rg6vMbkwNM5-GxZSBoYemg&s=10",
+    "name1": "Ipswich Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/960px-Logo_Leicester_City_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231221222059",
+    "name2": "Leicester City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "25/08/2026",
+    "pro": "Total: (+2)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Southampton_FC.svg/500px-Southampton_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20120608211118",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/500px-West_Ham_United_FC_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "West Ham",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "25/08/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
