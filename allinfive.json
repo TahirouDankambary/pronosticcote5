@@ -1,62 +1,52 @@
 [
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp7FsaNywVYR8ScvWcLPZI81NMLjtAP8x0P3B-EH7Dg&s=10",
-    "name1": "Sabah Baku",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Hapoel Beer-Sheva",
-    "champ": "Ligue des chmapions de l'UEFA",
-    "heure": "16H45",
-    "date": "25/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCEjW27Au5MIW2TdVQeSpGeLC5Ep8CJDABi7x5HDHxw&s",
-    "name1": "LASK Linz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/a/a8/Celtic_FC.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Celtic",
-    "champ": "Ligue des chmapions de l'UEFA",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUk6mVaWdE23wbiI7J33NCEn6Qmxswj0m3Wj28j-leK6xgXkBW7REP6hU&s=10",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1280px-Logo_Real_Sociedad_2017.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Real Sociedad",
+    "champ": "Espagne. LaLiga",
     "heure": "19H00",
-    "date": "25/08/2026",
-    "pro": "Total: (+2)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Dinamo_Kirov_Logo.svg/1280px-Dinamo_Kirov_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Dynamo Kirov",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amkar_FC_logo_2021.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
-    "name2": "Amkar Perm",
-    "champ": "Coupe de Russie",
-    "heure": "14H00",
-    "date": "25/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/bd/FC_Torpedo_Vladimir_Logo.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Torpedo Vladimir",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Krasnoe_Znamya_Noginsk_Logo.svg/langfr-250px-Krasnoe_Znamya_Noginsk_Logo.svg.png",
-    "name2": "Krasnoye Znamya",
-    "champ": "Coupe de Russie",
-    "heure": "14H00",
-    "date": "25/08/2026",
+    "date": "26/08/2026",
     "pro": "12"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTnXcpojIK9ggmrNKrGf9Rg6vMbkwNM5-GxZSBoYemg&s=10",
-    "name1": "Ipswich Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/960px-Logo_Leicester_City_2021.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20231221222059",
-    "name2": "Leicester City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "25/08/2026",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBchioHjee3lG_Ia6YybwziYHknPhfR3hbS1uDF7LzkVa-AauIr4iwNg&s=10",
+    "name1": "Viking",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/960px-Logo_GNK_Dinamo_Zagreb_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Dinamo Zagreb",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "26/08/2026",
     "pro": "Total: (+2)"
   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpO6CHqiF0JBPwxnzwE1YGOf34H73Pw0wUqAEiyi7p4Q&s=10",
+    "name1": "Lyon",
+    "photo2": "https://assets.football-logos.cc/logos/turkey/700x700/fenerbahce.0df7e3ee.png",
+    "name2": "Fenerbahce",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "26/08/2026",
+    "pro": "Total: (+1.5)"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Southampton_FC.svg/500px-Southampton_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20120608211118",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/500px-West_Ham_United_FC_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "West Ham",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjvlGTFeQBgSVVJEffpjO1L23xUZcHdeEZ-aljtt3OVg&s=10",
+    "name1": "Celje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Slovan Bratislava",
+    "champ": "Ligue des champions de l'UEFA",
+    "heure": "19H00",
+    "date": "26/08/2026",
+    "pro": "Total: (+1.5)"
+  }, 
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOAWEzvGgzrBOjy5-qu2ejqV1uK4Z7_fOCQFl7JykOg&s=10",
+    "name1": "Newcastle",
+    "photo2": "https://assets.football-logos.cc/logos/england/700x700/west-bromwich-albion.239d8196.png",
+    "name2": "West Bromwich",
     "champ": "Angleterre. Coupe de la Ligue",
     "heure": "18H45",
-    "date": "25/08/2026",
-    "pro": "Total: (+1.5)"
+    "date": "26/08/2026",
+    "pro": "Qualification Equipe 1"
   }
 ]
