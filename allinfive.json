@@ -1,52 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7MQAVGVtRpYmvkJu40GE8u1JdeD-gADCGeMwmDUeww&s=10",
-    "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/7c/Everton_FC_logo.svg/1280px-Everton_FC_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Everton",
-    "champ": "Angleterre. Premier League",
-    "heure": "14H00",
-    "date": "29/08/2026",
-    "pro": "Total: (+1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5c/Logo_Tottenham_Hotspur.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/960px-Logo_Newcastle_United_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail&_=20241230231419",
-    "name2": "Newcastle",
-    "champ": "Angleterre. Premier League",
-    "heure": "16H30",
-    "date": "29/08/2026",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAGkVHLpSaShFTNxB_av_KOpS6EdRhmSmNytxGzF5a3g&s=10",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/960px-Logo_M%C3%A1laga_CF.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Malaga",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H00",
+    "date": "30/08/2026",
+    "pro": "V1"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Dortmund",
-    "photo2": "https://assets.football-logos.cc/logos/germany/700x700/hamburger-sv.761202ca.png",
-    "name2": "Hambourg",
-    "champ": "Allemagne. Bundesliga",
-    "heure": "16H30",
-    "date": "29/08/2026",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1280px-Logo_Real_Sociedad_2017.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
-    "name2": "Espanyol",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H00",
-    "date": "29/08/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1280px-Logo_S%C3%A9ville_FC.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Séville",
-    "photo2": "https://logos-world.net/wp-content/uploads/2020/06/atletico-madrid-Logo.png",
-    "name2": "Atl.Madrid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Celta_de_Vigo_2025.svg/1280px-Logo_Celta_de_Vigo_2025.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Celta de Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1920px-Logo_Athletic_Club_Bilbao.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Athletic Bilbao",
     "champ": "Espagne. LaLiga",
     "heure": "19H30",
-    "date": "29/08/2026",
-    "pro": "Total: (+2)"
+    "date": "30/08/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/thumb/8/88/Cagliari_calcio.svg/1920px-Cagliari_calcio.svg.png?utm_source=it.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Cagliari Calcio",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0xZyHBeSfI3fb4iThIz1nZ42Jcd9FYmtXyVJbhsHxZg&s=10",
+    "name2": "Inter Milan",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "30/08/2026",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/be/SS_Lazio_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Lazio",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0hVUS_5KkQM8yYlxuULz91w8vA0Dd4cT2OrzCbZSKZA&s=10",
+    "name2": "Genoa",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "30/08/2026",
+    "pro": "Total: (+1.5)"
   }
 ]
