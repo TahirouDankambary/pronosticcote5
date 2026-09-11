@@ -1,62 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH8ZPP0IPAZXvOhJMnmkzVhWKiaDIGF2vVvW7m4LVTKg&s=10",
-    "name1": "PSV Eindhoven",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1920px-FC_Shakhtar_Donetsk.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Shakhtar Donetsk",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H45",
-    "date": "10/09/2026",
-    "pro": "Total: (+2)"
-  },
-    {
-    "photo1": "https://assets.footylogos.com/previews/fenerbahce/fenerbahce-logo-footylogos-1200.webp",
-    "name1": "Fenerbahce",
-    "photo2": "https://assets.football-logos.cc/logos/italy/700x700/roma.00288a7d.png",
-    "name2": "Roma",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "16H45",
-    "date": "10/09/2026",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/f/fe/1._FC_Union_Berlin_logo.svg/1280px-1._FC_Union_Berlin_logo.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Union Berlin",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/FC_Schalke_04_Logo.png/500px-FC_Schalke_04_Logo.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Schalke 04",
+    "champ": "Allemagne. Bundesliga",
+    "heure": "18H30",
+    "date": "11/09/2026",
     "pro": "Total: (+1.5)"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/3840px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Bayern Munich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfVv_d-ZMgQqvlzniOXacZCsl3RRRe3RWHlIZ_7fkCg&s=10",
-    "name2": "Bodo Glimt",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "10/09/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Venise FC",
+    "photo2": "https://assets.football-logos.cc/logos/italy/700x700/fiorentina.a4632b82.png",
+    "name2": "Fiorentina",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "11/09/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/84/Krylia_Sovetov_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+    "name1": "Krylia Sovetov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_FK_Rodina_2026.svg/1920px-Logo_FK_Rodina_2026.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Rodina Moscow",
+    "champ": "Russie. Première Ligue",
+    "heure": "15H00",
+    "date": "11/09/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1280px-Logo_AZ_Alkmaar.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "AZ Alkmaar",
+    "photo2": "https://assets.football-logos.cc/logos/netherlands/700x700/willem-ii.6ab86758.png",
+    "name2": "Willem ll",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "18H00",
+    "date": "11/09/2026",
     "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Como",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1280px-Logo_RB_Leipzig_2020.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Leipzig",
-    "champ": "Ligue des champions de l'UEFA",
-    "heure": "19H00",
-    "date": "10/09/2026",
-    "pro": "Total: (+2)"
-  },
-     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9c26OPF3puUDtxvB0Yx6Dwmjuvn26oBOwONfIRuR-2w&s=10",
-    "name1": "Estrela da Amadora",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/330px-SC_Braga_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Braga",
-    "champ": "Portugal. Primeira Liga",
-    "heure": "19H15",
-    "date": "10/09/2026",
-    "pro": "Total: (+1.5)"
-  },
-   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgVrkkoB-MEOMZdb_dslimrO_xCz1KKHXZ3oQ8THdzw&s=10",
-    "name1": "Varbergs Bois",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f9/IFK_Norrk%C3%B6ping_%28logo%29.svg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name2": "IFK Norrkoping",
-    "champ": "Suède. Superettan",
-    "heure": "17H00",
-    "date": "10/09/2026",
-    "pro": "Total: (+1.5)"
   }
 ]
