@@ -1,52 +1,52 @@
 [
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/sco/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png?utm_source=sco.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Man United",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRNlCNg4tKH-KU48Tree_H75JCb38V05NsbFBSt92exQ&s=10",
-    "name2": "Brighton",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "Total: (+2)"
-  },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnyO1dOzBo8UgWvhvKyccodVGP-AB__0ARpHNmufl36Q&s=10",
-    "name1": "Anderlecht",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKmr0bEhxa74zJHoqe4qv02n1bFzRglzmOWufzFReIw&s=10",
-    "name2": "Lyon",
+    "photo1": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/OFI_Crete_FC_logo.svg/1280px-OFI_Crete_FC_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "OFI Crete",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_TSG_Hoffenheim.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Hoffenheim",
     "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/960px-Bayer_04_Leverkusen_%28logo%29.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name1": "Bayer 04",
-    "photo2": "https://assets.football-logos.cc/logos/slovenia/700x700/celje.144efa25.png",
-    "name2": "Celje",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/1/17/AC_Milan.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Milan",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiKx2duygk4lKoVUmEJbKebFYkK_yyHxezJWmVCFcMxA&s=10",
-    "name2": "Benfica",
-    "champ": "Ligue Europa de l'UEFA",
-    "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "Total: (+1.5)"
+    "heure": "16H45",
+    "date": "17/09/2026",
+    "pro": "2X"
   },
      {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Hapoel_Beer_Sheva_FC.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "name1": "Hapoel Beer Sheva",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1280px-Logo_GNK_Dinamo_Zagreb_2024.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Dinamo Zagreb",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz4B1B5QTJ8JLfp9o0IFZ3Z00YN0h8jBTgUQGZq8Nb7w&s",
+    "name1": "Besiktas",
+    "photo2": "https://assets.football-logos.cc/logos/france/700x700/marseille.1a8c6990.png",
+    "name2": "Marseille",
     "champ": "Ligue Europa de l'UEFA",
     "heure": "19H00",
-    "date": "16/09/2026",
-    "pro": "Total: (+2)"
+    "date": "17/09/2026",
+    "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnEnMW7_LI8_enm5pvfaygtpFJzBmiY7z5mBVhxWZpw&s=10",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVohOGQ43P5NSoqTxyMpjmwo3Y5PIPJvZY1a-pzGWNGA&s=10",
+    "name2": "Royal Saint Gilloise",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "17/09/2026",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://1000logos.net/wp-content/uploads/2023/04/Crystal-Palace-logo.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWxUv13OzHMM104S3x15HQRN02YCDLYrHpCncYbnSLYg&s=10",
+    "name2": "Lech Poznan",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "17/09/2026",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFmDj-zY278IPyl7rE_UxUYWMhNeqLYcxanhkp5XOPw&s=10",
+    "name1": "Real Sociedad",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPFMpSdxy9fq_nmhX4eBpD6Xf1KSpMyztCkaEHqJLpg&s=10",
+    "name2": "Bournemouth",
+    "champ": "Ligue Europa de l'UEFA",
+    "heure": "19H00",
+    "date": "17/09/2026",
+    "pro": "2X"
   }
 ]
