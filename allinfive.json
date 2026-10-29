@@ -1,46 +1,46 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO8Q6A4UmLf6D_mipDJFhC6MGg5tHft_tkjgjCB6B5A&s=10",
-    "name1": "Venise FC",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3nzlXgq0IbS4ggojd0dtMcz9FEYKQFVyQggPmXf95Tg&s=10",
-    "name2": "Inter Milan",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "28/10/2026",
-    "pro": "2X",
-    "proba": true
-  },
-  {
-    "photo1": "https://logos-world.net/wp-content/uploads/2020/11/Milan-Logo.png",
-    "name1": "Milan",
-    "photo2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/1920px-Bologna_F.C._1909_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-    "name2": "Bologna",
-    "champ": "Italie. Série A",
-    "heure": "17H30",
-    "date": "28/10/2026",
-    "pro": "Total: (+2)",
-    "proba": true
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4c9OBGz10vs2WLl45bntYXcD0CPf2rdEKKUMoejipdw&s=10",
-    "name1": "Monza",
-    "photo2": "https://logos-world.net/wp-content/uploads/2025/07/Napoli-Logo.png",
-    "name2": "SSC Naples",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG_bVE3j0hWOKs0DOYucGrzX6DQqKQ-N_oMce8wPBGnA&s=10",
+    "name1": "Fiorentina",
+    "photo2": "https://logodownload.org/wp-content/uploads/2020/03/atalanta-logo-1.png",
+    "name2": "Atalanta",
     "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "28/10/2026",
+    "date": "29/10/2026",
+    "pro": "Total: (+1.5)",
+    "proba": true
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWo0QXmoZO-7N7UgHjVVikUQKgpXCjqOiBjwq-pYQZmg&s=10",
+    "name1": "Braga",
+    "photo2": "https://thumb.wikimedia.org/wikipedia/fr/thumb/d/d0/Logo_FC_Famalic%C3%A3o.svg/1280px-Logo_FC_Famalic%C3%A3o.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name2": "Famalicao",
+    "champ": "Portugal. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "29/10/2026",
+    "pro": "Total: (+1.5)",
+    "proba": true
+  },
+  {
+    "photo1": "https://thumb.wikimedia.org/wikipedia/fr/thumb/a/a4/FC_Baltika_Kaliningrad_Logo.svg/1280px-FC_Baltika_Kaliningrad_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "name1": "Baltika Kaliningrad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Zénith",
+    "champ": "Coupe de Russie",
+    "heure": "18H45",
+    "date": "29/10/2026",
     "pro": "2X",
     "proba": true
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPFMpSdxy9fq_nmhX4eBpD6Xf1KSpMyztCkaEHqJLpg&s=10",
-    "name1": "Bournemouth",
-    "photo2": "https://assets.football-logos.cc/logos/england/700x700/aston-villa.1c2803fb.png",
-    "name2": "Aston Villa",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H45",
-    "date": "28/10/2026",
-    "pro": "Total: (+1.5)",
+    "photo1": "https://assets.football-logos.cc/logos/netherlands/700x700/kozakken-boys.fd042cbb.png",
+    "name1": "Kozakken Boys",
+    "photo2": "https://assets.football-logos.cc/logos/netherlands/700x700/fc-utrecht.bc329b1a.png",
+    "name2": "Utrecht",
+    "champ": "Coupe de Pays-Bas. KNVB Beker",
+    "heure": "17H45",
+    "date": "29/10/2026",
+    "pro": "Qualification Equipe 2",
     "proba": true
   }
 ]
